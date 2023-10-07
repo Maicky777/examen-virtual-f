@@ -1,0 +1,1104 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "Si las conjuntos  A = {1,3,5,7}, B = {2,4,6,8}, Hallar A ⋂ B",
+            "respuestas": [
+                "2",
+                "3",
+                "2,3",
+                "Conjunto Vacio"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "2",
+            "pregunta": "Sean los conjuntos U = {1,2,3,4,5,6,7,8,9}, A = {2,4,5,6,8,9} y B = {1,3,4,5,8,9}  Determinar A∆B",
+            "respuestas": [
+                "A∆B = {1,2,4,6}",
+                "A∆B = {1,2,3,6}",
+                "A∆B = {0}",
+                "A∆B = {2,4,6,9}"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "3",
+            "pregunta": "Si A ⊂ B y A ⋂ B = Φ, simplificar [(A ⋂ B) - B] ⋃ [B ⋃(A - C)]",
+            "respuestas": [
+                "B",
+                "C",
+                "A",
+                "Ninguna de la anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "4",
+            "pregunta": "En cierta competencia, todos los estudiantes gustan de Aritmética, algunos de Física y otros de Química, Si 350 gustan de Aritmética y Física, y 470 de Química o Aritmética, ¿Cuántos no gustan de Física?",
+            "respuestas": [
+                "100",
+                "220",
+                "120",
+                "238"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "5",
+            "pregunta": "Un grupo de 70 personas ejecutan trabajos manuales utilizando tres materiales: barro, madera y cartulina. Se sabe que todos utilizan barro, 29 utilizan madera, 40 cartulina y 11 emplean los tres materiales. ¿Cuántos utilizan únicamente barro?",
+            "respuestas": [
+                "10",
+                "11",
+                "15",
+                "12"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "6",
+            "pregunta": "Un Club deportivo consta de 85 socios, de los cuales 43 practican fútbol, 46 basket, 41 tenis, 45 practican sólo un deporte y 5 practican los tres deportes. ¿Cuántos socios del Club practican exactamente dos deportes?",
+            "respuestas": [
+                "35",
+                "25",
+                "30",
+                "43"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "7",
+            "pregunta": "Sea ∱ : N -> N  una función tal que ∱(x) = x^2 - 2x . Clasificar ∱.",
+            "respuestas": [
+                "Inyectiva.",
+                "Sobreyectiva.",
+                "Biyectiva",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "8",
+            "pregunta": "Sea ∱ : Z -> Z  una función tal que ∱(x) = 2x + 1 . Clasificar ∱",
+            "respuestas": [
+                "Inyectiva.",
+                "Sobreyectiva.",
+                "Biyectiva",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "9",
+            "pregunta": "Sea ∱,g : R -> R  tales que (g ∘ ∱)(x) = 3x-2/2 y g(x) = 2x-6/3 hallar (∱^-1 ∘ g)(x)",
+            "respuestas": [
+                "x-1",
+                "x+2/3",
+                "x",
+                "x-3/2"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "10",
+            "pregunta": "Sean ∱,g: R -> R tales que ∱(x)=3x+1/2 y g(x)=2x+1/3 hallar g(x)",
+            "respuestas": [
+                "9x/4",
+                "10x",
+                "9x/2",
+                "-9x/4"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "11",
+            "pregunta": "La resta o sustracción “-”, ¿Es una les de composición interna en  N? ¿Y en  Z? Siendo  N= conjunto de los números naturales y  Z= conjunto de los números enteros.",
+            "respuestas": [
+                "No, Si",
+                "Si, No",
+                "Si, Si",
+                "No, No"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "12",
+            "pregunta": "La función de ∱:(Z,+,.) -> (Z,+.)  dada por ∱(x) = 2x  ¿Es un homorfismo de anillos?",
+            "respuestas": [
+                "Si",
+                "No",
+                "Si, No",
+                "No, Si"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "13",
+            "pregunta": "¿Cuántos números de 4 dígitos distintos se pueden escribir con los números: 2,3,4, y 5?",
+            "respuestas": [
+                "12",
+                "24",
+                "48",
+                "20"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "14",
+            "pregunta": "Si 3(2n/3) = 44(n/2), hallar n .",
+            "respuestas": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "15",
+            "pregunta": "En una pared están clavadas 4 perchas. ¿De cuántas maneras diferentes se pueden colgar de ellas 3 chaquetas, una en cada percha?",
+            "respuestas": [
+                "22",
+                "25",
+                "24",
+                "20"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "16",
+            "pregunta": "Tres viajeros llegan a una ciudad en la que hay 7 hoteles. ¿De cuántas maneras pueden ocupar sus cuartos, debiendo, debiendo estar cada uno en un hotel diferente?",
+            "respuestas": [
+                "120",
+                "210",
+                "340",
+                "270"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "17",
+            "pregunta": "Hallar el término en x^3 del desarrollo de (x^2 + 1/x)^12",
+            "respuestas": [
+                "795x^3",
+                "625x^3",
+                "790x^3",
+                "x^3"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "18",
+            "pregunta": "Efectuar (√3+i)(1+√3 i)-(-2+i)",
+            "respuestas": [
+                "3+i",
+                "2-3i",
+                "2+3i",
+                "1+3i"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "19",
+            "pregunta": "Efectuar 2i(5+12i)+(2+3i)(5+7i)+(3+4i)(5-12i).",
+            "respuestas": [
+                "1-i",
+                "1+2i",
+                "3+i",
+                "1+i"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "20",
+            "pregunta": "Sea f:N→N una función tal que f(x)=x^2-2x. Clasificar  .",
+            "respuestas": [
+                "Inyectiva.",
+                "Sobreyectiva.",
+                "Biyectiva",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "21",
+            "pregunta": "Factorice la potencia de x que tenga el exponente más pequeño, es decir,  x^1/2 de 3x^3/2 - 9x^1/2 + 6x^-1/2",
+            "respuestas": [
+                "3x^(-1∕2) (x-1)(x-2)",
+                "x^(-1∕2) (x-1)(x-2)",
+                "3x^(-1∕2) (x+1)(x-2)",
+                "x^(-1∕2) (x-1)(x-2)"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "22",
+            "pregunta": "Factorice la expresión: 2x^3 + 6x^2 -8x",
+            "respuestas": [
+                "2(x^3 + 3x + 4)",
+                "2x(x+1)(x-4)",
+                "2x(x-4)(x-1)",
+                "2x(x+4)(x-1)"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "23",
+            "pregunta": "Simplificar (x^2-1)/(x^2+x-2)",
+            "respuestas": [
+                "1/2x-1",
+                "-1/x-2",
+                "x-1/x-2",
+                "x+1/x+2"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "24",
+            "pregunta": "Simplifica (x^2-6x+9)/(x^2+ax-3x-3a)",
+            "respuestas": [
+                "x-3/x+a",
+                "x+3/x+a",
+                "x-3/x-a",
+                "x-3/x+2a"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "25",
+            "pregunta": "Resuelve la ecuacion: 3/x+5/(x+2)=2",
+            "respuestas": [
+                "x=3, x=-1",
+                "x=-1, x=1",
+                "x=-3, x=-1",
+                "x=3, x=-3"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "26",
+            "pregunta": "Sea ∱(x) = 3x^2 + x-5 . Evalúe el valor de la función ∱(1/2) ",
+            "respuestas": [
+                "4/15",
+                "15/2",
+                "15/3",
+                "-15/4"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "27",
+            "pregunta": "Para la función ∱(x)=(x-3)^2 , encuentre la rapidez de cambio promedio entre los puntos x=4 y x=7",
+            "respuestas": [
+                "25",
+                "4",
+                "5",
+                "17/3"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "28",
+            "pregunta": "Para la función ∱(x)=(x-3)^2 , encuentre la rapidez de cambio promedio entre los puntos x=1 y x=3",
+            "respuestas": [
+                "2",
+                "-2",
+                "4",
+                "8"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "29",
+            "pregunta": "Hallar la inversa de la función ∱(x)=3x-2",
+            "respuestas": [
+                "x+2/2",
+                "x+3/2",
+                "x-2/3",
+                "x+2/3"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "30",
+            "pregunta": "Evaluar la siguiente expresión: 3xe^x+x^2 e^x=0",
+            "respuestas": [
+                "x=1 y x=3",
+                "x=0 y x=3",
+                "x=0 y x=-3",
+                "x=3 y x=0"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "31",
+            "pregunta": "Resuelva la ecuación  3xe^x+x^2 e^x=0",
+            "respuestas": [
+                "500",
+                "10000",
+                "5000",
+                "625"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "32",
+            "pregunta": "Resuelva la siguiente ecuación x^2 - 8x + 13 = 0",
+            "respuestas": [
+                "4+√3",
+                "4-√3",
+                "3+√3",
+                "4+√3,4-√3"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "33",
+            "pregunta": "resuelva el sistema 8x-2y=5 ecuacion(1), -12x+3y=7  ecuacion(2)",
+            "respuestas": [
+                "x=2, y=0",
+                "x=1, y=8",
+                "x=2, y=10",
+                "No tiene solucion"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "34",
+            "pregunta": "Encuentre el valor de 〖cos〗^(-1)⁡(cos⁡〖2π/3〗)",
+            "respuestas": [
+                "2π/3",
+                "3π/2",
+                "π/3",
+                "1/2"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "35",
+            "pregunta": "De 33 personas que viajaron a Europa, 15 visitaron a Francia, 16 visitaron Inglaterra, 16 visitaron Suiza, 5 visitaron Francia y Suiza, 5 visitaron Inglaterra y Suiza, y 2 los tres países. ¿Cuántos visitaron Inglaterra o Suiza pero no Francia?",
+            "respuestas": [
+                "18",
+                "9",
+                "7",
+                "1"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "36",
+            "pregunta": "Los Decretos Supremo 1302 y Secreto Supremo 1302 refieren.",
+            "respuestas": [
+                "A la erradicación de la violencia",
+                "A la erradicación del maltrato",
+                "A la erradicación de la violencia, maltrato y abuso ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "37",
+            "pregunta": "Establece mecanismos que coadyuven a la erradicación de la violencia, maltrato y abuso que atente.",
+            "respuestas": [
+                "Contra la vida e integridad física, psicológica y/o sexual de los adultos mayores ",
+                "Contra la vida e integridad física, psicológica y sexual de niñas, niños y adolescentes",
+                "Contra la vida Psicológica.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "38",
+            "pregunta": "Tiene la obligación de denunciar, hacer seguimiento y coadyuvar en la acción penal.",
+            "respuestas": [
+                "Los Directores Departamentales de Educación",
+                "Los Directores de Unidades educativas fiscales",
+                "Los Directores Departamentales de Educación y el Ministerio de educación ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "39",
+            "pregunta": "El director, docente, o administrativo que fuera imputado formalmente. ",
+            "respuestas": [
+                "Por la comisión de delitos de agresión",
+                "Por la comisión de delitos de agresión y violencia sexual ",
+                "Por la comisión de delitos extremadamente muy graves",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "40",
+            "pregunta": "Como medida de seguridad y protección, el Director, docente o administrativo que fuere imputado.",
+            "respuestas": [
+                "Será suspendido de sus funciones sin goce de haberes, mientras dure el proceso ",
+                "No será suspendido de sus funciones ni goce de haberes, mientras dure el proceso",
+                "Sera suspendido por treinta días",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "41",
+            "pregunta": "El Ministerio de Educación desarrollara como mecanismo de prevención e intervención. ",
+            "respuestas": [
+                "Un plan especifico para enfrentar la violencia, maltrato y abuso en ámbito educativo",
+                "Un programa especifico para enfrentar la violencia, maltrato y abuso en ámbito educativo ",
+                "Un plan para enfrentar la violencia en Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "42",
+            "pregunta": "El plan contemplara acciones:",
+            "respuestas": [
+                "Capacitaciones y difusión de estrategias de prevención de toda forma de violencia ",
+                "Desarrollo de lineamientos curriculares con contenido de prevenir la violencia ",
+                "Corresponde a los incisos anteriores ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "43",
+            "pregunta": "Decreto Supremo 4260 tiene por objeto normar la complementariedad de las modalidades educativas.",
+            "respuestas": [
+                "De atención presencial, a distancia y virtual en los Subsistemas de Educación ",
+                "De atención presencial, a distancia, virtual y semipresencial en los Subsistemas de Educación",
+                "Por atención de semi presencial, en lo sistemas de educación",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "44",
+            "pregunta": "Proceso educativo caracterizado por mediación de los recursos físicos (libros, documentos, DVD), televisores, radiales. ",
+            "respuestas": [
+                "Modalidad de atención educativa a distancia",
+                "Modalidad de atención educativa semipresencial ",
+                "Modalidad presencial",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "45",
+            "pregunta": "Es el proceso educativo que no utiliza plataformas conectadas a internet.",
+            "respuestas": [
+                "Modalidad de atención educativa a distancia ",
+                "Modalidad de atención educativa virtual ",
+                "Modalidad de atención educativa semipresencial",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "46",
+            "pregunta": "Sitio Web que permite a un docente contar con un espacio virtual en internet. ",
+            "respuestas": [
+                "Tecnología de información y comunicación",
+                "Plataforma educativa",
+                "Tecnología aplicada",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "47",
+            "pregunta": "Comprende al conjunto de recursos, herramientas, equipos, programas informáticos, aplicaciones, redes y medios. ",
+            "respuestas": [
+                "Tecnología de información y comunicación",
+                "Plataforma educativa",
+                "Aula virtual",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "48",
+            "pregunta": "Para el desarrollo de la modalidad virtual",
+            "respuestas": [
+                "Las instituciones educativas deben contar con una plataforma educativa",
+                "Las instituciones educativas no necesariamente deben contar con una plataforma      educativa",
+                "Las Instituciones contratadas por el ministerio",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "49",
+            "pregunta": "La arquitectura y el entorno virtual este compuesto por: ",
+            "respuestas": [
+                "Un servidor p un hosting y recursos preferidos necesarios",
+                "Software de gestión académica que permita el desarrollo del aula virtual",
+                "Tecnologías de información y Comunicación – TIC",
+                "Corresponde a todos los incisos "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "50",
+            "pregunta": "Plataforma educativa para la modalidad virtual posee áreas. ",
+            "respuestas": [
+                "Área de información planificación y comunicación ",
+                "Área de información, planificación, comunicación y ejecución",
+                "Arrea de Planificación y ejecución",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "51",
+            "pregunta": "La complementariedad de las modalidades de atención.",
+            "respuestas": [
+                "Debe promover el acceso a la educación de calidad",
+                "Debe promover el acceso a la educación eficaz y eficiente",
+                "Por promover una educación con acceso a la calidad ",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "52",
+            "pregunta": "El funcionamiento de la complementariedad de modalidades.",
+            "respuestas": [
+                "Será evaluado por los Directores de UE ",
+                "Sera evaluado por los padres de familia",
+                "Será evaluado por los actores educativos ",
+                "Será evaluado por el MINEDU"
+            ],
+            "resCorrecta": ""
+        },
+        {
+            "id": "53",
+            "pregunta": "Registro sistemático, permanente y centralizado de los datos personales y profesionales de los maestros.",
+            "respuestas": [
+                "Escalafón nacional",
+                "Escalafón de servicio de educación",
+                "Escalafón nacional del servicio de educación",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "54",
+            "pregunta": "Finalidad del escalafón nacional de servicio de educación.",
+            "respuestas": [
+                "Regula el ingreso de los maestros",
+                "Garantiza la continuidad del funcionario del ramo",
+                "Regula el ingreso y garantiza la continuidad de los maestros y funcionarios del ramo ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "55",
+            "pregunta": "Establece la escala de categorías y la escala jerárquica. ",
+            "respuestas": [
+                "Para el desarrollo de la carrera docente ",
+                "Para el desarrollo de la carrera administrativa",
+                "Corresponde a los incisos anteriores ",
+                "No corresponde a ninguno de los incisos"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "56",
+            "pregunta": "El servicio de educación comprende. ",
+            "respuestas": [
+                "El servicio docente",
+                "El servicio administrativo",
+                "El servicio docente y el servicio administrativo",
+                "No corresponde a ninguno de los incisos"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "57",
+            "pregunta": "Maestros y administrativos están obligados a inscribirse en el escalafón.",
+            "respuestas": [
+                "Como requisito para el goce de garantías ",
+                "Como requisito para el goce de derechos",
+                "Como requisito para el goce de recompensas",
+                "Como requisito para el goce de garantías, derechos y recompensas "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "58",
+            "pregunta": "La carrera docente y administrativa, se desarrolla en dos proyecciones.",
+            "respuestas": [
+                "Los ascensos de jerarquía ",
+                "Las promociones de categorías",
+                "Corresponde a los incisos a y b ",
+                "No corresponde a ninguno de los incisos"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "59",
+            "pregunta": "Se establece una escala jerárquica para los ascensos en el sector docente y otra.",
+            "respuestas": [
+                "Y la misma escala jerárquica para los ascensos en el sector administrativo",
+                "Y otra escala jerárquica paralela par los asensos en el sector administrativos",
+                "Corresponde a los anteriores incisos",
+                "No corresponde a ningunos de los incisos "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "60",
+            "pregunta": "Los maestros normalistas que no siendo oriundos del lugar presten 2 años de servicio.",
+            "respuestas": [
+                "En las zonas declaradas fronterizas, tendrán derecho al computo de 2 años",
+                "En las zonas declaradas fronterizas, tendrán derecho al computo de 4 años",
+                "En las zonas declaradas fronterizas, tendrán derechos al cómputo de 6 años",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "61",
+            "pregunta": "Para recompensar la antigüedad en el servicio, se establece.",
+            "respuestas": [
+                "Las promociones a las categorías descendentes",
+                "Las promociones a las categorías sucesivas",
+                "Las promociones a las categorías ascendentes ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "62",
+            "pregunta": "Promociones de categorías contempladas en el Reglamento del Escalafón.",
+            "respuestas": [
+                "4ta categoría; 3ra categoría; 2da categoría; y 1ra categoría. ",
+                "5ta categoría; 4ta categoría; 3ra categoría; 2da categoría; y 1ra categoría",
+                "3ra categoría; 2da categoría; y 1ra categoría",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "63",
+            "pregunta": "La categoría 2da percibe una bonificación.",
+            "respuestas": [
+                "Del 30 %",
+                "Del 45 %",
+                "Del 60 %",
+                "Del 75 %"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "64",
+            "pregunta": "La categoría 1ra percibe una bonificación.",
+            "respuestas": [
+                "Del 100 %",
+                "Del 75 %",
+                "Del 60 % ",
+                "Del 45 %"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "65",
+            "pregunta": "Para la promoción de los maestros normalistas.",
+            "respuestas": [
+                "Es con examen aprobado",
+                "Es automático",
+                "Sin examen",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "66",
+            "pregunta": "Promociones a categorías superiores de cero y merito es.",
+            "respuestas": [
+                "De inmediato ",
+                "Automático",
+                "Con examen de gracia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "67",
+            "pregunta": "Ley 269 general de derechos y políticas lingüística.",
+            "respuestas": [
+                "De derechos lingüísticos individuales y colectivos",
+                "Y recupera los idiomas oficiales en riesgo de extinción",
+                "A y B",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "68",
+            "pregunta": "Usar su idioma materno en forma oral y escrita corresponde a: ",
+            "respuestas": [
+                "Derechos lingüísticos individuales",
+                "Derechos lingüísticos colectivos",
+                "Derechos Propios",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "69",
+            "pregunta": "Son idiomas oficiales de Estado boliviano.",
+            "respuestas": [
+                "34 idiomas ",
+                "36 idiomas ",
+                "32 idiomas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "70",
+            "pregunta": "Planeado para que un idioma logre, una situación de igualdad legal, social y uso.",
+            "respuestas": [
+                "Normalización lingüística ",
+                "Estandarización lingüística ",
+                "Normalización de Lenguas",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "71",
+            "pregunta": "Estudiante monolingüe castellano hablante de todos los subsistemas y niveles educativos.",
+            "respuestas": [
+                "Tiene la obligación de aprender otro idioma oficial del estado",
+                "Tiene el deber de aprender otro idioma oficial del Estado",
+                "Obligación de Aprender los idiomas de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "72",
+            "pregunta": "Servidores públicos de la educación (directores, directores distritales o departamentales y otros) deberán conocer.",
+            "respuestas": [
+                "El idioma de la unidad territorial donde trabajan",
+                "El idioma de la unidad territorial de origen ",
+                "Idioma de origen patrimonial de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "73",
+            "pregunta": "En servicio de educación publica y privada, la contratación del personal (maestras/os). ",
+            "respuestas": [
+                "Deberían exigir el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad ",
+                "Deberán ponderar el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad",
+                "Por conocimiento de las idiomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "74",
+            "pregunta": "Objeto de la presente Ley 223 es garantizar a las personas con discapacidad.",
+            "respuestas": [
+                "El ejercicio pleno de sus derechos y deberes en igualdad de condiciones",
+                "Y equiparación de oportunidades, trato preferente",
+                "A y B",
+                "Ninguna "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "75",
+            "pregunta": " Personas con discapacidad participan plena y efectivamente en la sociedad en igualdad de oportunidades.",
+            "respuestas": [
+                "No discriminación",
+                "Inclusión",
+                "Accesibilidad ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "76",
+            "pregunta": "Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad.",
+            "respuestas": [
+                "Trato diferenciado ",
+                "Trato preferente ",
+                "Trato Digno",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "77",
+            "pregunta": "Aquellas personas con deficiencias físicas, mentales, intelectuales y/o sensoriales a largo plazo o permanentes.",
+            "respuestas": [
+                "Personas con discapacidad según la Ley",
+                "Personas con capacidades múltiples y/o diferencias, según la Ley ",
+                "Personas sin discacpacidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "78",
+            "pregunta": "Debe dar respuesta a la diversidad mediante adaptaciones físicas, curriculares y personales de apoyo.",
+            "respuestas": [
+                "Educación exclusiva",
+                "Educación inclusiva",
+                "Educación con discapacidad exclusiva",
+                "ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "79",
+            "pregunta": "Garantiza el derecho a la vida de personas con discapacidad. ",
+            "respuestas": [
+                "El Estado Plurinacional de Bolivia",
+                "Las Autoridades legalmente electas de Bolivia",
+                "Las políticas del Estado",
+                "Ninguno"
+            ],
+            "resCorrecta": ""
+        },
+        {
+            "id": "80",
+            "pregunta": "Estado garantiza al acceso y permanencia de estudiantes con discapacidad en el sistema educativo.",
+            "respuestas": [
+                "Derecho a la formación inclusiva",
+                "Derecho a la educación",
+                "Derecho no a la Educación",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "81",
+            "pregunta": "Estado garantiza la formación de equipos multidisciplinarios.",
+            "respuestas": [
+                "Para la atención e inclusión de personas con discapacidad al sistema educativo plurinacional",
+                "Para la atención e inclusión de personas con discapacidad",
+                "Para la atención de personas discapacitados en el sistema de inclusión",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "82",
+            "pregunta": "Estado garantiza el desarrollo educativo permanente de las potencialidades ",
+            "respuestas": [
+                "Individuales de la persona con discapacidad psicosocial ",
+                "Colectivas de la persona con discapacidad psicosocial",
+                "Personas adultas",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "83",
+            "pregunta": "Ley 450 de protección a naciones y pueblos indígenas originarios.",
+            "respuestas": [
+                "En situación de alta vulnerabilidad",
+                "En situación de vulnerabilidad ",
+                "En situación de invulnerabilidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "84",
+            "pregunta": "Son situaciones de alta vulnerabilidad.",
+            "respuestas": [
+                "Peligro de extinción",
+                "Aislamiento voluntario y forzoso",
+                "A y B",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "85",
+            "pregunta": "Se sustenta en el reconocimiento y respeto de los diferentes sistemas de vida.",
+            "respuestas": [
+                "Diversidad sociocultural ",
+                "Diversidad cultural",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "86",
+            "pregunta": "Se sustenta en el reconocimiento y respeto de los diferentes sistemas de vida.",
+            "respuestas": [
+                "De las naciones y pueblos indígenas originarios",
+                "De los pueblos indígenas originarios ",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "87",
+            "pregunta": "Un principio que rige a la Ley 450",
+            "respuestas": [
+                "Diversidad sociocultural ",
+                "Diversidad cultural ",
+                "Diversidad lingüística",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "88",
+            "pregunta": "DIGEPIO es dirección general de protección a naciones y pueblos indígenas originarios.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "89",
+            "pregunta": "Los mecanismos de prevención de los sistemas de vida.",
+            "respuestas": [
+                "Desarrollo en el nivel central del Estado ",
+                "Desarrollaran en entidades territoriales autónomas",
+                "Desarrollaran en el nivel central del Estado y entidades territoriales autónomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "90",
+            "pregunta": "Mecanismos de prevención de los sistemas de vida se desarrollan en ámbitos.",
+            "respuestas": [
+                "Territorial y salud",
+                "Territorial, salud y difusión",
+                "Territorial, salud, difusión y sensibilización ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "91",
+            "pregunta": "La DIGEPIO formulara los indicadores de monitoreo.",
+            "respuestas": [
+                "Para evaluar las situaciones de alta vulnerabilidad ",
+                "Para evaluar las situaciones de vulnerabilidad",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "92",
+            "pregunta": "Corresponde a la ley contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Ley 035",
+                "Ley 045",
+                "Ley 055",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "93",
+            "pregunta": "Establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Para la prevención y sanción de actos de racismo",
+                "Para la prevención y sanción de toda forma de discriminación ",
+                "Para la prevención y sanción de actos de racismo y toda forma de discriminación",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "94",
+            "pregunta": "El racismo y discriminación no son tipificado y/o calificado en el Código Penal.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "95",
+            "pregunta": "Forma de distinción, exclusión, restricción o preferencia fundad en razón de sexo, color, edad.",
+            "respuestas": [
+                "Discriminación racial ",
+                "Discriminación",
+                "Racismo ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "96",
+            "pregunta": "Teoría tendente a la valoración de diferencia biológica, cultural, real o imaginaria.",
+            "respuestas": [
+                "Discriminación ",
+                "Racismo",
+                "Discriminación racial",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "97",
+            "pregunta": "Se entiende por misoginia ",
+            "respuestas": [
+                "Conducta o comportamiento de odio manifiesto hacia las mujeres o genero femenino ",
+                "Conducta o comportamiento de odio manifiesto hacia los varones o género masculino",
+                "Otra respuesta",
+                "Ninguno. "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "98",
+            "pregunta": "Medidas publicas traducidas en campañas de concientización, educación y difusión de derechos humanos protectivos. ",
+            "respuestas": [
+                "Acción afirmativa ",
+                "Acción preventiva",
+                "Acción correctiva ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "99",
+            "pregunta": "Definir y adoptar políticas publicas de prevención y lucha contra el racismo y discriminación.",
+            "respuestas": [
+                "Es obligación del Estado ",
+                "Es deber del Estado ",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "100",
+            "pregunta": "El comité nacional contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Encargado de promover, diseñar e implementar políticas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar normativas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar políticas y normativas contra el racismo y discriminación ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        }
+    ]
+}

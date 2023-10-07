@@ -1,0 +1,1034 @@
+{
+  "examenfum": [
+    {
+      "id": "1",
+      "pregunta": "SON ESPACIOS EDUCATIVOS COMUNITARIOS DIVERSOS (PLAZAS,CULTIVOS, CENTROS ARQUEOLÓGICOS, MUSEOS Y OTROS), DONDE SEGENERAN APRENDIZAJES A TRAVÉS DE LA PRODUCCIÓN TANGIBLE OINTANGIBLE DE MANERA OBJETIVA Y EN MEDIO NATURAL, INTEGRANDOLAS ÁREAS DE SABERES Y CONOCIMIENTOS DE LA REALIDAD BAJOUN TEMA ESPECÍFICO. ",
+      "respuestas": [
+        "LOS CAMPOS DE PRODUCCIÓN COMUNITARIA.",
+        "LAS OLIMPIADAS CIENTÍFICAS COMUNITARIAS.",
+        "LAS CIENCIAS RECREATIVAS.",
+        "LOS CENTROS DE INVESTIGACIÓN E INNOVACIÓN."
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "2",
+      "pregunta": "SON AMBIENTES COMUNITARIOS DEDICADOS A ACTIVIDADES DEPRODUCCIÓN DE SABERES Y CONOCIMIENTOS INNOVADORES EN ELÁREA DE CIENCIAS NATURALES, LOS MISMOS ESTÁN IMPLEMENTADOSCON EL MATERIAL, INSUMOS Y EQUIPOS ESPECIALIZADOS. BRINDANALBERGUES COMUNITARIOS A ESTUDIANTES QUE REALIZANINVESTIGACIONES SOBRE UN TEMA DETERMINADO.",
+      "respuestas": [
+        "LOS CENTROS DE INVESTIGACIÓN E INNOVACIÓN.",
+        "LOS CAMPOS DE PRODUCCIÓN COMUNITARIA.",
+        "LAS OLIMPIADAS CIENTÍFICAS COMUNITARIAS.",
+        "LA CIENCIA RECREATIVA"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "3",
+      "pregunta": "ES UN ESPACIO DONDE LOS ESTUDIANTES Y MAESTROS TIENEN LAOPORTUNIDAD DE INTRODUCIR Y DISCUTIR CONCEPTOS BÁSICOS DELAS CIENCIAS USANDO COMO RECURSOS DIDÁCTICOS Y ACTIVIDADESQUE SON REFERENTES PRÓXIMOS A LOS ESTUDIANTES: MATERIALES,JUEGOS Y OTROS OBJETOS DE ACTIVIDAD COTIDIANA. ",
+      "respuestas": [
+        "LOS CAMPOS DE PRODUCCIÓN COMUNITARIA.",
+        "LAS OLIMPIADAS CIENTÍFICAS COMUNITARIAS.",
+        "LA CIENCIA RECREATIVA.",
+        "LOS CENTROS DE INVESTIGACIÓN E INNOVACIÓN"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "4",
+      "pregunta": "ESTÁ ORIENTADO A DESARROLLAR CAPACIDADES Y CUALIDADES PARACREAR E INNOVAR TÉCNICAS Y TECNOLOGÍAS QUE CONTRIBUYANA DAR RESPUESTAS A LAS NECESIDADES Y PROBLEMÁTICASEMERGENTES DE CADA REALIDAD Y CONTEXTO, PERMITIENDOINTENSIFICAR LA TRANSFORMACIÓN DE LA MATRIZ PRODUCTIVA CONÉNFASIS EN LA SEGURIDAD Y SOBERANÍA ALIMENTARIA. ",
+      "respuestas": [
+        "EL CAMPO DE SABERES Y CONOCIMIENTOS COSMOS Y PENSAMIENTO.",
+        "EL CAMPO DE SABERES Y CONOCIMIENTOS CIENCIA TECNOLOGÍA Y PRODUCCIÓN.",
+        "EL CAMPO DE SABERES Y CONOCIMIENTOS VIDA TIERRA Y TERRITORIO.",
+        "NINGUNA DE LAS ANTERIORES"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "5",
+      "pregunta": "SE CONSTITUYE EN UN ESPACIO CURRICULAR QUE ORGANIZA SABERESY CONOCIMIENTOS DE MATEMÁTICA Y LAS ÁREAS TECNOLÓGICASORIENTADAS AL DESARROLLO DE LOS PROCESOS PRODUCTIVOS YA PARTIR DE ELLA GENERAR CONOCIMIENTOS PARA SER APLICADOSA LAS NECESIDADES Y PROBLEMÁTICAS DE LA VIDA COMUNITARIATOMANDO EN CUENTA LAS VOCACIONES Y POTENCIALIDADES DECADA REGIÓN. ",
+      "respuestas": [
+        "EL CAMPO.",
+        "LA CIENCIA.",
+        "LA TECNOLOGÍA.",
+        "LA PRODUCCIÓN."
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "6",
+      "pregunta": "ES CONSIDERADA COMO EL CONJUNTO DE SABERES YCONOCIMIENTOS PROBABLES (NO EXISTE UNA VERDAD ABSOLUTA,DIVERSAS POSIBILIDADES DE DEMOSTRAR UN RESULTADO OPRODUCTO) QUE SON DESARROLLADOS DESDE LA VIDA ENDIFERENTES RELACIONES DEL TIEMPO Y ESPACIO MEDIANTELA PRÁCTICA, EXPERIMENTACIÓN OBSERVACIÓN INDAGACIÓN,EL PENSAMIENTO LÓGICO, CONCEPTUALIZACIÓN TEORIZACIÓNSISTEMÁTICAMENTE ESTRUCTURADOS DESDE LA PERSPECTIVA DEUN PROCESO DESCOLONIZADOR QUE SUPERE EL EUROCENTRISMO,LA MONOCULTURALIDAD Y ÉL CIENTIFICISMO.",
+      "respuestas": [
+        "EL CAMPO.",
+        "LA TECNOLOGÍA.",
+        "LA PRODUCCIÓN.",
+        "LA CIENCIA."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "7",
+      "pregunta": "ES LA APLICACIÓN DE LAS CIENCIAS Y TÉCNICAS A LA PRODUCCIÓNTOMANDO EN CUENTA ASPECTOS ECONÓMICOS NATURALESSOCIALES Y CULTURALES CON LA FINALIDAD DE GENERAR BIENESTANGIBLES O INTANGIBLES PARA SATISFACER LAS NECESIDADES DELA COMUNIDAD. ",
+      "respuestas": [
+        "EL CAMPO.",
+        "LA CIENCIA.",
+        "LA TECNOLOGÍA.",
+        "LA PRODUCCIÓN."
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "8",
+      "pregunta": "ES LA CREACIÓN INTELECTUAL MATERIAL E INMATERIAL VINCULADAA LAS VOCACIONES Y POTENCIALIDADES PRODUCTIVAS DE LASREGIONES A TRAVÉS DE LA GENERACIÓN Y ADAPTACIÓN DE CIENCIASY TECNOLOGÍAS PROPIAS Y DE LA DIVERSIDAD MANTENIENDOEQUILIBRIO Y RELACIÓN ARMÓNICA CON LA MADRE TIERRA Y ELCOSMOS. ",
+      "respuestas": [
+        "EL CAMPO.",
+        "LA PRODUCCIÓN.",
+        "LA CIENCIA.",
+        "LA TECNOLOGÍA."
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "9",
+      "pregunta": "EL CAMPO DE SABERES Y CONOCIMIENTOS CIENCIA TECNOLOGÍA YPRODUCCIÓN ESTÁ CONFORMADO POR LAS ÁREAS DE: ",
+      "respuestas": [
+        "MATEMÁTICA Y TÉCNICA TECNOLÓGICA.",
+        "CIENCIAS NATURALES Y TÉCNICA TECNOLÓGICA.",
+        "TÉCNICA TECNOLÓGICA, COMUNICACIÓN Y LENGUAJE.",
+        "TODAS LAS ANTERIORES."
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "10",
+      "pregunta": "DESARROLLAR VOCACIONES Y POTENCIALIDADES PRODUCTIVASEN ARMONÍA, RECIPROCIDAD Y COMPLEMENTARIEDAD CONLA MADRE TIERRA Y EL COSMOS A TRAVÉS DEL PENSAMIENTOLÓGICO MATEMÁTICO, LA INVESTIGACIÓN CIENTÍFICA, TÉCNICA YTECNOLÓGICA PROPIA Y DE LA DIVERSIDAD CULTURAL, REALIZANDOENTENDIMIENTOS SOCIO PRODUCTIVOS, PARA CONTRIBUIR ALDESARROLLO TECNOLÓGICO Y LA TRANSFORMACIÓN DE LAMATRIZ PRODUCTIVA DE LAS DIVERSAS REGIONES DEL ESTADOPLURINACIONAL",
+      "respuestas": [
+        "ES LA FUNDAMENTACIÓN DEL ÁREA DE CIENCIA TECNOLOGÍA Y PRODUCCIÓN.",
+        "ES LA CARACTERIZACIÓN DEL ÁREA DE TECNOLOGÍA.",
+        "ES EL OBJETIVO DEL CAMPO DE SABERES Y CONOCIMIENTOS CIENCIA TECNOLOGÍA Y PRODUCCIÓN.",
+        "NINGUNO DE LOS ANTERIORES."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "11",
+      "pregunta": "Desarrollamos vocaciones y potencialidades productivas en armonía, reciprocidad y complementariedad con la Madre Tierra y el Cosmos, a través del pensamiento lógico matemático, la investigación científica, técnica y tecnológica propia y de la diversidad cultural, realizando emprendimientos socioproductivos, para contribuir al desarrollo tecnológico y la transformación de la matriz productiva de las regiones del Estado Plurinacional es objetivo del campo: ",
+      "respuestas": [
+        "Cosmos y pensamiento",
+        "Comunidad y sociedad",
+        "Vida tierra y territorio",
+        "Ciencia tecnología y producción"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "12",
+      "pregunta": "Enfoque del Área Técnica Tecnológica en el actual modelo educativo es:",
+      "respuestas": [
+        "Vocacional productiva",
+        "Aplicativo, emprendedor y transformadora",
+        "Incisos a y b",
+        "Solo el inciso a"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "13",
+      "pregunta": "El campo CTP se constituye en un espacio educativo comunitario vinculado a los emprendimientos socio productivos de bienes y servicio tangibles o intangibles a la:",
+      "respuestas": [
+        "Fundamento del campo",
+        "Caracterización del campo",
+        "objetivo del campo",
+        "Ninguno de ellos"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "14",
+      "pregunta": "El campo de saberes y conocimientos Ciencia Tecnología y Producción tiene relación se estructura por las áreas de: ",
+      "respuestas": [
+        "Agropecuaria, turismo, industria",
+        "Matemática y Técnica Tecnológica Productiva",
+        "Técnica tecnológica y Productiva",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "15",
+      "pregunta": "Resalta el desarrollo de la dimensión productiva, creativa y vocacional. ",
+      "respuestas": [
+        "Comunidad y Sociedad",
+        "Vida Tierra y Territorio",
+        "Ciencia Tecnología y Producción",
+        "Cosmos y Pensamiento"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "16",
+      "pregunta": "Replantea las relaciones educativas creando condiciones para la construcción de una identidad comunitaria inherente a la práctica sociocultural y artística.",
+      "respuestas": [
+        "Cosmos y Pensamiento",
+        "Vida Tierra y Territorio",
+        "Ciencia Tecnología y Producción",
+        "Comunidad y Sociedad"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "17",
+      "pregunta": "El emprendimiento comunitario, es desarrollar la capacidad e iniciativa de generar, organizar y manejar una actividad productiva personal y/o comunitaria. Es un enfoque de: ",
+      "respuestas": [
+        "Cosmos y Pensamiento",
+        "Comunidad y Sociedad",
+        "Ciencias Sociales",
+        "Técnica Tecnológica"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "18",
+      "pregunta": "La Educación Productiva como uno de los ejes articuladores en la Ley de Educación AS-EP hace referencia: ",
+      "respuestas": [
+        "Al desarrollo de capacidades y habilidades para la producción de bienes materiales",
+        "Al desarrollo de capacidades y habilidades para la producción de bienes intelectuales creativos",
+        "A la producción, conservación, recuperación, manejo y defensa de los recursos naturales",
+        "Todas las anteriores"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "19",
+      "pregunta": "las y los maestros de formación técnica especializada podrán desempeñar funciones en el:",
+      "respuestas": [
+        "Subsistema de educación Regular",
+        "Subsistema de Alternativa y Especial",
+        "En ambos sistemas",
+        "todas las anteriores"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "20",
+      "pregunta": "la Formación Técnica Tecnológica de las y los estudiantes en la Unidad Educativa Plena es:",
+      "respuestas": [
+        "Opcional",
+        "No Promocional",
+        "Ninguna de las Anteriores",
+        "Promocional y Obligatoria"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "21",
+      "pregunta": "El autor del libro hacia una economía para la vida es:",
+      "respuestas": [
+        "Mario Loza Aguillar  -  Mario Mora Jimenez",
+        "Franz J. Hinkelammert  -  Henry Mora Jiménez ",
+        "Fausto Reinaga  -  Augusto Comte ",
+        "Ninguno "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "22",
+      "pregunta": "La transformación del país en el largo plazo, en el lapso de una generación, configura una Bolivia Digna, Soberana, Productiva y Democrática para que todos los bolivianos y bolivianas “vivamos bien “",
+      "respuestas": [
+        "Plan Nacional de Desarrollo",
+        "Proyecto Socioproductivo",
+        "Modelo Educativo Sociocomunitario productivo",
+        "Plan Nacional de Desarrollo Municipal "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "23",
+      "pregunta": "El ser humano como sujeto necesitado y como sujeto productor (sujeto creador), es planteado por:",
+      "respuestas": [
+        "Franz J. Hinkelammert  . Henry Mora Jiménez ",
+        "Jose Carlos Rodriguez -  Claudio Katz",
+        "Rober Espinal Jimenez -   Sandra Unzuela ",
+        "Ninguno "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "24",
+      "pregunta": "“Bolivia digna, soberana, productiva y democrática para vivir bien”",
+      "respuestas": [
+        "Proyecto Socioproductivo ",
+        "Constitución política de Estado ",
+        "Plan Nacional de Desarrollo.",
+        "Código penal ambiental"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "25",
+      "pregunta": "Políticas y Estrategias:  Protección Social y Desarrollo Integral Comunitario se basa en las siguientes políticas:",
+      "respuestas": [
+        "Autodeteminacion, descolonización y culturalildad.",
+        "Integralidad, territorialidad, enfoque comunitario, impacto sobre las causas de la pobreza, autogestión, intersectorialidad.",
+        "Transculturalidad, racismo, pluralidad cultural  y intersectorialidad.",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "26",
+      "pregunta": "Libres son quienes crean, no quienes copian, y libres son quienes piensan, no quienes obedecen. Enseñar, es enseñar a dudar",
+      "respuestas": [
+        "Fausto Reinaga ",
+        "Franz J. Hinkelammert  ",
+        "Eduardo Galeano",
+        "Ninguno "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "27",
+      "pregunta": "Tratar la tecnología mercantilmente y su empleo en términos de la maximización de las ganancias, implica usar de manera fragmentaria la naturaleza y la división social de trabajo",
+      "respuestas": [
+        "Jose Carlos Rodriguez -  Claudio Katz",
+        "Franz J. Hinkelammert",
+        "Rober Espinal Jimenez -   Sandra Unzuela ",
+        "Ninguno "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "28",
+      "pregunta": "El papel del Estado en el avance de la Ciencia y Tecnología: Insumo vital en la construcción del desarrollo",
+      "respuestas": [
+        "Franz J. Hinkelammert",
+        "Silvana Andrea Figueroa Delgado",
+        "Jose Carlos Rodriguez -  Claudio Katz",
+        "Rober Espinal Jimenez -   Sandra Unzuela "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "29",
+      "pregunta": "Es productivo porque articula las vocaciones y potencialidades de las regiones con la producción, desarrollando y consolidando conocimientos teórico - prácticos de carácter científico y técnico - tecnológico de las y los estudiantes en la vida y para la continuidad de estudios superiores de formación profesional.",
+      "respuestas": [
+        "Objetivo holístico del reglamento",
+        "Bases y fines del reglamento ",
+        "Enfoque del reglamento",
+        "Ninguno "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "30",
+      "pregunta": "El área Técnica Tecnológica en Educación Secundaria comprende los espacios formativos:",
+      "respuestas": [
+        "General y especializado ",
+        "Básico y complementario ",
+        "Inicial y secundario ",
+        "Especializado y básico "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "31",
+      "pregunta": "La carga horaria total para la formación Técnica Tecnológica General y Especializada en las Unidades Educativas de Educación Secundaria Comunitaria Productiva es de:",
+      "respuestas": ["1.920 horas", "250 horas ", "2034 horas", "Ninguno "],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "32",
+      "pregunta": "Talleres Tecnológicos Productivos, Núcleos Tecnológicos Productivos   y Módulos Tecnológicos Productivos",
+      "respuestas": [
+        "Etapas de los técnicos tecnológicos",
+        "Objetivos de los técnicos tecnológicos",
+        "Clasificación de los tecnológicos productivos.",
+        "Ninguano "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "33",
+      "pregunta": "En 6to año de educación secundaria comunitaria productiva, la carga horaria mensual de la formación técnica tecnológica especializada es:",
+      "respuestas": ["48 horas", "36 horaa", "16 horas ", "Ninguno "],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "34",
+      "pregunta": "Clasificación de unidades educativas técnico humanístico:",
+      "respuestas": [
+        "Unidades educativas básicas y secundarias ",
+        "Unidad educativa tecno medio ",
+        "Unidades educativas Técnico Humanísticas en Transición - Unidades educativas Técnico Humanísticas Plenas",
+        "Unidad educativa plena y unidad educativa inicial "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "35",
+      "pregunta": "La implementación del Bachillerato Técnico Humanístico es un proceso gradual y progresivo a desarrollarse en las unidades educativas a través de la formación Técnica Tecnológica General y Especializada que culmina con la obtención del Título de:",
+      "respuestas": [
+        "Técnico medio",
+        "Técnico superior ",
+        "Técnico humanístico profesional",
+        "Técnico con licenciatura "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "36",
+      "pregunta": "Modalidad de atención del bachillerato técnico humanístico:",
+      "respuestas": [
+        "Presencial y a distancia",
+        "Presencial ",
+        "Presencial y semipresencial",
+        "Virtual y presencial"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "37",
+      "pregunta": "El reglamento del bachillerato técnico humanístico del subsistema de educación regular y sub sistema de educación altenativa y especicial  fue aprobado el 21 de diciembre de 2018, base resolución?",
+      "respuestas": [
+        "Resolución Ministerial N.20/2018",
+        "Resolución Ministerial N. 1263/2018",
+        "Resolución Ministerial N. 1455/2018",
+        "Resolución Ministerial N. 456/2019"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "38",
+      "pregunta": "El presente Reglamento tiene por objeto normar la implementación del Bachillerato Técnico Humanístico en las unidades educativas de Educación Secundaria Comunitaria Productiva del Subsistema de Educación Regular y Centros de Educación Alternativa del nivel de Educación Secundaria de Personas Jóvenes y Adultas del Subsistema de Educación Alternativa y Especial en el marco del Modelo Educativo Sociocomunitario Productivo de la Ley Nº 070 de 20 diciembre de 2010, de la Educación “Avelino Siñani - Elizardo Pérez”.",
+      "respuestas": [
+        "Objetivo del reglamento del bachillerato técnico humanístico.",
+        "Enfoque del reglamento del bachillerato técnico humanístico.",
+        "Caracterización del reglamento del bachillerato técnico humanístico.",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "39",
+      "pregunta": "En 4to año de educación secundaria comunitaria productiva, la carga horaria mensual de la formación técnica tecnológica general es:",
+      "respuestas": ["32 horas ", "16 horas", "39 horas", "45 horas "],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "40",
+      "pregunta": "En 5to año de educación secundaria comunitaria productiva, la carga horaria anual de la formación técnica tecnológica especializada es:",
+      "respuestas": ["480 horas", "343 horas ", "435 horas ", "Ninguno"],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "41",
+      "pregunta": "Desarrollamos cualidades, capacidades creativas y productivas en la producción, a través de la investigación articulada a procesos científicos, técnicos tecnológicos adecuadas a las potencialidades ecosistémicas regionales, aumento valores sociocomunitarios, para contribuir a la aplicación de la matriz productiva y al bien común.",
+      "respuestas": [
+        "Objetivo del área técnica tecnológica.",
+        "Objetivo del área técnica tecnológica.",
+        "Objetivo del área técnica tecnológica.",
+        "Ninguno "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "42",
+      "pregunta": "Es el espacio que desarrolla capacidades, habilidades productivas e innovadoras aplicadas en las especialidades técnica tecnológicas a partir del análisis de la realidad, planificación, economía, finanzas, elaboración y gestión de proyectos, innovación e iniciativas productivas orientadas a responder las necesidades y demandas colectivas:",
+      "respuestas": [
+        "Formación técnica general ",
+        "Formación técnica especializada",
+        "Formación Técnica Tecnológica General",
+        "Ninguno  "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "43",
+      "pregunta": "Es el espacio que desarrolla capacidades productivas, innovadoras y creativas empleando maquinas, equipos, herramientas e instrumentos en talleres, laboratorios, áreas de cultivo u otros de acuerdo a las potencialidades y vocaciones productivas de las regiones en la perspectiva de generar emprendimientos productivos y contribuir al fortalecimiento de la matriz productiva del Estado Plurinacional.",
+      "respuestas": [
+        "Formación técnica general ",
+        "Formación Técnica Tecnológica Especializada",
+        "Formación técnica especializada",
+        "Ninguno  "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "44",
+      "pregunta": "Son espacios destinados a la formación técnica tecnológica Especializada del Bachillerato Técnico Humanístico, tienen más de 7 especialidades técnica tecnológicas, atienden a estudiantes de unidades educativas aledañas que no cuentan con infraestructura ni equipamiento:",
+      "respuestas": [
+        "Modelo Educativo Sociocomunitario Productivo",
+        "Módulos Tecnológicos Productivo",
+        "Plan nacional de desarrollo municial",
+        "Ninguno "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "45",
+      "pregunta": "La Planta Industrial de Carbonato de Litio se encuentra en el departamento de:",
+      "respuestas": ["Beni ", "Pando ", "Potosí", "Tarija "],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "46",
+      "pregunta": "Artista plástica, poeta, tejedora orureña, dirige el Museo Nacional de Entografia y Folclore.",
+      "respuestas": [
+        "Mario funetes",
+        "Dario Altamirano ",
+        "Hinkelameth ",
+        "Elvira Espejo"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "47",
+      "pregunta": "Son espacios destinados a la formación Técnica Tecnológica Especializada del Bachillerato Técnico Humanístico, tienen de 4 a 6 especialidades técnica tecnológicas, atienden a estudiantes de unidades educativas aledañas que no cuentan con infraestructura ni equipamiento.",
+      "respuestas": [
+        "Núcleos superiores técnicos ",
+        "Núcleos Tecnológicos Productivos",
+        "Institutos tecnológicos ",
+        "Institutos tecnológicos agroambientales "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "48",
+      "pregunta": "se refiere a que el cosmos es el centro de la dinámica espiritual, material, económica social y política de las comunidades andino amazónicas.",
+      "respuestas": [
+        "Antropocéntrico",
+        "Biocéntrico",
+        "Cosmocéntrico",
+        "Ecocéntrico "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "49",
+      "pregunta": "Tomará decisiones propias y autónomas a partir de sus necesidades, perspectivas e identidades. También se relacionará digna y exitosamente en el contexto mundial, preservará relaciones armónicas y de equilibrio entre los países y consolidará su soberanía alimentaria y energética en beneficio del Vivir Bien",
+      "respuestas": [
+        "Bolivia Soberana",
+        "Bolivia Digna ",
+        "Bolivia Plural ",
+        "Ninguno "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "50",
+      "pregunta": "Destinada a fortalecer las capacidades de autogestión y de desarrollo sustentable de las comunidades locales campesinas, indígenas–originarias, productivas y vecinales, fundamentalmente a través de transferencias monetarias y en especie.",
+      "respuestas": [
+        "Autogestión ",
+        "Autoregulacion ",
+        "Autodeteminacion ",
+        "Ninguno "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "51",
+      "pregunta": "Una economía que permita satisfacer, realizar y potenciar las necesidades de todos los seres humanos. “Se trata de rescatar el sentido originario de la economía como actividad destinada a garantizar la base material de la vida personal, social y espiritual.",
+      "respuestas": [
+        "Desarrollo productivo",
+        "Economía para la vida.",
+        "Vivir bien ",
+        "Desarrollo económico "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "52",
+      "pregunta": "“Toda la relación con el mercado tendría que cambiar. Que el sistema de mercados tendría que ser puesto bajo criterios no derivados de criterios de costo – beneficio y mercantilmente, capaces de guiar la tecnología dentro de los límites reproductivos de la propia naturaleza y los elementos interdependientes en ella”.",
+      "respuestas": ["Samanamud ", "De la vega ", "Hinkelammert", "Comte"],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "53",
+      "pregunta": "Vidrios de alta calidad, Lubricantes y Grasas, Industrias farmacéuticas antidepresivos, Baterías, Relojes, Celulares, Computadoras portátiles, Baterías para vehículos, Combustible para fusión nuclear (energía eléctrica limpia del futuro) entre otros.",
+      "respuestas": [
+        "Principales usos del litio",
+        "Cloruro de sodio ",
+        "Plomo y cobre ",
+        "Nonguno "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "54",
+      "pregunta": "La Planta Industrializadora de Amoniaco y Urea (Bulo Bulo) se encuentra en el departamento de:",
+      "respuestas": ["Potosí", "Santa Cruz", "Cochabamba", "Beni "],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "55",
+      "pregunta": "¿Parque Eólico en Bolivia, entro en operaciones en?",
+      "respuestas": [
+        "Cochabamba (Qollpana)",
+        "Uyuni Potosí ",
+        "La Paz Jesús de Machaca",
+        "Ninguno "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "56",
+      "pregunta": "Enseñar no es transferir conocimientos, es crear la posibilidad de producirlos",
+      "respuestas": [
+        "David Ausubel",
+        "Vygotsky",
+        "Paulo Freire",
+        "Francisco Mora   "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "57",
+      "pregunta": "El textil como ciencia y arte",
+      "respuestas": [
+        "Mario Loza",
+        "Elvira Espejo",
+        "Federico Pinaya",
+        "Andrés Vásquez "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "58",
+      "pregunta": "Carga horaria semanal de formación técnica tecnológica general en el 1er año de educación secundaria comunitaria productiva: ",
+      "respuestas": ["4 horas ", "6 horas ", "8 horas ", "10 horas "],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "59",
+      "pregunta": "Carga horaria anual de formación técnica tecnológica general en el 2do año de educación secundaria comunitaria productiva:",
+      "respuestas": ["166", "160", "168", "169"],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "60",
+      "pregunta": "Una vez aprobada como unidad educativa Técnico Humanística Plena de Educación Secundaria Comunitaria Productiva por ningún motivo se retirarán de la formación Técnica Tecnológica del Bachillerato Técnico Humanístico en ningún año de escolaridad.",
+      "respuestas": ["Falso", "Verdadero", "Otra respuesta", "Ninguna"],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "61",
+      "pregunta": "La intraculturalidad promueve la recuperación, fortalecimiento, desarrollo y cohesión.",
+      "respuestas": [
+        "Al interior de las culturas",
+        "Al interior de las culturas, de las naciones y pueblos indígena originario campesinos",
+        "Estructura del sistema educativo comprende",
+        "Subsistemas de educación regular "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "62",
+      "pregunta": "Es la educación sistemática, normada, obligatoria, y procesual.",
+      "respuestas": [
+        "Educación regular ",
+        "Educación alternativa",
+        "Educación especial",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "63",
+      "pregunta": "Estructura del subsistema de educación regular.",
+      "respuestas": [
+        "Educación inicial en familia comunitaria y primaria comunitaria vocacional",
+        "Educación primaria comunitaria vocacional y secundaria comunitaria vocacional",
+        "Educación inicial en familia comunitaria y secundaria comunitaria vocacional",
+        "Educación inicial en familia comunitaria, primaria comunitaria vocacional y secundaria comunitaria Productiva."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "64",
+      "pregunta": "Es formación básica, cimiento de todo el proceso de formación posterior.",
+      "respuestas": [
+        "Educación inicial en familia comunitaria",
+        "Educación primaria comunitaria vocacional",
+        "Educación secundaria comunitaria vocacional",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "65",
+      "pregunta": "Atiende necesidades y expectativas educativas que requieren dar continuidad a sus estudios o que precisan formación permanente.",
+      "respuestas": [
+        "Educación alternativa",
+        "Educación alternativa y especial",
+        "Educación formal alternativa",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "66",
+      "pregunta": "Estructura de la educación alternativa.",
+      "respuestas": [
+        "Educación de personas jóvenes y adultas",
+        "Educación de personas jóvenes",
+        "Educación de personas jóvenes y adultas y educación permanente",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "67",
+      "pregunta": "Acciones destinadas a promover y consolidar la educación inclusiva para.",
+      "respuestas": [
+        "Personas con capacidades, dificultades en el aprendizaje y talento extraordinario",
+        "Personas con discapacidad, dificultades en el aprendizaje y talento extraordinario",
+        "Personas con discapacidad, dificultades en el aprendizaje",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "68",
+      "pregunta": "Estructura de la educación superior de formación profesional.",
+      "respuestas": [
+        "Formación de maestras y maestros y formación técnica tecnológica",
+        "Formación de maestras y maestros y formación artística",
+        "Formación de maestras y maestros, técnica tecnológica, artística y universitaria",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "69",
+      "pregunta": "Corresponde a la educación superior.",
+      "respuestas": [
+        "Es el espacio educativo de formación profesional ",
+        "Es el espacio educativo de formación de maestras y maestras",
+        "Todas las anteriores",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "70",
+      "pregunta": "MINEDU instancia que planifica, organiza, dirige y controla los recursos del sistema educativo.",
+      "respuestas": [
+        "Administración educativa del sistema educativo",
+        "Administración y gestión educativa del sistema educativo",
+        "Administración y gestión pedagógica del sistema educativo",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "71",
+      "pregunta": "Establece mecanismos, medidas y políticas integrales de prevención, protección y reparación en situación violenta.",
+      "respuestas": [
+        "Así como sanción a los agresores ",
+        "Así como persecución a los agresores",
+        "Así como sanción y persecución a los agresores ",
+        "Así como el perdón de los agresores  "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "72",
+      "pregunta": "Desde el marco constitucional, la Ley de 348 garantiza.",
+      "respuestas": [
+        "En particular, a las mujeres, el derecho a nos sufrir violencia ",
+        "En particular, al genero femenino, el derecho a no sufrir violencia",
+        "Otra respuesta",
+        "Ninguno  "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "73",
+      "pregunta": "Despatriarcalizacion, consiste en la elaboración de políticas publicas desde la identidad. ",
+      "respuestas": [
+        "Para la visibilizacion del patriarcado ",
+        "Para la visibilizacion, denuncia del patriarcado",
+        "Para la visibilizacion, denuncia y erradicación del patriarcado",
+        "Ninguna"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "74",
+      "pregunta": "Mensajes, símbolos, iconos, signos, e impresiones culturales que reproducen y consolidan relaciones de denominación. ",
+      "respuestas": [
+        "Violencia mediática",
+        "Violencia simbólica y/o reencubierta ",
+        "Violencia contra la dignidad ",
+        "Violencia institucional"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "75",
+      "pregunta": "Acción u omisión de servidores públicos, implique una acción discriminatoria, prejuiciosa, humillante y deshumanizad. ",
+      "respuestas": [
+        "Violencia mediática ",
+        "Violencia simbólica y/o reencubierta ",
+        "Violencia contra la dignidad",
+        "Violencia institucional "
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "76",
+      "pregunta": "Ente rector de las políticas publicas para la prevención de la violencia contra mujeres.",
+      "respuestas": [
+        "La autoridad competente ",
+        "El Estado ",
+        "El Estado benefactor ",
+        "La sociedad  "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "77",
+      "pregunta": "El SIPPASE sistema integral Plurinacional de Prevencion, Atencion Sancion y erradicación de la violencia.",
+      "respuestas": [
+        "Reorganiza todo el sistema de atención integral a las mujeres en situación de violencia ",
+        "Reorganiza todo el sistema de atención integral a las mujeres en situación de amenaza ",
+        "Todas las anterires",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "78",
+      "pregunta": "Crearan y adoptaran las medidas de prevención que sean necesarias para modificar los comportamientos.",
+      "respuestas": [
+        "El nivel central de las entidades territoriales autónomas",
+        "El nivel central del Estado",
+        "El nivel central del Estado y las entidades territoriales autónomas ",
+        "En nivel central del gobierno "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "79",
+      "pregunta": "La Universidades y de formación superior públicos crearan. ",
+      "respuestas": [
+        "Programas gratuitos destinados a la prevención de la violencia ",
+        "Programas y servicios gratuitos destinados a la prevención de la violencia.",
+        "Todas la anteriores",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "80",
+      "pregunta": "Incorporar estrategias y programas de prevención e intervención integral contra la violencia hacia mujeres.",
+      "respuestas": [
+        "Medidas del ministerio de educación",
+        "Medidas de las direcciones departamentales ",
+        "Mediadas de directores distritales ",
+        "Medidas de los directores de unidades educativas"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "81",
+      "pregunta": "Se sustenta en el reconocimiento y respeto de los diferentes sistemas de vida.",
+      "respuestas": [
+        "Diversidad sociocultural ",
+        "Diversidad cultural",
+        "Todas las anteriores",
+        "Ninguno "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "82",
+      "pregunta": "Se sustenta en el reconocimiento y respeto de los diferentes sistemas de vida.",
+      "respuestas": [
+        "De las naciones y pueblos indígenas originarios",
+        "De los pueblos indígenas originarios ",
+        "Todas las anteriores",
+        "Ninguno "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "83",
+      "pregunta": "Un principio que rige a la Ley 450",
+      "respuestas": [
+        "Diversidad sociocultural ",
+        "Diversidad cultural ",
+        "Diversidad lingüística",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "84",
+      "pregunta": "DIGEPIO es dirección general de protección a naciones y pueblos indígenas originarios.",
+      "respuestas": ["Verdadero", "Falso", "Otra respuesta", "Ninguno"],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "85",
+      "pregunta": "Los mecanismos de prevención de los sistemas de vida.",
+      "respuestas": [
+        "Desarrollo en el nivel central del Estado ",
+        "Desarrollaran en entidades territoriales autónomas",
+        "Desarrollaran en el nivel central del Estado y entidades territoriales autónomas ",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "86",
+      "pregunta": "Mecanismos de prevención de los sistemas de vida se desarrollan en ámbitos.",
+      "respuestas": [
+        "Territorial y salud",
+        "Territorial, salud y difusión",
+        "Territorial, salud, difusión y sensibilización ",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "87",
+      "pregunta": "La DIGEPIO formulara los indicadores de monitoreo.",
+      "respuestas": [
+        "Para evaluar las situaciones de alta vulnerabilidad ",
+        "Para evaluar las situaciones de vulnerabilidad",
+        "Otra respuesta",
+        "Ninguno "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "88",
+      "pregunta": "Corresponde a la ley contra el racismo y toda forma de discriminación.",
+      "respuestas": ["Ley 035", "Ley 045", "Ley 055", "Ninguna"],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "89",
+      "pregunta": "Establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación.",
+      "respuestas": [
+        "Para la prevención y sanción de actos de racismo",
+        "Para la prevención y sanción de toda forma de discriminación ",
+        "Para la prevención y sanción de actos de racismo y toda forma de discriminación",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "90",
+      "pregunta": "El racismo y discriminación no son tipificado y/o calificado en el Código Penal.",
+      "respuestas": ["Verdadero ", "Falso", "Otra respuesta", "Ninguno"],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "91",
+      "pregunta": "Forma de distinción, exclusión, restricción o preferencia fundad en razón de sexo, color, edad.",
+      "respuestas": [
+        "Discriminación racial ",
+        "Discriminación",
+        "Racismo ",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "92",
+      "pregunta": "Teoría tendente a la valoración de diferencia biológica, cultural, real o imaginaria.",
+      "respuestas": [
+        "Discriminación ",
+        "Racismo",
+        "Discriminación racial",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "93",
+      "pregunta": "Se entiende por misoginia ",
+      "respuestas": [
+        "Conducta o comportamiento de odio manifiesto hacia las mujeres o genero femenino ",
+        "Conducta o comportamiento de odio manifiesto hacia los varones o género masculino",
+        "Otra respuesta",
+        "Ninguno. "
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "94",
+      "pregunta": "Medidas publicas traducidas en campañas de concientización, educación y difusión de derechos humanos protectivos. ",
+      "respuestas": [
+        "Acción afirmativa ",
+        "Acción preventiva",
+        "Acción correctiva ",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "95",
+      "pregunta": "Definir y adoptar políticas publicas de prevención y lucha contra el racismo y discriminación.",
+      "respuestas": [
+        "Es obligación del Estado ",
+        "Es deber del Estado ",
+        "Otra respuesta",
+        "Ninguno "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "96",
+      "pregunta": "El comité nacional contra el racismo y toda forma de discriminación.",
+      "respuestas": [
+        "Encargado de promover, diseñar e implementar políticas contra el racismo y discriminación ",
+        "Encargado de promover, diseñar e implementar normativas contra el racismo y discriminación ",
+        "Encargado de promover, diseñar e implementar políticas y normativas contra el racismo y discriminación ",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "97",
+      "pregunta": "Comité nacional contra el racismo y toda forma de discriminación conformada por comisiones.",
+      "respuestas": [
+        "Comité de lucha contra el racismo",
+        "Comité de emergencia contra los delitos ",
+        "Comité de lucha contra toda forma de discriminación ",
+        "A y B "
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "98",
+      "pregunta": "Personas que sufren el racismo o discriminación podrán optar.",
+      "respuestas": [
+        "Por la via constitucional y administrativa",
+        "Por la vía constitucional administrativa o disciplinaria",
+        "Por la vía constitucional administrativa o disciplinaria y/o penal",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "99",
+      "pregunta": "Persona que ejerce función publica conociere hechos de racismo y discriminación.",
+      "respuestas": [
+        "Esta en la obligación de denunciar ante las autoridades competentes ",
+        "Esta en el deber de denunciar ante al autoridades competentes",
+        "Esta que denunciar ante al autoridades competentes ",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "100",
+      "pregunta": "Discriminación y racismo no son considerados como delitos contra la dignidad del ser humano.",
+      "respuestas": ["Verdadero ", "Falso", "Otra respuesta", "Ninguno"],
+      "resCorrecta": "1"
+    }
+  ]
+}

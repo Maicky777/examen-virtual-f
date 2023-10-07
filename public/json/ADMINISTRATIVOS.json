@@ -1,0 +1,1104 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "El objetivo o los objetivos del Manual de Procedimientos del Registro Docente Administrativo y Tramites del Escalafón es:",
+            "respuestas": [
+                "Mostrar las funciones que debe realizar el personal del Servicio de Educación Pública, estableciendo las responsabilidades de cada integrante en los procedimientos y evitar la duplicidad innecesaria; así como lograr calidad de servicio, coordinación y uniformidad en el proceso de registro docente administrativo y trámites de escalafón.",
+                "Mejorar el funcionamiento, seguimiento y control, de los procedimientos del registro docente administrativo y trámites de escalafón, en el marco de la normativa vigente.",
+                "Todas las anteriores.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "2",
+            "pregunta": "A partir de la gestión………………….. el registro de inscripción de los egresados de las Escuelas Superiores de Formación de Maestras y Maestros se realiza a través de la página web www.minedu.gob.bo. Según “Formulario de Solicitud del Trámite de Inscripción al RDA”. La información procesada se administra mediante el Sistema de Información de Registro Docente y Administrativo (SIRDA).",
+            "respuestas": [
+                "2016",
+                "2014",
+                "2010",
+                "2020"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "3",
+            "pregunta": "La actualización de datos en el RDA es un trámite que debe ser realizado por las Maestras, Maestros y personal administrativo del SEP, cuando los mismos requieran actualizar datos personales como:",
+            "respuestas": [
+                "Número de cédula de identidad, nombres y apellidos, fecha, mes y año de nacimiento, la formación académica, categoría, antigüedad, y/o por modificación en los registros.",
+                "La formación académica reciente.",
+                "Modificaciones en el nombre",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "4",
+            "pregunta": "De conformidad a la Resolución Ministerial…………………………., el trámite de actualización y el duplicado del RDA, es gratuito y puede ser generado desde la página web www.ugpsep.minedu.gob.bo.",
+            "respuestas": [
+                "099/2017 de 01 de marzo de 2017.",
+                "Ley No. 045 de 2010.",
+                "001/2019 de 2 de enero de 2019.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "5",
+            "pregunta": "La Legalización de libretas Escolares – electrónicas y/o certificados de calificaciones se aplica a los estudiantes: ",
+            "respuestas": [
+                "Que Concluyeron estudios del nivel secundario",
+                "Con transferencia al interior y exterior del país en las modalidades de Educación Regular y Alternativa",
+                "Que desean tramitar su Diploma de Bachiller Gratuito en el interior del país y estudiantes que deseen continuar estudios superiores los anteriores ",
+                "Todos  las anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "6",
+            "pregunta": "El tiempo de duración del trámite de  legalización de libretas escolares del nivel primario es de:",
+            "respuestas": [
+                "Dos días hábiles",
+                "Tres días hábiles ",
+                "Cuatro días hábiles ",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "7",
+            "pregunta": "El tiempo de duración del trámite de legalización de boletines y centralizadores –colegios es de:",
+            "respuestas": [
+                "Dos días hábiles",
+                "Tres días hábiles ",
+                "Cuatro días hábiles ",
+                "Ninguno "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "8",
+            "pregunta": "Toda persona tiene derecho a la vida y a la integridad física, psicológica y sexual. Nadie será torturado, ni sufrirá tratos crueles, inhumanos, degradantes o humillantes. No existe la pena de muerte es:",
+            "respuestas": [
+                "Un derecho  fundamental ",
+                "Un derecho civil ",
+                "Un derecho político ",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "9",
+            "pregunta": "Son obligaciones de las servidoras y los servidores públicos:",
+            "respuestas": [
+                "Cumplir la constitución y las leyes",
+                "Conocer, cumplir y hacer cumplir la constitución y las leyes",
+                "Defender, promover y contribuir al derecho de la paz",
+                "Inciso a y c"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "10",
+            "pregunta": "El sistema educativo está compuesto por:",
+            "respuestas": [
+                "Las instituciones fiscales y de convenio",
+                "Las instituciones educativas fiscales, privadas y de convenio",
+                "Las instituciones superiores y de educación regular",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "11",
+            "pregunta": "No constituye un objetivo de la educación:",
+            "respuestas": [
+                "Promover la Unidad del Estado Plurinacional",
+                "Promover la educación pacifica de los bolivianos",
+                "Garantizar el acceso a la educación",
+                "Contribuir al fortalecimiento de la unidad  e identidad de todos los ciudadanos"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "12",
+            "pregunta": "La intraculturalidad promueve: ",
+            "respuestas": [
+                "La recuperación fortalecimiento, desarrollo y cohesión al interior de las culturas de las naciones y pueblos indígena originario campesinos, comunidades interculturales y afrobolivianas",
+                "El desarrollo de la interrelación e interacción de conocimientos, saberes, ciencia y tecnología propios de cada cultura con otras culturas, que fortalece la identidad propia y la interacción en igualdad de condiciones entre todas las culturas bolivianas",
+                "La convivencia pacífica del Estado con todas las naciones",
+                "La relación pacífica entre todos los pueblos y naciones "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "13",
+            "pregunta": "Cuál es la opción que no corresponde al subsistema de educación regular:",
+            "respuestas": [
+                "Educación Inicial en Familia Comunitaria ",
+                "Educación Primaria Comunitaria Vocacional",
+                "Educación Secundaria Comunitaria Productiva",
+                "Educación Superior de Formación Profesional"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "14",
+            "pregunta": "Son realidades a las que corresponde el Modelo Sociocomunitario Productiva:",
+            "respuestas": [
+                "La condición colonial y neocolonial de la educación, la casi nula articulación entre las políticas educativas y las propuestas para salir de la dependencia económica, revalorización y reconstitución de los saberes y conocimientos de los pueblos indígena originarios y el  carácter cognitivista y desarraigado de la educación",
+                "La condición colonial y neocolonial de la educación, la casi nula articulación entre las políticas educativas y las propuestas para salir de la dependencia económica, revalorización y el  carácter cognitivista y desarraigado de la educación",
+                "La condición colonial y neocolonial de la educación, la casi nula articulación entre las políticas educativas y las propuestas para salir de la dependencia ideológica, revalorización y reconstitución de los saberes y conocimientos de los pueblos indígena originarios y el  carácter cognitivista y desarraigado de la educación",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "15",
+            "pregunta": "El  concepto sobre condiciones personales se califica en base a la Ficha anotada por el inmediato superior, donde el puntaje asigna por alfabetización es :",
+            "respuestas": [
+                "Por alfabetización voluntaria y no remunerada de cada 10 sujetos 5 puntos, hasta 10 puntos",
+                "Por alfabetización voluntaria y no remunerada de cada 10 sujetos 5 puntos, hasta 15 puntos",
+                "Por alfabetización voluntaria y no remunerada de cada 10 sujetos 5 puntos, hasta 20 puntos",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "16",
+            "pregunta": "Los deméritos son juzgados con referencia a:",
+            "respuestas": [
+                "6 áreas",
+                "5 áreas ",
+                "3 áreas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "17",
+            "pregunta": "17. De acuerdo al Reglamento de Faltas y Sanciones, utilizar a los alumnos en mandados particulares o en el servicio doméstico es:",
+            "respuestas": [
+                "Falta leve ",
+                "Falta media",
+                "Falta grave",
+                "Falta muy grave"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "18",
+            "pregunta": "De acuerdo al Reglamento de Faltas y Sanciones, la suplantación de firmas en documentos oficiales, el uso indebido de papeles oficiales membretados, la obtención de renuncias en blanco a los cargos es:",
+            "respuestas": [
+                "Falta leve",
+                "Falta media",
+                "Falta grave",
+                "Falta muy grave"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "19",
+            "pregunta": "Las políticas de prevención e información sobre la temática de discapacidad de las entidades públicas y privadas deberán considerar",
+            "respuestas": [
+                "Las causas que conllevan a tener discapacidad, ya sea congénita, genética o adquirida y las medidas necesarias y oportunas para disminuir la prevalencia e incidencia de deficiencias que causan discapacidad permanente.",
+                "La protección efectiva de la dignidad de las personas con discapacidad y las acciones conjuntas realizadas por los responsables de los diferentes programas que tratan la temática de prevención y detección precoz de la discapacidad.",
+                "Incisos a y b",
+                "Ninguno "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "20",
+            "pregunta": "Los medios de comunicación audiovisual, deberán incluir la interpretación a la Lengua de Señas Boliviana en los siguientes programas:",
+            "respuestas": [
+                "Informativos diarios de producción nacional,  propaganda electoral, debates de interés general y mensajes presidenciales.",
+                "Cadenas nacionales, campañas o mensajes con contenidos educativos y recreativos ",
+                "Programas culturales.",
+                "Todas las anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "21",
+            "pregunta": "La Ley 348 se rige por los siguientes principios y valores:",
+            "respuestas": [
+                "Vivir bien, igualdad, interculturalidad, inclusión, trato digno, complementariedad, armonía, igualdad de oportunidades, equidad social, equidad de género, informalidad, despatriarcalizacion, atención diferenciada, y especialidad.",
+                "Vivir bien, igualdad,  inclusión, trato digno, complementariedad, armonía, igualdad de oportunidades, equidad social, equidad de género, informalidad, despatriarcalizacion, atención diferenciada, y especialidad. ",
+                "Vivir bien, igualdad, interculturalidad, inclusión, trato digno, complementariedad, armonía, igualdad de oportunidades, equidad social, equidad de género, formalidad, despatriarcalizacion, atención diferenciada, y especialidad. ",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "22",
+            "pregunta": "De acuerdo a la ley 348, Constituye cualquier acción u omisión, abierta o encubierta, que cause la muerte, sufrimiento o daño físico, sexual o psicológico a una mujer u otra persona, le genere perjuicio en su patrimonio, en su economía, en su fuente laboral o en otro ámbito cualquiera, por el sólo hecho de ser mujer. Es una definición de:",
+            "respuestas": [
+                "Situación de violencia ",
+                "Violencia ",
+                "Integridad sexual",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "23",
+            "pregunta": "Todas las Unidades Educativas de reciente creación deberán contar solo:",
+            "respuestas": [
+                "Con tres paralelos por año de escolaridad, excepcionalmente , un máximo de cuatro",
+                "Con dos paralelos por año de escolaridad, excepcionalmente , un máximo de tres",
+                "Con dos paralelos por año de escolaridad",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "24",
+            "pregunta": "Se constituyen inscripciones excepcionales en las unidades educativas fiscales, privadas y de convenio",
+            "respuestas": [
+                "Del exterior del país: niños y niñas y adolescentes que retornen al país",
+                "Las y los estudiantes provenientes del exterior",
+                "La inscripción de la población que se encuentra en situación de vulnerabilidad ",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "25",
+            "pregunta": "Según el Decreto Supremo 04886 de 10 de marzo de 1958. Art. 5) El año de iniciación en el servicio de Educación se computará como año completo para los egresados e Institutos Normales, aunque sus funciones no hayan comenzado en enero. Los requisitos son:",
+            "respuestas": [
+                "Haber concluido satisfactoriamente los estudios en las ESFM.",
+                "No tener antecedentes personales en el REJAP.",
+                "RDA Actualizado con la fecha de emisión del certificado de egreso y Certificado CAS.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "26",
+            "pregunta": "Según el Decreto Supremo Nº 28582 de 17 de enero de 2006 Art. 5) ASCENSOS DE CATEGORÍA. Los profesores egresados cualquiera sea el nivel, ciclos, especialidad o modalidad podrán presentarse a los exámenes de ascensos de categoría, una vez que tengan la certificación de las autoridades competentes sobre la inserción laboral de dos años consecutivos en ……….",
+            "respuestas": [
+                "Zonas concentradas.",
+                "Zonas dispersas.",
+                "Área rural.",
+                "Área urbana."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "27",
+            "pregunta": "Resolución Ministerial N° 37/2014 de 29 de enero de 2014 Art. 2) RECONOCIMIENTO AUTOMÁTICO. A todas las maestras y maestros que les falten de un día a dos meses de servicio docente en provincias, para completar los dos años de provincia, serán reconocidos de manera automática para:",
+            "respuestas": [
+                "Optar al título en provisión nacional.",
+                "El computo en el CAS.",
+                "Retornar al área urbana.",
+                "Los ascensos de categoría."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "28",
+            "pregunta": "Según el Decreto Supremo Nº 1318, de 8 de agosto de 2012. Art 4) INCENTIVOS A MAESTRAS Y MAESTROS FACILITADORES DE ALFABETIZACIÓN.Las maestras y maestros del Sistema Educativo Plurinacional que cumplan la función de facilitadores de alfabetización voluntaria y no remunerada, podrán optar por uno de los siguientes incentivos",
+            "respuestas": [
+                "Seis (6) meses de servicios en provincia por cada ciclo concluido de alfabetización, acumulativos hasta un máximo de dos (2) años de servicios para el Escalafón Nacional. ",
+                "Seis (6) meses de servicios en provincia para maestras y maestros de Educación Especial, por cada ciclo concluido de alfabetización de personas con discapacidad, acumulativos hasta un máximo de dos (2) años de servicios para el Escalafón Nacional.",
+                "Todas las anteriores",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "29",
+            "pregunta": "Según el Decreto Supremo Nº 1318, de 8 de agosto de 2012. Art. 5) INCENTIVOS A MAESTRAS Y MAESTROS FACILITADORES DE POSTALFABETIZACIÓN.",
+            "respuestas": [
+                "Dos (2) años de servicios en provincia para el Escalafón Nacional a la conclusión del plan de estudios de primero a sexto de primaria de post alfabetización;",
+                "Dos (2) años de servicios en provincia para el Escalafón Nacional para maestras y maestros de Educación Especial, a la conclusión del plan de estudios de primero a sexto de primaria de post alfabetización de personas con discapacidad;",
+                "Todas las anteriores.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "30",
+            "pregunta": "Según R.M. 121/2015 de 27 de febrero de 2015, el trámite del certificado de categoría  tiene un costo de acuerdo al siguiente detalle:",
+            "respuestas": [
+                "Certificado de categoría Bs. 50 y Duplicado por extravío Bs. 5",
+                "Certificado de categoría Bs. 20 y Duplicado por extravío Bs. 10.",
+                "Certificado de categoría Bs. 30 y Duplicado por extravío Bs. 15.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "31",
+            "pregunta": "Según el Decreto Supremo Nº 1318, de 8 de agosto de 2012 Art. 37) FACILITADORES DE POST ALFABETIZACIÓN: Accederán a 2 años de servicios o 2 de servicios en provincia, a la conclusión del plan de estudios con un grupo de post-alfabetización con un mínimo de diez participantes en área concentrada y ocho en área desconcentrada, distribuidos de la siguiente manera: ",
+            "respuestas": [
+                "Un año a la conclusión del Bloque 1 (1ro. A 3ro. de primaria)",
+                "Un año a la conclusión del Bloque 2 (4to. a 6to. de primaria) ",
+                "Los facilitadores de educación especial que desarrollen post alfabetización con personas con capacidades diferentes, podrán acceder a un año de servicio en provincia cuando concluyan un bloque del plan de estudios con 4 participantes como mínimo.",
+                "Todos los anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "32",
+            "pregunta": "Según el Decreto Supremo N° 04688 de 18 de julio de 1957, Reglamento de Escalafón Art 37) Para recompensar la antigüedad en el servicio, se establece la promoción periódica del personal docente y administrativo a las categorías sucesivas de la siguiente escala, que asignan porcentajes de bonificación sobre el haber básico del cargo desempeñado, para la 3ra. Categoría con el: ",
+            "respuestas": [
+                "10%",
+                "45%",
+                "75% ",
+                "60%"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "33",
+            "pregunta": "Según el Decreto Supremo N° 04688 de 18 de julio de 1957, Reglamento de Escalafón Art 37) Para recompensar la antigüedad en el servicio, se establece Art. 40) Inc. b) Para la promoción de los maestros normalistas a la 2da. Categoría con:",
+            "respuestas": [
+                "12 años y examen aprobado.",
+                "4 años y examen aprobado. ",
+                "8 años y examen aprobado.",
+                "10 años y examen aprobado."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "34",
+            "pregunta": "La ley No. 004 se aplicará a:",
+            "respuestas": [
+                "Los servidores y ex servidores públicos de todos los Órganos del Estado Plurinacional.",
+                "Ministerio Público, Procuraduría General de Estado, Defensoría del Pueblo.",
+                "Fuerzas Armadas y Policía Boliviana.",
+                "Todos los anteriores incisos."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "35",
+            "pregunta": "En el artículo 6 de la Ley 004. Se crea el Consejo Nacional de Lucha Contra la Corrupción, Enriquecimiento Ilícito y Legitimación de Ganancias Ilícitas, estará integrada por:",
+            "respuestas": [
+                "Ministerio de Transparencia Institucional y Lucha Contra la Corrupción",
+                "Ministerio de Gobierno",
+                "Ministerio Público",
+                "Todos los anteriores incisos."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "36",
+            "pregunta": "El artículo 29 de la ley 004 enfatiza: El que con la finalidad de ocultar,  disimular o legitimar el incremento patrimonial previsto en los artículos precedentes, facilitare su nombre o participare en actividades económicas, financieras y comerciales, será sancionado con privación de libertad de tres a ocho años, inhabilitación para el ejercicio de la función pública y/o cargos electos y multa de cincuenta a quinientos días. Se refiere a la figura de:",
+            "respuestas": [
+                "Cohecho Activo Transnacional.",
+                "Favorecimiento al Enriquecimiento Ilícito.",
+                "Cohecho Pasivo Transnacional.",
+                "Obstrucción de la Justicia."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "37",
+            "pregunta": "Según La ley No. 004, en su artículo 154, el delito de Incumplimiento de deberes se da cuando:",
+            "respuestas": [
+                "La servidora o el servidor público o autoridad que dictare resoluciones u órdenes contrarias a la Constitución o a las leyes, o ejecutare o hiciere ejecutar dichas resoluciones u órdenes, será sancionado con privación de libertad de cinco a diez años.",
+                "La servidora o el servidor público que ilegalmente omitiere, rehusare hacer o retardare un acto propio de sus funciones, será sancionado con privación de libertad de uno a cuatro años.",
+                "La servidora o el servidor público o autoridad que con abuso de su condición o funciones, directa o indirectamente, exigiere u obtuviere dinero u otra ventaja ilegítima o en proporción superior a la fijada legalmente, en beneficio propio o de un tercero, será sancionado con privación de libertad de tres a ocho años.",
+                "Ninguno de los incisos anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "38",
+            "pregunta": "En el capítulo III de la Ley 004 menciona: “La servidora pública o el servidor público que en beneficio propio o de terceros otorgue un fin distinto al cual se hallaren destinados bienes, derechos y acciones pertenecientes al Estado o a sus instituciones, a las cuales tenga acceso en el ejercicio de la función pública, será sancionado con privación de libertad de uno a cuatro años”. Este concepto corresponde a:",
+            "respuestas": [
+                "Enriquecimiento Ilícito.",
+                "Malversación de fondos del Estado.",
+                "Uso Indebido de Bienes y Servicios Públicos.",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "39",
+            "pregunta": "Los principios que rigen en  la  Ley  004 son:",
+            "respuestas": [
+                "Celeridad, Transparencia, Gratuidad,  Efectividad.",
+                "Suma Qamaña, Ama Suwa, Ética. Transparencia, Gratuidad. Celeridad. Defensa del Patrimonio del Estado. Cooperación Amplia. Imparcialidad en la Administración de Justicia.",
+                "Ama suwa, Ama llulla, Ama quella.",
+                "Ninguno de los incisos anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "40",
+            "pregunta": "Artículo 157. Será sancionado con privación de libertad de uno a cuatro años y multa de treinta a cien días, la servidora o el servidor público que propusiere en terna o nombrare para un cargo público a persona que no reuniere las condiciones legales para su desempeño",
+            "respuestas": [
+                "Incumplimiento de deberes",
+                "Nombramiento legal",
+                "Prevaricato",
+                "Nombramientos Ilegales"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "41",
+            "pregunta": "Ley No. 004, Art. 32. El que utilice fuerza física, amenazas, intimidación, promesas, ofrecimiento o la concesión de un beneficio indebido para inducir a una persona a prestar falso testimonio u obstaculizar la prestación de testimonio o la aportación de pruebas en procesos por delitos de corrupción, será sancionado con privación de libertad de tres a ocho años y multa de  treinta a quinientos días. Se refiere al delito de:",
+            "respuestas": [
+                "Malversación de fondos",
+                "Concusión ",
+                "Obstrucción de la Justicia.",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "42",
+            "pregunta": "El que falseare u omitiere insertar los datos económicos, financieros o patrimoniales, que la declaración jurada de bienes y rentas deba contener, incurrirá en privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días.",
+            "respuestas": [
+                "Obstrucción de la justicia.",
+                "Favorecimiento al enriquecimiento ilícito.",
+                "Nombramientos ilegales.",
+                "Falsedad en la Declaración Jurada de Bienes y Rentas."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "43",
+            "pregunta": "La servidora o el servidor público que aprovechando del cargo que desempeña se apropiare de dinero, valores o bienes de cuya administración cobro o custodia se hallare encargado, será sancionado con privación de libertad de cinco a diez años y multa de doscientos a quinientos días.",
+            "respuestas": [
+                "Peculado.",
+                "Malversación ",
+                "Concusión ",
+                "Prevaricato."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "44",
+            "pregunta": "Artículo 144, Ley No. 004. La servidora o el servidor público que diere a los caudales que administra, percibe o custodia, una aplicación distinta de aquella a que estuvieren destinados, será sancionada con privación de libertad de tres a ocho años y multa de cien a doscientos cincuenta días.",
+            "respuestas": [
+                "Peculado",
+                "Concusión",
+                "Prevaricato",
+                "Malversación"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "45",
+            "pregunta": "La servidora o el servidor público o autoridad que con abuso de su condición o funciones, directa o indirectamente, exigiere u obtuviere dinero u otra ventaja ilegítima o en proporción superior a la fijada legalmente, en beneficio propio o de un tercero, será sancionado con privación de libertad de tres a ocho años.",
+            "respuestas": [
+                "Exacciones",
+                "Concusión.",
+                "Malversación ",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "46",
+            "pregunta": "La Ley No. 004, en su Artículo 147, establece que es un delito de Beneficios en Razón del Cargo, se refiere a:",
+            "respuestas": [
+                "La servidora o el servidor público o autoridad que en consideración a su cargo admitiere regalos u otros beneficios, será sancionado con privación de libertad de tres a ocho años y multa de cien a doscientos cincuenta días.",
+                "La servidora o el servidor público o autoridad que con abuso de su condición o funciones, directa o indirectamente, exigiere u obtuviere dinero u otra ventaja ilegítima o en proporción superior a la fijada legalmente, en beneficio propio o de un tercero, será sancionado con privación de libertad de tres a ocho años.",
+                "El que falseare u omitiere insertar los datos económicos, financieros o patrimoniales, que la declaración jurada de bienes y rentas deba contener, incurrirá en privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "47",
+            "pregunta": "La Ley No. 004, en su Artículo 146. Establece que es un delito de Uso Indebido de Influencias, se refiere a:",
+            "respuestas": [
+                "El que falseare u omitiere insertar los datos económicos, financieros o patrimoniales, que la declaración jurada de bienes y rentas deba contener, incurrirá en privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días.",
+                "La servidora o el servidor público o autoridad que directamente o por interpuesta persona y aprovechando de las funciones que ejerce o usando indebidamente de las influencias derivadas de las mismas obtuviere ventajas o beneficios, para sí o para un tercero, será sancionado con privación de libertad de tres a ocho años y multa de cien a quinientos días.",
+                "Todas las anteriores ",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "48",
+            "pregunta": "Maestros y administrativos están obligados a inscribirse en el escalafón.",
+            "respuestas": [
+                "Como requisito para el goce de garantías ",
+                "Como requisito para el goce de derechos",
+                "Como requisito para el goce de recompensas",
+                "Como requisito para el goce de garantías, derechos y recompensas "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "49",
+            "pregunta": "La carrera docente y administrativa, se desarrolla en dos proyecciones.",
+            "respuestas": [
+                "Los ascensos de jerarquía ",
+                "Las promociones de categorías",
+                "Corresponde a los incisos a y b ",
+                "No corresponde a ninguno de los incisos"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "50",
+            "pregunta": "Se establece una escala jerárquica para los ascensos en el sector docente y otra.",
+            "respuestas": [
+                "Y la misma escala jerárquica para los ascensos en el sector administrativo",
+                "Y otra escala jerárquica paralela par los asensos en el sector administrativos",
+                "Corresponde a los anteriores incisos",
+                "No corresponde a ningunos de los incisos "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "51",
+            "pregunta": "Usar su idioma materno en forma oral y escrita corresponde a: ",
+            "respuestas": [
+                "Derechos lingüísticos individuales",
+                "Derechos lingüísticos colectivos",
+                "Derechos Propios",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "52",
+            "pregunta": "Son idiomas oficiales de Estado boliviano.",
+            "respuestas": [
+                "34 idiomas ",
+                "36 idiomas ",
+                "32 idiomas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "53",
+            "pregunta": "Planeado para que un idioma logre, una situación de igualdad legal, social y uso.",
+            "respuestas": [
+                "Normalización lingüística ",
+                "Estandarización lingüística ",
+                "Normalización de Lenguas",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "54",
+            "pregunta": "Estudiante monolingüe castellano hablante de todos los subsistemas y niveles educativos.",
+            "respuestas": [
+                "Tiene la obligación de aprender otro idioma oficial del estado",
+                "Tiene el deber de aprender otro idioma oficial del Estado",
+                "Obligación de Aprender los idiomas de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "55",
+            "pregunta": "Servidores públicos de la educación (directores, directores distritales o departamentales y otros) deberán conocer.",
+            "respuestas": [
+                "El idioma de la unidad territorial donde trabajan",
+                "El idioma de la unidad territorial de origen ",
+                "Idioma de origen patrimonial de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "56",
+            "pregunta": "En servicio de educación publica y privada, la contratación del personal (maestras/os). ",
+            "respuestas": [
+                "Deberían exigir el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad ",
+                "Deberán ponderar el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad",
+                "Por conocimiento de las idiomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "57",
+            "pregunta": "Objeto de la presente Ley 223 es garantizar a las personas con discapacidad.",
+            "respuestas": [
+                "El ejercicio pleno de sus derechos y deberes en igualdad de condiciones",
+                "Y equiparación de oportunidades, trato preferente",
+                "A y B",
+                "Ninguna "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "58",
+            "pregunta": " Personas con discapacidad participan plena y efectivamente en la sociedad en igualdad de oportunidades.",
+            "respuestas": [
+                "No discriminación",
+                "Inclusión",
+                "Accesibilidad ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "59",
+            "pregunta": "Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad.",
+            "respuestas": [
+                "Trato diferenciado ",
+                "Trato preferente ",
+                "Trato Digno",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "60",
+            "pregunta": "Aquellas personas con deficiencias físicas, mentales, intelectuales y/o sensoriales a largo plazo o permanentes.",
+            "respuestas": [
+                "Personas con discapacidad según la Ley",
+                "Personas con capacidades múltiples y/o diferencias, según la Ley ",
+                "Personas sin discacpacidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "61",
+            "pregunta": "Comité nacional contra el racismo y toda forma de discriminación conformada por comisiones.",
+            "respuestas": [
+                "Comité de lucha contra el racismo",
+                "Comité de emergencia contra los delitos ",
+                "Comité de lucha contra toda forma de discriminación ",
+                "A y B "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "62",
+            "pregunta": "Personas que sufren el racismo o discriminación podrán optar.",
+            "respuestas": [
+                "Por la via constitucional y administrativa",
+                "Por la vía constitucional administrativa o disciplinaria",
+                "Por la vía constitucional administrativa o disciplinaria y/o penal",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "63",
+            "pregunta": "Persona que ejerce función publica conociere hechos de racismo y discriminación.",
+            "respuestas": [
+                "Esta en la obligación de denunciar ante las autoridades competentes ",
+                "Esta en el deber de denunciar ante al autoridades competentes",
+                "Esta que denunciar ante al autoridades competentes ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "64",
+            "pregunta": "Discriminación y racismo no son considerados como delitos contra la dignidad del ser humano.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "65",
+            "pregunta": "Corresponde al código niña, niño y adolecente ",
+            "respuestas": [
+                "Ley 448",
+                "Ley 548",
+                "Ley 648",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "66",
+            "pregunta": "El objetivo del Código es reconocer, desarrollar y regular.",
+            "respuestas": [
+                "El ejercicio de los derechos de la niña, niño y adolecente",
+                "El ejercicio de las obligaciones de la niña, niño y adolescente",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "67",
+            "pregunta": "Garantizar a niña, niño y adolecente el ejercicio pleno y efectivo de sus derechos.",
+            "respuestas": [
+                "Para su desarrollo integral ",
+                "Para exigir el cumplimiento de sus obligaciones ",
+                "Para su desarrollo integral y exigir el cumplimiento de sus deberes",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "68",
+            "pregunta": "Según el código, corresponde a la etapa del desarrollo del adolecente. ",
+            "respuestas": [
+                "Desde 12 hasta los 16 años de edad cumplidos",
+                "Desde 12 hasta los 17 años de edad cumplidos",
+                "Desde 12 hasta los 18 años de edad cumplidos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "69",
+            "pregunta": "Comprende la infancia escolar.",
+            "respuestas": [
+                "Niñas y niños entre 6 a 11 años de edad ",
+                "Niñas y niños entre 6 a 12 años de edad",
+                "Niñas y niños entre 6 a 14 años de edad",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "70",
+            "pregunta": "El principio de interés superior favorece el desarrollo integral de niña, niño y adolecente.",
+            "respuestas": [
+                "En el goce de los deberes y garantías",
+                "En el goce de los obligaciones y garantías",
+                "En el goce de los derechos y garantías",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "71",
+            "pregunta": "Denominado Ley 004 Marcelo Quiroga Santa Cruz. ",
+            "respuestas": [
+                "Lucha contra la corrupción y enriquecimiento ilícito ",
+                "Lucha contra la corrupción, enriquecimiento ilícito e investigación de fortunas",
+                "Lucha contra la corrupción e investigación de fortunas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "72",
+            "pregunta": "Establece mecanismos y procedimientos en el marco de la Constitución Política del Estado.",
+            "respuestas": [
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores priv",
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidas por servidores públicos",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "73",
+            "pregunta": "Prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores públicos exservidores públicos.",
+            "respuestas": [
+                "Objeto de la Ley 044",
+                "Objeto de la Ley 014",
+                "Objeto de la Ley 004",
+                "Objeto de la ley 114"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "74",
+            "pregunta": "Consejo nacional de lucha contra la corrupción, enriquecimiento y legitimación de ganancias ilícitas.",
+            "respuestas": [
+                "Ministerio de transparencia institucional y lucha contra la corrupción",
+                "Ministerio de gobierno ministerio publico",
+                "Contraloría general del Estado y procuraduría general del Estado ",
+                "Todos los anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "75",
+            "pregunta": "Es el requerimiento o la aceptación, el ofrecimiento u otorgamiento, de un servidor público.",
+            "respuestas": [
+                "Que afecte a los intereses de la comunidad",
+                "Que afecte a los intereses del Estado",
+                "Que afecte a los intereses de la Nación",
+                "Que afecte a los intereses del pueblo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "76",
+            "pregunta": "Proponer, supervisar y fiscalizar políticas publicas, orientadas a prevenir y sancionar actos de corrupción.",
+            "respuestas": [
+                "Atribución del consejo nacional de lucha contra la corrupción",
+                "Atribución del consejo departamental de lucha contra la corrupción",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "77",
+            "pregunta": "Tendrán competencia para conocer y resolver procesos penales. ",
+            "respuestas": [
+                "Tribunales anticorrupción ",
+                "Control social",
+                "Juzgados anticorrupción",
+                "A y C"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "78",
+            "pregunta": "Los tipos penales en los que incurren los funcionarios públicos.",
+            "respuestas": [
+                "Uso indebido de bienes y servicios públicos ",
+                "Enriquecimiento ilícito ",
+                "A y B ",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "79",
+            "pregunta": "Servidores públicos que en beneficio propio o de terceros otorgue bienes, derechos y acciones.",
+            "respuestas": [
+                "Uso indebido de bienes",
+                "Uso indebido de servicios públicos ",
+                "Uso indebido de bienes y servicios públicos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "80",
+            "pregunta": "El servidor publico que hubiera incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos.",
+            "respuestas": [
+                "Enriquecimiento ilícito ",
+                "Enriquecimiento licito ",
+                "Enriquecimiento legal ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "81",
+            "pregunta": "Servidor publico hace actos relativos a sus funciones recibiera dadivas o cualquier otra ventaja.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "82",
+            "pregunta": "Director departamental, distritales y directores de UEs son considerados servidores o funcionarios públicos.",
+            "respuestas": [
+                "Verdadero",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "83",
+            "pregunta": "Garantiza las mujeres, el derecho a no sufrir violencia física, sexual y/o psicológica.",
+            "respuestas": [
+                "Corresponde a la Ley 834",
+                "Corresponde a la Ley 348",
+                "Corresponde a la Ley 349",
+                "Corresponde a la Ley 448"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "84",
+            "pregunta": "Establece mecanismos, medidas y políticas integrales de prevención, protección y reparación en situación violenta.",
+            "respuestas": [
+                "Así como sanción a los agresores ",
+                "Así como persecución a los agresores",
+                "Así como sanción y persecución a los agresores ",
+                "Así como el perdón de los agresores  "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "85",
+            "pregunta": "Desde el marco constitucional, la Ley de 348 garantiza.",
+            "respuestas": [
+                "En particular, a las mujeres, el derecho a nos sufrir violencia ",
+                "En particular, al genero femenino, el derecho a no sufrir violencia",
+                "Otra respuesta",
+                "Ninguno  "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "86",
+            "pregunta": "Despatriarcalizacion, consiste en la elaboración de políticas publicas desde la identidad. ",
+            "respuestas": [
+                "Para la visibilizacion del patriarcado ",
+                "Para la visibilizacion, denuncia del patriarcado",
+                "Para la visibilizacion, denuncia y erradicación del patriarcado",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "87",
+            "pregunta": "Mensajes, símbolos, iconos, signos, e impresiones culturales que reproducen y consolidan relaciones de denominación. ",
+            "respuestas": [
+                "Violencia mediática",
+                "Violencia simbólica y/o reencubierta ",
+                "Violencia contra la dignidad ",
+                "Violencia institucional"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "88",
+            "pregunta": "Acción u omisión de servidores públicos, implique una acción discriminatoria, prejuiciosa, humillante y deshumanizad. ",
+            "respuestas": [
+                "Violencia mediática ",
+                "Violencia simbólica y/o reencubierta ",
+                "Violencia contra la dignidad",
+                "Violencia institucional "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "89",
+            "pregunta": "Ente rector de las políticas publicas para la prevención de la violencia contra mujeres.",
+            "respuestas": [
+                "La autoridad competente ",
+                "El Estado ",
+                "El Estado benefactor ",
+                "La sociedad  "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "90",
+            "pregunta": "El SIPPASE sistema integral Plurinacional de Prevencion, Atencion Sancion y erradicación de la violencia.",
+            "respuestas": [
+                "Reorganiza todo el sistema de atención integral a las mujeres en situación de violencia ",
+                "Reorganiza todo el sistema de atención integral a las mujeres en situación de amenaza ",
+                "Todas las anterires",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "91",
+            "pregunta": "Crearan y adoptaran las medidas de prevención que sean necesarias para modificar los comportamientos.",
+            "respuestas": [
+                "El nivel central de las entidades territoriales autónomas",
+                "El nivel central del Estado",
+                "El nivel central del Estado y las entidades territoriales autónomas ",
+                "En nivel central del gobierno "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "92",
+            "pregunta": "La Universidades y de formación superior públicos crearan. ",
+            "respuestas": [
+                "Programas gratuitos destinados a la prevención de la violencia ",
+                "Programas y servicios gratuitos destinados a la prevención de la violencia.",
+                "Todas la anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "93",
+            "pregunta": "Incorporar estrategias y programas de prevención e intervención integral contra la violencia hacia mujeres.",
+            "respuestas": [
+                "Medidas del ministerio de educación",
+                "Medidas de las direcciones departamentales ",
+                "Mediadas de directores distritales ",
+                "Medidas de los directores de unidades educativas"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "94",
+            "pregunta": "Una medida en el ámbito educativo, es crear en las unidades educativas.",
+            "respuestas": [
+                "Un centro de atención con especialidad obligatoria en violencia",
+                "Un centro de atención psicológica, con especialidad obligatoria en violencia",
+                "Todas las anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "95",
+            "pregunta": "Todo hecho de violencia contra las mujeres será denunciado ante instancias ",
+            "respuestas": [
+                "En el ministerio publico ",
+                "La policía ",
+                "La policía y el ministerio publico ",
+                "La opción publica "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "96",
+            "pregunta": "Asegura el ejercicio de todos sus derechos y su efectiva protección. ",
+            "respuestas": [
+                "Estado garantiza",
+                "Estado protector ",
+                "Estado de derecho",
+                "Estado integral"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "97",
+            "pregunta": "Gobiernos autónomos municipales tiene la obligación de organizar.",
+            "respuestas": [
+                "Servicio legales integrales para la mujer (SLIM) ",
+                "Servicio legales integrales municipales (SLIM)",
+                "Servicio legales integrales por mandato (SLIM)",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "98",
+            "pregunta": "Prevención, auxilio, investigación, identificación y aprehensión de presuntos responsables de violencia hacia mujeres.",
+            "respuestas": [
+                "La Fuerza Especial de lucha Contra el Crimen (FELCC) ",
+                "La Fuerza Especial de Lucha Contra la Violencia (FELCC) ",
+                "Todas las anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "99",
+            "pregunta": "Las medidas de protección tienen por objeto interrumpir e impedir un hecho de violencia. ",
+            "respuestas": [
+                "Contra las mujeres, o garantizar, en casos consumados se realice investigación, procesamiento y sanción",
+                "Contra las mujeres, o garantizar, en casos no consumados c realiza investigación, procesamiento y sanción",
+                "Todas la anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "100",
+            "pregunta": "Es un mandato constitucional de la educación.",
+            "respuestas": [
+                "Toda persona no tiene derecho a recibir educación en todos los niveles ",
+                "Toda persona tiene el deber a recibir educación en todos los niveles ",
+                "Toda persona tiene derecho a recibir educación en todos los niveles ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        }
+    ]
+}

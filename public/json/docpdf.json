@@ -1,0 +1,1072 @@
+{
+    "documentJson": [
+        {
+            "id": 1,
+            "imagen": "https://lh3.google.com/u/0/d/1mq94-Pur0jbY5qfudghZnKiyBUhIqWzT=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1mq94-Pur0jbY5qfudghZnKiyBUhIqWzT/view?usp=sharing",
+            "descripcion": "1. Reglamento del Escalafon"
+        },
+        {
+            "id": 2,
+            "imagen": "https://lh3.google.com/u/0/d/1rUuzXTKaI0o7A4yx5leYZznagIEVTEC5=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1rUuzXTKaI0o7A4yx5leYZznagIEVTEC5/view?usp=sharing",
+            "descripcion": "2. Reglamento de Faltas y Sanciones del Magisterio"
+        },
+        {
+            "id": 3,
+            "imagen": "https://lh3.google.com/u/0/d/16RifPAOd8KVgw2LZN5WZHlpZ36FqXW8x=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/16RifPAOd8KVgw2LZN5WZHlpZ36FqXW8x/view?usp=sharing",
+            "descripcion": "3. Ley 70 Avelino Siñani - Elizardo Pérez"
+        },
+        {
+            "id": 4,
+            "imagen": "https://lh3.google.com/u/0/d/1B4sfIGfLP3cY7iGfHlfzYir5VkKMVQKv=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1B4sfIGfLP3cY7iGfHlfzYir5VkKMVQKv/view?usp=sharing",
+            "descripcion": "4. Constitución Política del Estado"
+        },
+        {
+            "id": 5,
+            "imagen": "https://lh3.google.com/u/0/d/1C4rjYvuV5hczWoq-PCw3_t0gTU0U1Rsr=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1C4rjYvuV5hczWoq-PCw3_t0gTU0U1Rsr/view?usp=sharing",
+            "descripcion": "5. Ley 045 Contra el Racismo y Discriminación"
+        },
+        {
+            "id": 6,
+            "imagen": "https://lh3.google.com/u/0/d/1Q0WVGSEZHU3iUWOXw9OjceBAHgpHfoEt=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1Q0WVGSEZHU3iUWOXw9OjceBAHgpHfoEt/view?usp=sharing",
+            "descripcion": "6. Ley 004 Marcelo Quiroga Santa Cruz"
+        },
+        {
+            "id": 7,
+            "imagen": "https://lh3.google.com/u/0/d/1j9RVBwW1cUB8zR2z4I0wiSeUahSK7zly=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1j9RVBwW1cUB8zR2z4I0wiSeUahSK7zly/view?usp=sharing",
+            "descripcion": "7. Ley  1178 SAFCO"
+        },
+        {
+            "id": 8,
+            "imagen": "https://lh3.google.com/u/0/d/114oo2fiYuezO4UPtcsaffsf6hZvWu6xQ=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/114oo2fiYuezO4UPtcsaffsf6hZvWu6xQ/view?usp=sharing",
+            "descripcion": "8. Ley 548 Código Niñ@ Adolescente"
+        },
+        {
+            "id": 9,
+            "imagen": "https://lh3.google.com/u/0/d/10fjLjPA_0nGFqsR-bm1BMZ7HEIXvEryB=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/10fjLjPA_0nGFqsR-bm1BMZ7HEIXvEryB/view?usp=sharing",
+            "descripcion": "9. Reglamento de Administración y Funcionamiento para Unidades Educativas"
+        },
+        {
+            "id": 10,
+            "imagen": "https://lh3.google.com/u/0/d/192VE2oULmXQ1wYe5_ePohJER7kBLSObk=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/192VE2oULmXQ1wYe5_ePohJER7kBLSObk/view?usp=sharing",
+            "descripcion": "10. Planes y programas Area Tecnica Humanistica"
+        },
+        {
+            "id": 11,
+            "imagen": "https://lh3.google.com/u/0/d/10bwFdUOEfufupV94u9527IBphSLLWdCD=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/10bwFdUOEfufupV94u9527IBphSLLWdCD/view?usp=sharing",
+            "descripcion": "11. Reglamento de Evaluacion"
+        },
+        {
+            "id": 12,
+            "imagen": "https://lh3.google.com/u/0/d/1dOktrsFO1IqCYAkHZDsFDHCCEeR-8aqn=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1dOktrsFO1IqCYAkHZDsFDHCCEeR-8aqn/view?usp=sharing",
+            "descripcion": "12. Campo Ciencia Tecnologia y Produccion"
+        },
+        {
+            "id": 13,
+            "imagen": "https://lh3.google.com/u/0/d/1ndVhALKSjMdLalyBnQYO-_15eccxMYOc=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1ndVhALKSjMdLalyBnQYO-_15eccxMYOc/view?usp=sharing",
+            "descripcion": "13. Campo Comunidad y Sociedad"
+        },
+        {
+            "id": 14,
+            "imagen": "https://lh3.google.com/u/0/d/1D8O7HGAVDymYLW5AECUa03Q4EDo_FfrU=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1D8O7HGAVDymYLW5AECUa03Q4EDo_FfrU/view?usp=sharing",
+            "descripcion": "14. Campo Cosmos y Pensamiento"
+        },
+        {
+            "id": 15,
+            "imagen": "https://lh3.google.com/u/0/d/1EBCbzutDaSpgjTnoUR55iiUtA0JjqvSi=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1EBCbzutDaSpgjTnoUR55iiUtA0JjqvSi/view?usp=sharing",
+            "descripcion": "15. Campo Vida Tierra Territorio"
+        },
+        {
+            "id": 16,
+            "imagen": "https://lh3.google.com/u/0/d/1AcFOhKrQ03N0GoT5daLjFSrQE2ZsTEHU=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1AcFOhKrQ03N0GoT5daLjFSrQE2ZsTEHU/view?usp=sharing",
+            "descripcion": "16. Directrices Experiencias Transformadoras 2019 Docente"
+        },
+        {
+            "id": 17,
+            "imagen": "https://lh3.google.com/u/0/d/1CMLKsUeQm1jiW9pvzCo96UgdmPkWWL_B=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1CMLKsUeQm1jiW9pvzCo96UgdmPkWWL_B/view?usp=sharing",
+            "descripcion": "17. Experiencia transformadora docente"
+        },
+        {
+            "id": 18,
+            "imagen": "https://lh3.google.com/u/0/d/1GjfIkW_V6qieI8aeEdC8_Un-Txq4qgLd=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1GjfIkW_V6qieI8aeEdC8_Un-Txq4qgLd/view?usp=sharing",
+            "descripcion": "18. Programas de estudio secundaria 2019"
+        },
+        {
+            "id": 19,
+            "imagen": "https://lh3.google.com/u/0/d/115ir8xg2o3mm8TkKXJ-lqLeH_QyO7o9R=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/115ir8xg2o3mm8TkKXJ-lqLeH_QyO7o9R/view?usp=sharing",
+            "descripcion": "19. plan de desarrollo economico"
+        },
+        {
+            "id": 20,
+            "imagen": "https://lh3.google.com/u/0/d/1lzsq4Ct4RDaKJijHPxgc2iIU4zW8zndD=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1lzsq4Ct4RDaKJijHPxgc2iIU4zW8zndD/view?usp=sharing",
+            "descripcion": "20. Directrices Experiencias Transformadoras 2019 Administrativo"
+        },
+        {
+            "id": 21,
+            "imagen": "https://lh3.google.com/u/0/d/1rHSkxGBHC28RASJ3b3-JM-snlrkA3rXo=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1rHSkxGBHC28RASJ3b3-JM-snlrkA3rXo/view?usp=sharing",
+            "descripcion": "21. Directrices Experiencias Transformadoras 2019 Docente"
+        },
+        {
+            "id": 22,
+            "imagen": "https://lh3.google.com/u/0/d/12TOklmo1iAluSOT3sOVlY7vsy1rdnUyW=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/12TOklmo1iAluSOT3sOVlY7vsy1rdnUyW/view?usp=sharing",
+            "descripcion": "edu-regular"
+        },
+        {
+            "id": 23,
+            "imagen": "https://lh3.google.com/u/0/d/1e6YFje-p549qJtcea86oBeBv7uWJMeVF=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1e6YFje-p549qJtcea86oBeBv7uWJMeVF/view?usp=sharing",
+            "descripcion": "manual de procedimiento rda escalafon"
+        },
+        {
+            "id": 24,
+            "imagen": "https://lh3.google.com/u/0/d/1LAjxWUckr496U6xiUtFCBUMcUKHk6vFx=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1LAjxWUckr496U6xiUtFCBUMcUKHk6vFx/view?usp=sharing",
+            "descripcion": "Reglamento del Escalafon Nacional DS 4688"
+        },
+        {
+            "id": 25,
+            "imagen": "https://lh3.google.com/u/0/d/1uxcUILS4LSLvlfzivmFyUrqHwHf3IXFg=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1uxcUILS4LSLvlfzivmFyUrqHwHf3IXFg/view?usp=sharing",
+            "descripcion": "REGLAMENTO EVALUACI_N (DOC. PRELIMINAR)_2020)"
+        },
+        {
+            "id": 26,
+            "imagen": "https://lh3.google.com/u/0/d/12-POOq-Q9DrhMpUZdqAzujhFEanLHcEU=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/12-POOq-Q9DrhMpUZdqAzujhFEanLHcEU/view?usp=sharing",
+            "descripcion": "REGULAR"
+        },
+        {
+            "id": 27,
+            "imagen": "https://lh3.google.com/u/0/d/1Vjn8zvM7h4UmM9pSR-oT9tqYTrj_IKBC=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1Vjn8zvM7h4UmM9pSR-oT9tqYTrj_IKBC/view?usp=sharing",
+            "descripcion": "resolucion suprema 212414 reglamento faltas"
+        },
+        {
+            "id": 28,
+            "imagen": "https://lh3.google.com/u/0/d/1gteV50PbKnIMGECWTsUhYQxXxA5ofW9s=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1gteV50PbKnIMGECWTsUhYQxXxA5ofW9s/view?usp=sharing",
+            "descripcion": "1. Constitucion Politica del Estado Plurinacional de Bolivia(2)"
+        },
+        {
+            "id": 29,
+            "imagen": "https://lh3.google.com/u/0/d/1_YpcSCJZjIs1dN-zsgkN92OH_7nopC_U=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1_YpcSCJZjIs1dN-zsgkN92OH_7nopC_U/view?usp=sharing",
+            "descripcion": "DS 4260 Complementariedad de las Modalidades de Atencion(1)"
+        },
+        {
+            "id": 30,
+            "imagen": "https://lh3.google.com/u/0/d/1n110nYu5IUYumzQsmExhZ8omUcpMsN0W=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1n110nYu5IUYumzQsmExhZ8omUcpMsN0W/view?usp=sharing",
+            "descripcion": "DS 1302(2)"
+        },
+        {
+            "id": 31,
+            "imagen": "https://lh3.google.com/u/0/d/1fs-kJXnd-TOuVwBKI5-LnglMAc0qaquk=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1fs-kJXnd-TOuVwBKI5-LnglMAc0qaquk/view?usp=sharing",
+            "descripcion": "DS 1320(2)"
+        },
+        {
+            "id": 32,
+            "imagen": "https://lh3.google.com/u/0/d/1vh8IJa5ZrFGAxJTu6EmSXtgYRvrY4rlb=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1vh8IJa5ZrFGAxJTu6EmSXtgYRvrY4rlb/view?usp=sharing",
+            "descripcion": "Ley 045 contra el racismo y toda forma de discriminaci_n(3)"
+        },
+        {
+            "id": 33,
+            "imagen": "https://lh3.google.com/u/0/d/1C3EyKMtiRGb4wHXE1O4YBlw2h29jFl9O=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1C3EyKMtiRGb4wHXE1O4YBlw2h29jFl9O/view?usp=sharing",
+            "descripcion": "ley 548 codigo niña niño y adolescente(2)"
+        },
+        {
+            "id": 34,
+            "imagen": "https://lh3.google.com/u/0/d/1aqlPaFl71ioSPG0wJf9AlMc_t0CJE4u2=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1aqlPaFl71ioSPG0wJf9AlMc_t0CJE4u2/view?usp=sharing",
+            "descripcion": "Ley 004 de lucha contra la corrupcion enriquecimiento ilicito(2)"
+        },
+        {
+            "id": 35,
+            "imagen": "https://lh3.google.com/u/0/d/1ngfhtt8FD-fnmtwHeBkk34ZS7bva92js=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1ngfhtt8FD-fnmtwHeBkk34ZS7bva92js/view?usp=sharing",
+            "descripcion": "Ley 348 Ley integral para garantizar a las mujeres una vida libre(2)"
+        },
+        {
+            "id": 36,
+            "imagen": "https://lh3.google.com/u/0/d/1ZyAuO5sgMoMKRmzLV5m5967eotFUxq1-=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1ZyAuO5sgMoMKRmzLV5m5967eotFUxq1-/view?usp=sharing",
+            "descripcion": "Ley 450 de Proteccion a Naciones y Pueblos Originarios Indigena(1)"
+        },
+        {
+            "id": 37,
+            "imagen": "https://lh3.google.com/u/0/d/1qKoiu3eVbs5o189PuPZmxVMxVPgrwQAf=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1qKoiu3eVbs5o189PuPZmxVMxVPgrwQAf/view?usp=sharing",
+            "descripcion": "01 Lineamientos EPJA DISTANCIA(1)"
+        },
+        {
+            "id": 38,
+            "imagen": "https://lh3.google.com/u/0/d/1DBYofXpHflR7IZTROKYa3AAf3vpgW5l_=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1DBYofXpHflR7IZTROKYa3AAf3vpgW5l_/view?usp=sharing",
+            "descripcion": "02 rm 517 reconocimiento saberes(1)"
+        },
+        {
+            "id": 39,
+            "imagen": "https://lh3.google.com/u/0/d/1rqRoytyRtGIR5T3-KOWUvOUJCJNSWSk4=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1rqRoytyRtGIR5T3-KOWUvOUJCJNSWSk4/view?usp=sharing",
+            "descripcion": "06 reglamento certificacion rm 873-2014(1)"
+        },
+        {
+            "id": 40,
+            "imagen": "https://lh3.google.com/u/0/d/1YAIBa5IsmKdC-yTU2Ou08s0Z6JC3qzfX=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1YAIBa5IsmKdC-yTU2Ou08s0Z6JC3qzfX/view?usp=sharing",
+            "descripcion": "07 reglamento evaluacion EDUPER rm 1012-2014(1)"
+        },
+        {
+            "id": 41,
+            "imagen": "https://lh3.google.com/u/0/d/12QWI6AHaJ4urlpntUlqUfZ1QX5bIeFVt=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/12QWI6AHaJ4urlpntUlqUfZ1QX5bIeFVt/view?usp=sharing",
+            "descripcion": "08 guia metodologica productiva EDUPER(1)"
+        },
+        {
+            "id": 42,
+            "imagen": "https://lh3.google.com/u/0/d/17mBNVDxx4W2n1vpGfzAhQggHT1clfoLm=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/17mBNVDxx4W2n1vpGfzAhQggHT1clfoLm/view?usp=sharing",
+            "descripcion": "09 reglamento evaluacion EPJA rm 277-2016(1)"
+        },
+        {
+            "id": 43,
+            "imagen": "https://lh3.google.com/u/0/d/1ZMS9wKF4BDybTyO0nMY-CqMfmi2Mylde=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1ZMS9wKF4BDybTyO0nMY-CqMfmi2Mylde/view?usp=sharing",
+            "descripcion": "10 normativa continuidad estudio soldados(1)"
+        },
+        {
+            "id": 44,
+            "imagen": "https://lh3.google.com/u/0/d/12-uzLOR1qz476sKRTnXolDwXcCY9NvfV=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/12-uzLOR1qz476sKRTnXolDwXcCY9NvfV/view?usp=sharing",
+            "descripcion": "11 lineamientos contextos cerrados(1)"
+        },
+        {
+            "id": 45,
+            "imagen": "https://lh3.google.com/u/0/d/1thTwefE8I-x5sHXQqklGrk3uadTx1Jzt=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1thTwefE8I-x5sHXQqklGrk3uadTx1Jzt/view?usp=sharing",
+            "descripcion": "12 curriculo educacion primaria EPJA(1)"
+        },
+        {
+            "id": 46,
+            "imagen": "https://lh3.google.com/u/0/d/19Z0rJyClSV7DVEHRcjZcYBgdN46qmJpE=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/19Z0rJyClSV7DVEHRcjZcYBgdN46qmJpE/view?usp=sharing",
+            "descripcion": "13 rm 849-2018 reglamto spcc(1)"
+        },
+        {
+            "id": 47,
+            "imagen": "https://lh3.google.com/u/0/d/13kiT7s4xR88pgH-2C8zFoGGweEfIzIth=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/13kiT7s4xR88pgH-2C8zFoGGweEfIzIth/view?usp=sharing",
+            "descripcion": "01 decreto supremo 2950(1)"
+        },
+        {
+            "id": 48,
+            "imagen": "https://lh3.google.com/u/0/d/1lJ0bwqqUbFGJOpzHoZos3V3fkIAJu9bN=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1lJ0bwqqUbFGJOpzHoZos3V3fkIAJu9bN/view?usp=sharing",
+            "descripcion": "02 decreto supremo 2629(1)"
+        },
+        {
+            "id": 49,
+            "imagen": "https://lh3.google.com/u/0/d/1GQO_9I2To25jJJlFuv79wWsdiSEb6gGN=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1GQO_9I2To25jJJlFuv79wWsdiSEb6gGN/view?usp=sharing",
+            "descripcion": "03 curriculo atencion discap visual(1)"
+        },
+        {
+            "id": 50,
+            "imagen": "https://lh3.google.com/u/0/d/1IxOVBf9nTtykQzc3easlz2HOKhg9qq4_=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1IxOVBf9nTtykQzc3easlz2HOKhg9qq4_/view?usp=sharing",
+            "descripcion": "04 curriculo personas sordas(1)"
+        },
+        {
+            "id": 51,
+            "imagen": "https://lh3.google.com/u/0/d/1e5aOALuUWeInQkZJwu-DxB1XqY-sfd1N=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1e5aOALuUWeInQkZJwu-DxB1XqY-sfd1N/view?usp=sharing",
+            "descripcion": "05 curriculo atencion estudiantes ciegos(1)"
+        },
+        {
+            "id": 52,
+            "imagen": "https://lh3.google.com/u/0/d/1WcEcj5u1fmrK-zUYEvU1RomTfJy2U83-=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1WcEcj5u1fmrK-zUYEvU1RomTfJy2U83-/view?usp=sharing",
+            "descripcion": "06 guia familia comunidad sordas(1)"
+        },
+        {
+            "id": 53,
+            "imagen": "https://lh3.google.com/u/0/d/1BSXQTQOI1nqzjis5hJWrsCiEskn2NAcS=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1BSXQTQOI1nqzjis5hJWrsCiEskn2NAcS/view?usp=sharing",
+            "descripcion": "07 guia familia comunidad ciegas(1)"
+        },
+        {
+            "id": 54,
+            "imagen": "https://lh3.google.com/u/0/d/1PIKRaG7Tjt-XmwWt2mapxMVeDSC98H41=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1PIKRaG7Tjt-XmwWt2mapxMVeDSC98H41/view?usp=sharing",
+            "descripcion": "08 guia discapacidad intelectual(1)"
+        },
+        {
+            "id": 55,
+            "imagen": "https://lh3.google.com/u/0/d/174lOynl4w_osUgxyiulfywLrum1rQ6W4=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/174lOynl4w_osUgxyiulfywLrum1rQ6W4/view?usp=sharing",
+            "descripcion": "09 reglamento atencion personas talento extra(1)"
+        },
+        {
+            "id": 56,
+            "imagen": "https://lh3.google.com/u/0/d/1VOya02OP4qNzeJ-oeU7u6pVSIpwTzCe8=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1VOya02OP4qNzeJ-oeU7u6pVSIpwTzCe8/view?usp=sharing",
+            "descripcion": "10 programa dificultades en el aprendizaje(1)"
+        },
+        {
+            "id": 57,
+            "imagen": "https://lh3.google.com/u/0/d/1Wz_morKip--QH8udE46iooZ0OWbb0Y3p=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1Wz_morKip--QH8udE46iooZ0OWbb0Y3p/view?usp=sharing",
+            "descripcion": "Lineamientos para la Atención a Estudiantes con Dificultades"
+        },
+        {
+            "id": 58,
+            "imagen": "https://lh3.google.com/u/0/d/1_p5ZALzXSVF7uB6roBXN_NIvyem9Zoa7=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1_p5ZALzXSVF7uB6roBXN_NIvyem9Zoa7/view?usp=sharing",
+            "descripcion": "11 reglamento accesibilidad y eliminacion barreras(1)"
+        },
+        {
+            "id": 59,
+            "imagen": "https://lh3.google.com/u/0/d/1cpJ-RlKE_nTPSyTfUUxOYjUeTCpF67Kz=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1cpJ-RlKE_nTPSyTfUUxOYjUeTCpF67Kz/view?usp=sharing",
+            "descripcion": "Ley 4024 Convención de Derechos de personas con Discapacidad"
+        },
+        {
+            "id": 60,
+            "imagen": "https://lh3.google.com/u/0/d/1sJbuK7GVktuBySyphbPkBvY6iewiy-YH=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1sJbuK7GVktuBySyphbPkBvY6iewiy-YH/view?usp=sharing",
+            "descripcion": "14 Reglamento Especifico de Complementariedad de modalidades"
+        },
+        {
+            "id": 61,
+            "imagen": "https://lh3.google.com/u/0/d/1zkuBIN1D6FlotKJ7Jr2JqxJ_WV0JwZWz=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1zkuBIN1D6FlotKJ7Jr2JqxJ_WV0JwZWz/view?usp=sharing",
+            "descripcion": "01. Normas Basicas para la gestion Educativa R.M. 001-SEAyE(1)"
+        },
+        {
+            "id": 62,
+            "imagen": "https://lh3.google.com/u/0/d/1zkuBIN1D6FlotKJ7Jr2JqxJ_WV0JwZWz=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1zkuBIN1D6FlotKJ7Jr2JqxJ_WV0JwZWz/view?usp=sharing",
+            "descripcion": "05. Ley 1322 Derechos de Autor(1)"
+        },
+        {
+            "id": 63,
+            "imagen": "https://lh3.google.com/u/0/d/14blq678knSdEwK5uTkdsAXn3QkziYh9h=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/14blq678knSdEwK5uTkdsAXn3QkziYh9h/view?usp=sharing",
+            "descripcion": "06 DS 4260 Complementariedad de las Modalidades de Atencion"
+        },
+        {
+            "id": 64,
+            "imagen": "https://lh3.google.com/u/0/d/1dJucnsZy3UmMplekecrHZHXrWezkFnHH=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1dJucnsZy3UmMplekecrHZHXrWezkFnHH/view?usp=sharing",
+            "descripcion": "curriculo base epja 2015(1)"
+        },
+        {
+            "id": 65,
+            "imagen": "https://lh3.google.com/u/0/d/1dlBGSoj77yI6kE-91BgMd9zwcSJj55XC=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1dlBGSoj77yI6kE-91BgMd9zwcSJj55XC/view?usp=sharing",
+            "descripcion": "lineamientos educacion especial(1)"
+        },
+        {
+            "id": 66,
+            "imagen": "https://lh3.google.com/u/0/d/1nu_JFW0iZfgNqkFd8vKiwMGcOpOt8nAU=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1nu_JFW0iZfgNqkFd8vKiwMGcOpOt8nAU/view?usp=sharing",
+            "descripcion": "lineamientos metodologicos eduper 2016(1)"
+        },
+        {
+            "id": 67,
+            "imagen": "https://lh3.google.com/u/0/d/1dLe5V8lJ_XHE88hxBfuCglPycFTSPkWL=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1dLe5V8lJ_XHE88hxBfuCglPycFTSPkWL/view?usp=sharing",
+            "descripcion": "1. Constitucion Politica del Estado Plurinacional de Bolivia(1)"
+        },
+        {
+            "id": 68,
+            "imagen": "https://lh3.google.com/u/0/d/1hwvTiS0EIjznLEmp98tZ4CiSN3ZIz4QW=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1hwvTiS0EIjznLEmp98tZ4CiSN3ZIz4QW/view?usp=sharing",
+            "descripcion": "3.  Curriculo Base del SEP, diciembre de 2012(1)"
+        },
+        {
+            "id": 69,
+            "imagen": "https://lh3.google.com/u/0/d/1sBTNU47giezHwp3j7pNxpak8-8Q6x2lx=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1sBTNU47giezHwp3j7pNxpak8-8Q6x2lx/view?usp=sharing",
+            "descripcion": "6. Ley 1178 de administración y control gubernamental SAFCO(1)"
+        },
+        {
+            "id": 70,
+            "imagen": "https://lh3.google.com/u/0/d/1xcz6aeup1zwnSxDXnnCfuVV2EnQHJuIs=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1xcz6aeup1zwnSxDXnnCfuVV2EnQHJuIs/view?usp=sharing",
+            "descripcion": "7. Reglamento del Escalafon Nacional DS 4688(1)"
+        },
+        {
+            "id": 71,
+            "imagen": "https://lh3.google.com/u/0/d/1xY3QboJSmuJf-ODdJQ2V4E7sQ8v2FiCF=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1xY3QboJSmuJf-ODdJQ2V4E7sQ8v2FiCF/view?usp=sharing",
+            "descripcion": "11. Ley 031 Marco Autonomías Descentralización(1)"
+        },
+        {
+            "id": 72,
+            "imagen": "https://lh3.google.com/u/0/d/1PbjzTGeyERumX2njdNZ2A6HlJeLmev5G=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1PbjzTGeyERumX2njdNZ2A6HlJeLmev5G/view?usp=sharing",
+            "descripcion": "12. Ley 223 para Personas con Discapacidad PDF(1)"
+        },
+        {
+            "id": 73,
+            "imagen": "https://lh3.google.com/u/0/d/1BWGEo4cQxLH-kjJ228ifCklkbelyyGHF=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1BWGEo4cQxLH-kjJ228ifCklkbelyyGHF/view?usp=sharing",
+            "descripcion": "Ley 045 contra el racismo y toda forma de discriminaci_n(1)"
+        },
+        {
+            "id": 74,
+            "imagen": "https://lh3.google.com/u/0/d/1uIy_3qfKicUAaZNUDd8VmWfQfpiBvU4-=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1uIy_3qfKicUAaZNUDd8VmWfQfpiBvU4-/view?usp=sharing",
+            "descripcion": "Ley 004 de lucha contra la corrupcion enriquecimiento ilicito I"
+        },
+        {
+            "id": 75,
+            "imagen": "https://lh3.google.com/u/0/d/1JXXTKYi8JULilnwf4Vj_3eJAFpxxKIoA=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1JXXTKYi8JULilnwf4Vj_3eJAFpxxKIoA/view?usp=sharing",
+            "descripcion": "LEY 070 AVELINO SINANI ELIZARDO PEREZ(1)"
+        },
+        {
+            "id": 76,
+            "imagen": "https://lh3.google.com/u/0/d/1ip9HaY44E7H6pbpEXQpdmu180lDjCEgV=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1ip9HaY44E7H6pbpEXQpdmu180lDjCEgV/view?usp=sharing",
+            "descripcion": "Ley 348 Ley integral para garantizar a las mujeres una vida libre"
+        },
+        {
+            "id": 77,
+            "imagen": "https://lh3.google.com/u/0/d/1IdNCnT9d_vNBgynCel_Qavfi5_a6pmMy=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1IdNCnT9d_vNBgynCel_Qavfi5_a6pmMy/view?usp=sharing",
+            "descripcion": "resolucion suprema 212414 reglamento faltas(1)"
+        },
+        {
+            "id": 78,
+            "imagen": "https://lh3.google.com/u/0/d/1rD6pvXoeGvBYiNYfiKLpkjzkS9SijbL-=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1rD6pvXoeGvBYiNYfiKLpkjzkS9SijbL-/view?usp=sharing",
+            "descripcion": "B. Cyrulink Los patitos feos (1)(1)"
+        },
+        {
+            "id": 79,
+            "imagen": "https://lh3.google.com/u/0/d/1rEyAh9Be9kb__KwKXhVkZBWg1h6a_nP-=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1rEyAh9Be9kb__KwKXhVkZBWg1h6a_nP-/view?usp=sharing",
+            "descripcion": "CONCEPCIONES_VALORACION_NPIOS st"
+        },
+        {
+            "id": 80,
+            "imagen": "https://lh3.google.com/u/0/d/1t3AQfeMOcx1oFG8oIMophaPuK8dxZJhK=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1t3AQfeMOcx1oFG8oIMophaPuK8dxZJhK/view?usp=sharing",
+            "descripcion": "Freire, Paulo - pedagogia de la autonomia(1)"
+        },
+        {
+            "id": 81,
+            "imagen": "https://lh3.google.com/u/0/d/1eDYjL7hWXCUHEIEjdVcTFrTaonw3A8cY=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1eDYjL7hWXCUHEIEjdVcTFrTaonw3A8cY/view?usp=sharing",
+            "descripcion": "Howard Gardner Estructuras de la mente(1)"
+        },
+        {
+            "id": 82,
+            "imagen": "https://lh3.google.com/u/0/d/1djvBzXWfXfuLt72kKSoArB96bIH1Csqy=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1djvBzXWfXfuLt72kKSoArB96bIH1Csqy/view?usp=sharing",
+            "descripcion": "Jacques Rancière El_Maestro ignorante Cinco lecciones sobre la emancipación"
+        },
+        {
+            "id": 83,
+            "imagen": "https://lh3.google.com/u/0/d/16ksx2QD2J6TsF9XZFjZZ6BYodIIZhaaX=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/16ksx2QD2J6TsF9XZFjZZ6BYodIIZhaaX/view?usp=sharing",
+            "descripcion": "M. Borba La autoestima de tu hijo(1)"
+        },
+        {
+            "id": 84,
+            "imagen": "https://lh3.google.com/u/0/d/1AaMBrVwYFDQP6vag0QCWIAeNeVl8ETY3=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1AaMBrVwYFDQP6vag0QCWIAeNeVl8ETY3/view?usp=sharing",
+            "descripcion": "M. Vallet Atrévetecon su niñez(1)"
+        },
+        {
+            "id": 85,
+            "imagen": "https://lh3.google.com/u/0/d/1YyOof9ogE5Jfv7OGhTZ2m5ZYg_dCXfaR=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1YyOof9ogE5Jfv7OGhTZ2m5ZYg_dCXfaR/view?usp=sharing",
+            "descripcion": "Por una pedagogía de la Pregunta(1)"
+        },
+        {
+            "id": 87,
+            "imagen": "https://lh3.google.com/u/0/d/1HeEW_R3w3gfHZ__7PkT3s2Mtk-au98qy=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1HeEW_R3w3gfHZ__7PkT3s2Mtk-au98qy/view?usp=sharing",
+            "descripcion": "R. Largo Individualidad Humana Cap. 3(1)"
+        },
+        {
+            "id": 88,
+            "imagen": "https://lh3.google.com/u/0/d/1Z4nPRJgknbaj98hyjFweoFf555JDzzmC=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1Z4nPRJgknbaj98hyjFweoFf555JDzzmC/view?usp=sharing",
+            "descripcion": "R. Largo Individualidad Humana Cap. 5(1)"
+        },
+        {
+            "id": 89,
+            "imagen": "https://lh3.google.com/u/0/d/1-MyIOANCujHt-oR07PZ8UqK8TnRHdltk=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1-MyIOANCujHt-oR07PZ8UqK8TnRHdltk/view?usp=sharing",
+            "descripcion": "R. Largo Individualidad Humana Cap. 7(1)"
+        },
+        {
+            "id": 90,
+            "imagen": "https://lh3.google.com/u/0/d/1a_MeqDXpug-010JQKdZ82jppWVrV9slt=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1a_MeqDXpug-010JQKdZ82jppWVrV9slt/view?usp=sharing",
+            "descripcion": "R. Largo Individualidad Humana Cap. 8(1)"
+        },
+        {
+            "id": 91,
+            "imagen": "https://lh3.google.com/u/0/d/1hmxc72MMl6WejPF6hXlA-lhTI0iHFZcj=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1hmxc72MMl6WejPF6hXlA-lhTI0iHFZcj/view?usp=sharing",
+            "descripcion": "Revista EDUCERE Aportes de kas teorías de Vygotsky, Piaget, Bandura"
+        },
+        {
+            "id": 92,
+            "imagen": "https://lh3.google.com/u/0/d/1NlaYwExQ-k6w1cUc7Z0H0yZHGJWmheXj=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1NlaYwExQ-k6w1cUc7Z0H0yZHGJWmheXj/view?usp=sharing",
+            "descripcion": "Salazar, Carlos - La Taika(1)"
+        },
+        {
+            "id": 93,
+            "imagen": "https://lh3.google.com/u/0/d/1wLKgWv7NiT-6ek8fx82JJfaFha8ZiQOM=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1wLKgWv7NiT-6ek8fx82JJfaFha8ZiQOM/view?usp=sharing",
+            "descripcion": "Alvin Toffler - La tercera ola(1)"
+        },
+        {
+            "id": 94,
+            "imagen": "https://lh3.google.com/u/0/d/1sQX6Ov2rO3IrK98gcbBk3eIMMItaydE7=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1sQX6Ov2rO3IrK98gcbBk3eIMMItaydE7/view?usp=sharing",
+            "descripcion": "C. González Bésame mucho(1)"
+        },
+        {
+            "id": 95,
+            "imagen": "https://lh3.google.com/u/0/d/1q31eq_ul_SLMaLLlQLTU0Pm8CLjIwQ7e=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1q31eq_ul_SLMaLLlQLTU0Pm8CLjIwQ7e/view?usp=sharing",
+            "descripcion": "Francesco Tunucci - La ciudad de los Niños(1)"
+        },
+        {
+            "id": 96,
+            "imagen": "https://lh3.google.com/u/0/d/18E8WhvMxwaYyB4V6E-t39JtNDwDfiyfR=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/18E8WhvMxwaYyB4V6E-t39JtNDwDfiyfR/view?usp=sharing",
+            "descripcion": "Las condiciones de un pensar situado(1)"
+        },
+        {
+            "id": 97,
+            "imagen": "https://lh3.google.com/u/0/d/1NvJoZgbHo29G7E25pOEtUKVQd3YN1i4u=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1NvJoZgbHo29G7E25pOEtUKVQd3YN1i4u/view?usp=sharing",
+            "descripcion": "Mariano Baptista Gumucio - Salvemos a Bolivia de la escuela(1)"
+        },
+        {
+            "id": 98,
+            "imagen": "https://lh3.google.com/u/0/d/1dJeYR3DcGcYdWlKPgXXGibb1ZhXBdvKg=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1dJeYR3DcGcYdWlKPgXXGibb1ZhXBdvKg/view?usp=sharing",
+            "descripcion": "Rosenberg - Comunicación no violenta(1)"
+        },
+        {
+            "id": 99,
+            "imagen": "https://lh3.google.com/u/0/d/1Yk7WrQt7DA_4xIEfADOn_Oqp2JvBixVo=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1Yk7WrQt7DA_4xIEfADOn_Oqp2JvBixVo/view?usp=sharing",
+            "descripcion": "Salazar, Carlos - La Taika(2)"
+        },
+        {
+            "id": 100,
+            "imagen": "https://lh3.google.com/u/0/d/13yInHRX03os3R4FaPEZrp3AQ5NWWBPq_=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/13yInHRX03os3R4FaPEZrp3AQ5NWWBPq_/view?usp=sharing",
+            "descripcion": "TEORÍA INTELIGENCIAS MÚLTIPLES H.GARDNER(1)"
+        },
+        {
+            "id": 101,
+            "imagen": "https://lh3.google.com/u/0/d/19UTEni_Z46jB8GQ5VxTeVDtE_ppUNSl4=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/19UTEni_Z46jB8GQ5VxTeVDtE_ppUNSl4/view?usp=sharing",
+            "descripcion": "CORTES, SECCIONES Y ROTURAS (1)"
+        },
+        {
+            "id": 102,
+            "imagen": "https://lh3.google.com/u/0/d/1OWDkBKRmgDZzvOSbJc6pXQbECi2iwmut=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1OWDkBKRmgDZzvOSbJc6pXQbECi2iwmut/view?usp=sharing",
+            "descripcion": "DIBUJO INDUSTRIAL MANUAL DE APOYO Y DOCENCIA(1)"
+        },
+        {
+            "id": 103,
+            "imagen": "https://lh3.google.com/u/0/d/1pXzE1AbkCQhx3nyu1EX46bm1AsHhzdMj=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1pXzE1AbkCQhx3nyu1EX46bm1AsHhzdMj/view?usp=sharing",
+            "descripcion": "Geometricos y Tecnica(1)"
+        },
+        {
+            "id": 104,
+            "imagen": "https://lh3.google.com/u/0/d/17ky2MY0IuiR5m4YUA-3-A4-XkLYTLq73=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/17ky2MY0IuiR5m4YUA-3-A4-XkLYTLq73/view?usp=sharing",
+            "descripcion": "MINISTERIO DE CULTURA - ATLAS PATRIMONIAL DE BOLIVIA(1)"
+        },
+        {
+            "id": 105,
+            "imagen": "https://lh3.google.com/u/0/d/1V7kRwuVGrIyIllTlM4fwM5I7RQOSRBxi=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1V7kRwuVGrIyIllTlM4fwM5I7RQOSRBxi/view?usp=sharing",
+            "descripcion": "MINISTERIO DE EDUCACION - HISTORIA DEL ARTE DEL ABYA YALA(1)"
+        },
+        {
+            "id": 106,
+            "imagen": "https://lh3.google.com/u/0/d/1LIF5lSZfkUon7hfFQdqPq8VLEiSN0TiX=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1LIF5lSZfkUon7hfFQdqPq8VLEiSN0TiX/view?usp=sharing",
+            "descripcion": "BIOLOGIA GENERAL DE CURTIS(1)"
+        },
+        {
+            "id": 107,
+            "imagen": "https://lh3.google.com/u/0/d/1P7KgoGNiUQ9x3TxBz8jVee6p3HsJBjNc=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1P7KgoGNiUQ9x3TxBz8jVee6p3HsJBjNc/view?usp=sharing",
+            "descripcion": "bol151018(1)"
+        },
+        {
+            "id": 108,
+            "imagen": "https://lh3.google.com/u/0/d/1tPxC-FO8L9pfwdkSV2YR8DXW2hdJv_Ir=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1tPxC-FO8L9pfwdkSV2YR8DXW2hdJv_Ir/view?usp=sharing",
+            "descripcion": "estrategias didacticas para enseñar geografia(1)"
+        },
+        {
+            "id": 109,
+            "imagen": "https://lh3.google.com/u/0/d/17_mvIfykPZJrZD_a5Tfhr3XLSMNtN-Xo=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/17_mvIfykPZJrZD_a5Tfhr3XLSMNtN-Xo/view?usp=sharing",
+            "descripcion": "GUIA ALIMENTARIA PARA LAS ADOLESCENTES"
+        },
+        {
+            "id": 110,
+            "imagen": "https://lh3.google.com/u/0/d/13GiaGGp6se6q4vGR0pJ-9zmrJycDk5uB=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/13GiaGGp6se6q4vGR0pJ-9zmrJycDk5uB/view?usp=sharing",
+            "descripcion": "La Geografía entre las ciencias naturales y sociales(1)"
+        },
+        {
+            "id": 111,
+            "imagen": "https://lh3.google.com/u/0/d/10e0ZP8SHKV7B1kdCBrxha_YwRFxYmSby=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/10e0ZP8SHKV7B1kdCBrxha_YwRFxYmSby/view?usp=sharing",
+            "descripcion": "La Trama de la Vida, Una nueva perspectiva de los sistemas(1)"
+        },
+        {
+            "id": 112,
+            "imagen": "https://lh3.google.com/u/0/d/1JL4lApTMygjHbtHENSj5nKaZdFMbeUQV=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1JL4lApTMygjHbtHENSj5nKaZdFMbeUQV/view?usp=sharing",
+            "descripcion": "1ra Guerra Mundial(1)"
+        },
+        {
+            "id": 113,
+            "imagen": "https://lh3.google.com/u/0/d/1mDA0OmiGUtU4AnixSvfhTnERj-66cgPt=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1mDA0OmiGUtU4AnixSvfhTnERj-66cgPt/view?usp=sharing",
+            "descripcion": "2da Guerra Mundial(1)"
+        },
+        {
+            "id": 114,
+            "imagen": "https://lh3.google.com/u/0/d/1ifSs57QzntVzVLJd3Fed0fif4vprE4gS=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1ifSs57QzntVzVLJd3Fed0fif4vprE4gS/view?usp=sharing",
+            "descripcion": "aci03104-1(1)"
+        },
+        {
+            "id": 115,
+            "imagen": "https://lh3.google.com/u/0/d/1OFbDZyc-nRFJwH0tiCnIed-MNh8OT-vc=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1OFbDZyc-nRFJwH0tiCnIed-MNh8OT-vc/view?usp=sharing",
+            "descripcion": "Cartas para comprender la historia de Bolivia Mariano Baptista"
+        },
+        {
+            "id": 116,
+            "imagen": "https://lh3.google.com/u/0/d/15BbKBe2s-vnhza8uiL-mwJzZv29dZVKe=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/15BbKBe2s-vnhza8uiL-mwJzZv29dZVKe/view?usp=sharing",
+            "descripcion": "El papel del trabajo en la transformacion del mono en hombre(1)"
+        },
+        {
+            "id": 117,
+            "imagen": "https://lh3.google.com/u/0/d/1smwD9ldDttOig9BYV6IJ7qMZ5u4u8VIY=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1smwD9ldDttOig9BYV6IJ7qMZ5u4u8VIY/view?usp=sharing",
+            "descripcion": "Guerras de Bolivia(1)"
+        },
+        {
+            "id": 118,
+            "imagen": "https://lh3.google.com/u/0/d/1y3Eq53_KWOhcp4F8pYlSAQDDribbzGGB=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1y3Eq53_KWOhcp4F8pYlSAQDDribbzGGB/view?usp=sharing",
+            "descripcion": "La mas bella historia del mundo(1)"
+        },
+        {
+            "id": 120,
+            "imagen": "https://lh3.google.com/u/0/d/10OuqIBoF0koQCioVr3f2P07du8EZ48FD=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/10OuqIBoF0koQCioVr3f2P07du8EZ48FD/view?usp=sharing",
+            "descripcion": "Wabgou, Maguemati Colonización y Descolonización en África y Asia"
+        },
+        {
+            "id": 121,
+            "imagen": "https://lh3.google.com/u/0/d/1xWkIWoI973GjiFfh2SgQzjUJjPCax1bU=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1xWkIWoI973GjiFfh2SgQzjUJjPCax1bU/view?usp=sharing",
+            "descripcion": "Cassany Daniel, Investigaciones y Propuestas Sobre Literacidad Actual"
+        },
+        {
+            "id": 122,
+            "imagen": "https://lh3.google.com/u/0/d/1JQi8c9eUaU2df5EhJlUz2q-ff5n2f-l-=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1JQi8c9eUaU2df5EhJlUz2q-ff5n2f-l-/view?usp=sharing",
+            "descripcion": "DECLARACIÓN UNIVERSAL DE DERECHOS LINGUISTICOS(1)"
+        },
+        {
+            "id": 123,
+            "imagen": "https://lh3.google.com/u/0/d/13VBQkO1G2-UHOxBbbUHudWof7n7XoByV=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/13VBQkO1G2-UHOxBbbUHudWof7n7XoByV/view?usp=sharing",
+            "descripcion": "hacia una historia critica de la literatura (1)(1)"
+        },
+        {
+            "id": 124,
+            "imagen": "https://lh3.google.com/u/0/d/1IYhcmsCM88xb7iNyTbE8gDYJT6DhPg8l=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1IYhcmsCM88xb7iNyTbE8gDYJT6DhPg8l/view?usp=sharing",
+            "descripcion": "Muñoz Cadima, W. Oscar. 1981. Teatro boliviano(1)"
+        },
+        {
+            "id": 125,
+            "imagen": "https://lh3.google.com/u/0/d/1TB-USqRk2dGvoXvRZS9ImCapqPO05sMX=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1TB-USqRk2dGvoXvRZS9ImCapqPO05sMX/view?usp=sharing",
+            "descripcion": "Saussure Ferdinand Curso de Linguistica General"
+        },
+        {
+            "id": 126,
+            "imagen": "https://lh3.google.com/u/0/d/1LC2c3XJOCA4zC-zrdaTnZynUEqxIMC2G=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1LC2c3XJOCA4zC-zrdaTnZynUEqxIMC2G/view?usp=sharing",
+            "descripcion": "Soria, Mario T. (1980). Teatro boliviano(1)"
+        },
+        {
+            "id": 127,
+            "imagen": "https://lh3.google.com/u/0/d/1G-kMPL8mjH_Y6eRqbQoqw_C44GI1G1m1=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1G-kMPL8mjH_Y6eRqbQoqw_C44GI1G1m1/view?usp=sharing",
+            "descripcion": "3 Pensar lo sicomotor Capítulo 10 con el lenguaje en el Cuerpo"
+        },
+        {
+            "id": 128,
+            "imagen": "https://lh3.google.com/u/0/d/1wgESjXfrNVvmDbWlcvjkYc32vmpCTsto=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1wgESjXfrNVvmDbWlcvjkYc32vmpCTsto/view?usp=sharing",
+            "descripcion": "El capital social del Deporte(1)"
+        },
+        {
+            "id": 129,
+            "imagen": "https://lh3.google.com/u/0/d/1bXNqcWyMn6LJohWy9rmSAk04jifaSgWm=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1bXNqcWyMn6LJohWy9rmSAk04jifaSgWm/view?usp=sharing",
+            "descripcion": "La Cooperacion como Alternativa en Educacion Fisica(1)"
+        },
+        {
+            "id": 130,
+            "imagen": "https://lh3.google.com/u/0/d/1f4x7EFghnnikywI4tZg1YBdSS07qdMl4=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1f4x7EFghnnikywI4tZg1YBdSS07qdMl4/view?usp=sharing",
+            "descripcion": "Programa de Estudio Educacion Primaria Comunitaria Vocacional"
+        },
+        {
+            "id": 131,
+            "imagen": "https://lh3.google.com/u/0/d/1LO-WXrWHHZ9V4hCR13Gb5NvHi5ONMsj-=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1LO-WXrWHHZ9V4hCR13Gb5NvHi5ONMsj-/view?usp=sharing",
+            "descripcion": "TX01 COMUNIDAD Y SOCIEDAD"
+        },
+        {
+            "id": 132,
+            "imagen": "https://lh3.google.com/u/0/d/1gXifxkD2FmVGR3Is4X0fsddTPJHMvVw3=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1gXifxkD2FmVGR3Is4X0fsddTPJHMvVw3/view?usp=sharing",
+            "descripcion": "Instrumentos Musicales durante el Horizonte medio(1)"
+        },
+        {
+            "id": 133,
+            "imagen": "https://lh3.google.com/u/0/d/11VMZmky-uWZWrsQ3dd7_c3HdYI7UN26W=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/11VMZmky-uWZWrsQ3dd7_c3HdYI7UN26W/view?usp=sharing",
+            "descripcion": "la voz la tecnica y la expresion(1)"
+        },
+        {
+            "id": 134,
+            "imagen": "https://lh3.google.com/u/0/d/1hTrUw79rtRxEITxWhCOi6bj5J6H3PeTB=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1hTrUw79rtRxEITxWhCOi6bj5J6H3PeTB/view?usp=sharing",
+            "descripcion": "ORIGENES Y EVOLUCION DE LOS INSTRUMENTOS ANDINOS GUTIERREZ RAMIRO"
+        },
+        {
+            "id": 135,
+            "imagen": "https://lh3.google.com/u/0/d/1hCpd_fgh-lUmDrtfgVJR5dNN4VzXlKU-=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1hCpd_fgh-lUmDrtfgVJR5dNN4VzXlKU-/view?usp=sharing",
+            "descripcion": "Sanzetenea Ramon, INSTRUMENTOS SONOROS EN LAS CULTURAS PREHISPÁNICAS"
+        },
+        {
+            "id": 136,
+            "imagen": "https://lh3.google.com/u/0/d/1E_ZrCVRbKzA0UgAY3m4Z7cy-mby4I8n-=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1E_ZrCVRbKzA0UgAY3m4Z7cy-mby4I8n-/view?usp=sharing",
+            "descripcion": "TX_MUSICA E HISTORIA RGC(1)"
+        },
+        {
+            "id": 137,
+            "imagen": "https://lh3.google.com/u/0/d/1uriMSqhFY0LRpdYSMJAYFkoSvwO5jSQs=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1uriMSqhFY0LRpdYSMJAYFkoSvwO5jSQs/view?usp=sharing",
+            "descripcion": "4. psicologia basica angulo(1)"
+        },
+        {
+            "id": 138,
+            "imagen": "https://lh3.google.com/u/0/d/1w_hH1HD1d-6m7XWzKSL9HLAHk7pUSczm=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1w_hH1HD1d-6m7XWzKSL9HLAHk7pUSczm/view?usp=sharing",
+            "descripcion": "Gramsci-Introduccion Al EstudioDeLa Filosofia(1)"
+        },
+        {
+            "id": 139,
+            "imagen": "https://lh3.google.com/u/0/d/1oJe2cL2EhFeJSPWhA6HfN7IsWX1ZEUH1=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1oJe2cL2EhFeJSPWhA6HfN7IsWX1ZEUH1/view?usp=sharing",
+            "descripcion": "L_gica simb_lica, l_gica proposicional(2)"
+        },
+        {
+            "id": 140,
+            "imagen": "https://lh3.google.com/u/0/d/1c_c1HK660dH0lrZyOmpxZwXNCDkPX43c=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1c_c1HK660dH0lrZyOmpxZwXNCDkPX43c/view?usp=sharing",
+            "descripcion": "LA PROPUESTA DE VYGOTSKY LA PSICOLOGÍA SOCIOHISTÓRICA(1)"
+        },
+        {
+            "id": 141,
+            "imagen": "https://lh3.google.com/u/0/d/1MSaHJufWGbGj-itI1dm-5yj3kHhW6ZNP=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1MSaHJufWGbGj-itI1dm-5yj3kHhW6ZNP/view?usp=sharing",
+            "descripcion": "Fisica (Tipler, Mosca) Vol.II 3º Edicion.Editorial Reverte(1)"
+        },
+        {
+            "id": 142,
+            "imagen": "https://lh3.google.com/u/0/d/1eB7prW7UUmIVDkOAYPtZMZKrgt-jGGok=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1eB7prW7UUmIVDkOAYPtZMZKrgt-jGGok/view?usp=sharing",
+            "descripcion": "FISICA GENERAL de Goñi(1)"
+        },
+        {
+            "id": 143,
+            "imagen": "https://lh3.google.com/u/0/d/1P8495M1zrqzQaTvcyz4Vjzcgq5rx0nnE=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1P8495M1zrqzQaTvcyz4Vjzcgq5rx0nnE/view?usp=sharing",
+            "descripcion": "Serway y Jewett (2008) FÍSICA. Vol.1-7ma Ed(1)"
+        },
+        {
+            "id": 144,
+            "imagen": "https://lh3.google.com/u/0/d/1J6zE2sTusIpe4gpyk_P7xbkOrmBW0sfm=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1J6zE2sTusIpe4gpyk_P7xbkOrmBW0sfm/view?usp=sharing",
+            "descripcion": "Wilson Jerry,Buffa Anthony y Bo Lou 2007 FÍSICA 6ta Ed, Pearson"
+        },
+        {
+            "id": 145,
+            "imagen": "https://lh3.google.com/u/0/d/1LaC5HuRETVMJua2tIaAF3dpYZTfb9qxS=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1LaC5HuRETVMJua2tIaAF3dpYZTfb9qxS/view?usp=sharing",
+            "descripcion": "english"
+        },
+        {
+            "id": 146,
+            "imagen": "https://lh3.google.com/u/0/d/12aCx5NRhAEIiXX8AAWXDMOeu76uRqvXW=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/12aCx5NRhAEIiXX8AAWXDMOeu76uRqvXW/view?usp=sharing",
+            "descripcion": "betty azar-basic english grammar 2nd ed(1)"
+        },
+        {
+            "id": 147,
+            "imagen": "https://lh3.google.com/u/0/d/1UDhY8UxV5Okdpt-HnZfGU84TnQsD0I1d=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1UDhY8UxV5Okdpt-HnZfGU84TnQsD0I1d/view?usp=sharing",
+            "descripcion": "English Grammar in Use Intermediate 2019 5th Edwww derakhtejavidan"
+        },
+        {
+            "id": 148,
+            "imagen": "https://lh3.google.com/u/0/d/1p6_fmlC-MGVColgDIfhyxgZlMSzv1gQN=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1p6_fmlC-MGVColgDIfhyxgZlMSzv1gQN/view?usp=sharing",
+            "descripcion": "Oxford Guide to English Grammar ( PDFDrive )(1)"
+        },
+        {
+            "id": 149,
+            "imagen": "https://lh3.google.com/u/0/d/1HLXhrzB4hRYzepZ_sW46zI6cxbtOCVZU=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1HLXhrzB4hRYzepZ_sW46zI6cxbtOCVZU/view?usp=sharing",
+            "descripcion": "ARTURO AGUILAR MARQUEZ - ALGEBRA(1)"
+        },
+        {
+            "id": 150,
+            "imagen": "https://lh3.google.com/u/0/d/1ZP4NoXf7liAdRBNPDLjM1GFRKKod8lf9=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1ZP4NoXf7liAdRBNPDLjM1GFRKKod8lf9/view?usp=sharing",
+            "descripcion": "Flotts Pulina M. APORTES PARA LA ENSEÑANZA DE LA MATEMATICA(1)"
+        },
+        {
+            "id": 151,
+            "imagen": "https://lh3.google.com/u/0/d/1URS2TDFy6U8V2RdyJ3ucd6zzLJ1vao7j=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1URS2TDFy6U8V2RdyJ3ucd6zzLJ1vao7j/view?usp=sharing",
+            "descripcion": "HAWARD ANTON - ALGEBRA LINEAL(1)"
+        },
+        {
+            "id": 153,
+            "imagen": "https://lh3.google.com/u/0/d/1lXNNspwSUjoK-K4IR3GBOn_duBWB3j1D=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1lXNNspwSUjoK-K4IR3GBOn_duBWB3j1D/view?usp=sharing",
+            "descripcion": "Lawvere F William y Schanuel Stephen H MATEMATICA CONCEPTUAL"
+        },
+        {
+            "id": 154,
+            "imagen": "https://lh3.google.com/u/0/d/1fBGyPSlWBt6-MJK3GdWRYLwADBuqZXq7=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1fBGyPSlWBt6-MJK3GdWRYLwADBuqZXq7/view?usp=sharing",
+            "descripcion": "Stewart James-. Precálculo Matemáticas para elcálculo(1)"
+        },
+        {
+            "id": 155,
+            "imagen": "https://lh3.google.com/u/0/d/1pBmwS2tvJUPmCDI9CDa0uNAtcaBJtg3i=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1pBmwS2tvJUPmCDI9CDa0uNAtcaBJtg3i/view?usp=sharing",
+            "descripcion": "Teorema Fundamental del Álgebra(1)"
+        },
+        {
+            "id": 156,
+            "imagen": "https://lh3.google.com/u/0/d/1JRovCnSKQU4yfanhS4HNUAdUGH7LwSHl=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1JRovCnSKQU4yfanhS4HNUAdUGH7LwSHl/view?usp=sharing",
+            "descripcion": "TEORIA DE CONJUNTOS(1)"
+        },
+        {
+            "id": 157,
+            "imagen": "https://lh3.google.com/u/0/d/18ERhz58TXgp6BnNhMp3Gk_P1tXZgOYnY=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/18ERhz58TXgp6BnNhMp3Gk_P1tXZgOYnY/view?usp=sharing",
+            "descripcion": "HIPERTEXTO QUIMICA 1 - Petrossi (1)(1)"
+        },
+        {
+            "id": 161,
+            "imagen": "https://lh3.google.com/u/0/d/16KwC4u_tGeCasFmw4UfPoZztftRjRZyC=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/16KwC4u_tGeCasFmw4UfPoZztftRjRZyC/view?usp=sharing",
+            "descripcion": "2 Plan Nacional de Desarrollo 2006-2011(1)"
+        },
+        {
+            "id": 162,
+            "imagen": "https://lh3.google.com/u/0/d/1aYZhVO0oRzF4WkZIZfGjT6sZ5wcbzPLs=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1aYZhVO0oRzF4WkZIZfGjT6sZ5wcbzPLs/view?usp=sharing",
+            "descripcion": "4 Hacia una Economia para la Vida(1)"
+        },
+        {
+            "id": 163,
+            "imagen": "https://lh3.google.com/u/0/d/11WZz9x0-vysTIxRPoEgy9clfivkQwz65=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/11WZz9x0-vysTIxRPoEgy9clfivkQwz65/view?usp=sharing",
+            "descripcion": "5 Condiciones de Trabajo Seguridad y Salud(1)"
+        },
+        {
+            "id": 164,
+            "imagen": "https://lh3.google.com/u/0/d/1FwJ6vY71_aFnXr-w5W-3LYvmjrd2u0sf=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1FwJ6vY71_aFnXr-w5W-3LYvmjrd2u0sf/view?usp=sharing",
+            "descripcion": "10 Herramientas para la Educacion Productiva 3 Modulo 4 BTH(1)"
+        },
+        {
+            "id": 165,
+            "imagen": "https://lh3.google.com/u/0/d/1KvlGOVO_Ymw9WCFt3T3hBiv3RFcoHZQZ=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1KvlGOVO_Ymw9WCFt3T3hBiv3RFcoHZQZ/view?usp=sharing",
+            "descripcion": "Deschner Karlheinz - El Credo Falsificado(1)"
+        },
+        {
+            "id": 166,
+            "imagen": "https://lh3.google.com/u/0/d/1XnBBfIQLu00tZ-yilzigY5GXgRgab2vV=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1XnBBfIQLu00tZ-yilzigY5GXgRgab2vV/view?usp=sharing",
+            "descripcion": "Divinidades de los primitivos Historia de las creencias y las ideas"
+        },
+        {
+            "id": 167,
+            "imagen": "https://lh3.google.com/u/0/d/1VP27zY0_7BOXKAtJA9ibDMnbPnmz3KdP=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1VP27zY0_7BOXKAtJA9ibDMnbPnmz3KdP/view?usp=sharing",
+            "descripcion": "Enjuiciamiento de la obra evangelizadora realizada por la iglesia"
+        },
+        {
+            "id": 168,
+            "imagen": "https://lh3.google.com/u/0/d/1crPNc9ZNgvwREZZpM8D7XOTqmelXFg61=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1crPNc9ZNgvwREZZpM8D7XOTqmelXFg61/view?usp=sharing",
+            "descripcion": "GALEANO David La Espiritualidad y la Cosmovisi n del mundo Guaran"
+        },
+        {
+            "id": 169,
+            "imagen": "https://lh3.google.com/u/0/d/1SUnn-0mRimxxfFeCYoo3whTzIGp46BI9=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1SUnn-0mRimxxfFeCYoo3whTzIGp46BI9/view?usp=sharing",
+            "descripcion": "La filosofia andina como alteridad que interpela(1)"
+        },
+        {
+            "id": 170,
+            "imagen": "https://lh3.google.com/u/0/d/104y-_SMMC_qooGEaMv67zMDwTMdSunGA=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/104y-_SMMC_qooGEaMv67zMDwTMdSunGA/view?usp=sharing",
+            "descripcion": "001-REGULAR(1)"
+        },
+        {
+            "id": 171,
+            "imagen": "https://lh3.google.com/u/0/d/1sE9cx57CGV7BruZdEPOKFSGk877aqsP2=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1sE9cx57CGV7BruZdEPOKFSGk877aqsP2/view?usp=sharing",
+            "descripcion": "7. Reglamento del Escalafon Nacional DS 4688(2)"
+        },
+        {
+            "id": 172,
+            "imagen": "https://lh3.google.com/u/0/d/1AY6BkXbIIpxssLdbKR2qiRrGXiZ1Itku=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1AY6BkXbIIpxssLdbKR2qiRrGXiZ1Itku/view?usp=sharing",
+            "descripcion": "edu-regular(1)"
+        },
+        {
+            "id": 173,
+            "imagen": "https://lh3.google.com/u/0/d/1X7yg7ynVpq5ab0fRmLyZWOZ0gZuN0rKr=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1X7yg7ynVpq5ab0fRmLyZWOZ0gZuN0rKr/view?usp=sharing",
+            "descripcion": "manual de procedimiento rda escalafon(1)"
+        },
+        {
+            "id": 174,
+            "imagen": "https://lh3.google.com/u/0/d/1FAvhB5cQdnwXr8_b3-KtO8u2B32C6kwH=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1FAvhB5cQdnwXr8_b3-KtO8u2B32C6kwH/view?usp=sharing",
+            "descripcion": "REGLAMENTO EVALUACI_N (DOC. PRELIMINAR)_2020(1)"
+        },
+        {
+            "id": 175,
+            "imagen": "https://lh3.google.com/u/0/d/1QAIT_7YK4wketUriOXIANxudBEuCXByN=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1QAIT_7YK4wketUriOXIANxudBEuCXByN/view?usp=sharing",
+            "descripcion": "resolucion suprema 212414 reglamento faltas(2)"
+        },
+        {
+            "id": 176,
+            "imagen": "https://lh3.google.com/u/0/d/19AIoaVWbDiVDH8Cf77lKKpDgzLGzbhpl=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/19AIoaVWbDiVDH8Cf77lKKpDgzLGzbhpl/view?usp=sharing",
+            "descripcion": "bolivia - decreto 4260(1)"
+        },
+        {
+            "id": 177,
+            "imagen": "https://lh3.google.com/u/0/d/1Y2OBSHHSMpptfS7YRjTbzDFWlHVxoJ0W=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1Y2OBSHHSMpptfS7YRjTbzDFWlHVxoJ0W/view?usp=sharing",
+            "descripcion": "Constitucion Politica del Estado Plurinacional de Bolivia(1)"
+        },
+        {
+            "id": 178,
+            "imagen": "https://lh3.google.com/u/0/d/1T7ylHoQ0cdNGSeD0Q2-rsTQg2XMtQgrT=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1T7ylHoQ0cdNGSeD0Q2-rsTQg2XMtQgrT/view?usp=sharing",
+            "descripcion": "DS 1302(1)"
+        },
+        {
+            "id": 179,
+            "imagen": "https://lh3.google.com/u/0/d/101jK6yuM29v0Ng3P4O6gEZ6ceqkqvj1U=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/101jK6yuM29v0Ng3P4O6gEZ6ceqkqvj1U/view?usp=sharing",
+            "descripcion": "DS 1320(1)"
+        },
+        {
+            "id": 180,
+            "imagen": "https://lh3.google.com/u/0/d/1e8WAxAFnOEICciqPD6dWw6DlbKxJ-iGv=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1e8WAxAFnOEICciqPD6dWw6DlbKxJ-iGv/view?usp=sharing",
+            "descripcion": "Ley 045 contra el racismo y toda forma de discriminaci_n(2)"
+        },
+        {
+            "id": 181,
+            "imagen": "https://lh3.google.com/u/0/d/1q09xTLV2V2ghrw_I0N_1Td9CU0gtOLl7=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1q09xTLV2V2ghrw_I0N_1Td9CU0gtOLl7/view?usp=sharing",
+            "descripcion": "ley 548 codigo niña niño y adolescente(1)"
+        },
+        {
+            "id": 182,
+            "imagen": "https://lh3.google.com/u/0/d/12GGuzenFbjirK2bqhJ2nTHf5aj3t3Suu=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/12GGuzenFbjirK2bqhJ2nTHf5aj3t3Suu/view?usp=sharing",
+            "descripcion": "Ley 004 de lucha contra la corrupcion enriquecimiento ilicito"
+        },
+        {
+            "id": 183,
+            "imagen": "https://lh3.google.com/u/0/d/1TlAz9EHruOf-bz9SGNwal5XvJbToVFKC=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1TlAz9EHruOf-bz9SGNwal5XvJbToVFKC/view?usp=sharing",
+            "descripcion": "Ley 348 Ley integral para garantizar a las mujeres una vida libre"
+        },
+        {
+            "id": 184,
+            "imagen": "https://lh3.google.com/u/0/d/1PQ395L2M9dIz6Fjo8hez1AHZe0jVO2Io=w200-h250-p-k-nu-iv1",
+            "url": "https://drive.google.com/file/d/1PQ395L2M9dIz6Fjo8hez1AHZe0jVO2Io/view?usp=sharing",
+            "descripcion": "Ley 450 de Proteccion a Naciones y Pueblos Originarios Indigena"
+        }
+    ]
+}

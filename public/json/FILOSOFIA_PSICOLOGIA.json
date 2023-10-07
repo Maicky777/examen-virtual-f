@@ -1,0 +1,1104 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "Según Antonio Gramsci, la filosofía es un orden intelectual. ¿La religión y el sentido común también poseen un orden intelectual",
+            "respuestas": [
+                "La religión y el sentido común poseen un orden intelectual.",
+                "La religión posee un orden intelectual y el sentido común no.",
+                "La religión no posee un orden intelectual y el sentido común sí.",
+                "La religión y el sentido común no poseen un orden intelectual."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "2",
+            "pregunta": "Por qué la posición de la filosofía de la praxis es antitética de la católica según Antonio Gramsci.",
+            "respuestas": [
+                "La filosofía de la praxis no tiende a mantener a las “personas sencillas” en su filosofía primitiva del sentido común, sino a conducirlos a una concepción superior de la vida. ",
+                "La filosofía tiende a mantenerse contacto con el sentido común. ",
+                "La filosofía de la praxis tiende a mantener a las «personas sencillas» en su filosofía primitiva del sentido común y a conducirlos a una concepción superior de la vida. ",
+                "La filosofía de la praxis se encarga de definir a las “personas sencillas”."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "3",
+            "pregunta": "Según Adolfo Sánchez, por qué el marxismo representa una innovación radical en la filosofía",
+            "respuestas": [
+                "Por la filosofía superior",
+                "Por ser una filosofía de la praxis",
+                "Por la ética",
+                "Por la educación"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "4",
+            "pregunta": "Según Adolfo Sánchez, qué interpretaciones rechaza la filosofía de la praxis.",
+            "respuestas": [
+                "Ética, metafísica y epistemológica.",
+                "Ontologizante, política y antropológico-humanista",
+                "Ontologizante, epistemológica y antropológico-humanista",
+                "Ontologizante, epistemológica y ética"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "5",
+            "pregunta": "Para Vygotsky, qué es el hombre.",
+            "respuestas": [
+                "Es un animal racional",
+                "Es tierra que piensa",
+                "Es un ser histórico-social o, más concretamente, un ser histórico cultural; el hombre es moldeado por la cultura que él mismo crea.",
+                "Es un ser histórico y biológico"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "6",
+            "pregunta": "Para Vygotsky, ¿Cuál es el principal mediador en la formación y en el desarrollo de las funciones psicológicas superiores?",
+            "respuestas": [
+                "Lenguaje",
+                "El condición biológica",
+                "El hombre",
+                "La condición psicológica"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "7",
+            "pregunta": "Según Vygotsky, qué formas de expresión comprende el lenguaje.",
+            "respuestas": [
+                "Oral y virtual ",
+                "Oral, gestual, escritura y artística",
+                "oral, gestual, escritura y virtual",
+                "Oral, gestual, escritura, artística, musical y matemática"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "8",
+            "pregunta": "Qué forjó Vygotsky en la comprensión de la psicología.",
+            "respuestas": [
+                "En que la psicología es una ciencia del hombre histórico y no del hombre abstracto y universal.",
+                "En que la psicología es teórica",
+                "En que la psicología es una ciencia y no historia.",
+                "En que la psicología es una ciencia, que se enmarca en la universalidad."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "9",
+            "pregunta": "Según Vygotsky, uno de los conceptos fundamentales de la psicología socio-histórica es la de mediación. ¿Qué es la mediación?",
+            "respuestas": [
+                "Un proceso de relación entre sujetos",
+                "Un proceso de intervención de un elemento intermediario en una relación",
+                "Un proceso mediático ",
+                "Un proceso intermediario del espacio"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "10",
+            "pregunta": "Según Freud, la estructura psíquica humana está formada por tres niveles: ",
+            "respuestas": [
+                "Condición psicológica, biológica y espiritual",
+                "YO, SUPER YO y CONCIENCIA.",
+                "YO, SUPER YO y SUBCONSCIENTE",
+                "YO, SUPER YO y condición biológica"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "11",
+            "pregunta": "¿Qué es el miedo?",
+            "respuestas": [
+                "Es un sentimiento natural. Es una manifestación de nuestro instinto fundamental de conservación. ",
+                "Es un sentimiento que nos aleja de la realidad.",
+                "Es un instinto del ser humano que le hace conciente.",
+                "Solo un sentimiento confuso e inexplicable."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "12",
+            "pregunta": "Es una característica del PNL (Programación Neurolingüística).",
+            "respuestas": [
+                "Formaliza la comprensión del comportamiento",
+                "Proporciona herramientas y habilidades para mejorar la comunicación y reprogramar las actitudes y comportamientos.",
+                "Proporciona herramientas y habilidades para mejorar la didáctica ",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "13",
+            "pregunta": "Lo seres humanos actúan por tres razones. ¿Cuáles son?",
+            "respuestas": [
+                "Por razón, temor y viveza",
+                "Por temor, amor y templanza",
+                "Por necesidad, astucia y torpeza",
+                "Por temor, necesidad e interés."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "14",
+            "pregunta": "Las frustraciones pueden producirse por privación. ¿A qué se refiere?",
+            "respuestas": [
+                "Causas mayores hacen imposible el logro de nuestros objetivos",
+                "Existen muchas privaciones que los seres humanos aceptamos porque las Consideramos naturales y lógicas. La frustración surge cuando se nos priva Injustamente de algo material o psíquico. ",
+                "Se produce cuando la persona tiene que elegir entre dos objetos que tienen el Mismo atractivo. Al elegir uno debe renunciar al otro.",
+                "Los seres humanos somos caprichosos y queremos las cosas ya; pero en la vida Todo tiene su proceso"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "15",
+            "pregunta": "¿Qué es el temperamento?",
+            "respuestas": [
+                "Es la forma habitual de reaccionar a los estímulos externos (personas, sucesos…) e internos (ideas, recuerdos, sensaciones…).",
+                "Es la marca personal de un ser, lo que permite definir su estilo, su manera de ser, de sentir y de reaccionar.",
+                "Es una forma propia de sentir, de percibir, de reaccionar, de pensar y de actuar.",
+                "Es el actuar en sí mismo, bueno y malo."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "16",
+            "pregunta": "El estrés es una palabra inglesa que significa lucha, tensión, violencia. El estrés es una enfermedad moderna, ¿También conocida cómo?",
+            "respuestas": [
+                "Síndrome de la percepción",
+                "Síndrome de adopción",
+                "Síndrome de adaptación",
+                "Síndrome adquirido"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "17",
+            "pregunta": "¿Qué es la lógica formal?",
+            "respuestas": [
+                "Es un conjunto de ideas ordenadas y que tienen un significado completo.",
+                "Es una ciencia abstracta que tiene por objeto el análisis formal de los argumentos, haciendo abstracción (prescindiendo) de su materia y contenido.",
+                "Es una expresión lingüística gramaticalmente correcta que interrogativas, desiderativas, posee sentido completo",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "18",
+            "pregunta": "¿Por qué la lógica no puede decidir acerca de la verdad de los enunciados? ",
+            "respuestas": [
+                "Porque se limita solo a lo abstracto.",
+                "Porque se limita a establecer cuándo unas determinadas premisas sean verdaderas o no permiten extraer una determinada conclusión. Si es así, el razonamiento será válido, correcto. Si no es así, el razonamiento será inválido, incorrecto.",
+                "Porque la verdad es relativa",
+                "Porque se limita a establecer solo una conclusión. "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "19",
+            "pregunta": "¿A qué se refiere el lenguaje natural?",
+            "respuestas": [
+                "Al lenguaje utilizado normalmente en una comunidad de individuos para la comunicación de éstos entre sí.",
+                "Al lenguaje científico",
+                "Al lenguaje, desde la perspectiva biológica",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "20",
+            "pregunta": "¿Qué son las tablas de verdad?",
+            "respuestas": [
+                "Son el resultado de representar todas las posibilidades de asignar letras. Sirven para saber la veracidad de las ideas.",
+                "Son procedimientos estratégicos para averiguar si un enunciado es complejo.",
+                "Son procedimientos estratégicos que permiten la profundización del conocimiento.",
+                "Son el resultado de representar todas las posibilidades de asignar valores a las letras enunciativas y ver lo que ocurre en cada una de ellas. Sirven para saber si una fórmula es consecuencia lógica de otra, aunque es un procedimiento muy engorroso."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "21",
+            "pregunta": "La capacidad psíquica de conservar, reproducir y reconocer experiencias pasadas, es la:",
+            "respuestas": [
+                "Inteligencia",
+                "Imaginación",
+                "Reproducción",
+                "Ninguno"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "22",
+            "pregunta": "Analice el siguiente ejemplo de aprendizajes que se dan una clase de lenguaje de lectura: Ejemplo A: El estudiante lee las oraciones, las repite en voz alta y copia en su cuaderno. Ejemplo A, corresponde a:",
+            "respuestas": [
+                "A un aprendizaje constructivo y reflexivo",
+                "A un aprendizaje activo y repetitivo",
+                "A un aprendizaje significativo y repetitivo",
+                "A un aprendizaje significativo y situado"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "23",
+            "pregunta": "Los primeros signos de la madurez sexual en varones y mujeres se aprecian en la etapa:",
+            "respuestas": [
+                "De la niñez",
+                "De la prepubertad",
+                "De la adolescencia",
+                "De la juventud"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "24",
+            "pregunta": "Una de las clasificaciones sobre la personalidad de los seres humanos que más ha  alcanzado difusión es la del psicólogo Carl Jung, que clasifica a los sujetos en introvertidos y extrovertidos. Por ejemplo: Una característica de los extrovertidos es la tendencia de ser habladores, como la tendencia de ser poco comunicativos de los introvertidos. La tendencia de autoanalizarse y autocriticarse corresponde a:",
+            "respuestas": [
+                "Extrovertido",
+                "Introvertido",
+                "Ambos",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "25",
+            "pregunta": "El concepto se distingue de la imagen en:",
+            "respuestas": [
+                "El concepto es universal y la imagen es particular.",
+                "El concepto es producto del intelecto y la imagen no lo es.",
+                "A y B son verdaderas",
+                "Solo A es verdadera"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "26",
+            "pregunta": "La razón de salir de sí mismo al tiempo y al espacio origina la naturaleza, el espíritu, la religión, la historia, el arte, el derecho, y todo lo que existe es racional, luego todo existente es racional y todo lo racional es existente. Este pensamiento corresponde al:",
+            "respuestas": [
+                "Materialismo",
+                "Criticismo",
+                "Positivismo",
+                "Ninguno"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "27",
+            "pregunta": "El mundo material es el único real, el espíritu es producto de un órgano material que es el cerebro. Solo existe la materia que por un proceso dialéctico engendra todas las cosas. Este pensamiento corresponde al:",
+            "respuestas": [
+                "Materialismo",
+                "Idealismo",
+                "Positivismo",
+                "Empirismo"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "28",
+            "pregunta": "La expresión: “No hay nada en la mente que antes no haya pasado por los sentidos”. Es un enunciado que corresponde al:",
+            "respuestas": [
+                "Idealismo",
+                "Empirismo",
+                "Neopositivismo",
+                "Cristianismo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "29",
+            "pregunta": "Filósofo destacado de la Edad Antigua que aplicó el método de la mayéutica, que significa nacer ideas. Fue:",
+            "respuestas": [
+                "Sócrates",
+                "Platón ",
+                "Aristóteles",
+                "Karl Marx"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "30",
+            "pregunta": "La humanidad se desarrolló según tres etapas o estados históricos fundamentales: el teológico, el metafísico y el positivo. Esa concepción corresponde al:",
+            "respuestas": [
+                "Racionalismo",
+                "Positivismo",
+                "Estructuralismo",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "31",
+            "pregunta": "El pensamiento abstracto hipotético deductivo corresponden a las etapas de desarrollo, correspondidas entre:",
+            "respuestas": [
+                "6 – 12 años",
+                "12 – 18 años",
+                "18 en adelante",
+                "0 – 6 años"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "32",
+            "pregunta": "La teoría que plantea el aprendizaje operante, es decir que a conducta se mantiene por refuerzos y castigos, se llama:",
+            "respuestas": [
+                "Humanista",
+                "Cognitiva",
+                "Conductista",
+                "Estructuralista "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "33",
+            "pregunta": "El método clásico de la psicología que ayuda a concentrarse a sí mismo, corresponde a:",
+            "respuestas": [
+                "Experimentación",
+                "Entrevista",
+                "Test psicológico",
+                "Introspección"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "34",
+            "pregunta": "Es considerado Padre de la Psicología por crear el primer laboratorio experimental de la misma:",
+            "respuestas": [
+                "Jean Piaget",
+                "Sigmund Freud",
+                "Guillermo Wundt",
+                "Sócrates"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "35",
+            "pregunta": "El proceso cognitivo que consiste en la capacidad de responder problemas con éxito y sin error, corresponde:",
+            "respuestas": [
+                "Memoria",
+                "Inteligencia",
+                "Motivación",
+                "Imaginación"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "36",
+            "pregunta": "El concepto clave del psicoanálisis es:",
+            "respuestas": [
+                "El consciente",
+                "La represión",
+                "El inconsciente",
+                "La regresión"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "37",
+            "pregunta": "El origen y valor de nuestros conocimientos dependen de la experiencia. Es una afirmación del:",
+            "respuestas": [
+                "Dogmatismo",
+                "Empirismo",
+                "Idealismo",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "38",
+            "pregunta": "La filosofía occidental privilegia:",
+            "respuestas": [
+                "La racionalidad",
+                "La pasión",
+                "La sabiduría",
+                "La ocasión"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "39",
+            "pregunta": "El fundador del positivismo es:",
+            "respuestas": [
+                "Augusto Comte",
+                "Franz Tamayo",
+                "Emilio Durkheim",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "40",
+            "pregunta": "La alienación en el trabajo es una categoría de:",
+            "respuestas": [
+                "Karl Marx",
+                "Adam Smith",
+                "Jean Paul Sartre",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "41",
+            "pregunta": "El condicionamiento operante de Skinner, se considera al animal o a la persona que aprende como un:",
+            "respuestas": [
+                "Sujeto pasivo que reacciona solo cuando le llegan los estímulos.",
+                "No tiene decisión propia, reacciona mecánicamente.",
+                "Activamente busca que lo corrijan.",
+                "Sujeto activo que reacciona ante cualquier estímulo, que luego es reforzado."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "42",
+            "pregunta": "La categoría 2da percibe una bonificación.",
+            "respuestas": [
+                "Del 30 %",
+                "Del 45 %",
+                "Del 60 %",
+                "Del 75 %"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "43",
+            "pregunta": "La categoría 1ra percibe una bonificación.",
+            "respuestas": [
+                "Del 100 %",
+                "Del 75 %",
+                "Del 60 % ",
+                "Del 45 %"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "44",
+            "pregunta": "Para la promoción de los maestros normalistas.",
+            "respuestas": [
+                "Es con examen aprobado",
+                "Es automático",
+                "Sin examen",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "45",
+            "pregunta": "Promociones a categorías superiores de cero y merito es.",
+            "respuestas": [
+                "De inmediato ",
+                "Automático",
+                "Con examen de gracia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "46",
+            "pregunta": "Ley 269 general de derechos y políticas lingüística.",
+            "respuestas": [
+                "De derechos lingüísticos individuales y colectivos",
+                "Y recupera los idiomas oficiales en riesgo de extinción",
+                "A y B",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "47",
+            "pregunta": "Usar su idioma materno en forma oral y escrita corresponde a: ",
+            "respuestas": [
+                "Derechos lingüísticos individuales",
+                "Derechos lingüísticos colectivos",
+                "Derechos Propios",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "48",
+            "pregunta": "Son idiomas oficiales de Estado boliviano.",
+            "respuestas": [
+                "34 idiomas ",
+                "36 idiomas ",
+                "32 idiomas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "49",
+            "pregunta": "Planeado para que un idioma logre, una situación de igualdad legal, social y uso.",
+            "respuestas": [
+                "Normalización lingüística ",
+                "Estandarización lingüística ",
+                "Normalización de Lenguas",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "50",
+            "pregunta": "Estudiante monolingüe castellano hablante de todos los subsistemas y niveles educativos.",
+            "respuestas": [
+                "Tiene la obligación de aprender otro idioma oficial del estado",
+                "Tiene el deber de aprender otro idioma oficial del Estado",
+                "Obligación de Aprender los idiomas de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "51",
+            "pregunta": "Servidores públicos de la educación (directores, directores distritales o departamentales y otros) deberán conocer.",
+            "respuestas": [
+                "El idioma de la unidad territorial donde trabajan",
+                "El idioma de la unidad territorial de origen ",
+                "Idioma de origen patrimonial de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "52",
+            "pregunta": "En servicio de educación publica y privada, la contratación del personal (maestras/os). ",
+            "respuestas": [
+                "Deberían exigir el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad ",
+                "Deberán ponderar el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad",
+                "Por conocimiento de las idiomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "53",
+            "pregunta": "Objeto de la presente Ley 223 es garantizar a las personas con discapacidad.",
+            "respuestas": [
+                "El ejercicio pleno de sus derechos y deberes en igualdad de condiciones",
+                "Y equiparación de oportunidades, trato preferente",
+                "A y B",
+                "Ninguna "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "54",
+            "pregunta": " Personas con discapacidad participan plena y efectivamente en la sociedad en igualdad de oportunidades.",
+            "respuestas": [
+                "No discriminación",
+                "Inclusión",
+                "Accesibilidad ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "55",
+            "pregunta": "Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad.",
+            "respuestas": [
+                "Trato diferenciado ",
+                "Trato preferente ",
+                "Trato Digno",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "56",
+            "pregunta": "Aquellas personas con deficiencias físicas, mentales, intelectuales y/o sensoriales a largo plazo o permanentes.",
+            "respuestas": [
+                "Personas con discapacidad según la Ley",
+                "Personas con capacidades múltiples y/o diferencias, según la Ley ",
+                "Personas sin discacpacidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "57",
+            "pregunta": "Debe dar respuesta a la diversidad mediante adaptaciones físicas, curriculares y personales de apoyo.",
+            "respuestas": [
+                "Educación exclusiva",
+                "Educación inclusiva",
+                "Educación con discapacidad exclusiva",
+                "ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "58",
+            "pregunta": "Garantiza el derecho a la vida de personas con discapacidad. ",
+            "respuestas": [
+                "El Estado Plurinacional de Bolivia",
+                "Las Autoridades legalmente electas de Bolivia",
+                "Las políticas del Estado",
+                "Ninguno"
+            ],
+            "resCorrecta": ""
+        },
+        {
+            "id": "59",
+            "pregunta": "Estado garantiza al acceso y permanencia de estudiantes con discapacidad en el sistema educativo.",
+            "respuestas": [
+                "Derecho a la formación inclusiva",
+                "Derecho a la educación",
+                "Derecho no a la Educación",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "60",
+            "pregunta": "Estado garantiza la formación de equipos multidisciplinarios.",
+            "respuestas": [
+                "Para la atención e inclusión de personas con discapacidad al sistema educativo plurinacional",
+                "Para la atención e inclusión de personas con discapacidad",
+                "Para la atención de personas discapacitados en el sistema de inclusión",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "61",
+            "pregunta": "Estado garantiza el desarrollo educativo permanente de las potencialidades ",
+            "respuestas": [
+                "Individuales de la persona con discapacidad psicosocial ",
+                "Colectivas de la persona con discapacidad psicosocial",
+                "Personas adultas",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "62",
+            "pregunta": "Ley 450 de protección a naciones y pueblos indígenas originarios.",
+            "respuestas": [
+                "En situación de alta vulnerabilidad",
+                "En situación de vulnerabilidad ",
+                "En situación de invulnerabilidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "63",
+            "pregunta": "Son situaciones de alta vulnerabilidad.",
+            "respuestas": [
+                "Peligro de extinción",
+                "Aislamiento voluntario y forzoso",
+                "A y B",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "64",
+            "pregunta": "Se sustenta en el reconocimiento y respeto de los diferentes sistemas de vida.",
+            "respuestas": [
+                "Diversidad sociocultural ",
+                "Diversidad cultural",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "65",
+            "pregunta": "Se sustenta en el reconocimiento y respeto de los diferentes sistemas de vida.",
+            "respuestas": [
+                "De las naciones y pueblos indígenas originarios",
+                "De los pueblos indígenas originarios ",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "66",
+            "pregunta": "Un principio que rige a la Ley 450",
+            "respuestas": [
+                "Diversidad sociocultural ",
+                "Diversidad cultural ",
+                "Diversidad lingüística",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "67",
+            "pregunta": "DIGEPIO es dirección general de protección a naciones y pueblos indígenas originarios.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "68",
+            "pregunta": "Los mecanismos de prevención de los sistemas de vida.",
+            "respuestas": [
+                "Desarrollo en el nivel central del Estado ",
+                "Desarrollaran en entidades territoriales autónomas",
+                "Desarrollaran en el nivel central del Estado y entidades territoriales autónomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "69",
+            "pregunta": "Mecanismos de prevención de los sistemas de vida se desarrollan en ámbitos.",
+            "respuestas": [
+                "Territorial y salud",
+                "Territorial, salud y difusión",
+                "Territorial, salud, difusión y sensibilización ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "70",
+            "pregunta": "La DIGEPIO formulara los indicadores de monitoreo.",
+            "respuestas": [
+                "Para evaluar las situaciones de alta vulnerabilidad ",
+                "Para evaluar las situaciones de vulnerabilidad",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "71",
+            "pregunta": "Corresponde a la ley contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Ley 035",
+                "Ley 045",
+                "Ley 055",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "72",
+            "pregunta": "Establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Para la prevención y sanción de actos de racismo",
+                "Para la prevención y sanción de toda forma de discriminación ",
+                "Para la prevención y sanción de actos de racismo y toda forma de discriminación",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "73",
+            "pregunta": "El racismo y discriminación no son tipificado y/o calificado en el Código Penal.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "74",
+            "pregunta": "Forma de distinción, exclusión, restricción o preferencia fundad en razón de sexo, color, edad.",
+            "respuestas": [
+                "Discriminación racial ",
+                "Discriminación",
+                "Racismo ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "75",
+            "pregunta": "Teoría tendente a la valoración de diferencia biológica, cultural, real o imaginaria.",
+            "respuestas": [
+                "Discriminación ",
+                "Racismo",
+                "Discriminación racial",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "76",
+            "pregunta": "Se entiende por misoginia ",
+            "respuestas": [
+                "Conducta o comportamiento de odio manifiesto hacia las mujeres o genero femenino ",
+                "Conducta o comportamiento de odio manifiesto hacia los varones o género masculino",
+                "Otra respuesta",
+                "Ninguno. "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "77",
+            "pregunta": "Medidas publicas traducidas en campañas de concientización, educación y difusión de derechos humanos protectivos. ",
+            "respuestas": [
+                "Acción afirmativa ",
+                "Acción preventiva",
+                "Acción correctiva ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "78",
+            "pregunta": "Definir y adoptar políticas publicas de prevención y lucha contra el racismo y discriminación.",
+            "respuestas": [
+                "Es obligación del Estado ",
+                "Es deber del Estado ",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "79",
+            "pregunta": "El comité nacional contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Encargado de promover, diseñar e implementar políticas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar normativas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar políticas y normativas contra el racismo y discriminación ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "80",
+            "pregunta": "Comité nacional contra el racismo y toda forma de discriminación conformada por comisiones.",
+            "respuestas": [
+                "Comité de lucha contra el racismo",
+                "Comité de emergencia contra los delitos ",
+                "Comité de lucha contra toda forma de discriminación ",
+                "A y B "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "81",
+            "pregunta": "Personas que sufren el racismo o discriminación podrán optar.",
+            "respuestas": [
+                "Por la via constitucional y administrativa",
+                "Por la vía constitucional administrativa o disciplinaria",
+                "Por la vía constitucional administrativa o disciplinaria y/o penal",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "82",
+            "pregunta": "Persona que ejerce función publica conociere hechos de racismo y discriminación.",
+            "respuestas": [
+                "Esta en la obligación de denunciar ante las autoridades competentes ",
+                "Esta en el deber de denunciar ante al autoridades competentes",
+                "Esta que denunciar ante al autoridades competentes ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "83",
+            "pregunta": "Discriminación y racismo no son considerados como delitos contra la dignidad del ser humano.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "84",
+            "pregunta": "Corresponde al código niña, niño y adolecente ",
+            "respuestas": [
+                "Ley 448",
+                "Ley 548",
+                "Ley 648",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "85",
+            "pregunta": "El objetivo del Código es reconocer, desarrollar y regular.",
+            "respuestas": [
+                "El ejercicio de los derechos de la niña, niño y adolecente",
+                "El ejercicio de las obligaciones de la niña, niño y adolescente",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "86",
+            "pregunta": "Garantizar a niña, niño y adolecente el ejercicio pleno y efectivo de sus derechos.",
+            "respuestas": [
+                "Para su desarrollo integral ",
+                "Para exigir el cumplimiento de sus obligaciones ",
+                "Para su desarrollo integral y exigir el cumplimiento de sus deberes",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "87",
+            "pregunta": "Según el código, corresponde a la etapa del desarrollo del adolecente. ",
+            "respuestas": [
+                "Desde 12 hasta los 16 años de edad cumplidos",
+                "Desde 12 hasta los 17 años de edad cumplidos",
+                "Desde 12 hasta los 18 años de edad cumplidos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "88",
+            "pregunta": "Comprende la infancia escolar.",
+            "respuestas": [
+                "Niñas y niños entre 6 a 11 años de edad ",
+                "Niñas y niños entre 6 a 12 años de edad",
+                "Niñas y niños entre 6 a 14 años de edad",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "89",
+            "pregunta": "El principio de interés superior favorece el desarrollo integral de niña, niño y adolecente.",
+            "respuestas": [
+                "En el goce de los deberes y garantías",
+                "En el goce de los obligaciones y garantías",
+                "En el goce de los derechos y garantías",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "90",
+            "pregunta": "El sistema plurinacional integral de la niña, niño y adolecente.",
+            "respuestas": [
+                "Tiene como objetivo primordial garantizar el pleno goce de los derechos",
+                "Tiene como objetivo primordial garantizar el pleno goce de las garantías",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "91",
+            "pregunta": "Niñas, niños y adolecentes tienen derecho a bienestar físico, mental, social y servicio salud.",
+            "respuestas": [
+                "Derecho a la vida",
+                "Derecho a la salud ",
+                "Derecho a la familia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "92",
+            "pregunta": "El estado en todos sus niveles, tiene la obligación de implementar.",
+            "respuestas": [
+                "Que se aseguren condiciones dignas para su nacimiento",
+                "Que aseguren condiciones dignas para su nacimiento y desarrollo integral",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "93",
+            "pregunta": "Es el acceso permanente con acciones de promoción, prevención, curación, tratamiento, rehabilitación y recuperación.",
+            "respuestas": [
+                "Acceso permanente a la salud ",
+                "Acceso universal a la salud",
+                "Acceso a la salud",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "94",
+            "pregunta": "Derecho a vivir, desarrollarse y educarse en un ambiente de afecto y seguridad.",
+            "respuestas": [
+                "Derecho a la familia",
+                "Derecho a la vida",
+                "Derecho a la salud",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "95",
+            "pregunta": "Son situaciones de discapacidad de niñas, niña y adolecente.",
+            "respuestas": [
+                "Física y cognitiva",
+                "Psíquica o sensorial",
+                "A y B ",
+                "Ninguna "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "96",
+            "pregunta": "Son garantes inmediatos del derecho a la salud de sus hijas e hijos.",
+            "respuestas": [
+                "El Estado, el gobierno y las autoridades competentes ",
+                "Persona del entorno inmediato",
+                "Madre o padre, guardadora o guardador, tutora o tutor",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "97",
+            "pregunta": "Medida excepcional y provisional, efectuada en situaciones extremas, urgencia o necesidad en favor…",
+            "respuestas": [
+                "Familia sustituta",
+                "Acogimiento circunstancial",
+                "Guarda y/o cuidado",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "98",
+            "pregunta": "La guarda es el cuidado, protección, atención y asistencia integral.",
+            "respuestas": [
+                "A la niña, niño o adolecente de manera provisional ",
+                "A la niña, niño o adolecente de manera permanente",
+                "Todas la anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "99",
+            "pregunta": "Dirigida al pleno desarrollo de su personalidad, capacidades físicas y mentales.",
+            "respuestas": [
+                "Derecho a aprender ",
+                "Derecho a la educación",
+                "Derecho a la enseñanza",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "100",
+            "pregunta": "Se prohíbe a las autoridades del sistema educativo, la expulsión a las estudiantes embarazadas. ",
+            "respuestas": [
+                "Verdadero ",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        }
+    ]
+}

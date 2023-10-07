@@ -1,0 +1,1104 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "…………. es lo que nos permite afirmar que cada animal cuida a sus hijos de la mejor manera posible. A lo largo de millones de años, los que mejor criaban a sus hijos han tenido mas hijos vivos, esa conducta se ha visto favorecida por esta selección.",
+            "respuestas": [
+                "La selección cultural",
+                "La selección natural",
+                "La selección genética ",
+                "La selección humana"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "2",
+            "pregunta": "Educar a nuestro hijo en la autonomía supone:",
+            "respuestas": [
+                "Confiar en su capacidad para valerse por si mismo.",
+                "Enseñarle en lugar de dar 6rdenes. ",
+                "Animarle a conseguir sus objetivos.",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "3",
+            "pregunta": " …………..son ayudas que nos facilitan el cumplimiento de normas.",
+            "respuestas": [
+                "Las normas",
+                "Los limites",
+                "Las consecuencias",
+                "Las leyes "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "4",
+            "pregunta": "Para crear autonomía en un niño se debe:",
+            "respuestas": [
+                "Creer en su capacidad para afrontar su vida",
+                "Transmitirle que es capaz de valerse por si mismo",
+                "Explicarle cual va a ser nuestra actitud",
+                "Todas las anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "5",
+            "pregunta": "El autor del libro “La Taika “Teoría y práctica de la Escuela – Ayllu es:",
+            "respuestas": [
+                "Carlos Salazar Mostajo",
+                "Paulo Freire ",
+                "Jacques Ranciere",
+                "M.L. Delgado Losada"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "6",
+            "pregunta": " ……………….. era para Warisata, la realización de la 'escuela única', concepto que es necesario valorar debidamente, pues no consiste en sembrar un único tipo de escuela en el país, sino en dar coherencia y continuidad a las diferentes etapas de la educación.",
+            "respuestas": [
+                "Integración vertical",
+                "Integración horizontal",
+                "Integración activa ",
+                "Integración histórica "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "7",
+            "pregunta": "Pero en un ambiente como el de Warisata, empeñado en una lucha tenaz por la sobrevivencia, la educación era un derecho de la población en general, pero no únicamente en su aspecto formal, escolar o alfabetizable, sino en todos los aspectos de la vida y el desarrollo. Esta afirmación corresponde a la :.",
+            "respuestas": [
+                "Integración vertical",
+                "Integración horizontal",
+                "Integración activa ",
+                "Integración histórica "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "8",
+            "pregunta": "En forma tal, la Escuela asumía tareas en una triple forma de actividad, referida al aula, el taller y el sembrío, fundamentos de su pedagogía. Era lo que podría llamarse:",
+            "respuestas": [
+                "Integración vertical",
+                "Integración horizontal",
+                "Integración activa ",
+                "Integración histórica "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "9",
+            "pregunta": "Para la referencia hacia el grandioso pasado y la proyección hacia un porvenir igual o más grandioso la escuela desarrollo una:",
+            "respuestas": [
+                "Integración vertical",
+                "Integración horizontal",
+                "Integración activa ",
+                "Integración histórica "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "10",
+            "pregunta": "El Ayni, y la Mincka son parte del fundamento:",
+            "respuestas": [
+                "Fundamente sociológico de Warisata",
+                "Fundamento económico de Warisata ",
+                "Fundamento cultural de Warisata",
+                "Fundamento pedagógico de Warisata "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "11",
+            "pregunta": "Instruir puede significar dos cosas exactamente opuestas: confirmar una incapacidad en el acto mismo que pretende reducirla o. a la inversa, forzar a una capacidad, que se ignora o se niega, a reconocerse y a desarrollar todas las consecuencias de este reconocimiento: el primer acto es:",
+            "respuestas": [
+                "Atontamiento",
+                "Emancipación",
+                "Liberación ",
+                "Educación "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "12",
+            "pregunta": "El libro ” Emancipación intelectual” de Joseph Jacotot sostiene que:",
+            "respuestas": [
+                "Todos los hombres tienen igual inteligencia",
+                "Se puede aprender solo",
+                "La instrucción es como la libertad ",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "13",
+            "pregunta": "Propone un paradigma que mantiene preferencia por la investigación focalizada en el desarrollo humano, sólo entendible como síntesis producida por la confluencia de la maduración orgánica y la historia individual.",
+            "respuestas": [
+                "Ausubel",
+                "Piaget",
+                "Bandura",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "14",
+            "pregunta": "Propone un paradigma que mantiene preferencia por la investigación focalizada en el desarrollo humano, sólo entendible por la acción del aprendizaje dentro de contextos sociales a través de modelos en situaciones reales y simbólicas",
+            "respuestas": [
+                "Ausubel",
+                "Piaget",
+                "Bandura",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "15",
+            "pregunta": "Sustenta un paradigma que mantiene preferencia por la investigación focalizada en el desarrollo humano, visto éste desde la perspectiva intelectual-cognitiva.",
+            "respuestas": [
+                "Piaget",
+                "Ausubel",
+                "Bandura",
+                "Bruner"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "16",
+            "pregunta": "Propone un paradigma que mantiene preferencia por la investigación focalizada en el desarrollo humano, sólo entendible como la síntesis producida por la confluencia de la maduración orgánica y la historia",
+            "respuestas": [
+                "Piaget",
+                "Ausubel",
+                "Bandura",
+                "Vygotsky"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "17",
+            "pregunta": "El método de investigación experimental utilizado en la “psicología del desarrollo” consiste: ",
+            "respuestas": [
+                "En observar y registrar el comportamiento utilizando diferentes métodos: observación, entrevistas, test estandarizados, estudios de casos, estudios biográficos o retrospectivos y medidas fisiológicas.",
+                "Examinar la relación entre dos variables o factores para determinar si están relacionados y describir la fuerza de su relación, pero no sirve para determinar si un factor es la causa de los cambios producidos en otro",
+                "Descubrir relaciones causales entre varios factores, el investigador manipula de forma controlada una situación o variable para determinar el efecto que produce sobre otra variable",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "18",
+            "pregunta": "El método de investigación descriptiva en la “psicología del desarrollo” consiste en:",
+            "respuestas": [
+                "Observar y registrar el comportamiento utilizando diferentes métodos: observación, entrevistas, test estandarizados, estudios de casos, estudios biográficos o retrospectivos y medidas fisiológicas.",
+                "Examinar la relación entre dos variables o factores para determinar si están relacionados y describir la fuerza de su relación, pero no sirve para determinar si un factor es la causa de los cambios producidos en otro. ",
+                "Descubrir relaciones causales entre varios factores, el investigador manipula de forma controlada una situación o variable para determinar el efecto que produce sobre otra variable",
+                "Ninguna "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "19",
+            "pregunta": "Educación Inicial en Familia Comunitaria no escolarizada es integral porque:",
+            "respuestas": [
+                "Desarrollamos capacidades, actitudes y potencialidades a partir de las dimensiones del Ser, Saber, Hacer y Decidir, en actividades cotidianas de la familia y la comunidad. ",
+                "Aprendemos en interacción con otras familias y la comunidad.",
+                "Recibimos atención, cuidado y educación fortaleciendo las prácticas culturales desarrolladas en las diferentes culturas.",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "20",
+            "pregunta": "Educación Inicial en Familia Comunitaria no escolarizada es holístico porque:",
+            "respuestas": [
+                "Desarrollamos capacidades, actitudes y potencialidades a partir de las dimensiones del Ser, Saber, Hacer y Decidir, en actividades cotidianas de la familia y la comunidad.",
+                "Fortalece la convivencia armónica y complementaria de la familia y la comunidad con la Madre Tierra, el Cosmos y la espiritualidad.",
+                "Recibimos atención, cuidado y educación fortaleciendo las prácticas culturales desarrolladas en las diferentes culturas.",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "21",
+            "pregunta": "Los componentes para la formación  y el desarrollo  integral infantil en la Educación Inicial en Familia Comunitaria no escolarizada  son:",
+            "respuestas": [
+                "La Afectividad y Espiritualidad",
+                "La Identidad cultural de la Familia y Desarrollo Psicomotriz y Cognitivo",
+                "Salud y Nutrición",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "22",
+            "pregunta": "El enfoque de Educación Inicial en Familia Comunitaria en su Etapa Escolarizada es integral y holístico porque:",
+            "respuestas": [
+                "Desarrollamos capacidades, actitudes y potencialidades a partir de las dimensiones del Ser, Saber, Hacer y Decidir, en actividades cotidianas de la familia y la comunidad.",
+                "Fortalece la convivencia armónica y complementaria de la familia y la comunidad con la Madre Tierra, el Cosmos y la espiritualidad",
+                "Promueve el desarrollo de cualidades, capacidades y potencialidades lingüísticas, biopsicomotrices, creativas, lúdicas, socioafectivas y espirituales en relación con las actividades de la familia y la comunidad.",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "23",
+            "pregunta": "El segundo paso para desarrollar las cualidades de un hijo es:",
+            "respuestas": [
+                "Muéstrale sus virtudes para que tenga conciencia de ellos",
+                "Identifica las virtudes y cualidades únicas en el niño o niña",
+                "Dale oportunidades para que pueda desarrollarla",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "24",
+            "pregunta": "Para la evaluación cualitativa en Educación Inicial en Familia Comunitaria Escolarizada, debemos tomar en cuenta las tres formas de evaluación:",
+            "respuestas": [
+                "Evaluación de la maestra, autoevaluación y evaluación Comunitaria",
+                "La evaluación oral, Evaluación de la Producción y la observación",
+                "La evaluación oral, evaluación escrita y evaluación del producto",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "25",
+            "pregunta": "Las maestras y los maestros lo realizan diariamente, participando con las niñas y niños en las actividades programadas o espontáneas que se desarrollan en el aula, en el patio u otro lugar de la comunidad; pero sin dejar de estar atenta a todo lo que sucede. Son las características de:",
+            "respuestas": [
+                "La Observación directa",
+                "La Observación participante",
+                "El Registro Anecdótico",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "26",
+            "pregunta": "Las niñas y los niños realizan las actividades y acciones que se le proponen, en relación a las cuatro dimensiones, de acuerdo a lo esperado en los criterios de evaluación. Es una característica del parámetro:",
+            "respuestas": [
+                "En desarrollo",
+                "Desarrollo pleno ",
+                "Desarrollo aceptable",
+                "Ninguno "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "27",
+            "pregunta": "Referidas a las condiciones que una persona reúne para aprender y cultivar distintos campos de conocimiento, aplicando una serie de herramientas naturales para el efecto. Esta definición corresponde a:",
+            "respuestas": [
+                "Las cualidades",
+                "Las capacidades socioafectivas",
+                "Las capacidades ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "28",
+            "pregunta": "En este arte, se utilizan materiales que se pueden modificar o moldear como ser: arcilla, plastilina, greda, pintura, papel, corcho, por mencionar algunos, con los cuales se puede trabajar en el aula y que se adecuan a la edad de las niñas y los niños ",
+            "respuestas": [
+                "las musicales ",
+                "Las artes plásticas y visuales",
+                "las escénicas.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "29",
+            "pregunta": "Capacidad que la niña y el niño de realizar algo por decisión propia.",
+            "respuestas": [
+                "La libre expresión",
+                "La libertad",
+                "La autonomía",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "30",
+            "pregunta": "Los programas de estudio permiten:",
+            "respuestas": [
+                "La comprensión de la organización de los elementos curriculares y su desarrollo en la concreción curricular",
+                "A maestros y maestras comprender los niveles de planificación curricular",
+                "Comprender la nueva la lectura y escritura en el modelo Educativo Sociocomunitario Productivo",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "31",
+            "pregunta": "El Estado Plurinacional, y la construcción de un Modelo Educativo Sociocomunitario Productivo, surgen como un intento de respuesta y búsqueda de resolver las siguientes problemáticas de nuestra realidad:",
+            "respuestas": [
+                "Condición de dependencia económica, ausencia de capacidades en saberes y conocimientos de las naciones y pueblos indígena originarios y  educación cognitivista y desarraigada.",
+                "Condición colonial y neocolonial de la realidad boliviana, condición de dependencia económica, ausencia de valoración de los saberes y conocimientos de las naciones y pueblos indígena originarios y  educación cognitivista y desarraigada.",
+                "Condición colonial de la realidad boliviana, condición de dependencia económica, ausencia de valoración de los saberes y conocimientos de las naciones y pueblos indígena originarios educación  desarraigada.",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "32",
+            "pregunta": "La Educación Inicial en Familia Comunitaria comprende dos etapas:",
+            "respuestas": [
+                "La primera etapa es no escolarizada de 1 a 3 años y la segunda etapa  es escolarizada de 4 a 5 años",
+                "La primera etapa es no escolarizada de 0 a 3 años y la segunda etapa  es escolarizada de 4 a 6 años",
+                "La primera etapa es no escolarizada correspondiente a niños y niñas menores de 4 años  y la segunda etapa  es escolarizada de 4 a 5 años.",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "33",
+            "pregunta": "La segunda etapa de la Educación Inicial en Familia Comunitaria es escolarizada y está orientado a:",
+            "respuestas": [
+                "Promover el desarrollo de capacidades sensorias motrices, cognitivas, afectivas y espirituales, en estrecho vínculo con su contexto familiar y comunitario a través de una adecuada orientación en la salud integral, procesos de socialización y transmisión cultural.",
+                "Contribuir a la formación integral de espacios familiares, comunitarios e institucionales con equidad y justicia social donde se generen experiencias de interrelación y crianza afectiva, en el marco del ejercicio y respeto de los derechos y la convivencia armónica con la naturaleza.",
+                "Incisos a y b",
+                "Ninguno "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "34",
+            "pregunta": "Desde el enfoque del Modelo Educativo Sociocomunitario Productivo, La Educación Inicial en Familia Comunitaria,   propone  desarrollar una educación que sea:",
+            "respuestas": [
+                "En familia, comunitaria, integral y holística ",
+                "Comunitaria, integral y holística",
+                "En familia, comunitaria, intercultural, intracultural, integral y holística ",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "35",
+            "pregunta": "Promovemos el desarrollo de capacidades psicomotrices, socio-afectivas, cognitivas, espirituales y lingüísticas de las niñas y los niños, brindando oportunidades de experimentación exploración y participación, fortaleciendo la identidad cultural con actitudes y valores sociocomunitarios, para sentar las bases que le permitan construir su proyecto de vida.Es un objetivo de: ",
+            "respuestas": [
+                "La segunda etapa escolarizada del Nivel de Educación Inicial en Familia Comunitaria",
+                "La etapa no escolarizada del Nivel de Educación Inicial en Familia Comunitaria",
+                "Inciso a y b",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "36",
+            "pregunta": "La primera etapa es no escolarizada está orientada a:",
+            "respuestas": [
+                "Promover el desarrollo de capacidades sensorias motrices, cognitivas, afectivas y espirituales, en estrecho vínculo con su contexto familiar y comunitario a través de una adecuada orientación en la salud integral, procesos de socialización y transmisión cultural.",
+                "Contribuir a la formación integral de espacios familiares, comunitarios e institucionales con equidad y justicia social donde se generen experiencias de interrelación y crianza afectiva, en el marco del ejercicio y respeto de los derechos y la convivencia armónica con la naturaleza.",
+                "Incisos a y b",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "37",
+            "pregunta": "El primer paso para desarrollar las cualidades de un hijo es:",
+            "respuestas": [
+                "Muéstrale sus virtudes para que tenga conciencia de ellos",
+                "Identifica las virtudes y cualidades únicas en el niño o niña",
+                "Dale oportunidades para que pueda desarrollarla",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "38",
+            "pregunta": "La guarda es el cuidado, protección, atención y asistencia integral.",
+            "respuestas": [
+                "A la niña, niño o adolecente de manera provisional ",
+                "A la niña, niño o adolecente de manera permanente",
+                "Todas la anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "39",
+            "pregunta": "Dirigida al pleno desarrollo de su personalidad, capacidades físicas y mentales.",
+            "respuestas": [
+                "Derecho a aprender ",
+                "Derecho a la educación",
+                "Derecho a la enseñanza",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "40",
+            "pregunta": "Se prohíbe a las autoridades del sistema educativo, la expulsión a las estudiantes embarazadas. ",
+            "respuestas": [
+                "Verdadero ",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "41",
+            "pregunta": "El estado en todos sus niveles, ejecutara el programa de prevención y protección social.",
+            "respuestas": [
+                "Para niñas, niños y adolescentes menores de doce (12) años en actividad laboral ",
+                "Para niñas, niños y adolescentes menores de catorce (14) años en actividad laboral",
+                "Para niñas, niños y adolescentes menores de dieciséis (16) años en actividad laboral ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "42",
+            "pregunta": "Se considera una forma y/o tipo de violencia entre pares en el sistema educativo.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "43",
+            "pregunta": "Elaborar y desarrollar mediadas de no violencia para resolver las tenciones y conflictos emergentes.",
+            "respuestas": [
+                "Son medidas preventivas",
+                "Son medidas de protección",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "44",
+            "pregunta": "Denominado Ley 004 Marcelo Quiroga Santa Cruz. ",
+            "respuestas": [
+                "Lucha contra la corrupción y enriquecimiento ilícito ",
+                "Lucha contra la corrupción, enriquecimiento ilícito e investigación de fortunas",
+                "Lucha contra la corrupción e investigación de fortunas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "45",
+            "pregunta": "Establece mecanismos y procedimientos en el marco de la Constitución Política del Estado.",
+            "respuestas": [
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores priv",
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidas por servidores públicos",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "46",
+            "pregunta": "Prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores públicos exservidores públicos.",
+            "respuestas": [
+                "Objeto de la Ley 044",
+                "Objeto de la Ley 014",
+                "Objeto de la Ley 004",
+                "Objeto de la ley 114"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "47",
+            "pregunta": "Consejo nacional de lucha contra la corrupción, enriquecimiento y legitimación de ganancias ilícitas.",
+            "respuestas": [
+                "Ministerio de transparencia institucional y lucha contra la corrupción",
+                "Ministerio de gobierno ministerio publico",
+                "Contraloría general del Estado y procuraduría general del Estado ",
+                "Todos los anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "48",
+            "pregunta": "Es el requerimiento o la aceptación, el ofrecimiento u otorgamiento, de un servidor público.",
+            "respuestas": [
+                "Que afecte a los intereses de la comunidad",
+                "Que afecte a los intereses del Estado",
+                "Que afecte a los intereses de la Nación",
+                "Que afecte a los intereses del pueblo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "49",
+            "pregunta": "Proponer, supervisar y fiscalizar políticas publicas, orientadas a prevenir y sancionar actos de corrupción.",
+            "respuestas": [
+                "Atribución del consejo nacional de lucha contra la corrupción",
+                "Atribución del consejo departamental de lucha contra la corrupción",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "50",
+            "pregunta": "Tendrán competencia para conocer y resolver procesos penales. ",
+            "respuestas": [
+                "Tribunales anticorrupción ",
+                "Control social",
+                "Juzgados anticorrupción",
+                "A y C"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "51",
+            "pregunta": "Los tipos penales en los que incurren los funcionarios públicos.",
+            "respuestas": [
+                "Uso indebido de bienes y servicios públicos ",
+                "Enriquecimiento ilícito ",
+                "A y B ",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "52",
+            "pregunta": "Servidores públicos que en beneficio propio o de terceros otorgue bienes, derechos y acciones.",
+            "respuestas": [
+                "Uso indebido de bienes",
+                "Uso indebido de servicios públicos ",
+                "Uso indebido de bienes y servicios públicos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "53",
+            "pregunta": "El servidor publico que hubiera incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos.",
+            "respuestas": [
+                "Enriquecimiento ilícito ",
+                "Enriquecimiento licito ",
+                "Enriquecimiento legal ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "54",
+            "pregunta": "Insertar datos económicos, financieros y patrimoniales.",
+            "respuestas": [
+                "Declaración jurada de bienes y rentas ",
+                "Declaración jurada de bienes",
+                "Declaración jurada de rentas ",
+                "Declaración jurada del patrimonio neto"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "55",
+            "pregunta": "Servidor publico aprovechando del cargo que desempeña se apropiare de dinero, valores y bienes.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "56",
+            "pregunta": "Servidor publico hace actos relativos a sus funciones recibiera dadivas o cualquier otra ventaja.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "57",
+            "pregunta": "Director departamental, distritales y directores de UEs son considerados servidores o funcionarios públicos.",
+            "respuestas": [
+                "Verdadero",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "58",
+            "pregunta": "Garantiza las mujeres, el derecho a no sufrir violencia física, sexual y/o psicológica.",
+            "respuestas": [
+                "Corresponde a la Ley 834",
+                "Corresponde a la Ley 348",
+                "Corresponde a la Ley 349",
+                "Corresponde a la Ley 448"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "59",
+            "pregunta": "Establece mecanismos, medidas y políticas integrales de prevención, protección y reparación en situación violenta.",
+            "respuestas": [
+                "Así como sanción a los agresores ",
+                "Así como persecución a los agresores",
+                "Así como sanción y persecución a los agresores ",
+                "Así como el perdón de los agresores  "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "60",
+            "pregunta": "Desde el marco constitucional, la Ley de 348 garantiza.",
+            "respuestas": [
+                "En particular, a las mujeres, el derecho a nos sufrir violencia ",
+                "En particular, al genero femenino, el derecho a no sufrir violencia",
+                "Otra respuesta",
+                "Ninguno  "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "61",
+            "pregunta": "Despatriarcalizacion, consiste en la elaboración de políticas publicas desde la identidad. ",
+            "respuestas": [
+                "Para la visibilizacion del patriarcado ",
+                "Para la visibilizacion, denuncia del patriarcado",
+                "Para la visibilizacion, denuncia y erradicación del patriarcado",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "62",
+            "pregunta": "Mensajes, símbolos, iconos, signos, e impresiones culturales que reproducen y consolidan relaciones de denominación. ",
+            "respuestas": [
+                "Violencia mediática",
+                "Violencia simbólica y/o reencubierta ",
+                "Violencia contra la dignidad ",
+                "Violencia institucional"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "63",
+            "pregunta": "Acción u omisión de servidores públicos, implique una acción discriminatoria, prejuiciosa, humillante y deshumanizad. ",
+            "respuestas": [
+                "Violencia mediática ",
+                "Violencia simbólica y/o reencubierta ",
+                "Violencia contra la dignidad",
+                "Violencia institucional "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "64",
+            "pregunta": "Ente rector de las políticas publicas para la prevención de la violencia contra mujeres.",
+            "respuestas": [
+                "La autoridad competente ",
+                "El Estado ",
+                "El Estado benefactor ",
+                "La sociedad  "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "65",
+            "pregunta": "El SIPPASE sistema integral Plurinacional de Prevencion, Atencion Sancion y erradicación de la violencia.",
+            "respuestas": [
+                "Reorganiza todo el sistema de atención integral a las mujeres en situación de violencia ",
+                "Reorganiza todo el sistema de atención integral a las mujeres en situación de amenaza ",
+                "Todas las anterires",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "66",
+            "pregunta": "Crearan y adoptaran las medidas de prevención que sean necesarias para modificar los comportamientos.",
+            "respuestas": [
+                "El nivel central de las entidades territoriales autónomas",
+                "El nivel central del Estado",
+                "El nivel central del Estado y las entidades territoriales autónomas ",
+                "En nivel central del gobierno "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "67",
+            "pregunta": "La Universidades y de formación superior públicos crearan. ",
+            "respuestas": [
+                "Programas gratuitos destinados a la prevención de la violencia ",
+                "Programas y servicios gratuitos destinados a la prevención de la violencia.",
+                "Todas la anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "68",
+            "pregunta": "Incorporar estrategias y programas de prevención e intervención integral contra la violencia hacia mujeres.",
+            "respuestas": [
+                "Medidas del ministerio de educación",
+                "Medidas de las direcciones departamentales ",
+                "Mediadas de directores distritales ",
+                "Medidas de los directores de unidades educativas"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "69",
+            "pregunta": "Una medida en el ámbito educativo, es crear en las unidades educativas.",
+            "respuestas": [
+                "Un centro de atención con especialidad obligatoria en violencia",
+                "Un centro de atención psicológica, con especialidad obligatoria en violencia",
+                "Todas las anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "70",
+            "pregunta": "Todo hecho de violencia contra las mujeres será denunciado ante instancias ",
+            "respuestas": [
+                "En el ministerio publico ",
+                "La policía ",
+                "La policía y el ministerio publico ",
+                "La opción publica "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "71",
+            "pregunta": "Asegura el ejercicio de todos sus derechos y su efectiva protección. ",
+            "respuestas": [
+                "Estado garantiza",
+                "Estado protector ",
+                "Estado de derecho",
+                "Estado integral"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "72",
+            "pregunta": "Gobiernos autónomos municipales tiene la obligación de organizar.",
+            "respuestas": [
+                "Servicio legales integrales para la mujer (SLIM) ",
+                "Servicio legales integrales municipales (SLIM)",
+                "Servicio legales integrales por mandato (SLIM)",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "73",
+            "pregunta": "Prevención, auxilio, investigación, identificación y aprehensión de presuntos responsables de violencia hacia mujeres.",
+            "respuestas": [
+                "La Fuerza Especial de lucha Contra el Crimen (FELCC) ",
+                "La Fuerza Especial de Lucha Contra la Violencia (FELCC) ",
+                "Todas las anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "74",
+            "pregunta": "Las medidas de protección tienen por objeto interrumpir e impedir un hecho de violencia. ",
+            "respuestas": [
+                "Contra las mujeres, o garantizar, en casos consumados se realice investigación, procesamiento y sanción",
+                "Contra las mujeres, o garantizar, en casos no consumados c realiza investigación, procesamiento y sanción",
+                "Todas la anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "75",
+            "pregunta": "Es un mandato constitucional de la educación.",
+            "respuestas": [
+                "Toda persona no tiene derecho a recibir educación en todos los niveles ",
+                "Toda persona tiene el deber a recibir educación en todos los niveles ",
+                "Toda persona tiene derecho a recibir educación en todos los niveles ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "76",
+            "pregunta": "La educación constituye una función suprema y primera responsabilidad financiera del Estado. ",
+            "respuestas": [
+                "Que tiene la obligación indeclinable de sostenerla, garantizar y gestionar",
+                "Que tiene la obligación indeclinable de sostenerla y garantizarla",
+                "Que tiene la obligación indeclinable de sostenerla ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "77",
+            "pregunta": "Se consolida y fortalece el funcionamiento de la Unidades Educativas sostenidas por el Estado",
+            "respuestas": [
+                "Unidades educativas fiscales",
+                "Unidades educativas privadas",
+                "Unidades educativas de convenio",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "78",
+            "pregunta": "Por medio de la inamovilidad funcionaria.",
+            "respuestas": [
+                "Se garantiza la carrera docente y la inamovilidad del personal docente y administrativo",
+                "Se garantiza la carrera docente y administrativo",
+                "Se garantiza la inamovilidad del personal docente y administrativo",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "79",
+            "pregunta": "Es un objetivo de la educación.",
+            "respuestas": [
+                "Desarrollar la formación holística de las personal",
+                "Desarrollar la formación de las personas",
+                "Desarrollar la formación integral de las personas",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "80",
+            "pregunta": "Es una finalidad de educación.",
+            "respuestas": [
+                "Contribuir a la consolidación de la educación descolonizada",
+                "Forma integral y equitativamente en función de la necesidades, particularidades y expectativas",
+                "Inciso A y B",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "81",
+            "pregunta": "La intraculturalidad promueve la recuperación, fortalecimiento, desarrollo y cohesión.",
+            "respuestas": [
+                "Al interior de las culturas",
+                "Al interior de las culturas, de las naciones y pueblos indígena originario campesinos",
+                "Estructura del sistema educativo comprende",
+                "Subsistemas de educación regular "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "82",
+            "pregunta": "Es la educación sistemática, normada, obligatoria, y procesual.",
+            "respuestas": [
+                "Educación regular ",
+                "Educación alternativa",
+                "Educación especial",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "83",
+            "pregunta": "Estructura del subsistema de educación regular.",
+            "respuestas": [
+                "Educación inicial en familia comunitaria y primaria comunitaria vocacional",
+                "Educación primaria comunitaria vocacional y secundaria comunitaria vocacional",
+                "Educación inicial en familia comunitaria y secundaria comunitaria vocacional",
+                "Educación inicial en familia comunitaria, primaria comunitaria vocacional y secundaria comunitaria Productiva."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "84",
+            "pregunta": "Es formación básica, cimiento de todo el proceso de formación posterior.",
+            "respuestas": [
+                "Educación inicial en familia comunitaria",
+                "Educación primaria comunitaria vocacional",
+                "Educación secundaria comunitaria vocacional",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "85",
+            "pregunta": "Atiende necesidades y expectativas educativas que requieren dar continuidad a sus estudios o que precisan formación permanente.",
+            "respuestas": [
+                "Educación alternativa",
+                "Educación alternativa y especial",
+                "Educación formal alternativa",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "86",
+            "pregunta": "Estructura de la educación alternativa.",
+            "respuestas": [
+                "Educación de personas jóvenes y adultas",
+                "Educación de personas jóvenes",
+                "Educación de personas jóvenes y adultas y educación permanente",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "87",
+            "pregunta": "Acciones destinadas a promover y consolidar la educación inclusiva para.",
+            "respuestas": [
+                "Personas con capacidades, dificultades en el aprendizaje y talento extraordinario",
+                "Personas con discapacidad, dificultades en el aprendizaje y talento extraordinario",
+                "Personas con discapacidad, dificultades en el aprendizaje",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "88",
+            "pregunta": "Estructura de la educación superior de formación profesional.",
+            "respuestas": [
+                "Formación de maestras y maestros y formación técnica tecnológica",
+                "Formación de maestras y maestros y formación artística",
+                "Formación de maestras y maestros, técnica tecnológica, artística y universitaria",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "89",
+            "pregunta": "Corresponde a la educación superior.",
+            "respuestas": [
+                "Es el espacio educativo de formación profesional ",
+                "Es el espacio educativo de formación de maestras y maestras",
+                "Todas las anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "90",
+            "pregunta": "MINEDU instancia que planifica, organiza, dirige y controla los recursos del sistema educativo.",
+            "respuestas": [
+                "Administración educativa del sistema educativo",
+                "Administración y gestión educativa del sistema educativo",
+                "Administración y gestión pedagógica del sistema educativo",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "91",
+            "pregunta": "Comprende la infancia escolar.",
+            "respuestas": [
+                "Niñas y niños entre 6 a 11 años de edad ",
+                "Niñas y niños entre 6 a 12 años de edad",
+                "Niñas y niños entre 6 a 14 años de edad",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "92",
+            "pregunta": "El principio de interés superior favorece el desarrollo integral de niña, niño y adolecente.",
+            "respuestas": [
+                "En el goce de los deberes y garantías",
+                "En el goce de los obligaciones y garantías",
+                "En el goce de los derechos y garantías",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "93",
+            "pregunta": "El sistema plurinacional integral de la niña, niño y adolecente.",
+            "respuestas": [
+                "Tiene como objetivo primordial garantizar el pleno goce de los derechos",
+                "Tiene como objetivo primordial garantizar el pleno goce de las garantías",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "94",
+            "pregunta": "Niñas, niños y adolecentes tienen derecho a bienestar físico, mental, social y servicio salud.",
+            "respuestas": [
+                "Derecho a la vida",
+                "Derecho a la salud ",
+                "Derecho a la familia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "95",
+            "pregunta": "El estado en todos sus niveles, tiene la obligación de implementar.",
+            "respuestas": [
+                "Que se aseguren condiciones dignas para su nacimiento",
+                "Que aseguren condiciones dignas para su nacimiento y desarrollo integral",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "96",
+            "pregunta": "Es el acceso permanente con acciones de promoción, prevención, curación, tratamiento, rehabilitación y recuperación.",
+            "respuestas": [
+                "Acceso permanente a la salud ",
+                "Acceso universal a la salud",
+                "Acceso a la salud",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "97",
+            "pregunta": "Derecho a vivir, desarrollarse y educarse en un ambiente de afecto y seguridad.",
+            "respuestas": [
+                "Derecho a la familia",
+                "Derecho a la vida",
+                "Derecho a la salud",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "98",
+            "pregunta": "Son situaciones de discapacidad de niñas, niña y adolecente.",
+            "respuestas": [
+                "Física y cognitiva",
+                "Psíquica o sensorial",
+                "A y B ",
+                "Ninguna "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "99",
+            "pregunta": "Son garantes inmediatos del derecho a la salud de sus hijas e hijos.",
+            "respuestas": [
+                "El Estado, el gobierno y las autoridades competentes ",
+                "Persona del entorno inmediato",
+                "Madre o padre, guardadora o guardador, tutora o tutor",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "100",
+            "pregunta": "Medida excepcional y provisional, efectuada en situaciones extremas, urgencia o necesidad en favor…",
+            "respuestas": [
+                "Familia sustituta",
+                "Acogimiento circunstancial",
+                "Guarda y/o cuidado",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        }
+    ]
+}

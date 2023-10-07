@@ -1,0 +1,1098 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "Garantizar el acceso de las personas a la educación, a la salud y al trabajo. Según la CPE son: ",
+            "respuestas": [
+                "Son objetivos fundamentales y funciones del Estado.",
+                "Son fines y funciones esenciales del Estado.",
+                "Son principios fundamentales del Estado boliviano.",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "2",
+            "pregunta": "Según la CPE en su Artículo 17. Toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación. Se refiere a los:",
+            "respuestas": [
+                "Derechos fundamentales",
+                "Objetivos fundamentales",
+                "Principios fundamentales",
+                "Bases fundamentales"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "3",
+            "pregunta": "La educación constituye una …………………y primera responsabilidad financiera del Estado, que tiene la obligación indeclinable de sostenerla, garantizarla y gestionarla.",
+            "respuestas": [
+                "función estatal.",
+                "función suprema.",
+                "identidad cultural.",
+                "Ninguno de los anteriores incisos."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "4",
+            "pregunta": "En el artículo 78  de la Constitución Política del Estado declara que la educación es:",
+            "respuestas": [
+                "La educación es unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad.",
+                "La educación es intracultural, intercultural y plurilingüe en todo el sistema educativo.",
+                "El sistema educativo se fundamenta en una educación abierta, humanista, científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "5",
+            "pregunta": "En el Artículo 81.paragrafo I de la Constitución Política del Estado se establece que: La educación es obligatoria hasta",
+            "respuestas": [
+                "La licenciatura.",
+                "El bachillerato.",
+                "La educación primaria.",
+                "La formación superior."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "6",
+            "pregunta": "En el Articulo 81 parágrafo II de la  Constitución Política del Estado establece que: La educación fiscal es gratuita en todos sus niveles hasta el:",
+            "respuestas": [
+                "Secundario.",
+                "Bachillerato.",
+                "Superior.",
+                "Ninguno de los anteriores incisos."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "7",
+            "pregunta": "En el Artí. 88. Parágrafo II de la  Constitución Política del Estado establece     que: Se respeta el derecho de las madres y padres a elegir:",
+            "respuestas": [
+                "Unidades Educativas fiscales o privadas.",
+                "La educación que convenga para sus hijas e hijos.",
+                "El inciso a y b.",
+                "Ninguno de los anteriores incisos."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "8",
+            "pregunta": "En el Art. 90 parágrafo III de la  Constitución Política del Estado establece que: El Estado, a través del sistema educativo, promoverá la creación y organización de programas educativos a distancia y populares no escolarizados, con el objetivo de:",
+            "respuestas": [
+                "Construir programas educativos.",
+                "Promover la participación comunitaria.",
+                "Elevar el nivel cultural y desarrollar la conciencia plurinacional del pueblo.",
+                "Todos los incisos anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "9",
+            "pregunta": "Según la CPE Art. 77 parágrafo II establece que:    ………………….  tienen tuición plena sobre el sistema educativo, que comprende la educación regular, la alternativa y especial, y la educación superior de formación profesional. El sistema educativo desarrolla sus procesos sobre la base de criterios de armonía y coordinación.",
+            "respuestas": [
+                "Los gobiernos municipales",
+                "Las gobernaciones ",
+                "Las comunidades interculturales",
+                "El Estado y la sociedad"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "10",
+            "pregunta": "La CPE establece que: El sistema educativo está compuesto por las instituciones educativas:.......",
+            "respuestas": [
+                "Instituciones educativas de convenio e instituciones fiscales.",
+                "Instituciones educativas privadas.",
+                "Instituciones educativas fiscales, instituciones educativas privadas y de convenio.",
+                "Instituciones particulares y fiscales."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "11",
+            "pregunta": " La CPE establece que: El Estado apoyará con prioridad a los estudiantes ..............  para que accedan a los diferentes niveles del sistema educativo, mediante recursos económicos, programas de alimentación, vestimenta, transporte, material escolar; y en áreas dispersas, con residencias estudiantiles, de acuerdo con la ley.",
+            "respuestas": [
+                "Con menos posibilidades económicas.",
+                "Con menos oportunidades de superación.",
+                "Con menos opciones de aprobar en las áreas.",
+                "Con menos tiempo para el estudio."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "12",
+            "pregunta": "La CPE en su Art. 79 establece que: La educación fomentará: ",
+            "respuestas": [
+                "El civismo",
+                "El diálogo intercultural ",
+                "Los valores ético morales",
+                "Todas las anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "13",
+            "pregunta": "La CPE en su Art. 84 establece que: El Estado y la sociedad tienen el deber de erradicar el analfabetismo a través de programas: ............",
+            "respuestas": [
+                "acordes con la realidad cultural y lingüística de la población.",
+                "acordes con el cambio social.",
+                "acordes con el plan de gobierno",
+                "acordes con los planes de alfabetización y post – alfabetización."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "14",
+            "pregunta": "El Estado garantizará el acceso a la educación y la permanencia de todas las ciudadanas y los ciudadanos en condiciones de plena:.............",
+            "respuestas": [
+                "Accesibilidad ",
+                "Igualdad",
+                "Solidaridad",
+                "Gratuidad"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "15",
+            "pregunta": "La CPE, Art. 81. III. A la culminación de los estudios del nivel secundario se otorgará el .............. con carácter gratuito e inmediato.",
+            "respuestas": [
+                "Diploma de bachiller técnico humanístico.",
+                "Diploma académico.",
+                "Diploma de egreso ",
+                "Diploma de bachiller"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "16",
+            "pregunta": "Registro sistemático, permanente y centralizado de los datos personales y profesionales de los maestros ",
+            "respuestas": [
+                "Escalafón nacional",
+                "Escalafón de servicio de educación",
+                "Escalafón nacional del servicio de educación",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "17",
+            "pregunta": "Finalidad del escalafón nacional de servicio de educación",
+            "respuestas": [
+                "Regula el ingreso de los maestros ",
+                "Garantiza la continuidad del funcionario del ramo",
+                "Regula el ingreso y garantiza la continuidad de los maestros y funcionarios del ramo ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "18",
+            "pregunta": "Establece la escala de categorías y la escala jerárquica ",
+            "respuestas": [
+                "Para el desarrollo de la carrera docente ",
+                "Para el desarrollo de la carrera administrativa",
+                "Corresponde a los incisos anteriores ",
+                "No corresponde a ninguno de los incisos"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "19",
+            "pregunta": "El servicio de educación comprende ",
+            "respuestas": [
+                "El servicio docente",
+                "El servicio docente y el servicio administrativo",
+                "El servicio administrativo",
+                "No corresponde a ninguno de los incisos"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "20",
+            "pregunta": "Maestros y administrativos están obligados a inscribirse en el escalafón",
+            "respuestas": [
+                "Como requisito para el goce de garantías ",
+                "Como requisito para el goce de derechos",
+                "Como requisito para el goce de recompensas",
+                "Como requisito para el goce de garantías, derechos y recompensas "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "21",
+            "pregunta": "La carrera docente y administrativa, se desarrolla en dos proyecciones",
+            "respuestas": [
+                "Los ascensos de jerarquía ",
+                "Corresponde a los incisos a y b ",
+                "Las promociones de categorías",
+                "No corresponde a ninguno de los incisos"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "22",
+            "pregunta": "Se establece una escala jerárquica para los ascensos en el sector docente y otra",
+            "respuestas": [
+                "Y la misma escala jerárquica para los ascensos en el sector administrativo",
+                "Y otra escala jerárquica paralela par los asensos en el sector administrativos",
+                "Corresponde a los anteriores incisos",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "23",
+            "pregunta": "Los maestros normalistas que no siendo oriundos del lugar presten 2 años de servicio",
+            "respuestas": [
+                "En las zonas declaradas fronterizas, tendrán derecho al computo de 2 años",
+                "En las zonas declaradas fronterizas, tendrán derecho al computo de 4 años",
+                "En las zonas declaradas fronterizas, tendrán derechos al computo de 6 años ",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "24",
+            "pregunta": "Promociones de categorías contempladas en el Reglamento del Escalafón ",
+            "respuestas": [
+                "4ta categoría; 3ra categoría; 2da categoría; y 1ra categoría. ",
+                "5ta categoría; 4ta categoría; 3ra categoría; 2da categoría; y 1ra categoría",
+                "3ra categoría; 2da categoría; y 1ra categoría",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "25",
+            "pregunta": "La categoría 2da percibe una bonificación.",
+            "respuestas": [
+                "Del 30 %  ",
+                "Del 45 %",
+                "Del 60 %",
+                "Del 75 %"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "26",
+            "pregunta": "La categoría 1ra percibe una bonificación",
+            "respuestas": [
+                "Del 100 %",
+                "Del 75 %",
+                "Del 60 % ",
+                "Del 45 %"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "27",
+            "pregunta": "Para la promoción de los maestros normalistas",
+            "respuestas": [
+                "Es con examen aprobado",
+                "Es automático",
+                "Corresponde a los anteriores incisos",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "28",
+            "pregunta": "Promociones a categorías superiores de cero y mérito es.",
+            "respuestas": [
+                "De inmediato ",
+                "Automático",
+                "Con examen de gracia ",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "29",
+            "pregunta": "La ley No. 004 se aplicará a:",
+            "respuestas": [
+                "Los servidores y ex servidores públicos de todos los Órganos del Estado Plurinacional.",
+                "Ministerio Público, Procuraduría General de Estado, Defensoría del Pueblo.",
+                "Fuerzas Armadas y Policía Boliviana.",
+                "Todos los anteriores incisos."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "30",
+            "pregunta": "En el artículo 6 de la ley 004. Se crea el Consejo Nacional de Lucha Contra la Corrupción, Enriquecimiento Ilícito y Legitimación de Ganancias Ilícitas,  estará integrada por:",
+            "respuestas": [
+                "Ministerio de Transparencia Institucional y Lucha Contra la Corrupción",
+                "Ministerio de Gobierno",
+                "Ministerio Público",
+                "Todos los anteriores incisos."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "31",
+            "pregunta": "El artículo 29 de la ley 004 enfatiza: El que con la finalidad de ocultar,  disimular o legitimar el incremento patrimonial previsto en los artículos precedentes, facilitare su nombre o participare en actividades económicas, financieras y comerciales, será sancionado con privación de libertad de tres a ocho años, inhabilitación para el ejercicio de la función pública y/o cargos electos y multa de cincuenta a quinientos días. Se refiere a la figura de:",
+            "respuestas": [
+                "Cohecho Activo Transnacional.",
+                "Favorecimiento al Enriquecimiento Ilícito.",
+                "Cohecho Pasivo Transnacional.",
+                "Obstrucción de la Justicia."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "32",
+            "pregunta": " La Ley No. 004 establece que es un delito de Enriquecimiento Ilícito a la siguiente figura",
+            "respuestas": [
+                "La servidora pública o servidor público, que hubiere incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos y que no pueda ser justificado, será sancionado con privación de libertad de cinco a diez años, inhabilitación para el ejercicio de la función pública y/o cargos electos, multa de doscientos hasta quinientos días y el decomiso de los bienes obtenidos ilegalmente.",
+                "La servidora o el servidor público o autoridad que dictare resoluciones u órdenes contrarias a la Constitución o a las leyes, o ejecutare o hiciere ejecutar dichas resoluciones u órdenes, será sancionado con privación de libertad de cinco a diez años.",
+                "Todas las opciones.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "33",
+            "pregunta": "Según La ley No. 004, en su artículo 154, el delito de Incumplimiento de deberes se da cuando:",
+            "respuestas": [
+                "La servidora o el servidor público o autoridad que dictare resoluciones u órdenes contrarias a la Constitución o a las leyes, o ejecutare o hiciere ejecutar dichas resoluciones u órdenes, será sancionado con privación de libertad de cinco a diez años.",
+                "La servidora o el servidor público que ilegalmente omitiere, rehusare hacer o retardare un acto propio de sus funciones, será sancionado con privación de libertad de uno a cuatro años.",
+                "La servidora o el servidor público o autoridad que con abuso de su condición o funciones, directa o indirectamente, exigiere u obtuviere dinero u otra ventaja ilegítima o en proporción superior a la fijada legalmente, en beneficio propio o de un tercero, será sancionado con privación de libertad de tres a ocho años.",
+                "Ninguno de los incisos anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "34",
+            "pregunta": "En el capítulo III de la Ley 004 menciona: “La servidora pública o el servidor público que en beneficio propio o de terceros otorgue un fin distinto al cual se hallaren destinados bienes, derechos y acciones pertenecientes al Estado o a sus instituciones, a las cuales tenga acceso en el ejercicio de la función pública, será sancionado con privación de libertad de uno a cuatro años”. Este concepto corresponde a:",
+            "respuestas": [
+                "Enriquecimiento Ilícito.",
+                "Malversación de fondos del Estado.",
+                "Uso Indebido de Bienes y Servicios Públicos.",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "35",
+            "pregunta": "Los principios que rigen en  la  Ley  004 son:",
+            "respuestas": [
+                "Celeridad, Transparencia, Gratuidad,  Efectividad.",
+                "Suma Qamaña, Ama Suwa, Ética. Transparencia, Gratuidad. Celeridad. Defensa del Patrimonio del Estado. Cooperación Amplia. Imparcialidad en la Administración de Justicia.",
+                "Ama suwa, Ama llulla, Ama quella",
+                "Ninguno de los incisos anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "36",
+            "pregunta": "Artículo 157. Será sancionado con privación de libertad de uno a cuatro años y multa de treinta a cien días, la servidora o el servidor público que propusiere en terna o nombrare para un cargo público a persona que no reuniere las condiciones legales para su desempeño.",
+            "respuestas": [
+                "Incumplimiento de deberes",
+                "Nombramientos Ilegales",
+                "Nombramiento legal",
+                "Prevaricato"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "37",
+            "pregunta": "Ley No. 004, Art. 32. El que utilice fuerza física, amenazas, intimidación, promesas, ofrecimiento o la concesión de un beneficio indebido para inducir a una persona a prestar falso testimonio u obstaculizar la prestación de testimonio o la aportación de pruebas en procesos por delitos de corrupción, será sancionado con privación de libertad de tres a ocho años y multa de  treinta a quinientos días. Se refiere al delito de:",
+            "respuestas": [
+                "Malversación de fondos",
+                "Concusión ",
+                "Obstrucción de la Justicia.",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "38",
+            "pregunta": "El que falseare u omitiere insertar los datos económicos, financieros o patrimoniales, que la declaración jurada de bienes y rentas deba contener, incurrirá en privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días.",
+            "respuestas": [
+                "Obstrucción de la justicia.",
+                "Favorecimiento al enriquecimiento ilícito.",
+                "Nombramientos ilegales.",
+                "Falsedad en la Declaración Jurada de Bienes y Rentas."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "39",
+            "pregunta": "La servidora o el servidor público que aprovechando del cargo que desempeña se apropiare de dinero, valores o bienes de cuya administración cobro o custodia se hallare encargado, será sancionado con privación de libertad de cinco a diez años y multa de doscientos a quinientos días.",
+            "respuestas": [
+                "Peculado.",
+                "Malversación ",
+                "Concusión ",
+                "Prevaricato."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "40",
+            "pregunta": "Artículo 144, Ley No. 004. La servidora o el servidor público que diere a los caudales que administra, percibe o custodia, una aplicación distinta de aquella a que estuvieren destinados, será sancionada con privación de libertad de tres a ocho años y multa de cien a doscientos cincuenta días.",
+            "respuestas": [
+                "Peculado",
+                "Concusión",
+                "Prevaricato",
+                "Malversación"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "41",
+            "pregunta": "La servidora o el servidor público o autoridad que con abuso de su condición o funciones, directa o indirectamente, exigiere u obtuviere dinero u otra ventaja ilegítima o en proporción superior a la fijada legalmente, en beneficio propio o de un tercero, será sancionado con privación de libertad de tres a ocho años.",
+            "respuestas": [
+                "Exacciones ",
+                "Concusión.",
+                "Malversación ",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "42",
+            "pregunta": "La Ley No. 004, en su Artículo 147, establece que es un delito de Beneficios en Razón del Cargo, se refiere a:",
+            "respuestas": [
+                "La servidora o el servidor público o autoridad que en consideración a su cargo admitiere regalos u otros beneficios, será sancionado con privación de libertad de tres a ocho años y multa de cien a doscientos cincuenta días",
+                "La servidora o el servidor público o autoridad que con abuso de su condición o funciones, directa o indirectamente, exigiere u obtuviere dinero u otra ventaja ilegítima o en proporción superior a la fijada legalmente, en beneficio propio o de un tercero, será sancionado con privación de libertad de tres a ocho años.",
+                "El que falseare u omitiere insertar los datos económicos, financieros o patrimoniales, que la declaración jurada de bienes y rentas deba contener, incurrirá en privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "43",
+            "pregunta": "La Ley No. 004, en su Artículo 146. Establece que es un delito de Uso Indebido de Influencias, se refiere a:",
+            "respuestas": [
+                "El que falseare u omitiere insertar los datos económicos, financieros o patrimoniales, que la declaración jurada de bienes y rentas deba contener, incurrirá en privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días.",
+                "La servidora o el servidor público o autoridad que directamente o por interpuesta persona y aprovechando de las funciones que ejerce o usando indebidamente de las influencias derivadas de las mismas obtuviere ventajas o beneficios, para sí o para un tercero, será sancionado con privación de libertad de tres a ocho años y multa de cien a quinientos días.",
+                "Todas las anteriores ",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "44",
+            "pregunta": "Corresponde al código niña, niño adolescente.",
+            "respuestas": [
+                "Ley 648",
+                "Ley 548",
+                "Ley 448",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "45",
+            "pregunta": " La guarda es el cuidado, protección, atención y asistencia integral.",
+            "respuestas": [
+                "A la niña, niño o adolescente de manera permanente.",
+                "A la niña, niño o adolescente de manera provisional.",
+                "Psíquica o sensorial",
+                "Todas las anteriores "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "46",
+            "pregunta": "Son garantes inmediatos al derecho a la salud de sus hijas e hijos.",
+            "respuestas": [
+                "Madre o padre, guardadora o guardador tutora o tutor.",
+                "El Estado, el gobierno y las autoridades competentes.",
+                "todas las anteriores",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "47",
+            "pregunta": "Son situaciones de discapacidad de niñas niños y adolescentes.",
+            "respuestas": [
+                "Física y cognitiva.",
+                "Psíquica o sensorial.",
+                "a) y b)",
+                "Ninguna."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "48",
+            "pregunta": "Derecho a vivir, desarrollarse y educarse en un ambiente de afecto y seguridad.",
+            "respuestas": [
+                "Derecho a la familia.",
+                "Derecho a la vida.",
+                "Derecho a la salud",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "49",
+            "pregunta": "El Estado en todos sus niveles, tiene la obligación de implementar políticas públicas",
+            "respuestas": [
+                "Que aseguren condiciones dignas para su nacimiento.",
+                "Tiene como objetivo primordial garantizar el pleno goce de las garantías.",
+                "Que aseguren condiciones dignas para su nacimiento y desarrollo integral.",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "50",
+            "pregunta": "El sistema plurinacional integral de la niña, niño adolescente",
+            "respuestas": [
+                "Tiene como objetivo primordial garantizar el pleno goce de las garantías. ",
+                "Tiene como objetivo primordial garantizar el pleno goce de los derechos ",
+                "a) y b)",
+                "Ninguna."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "51",
+            "pregunta": "Garantizar a niño, niña y adolescente el ejercicio pleno y efectivo de sus derechos",
+            "respuestas": [
+                "Para su desarrollo integral.",
+                "Para exigir el cumplimiento de sus obligaciones.",
+                "Para su desarrollo integral y exigir el cumplimiento de sus deberes.",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "52",
+            "pregunta": " Cumplir con sus obligaciones en el ámbito educativo es:",
+            "respuestas": [
+                "Exigencia del Plantel Docente ante cada uno de los estudiantes",
+                "Uno de los deberes de las niñas niños y adolescentes.",
+                "Capacitación que tienen que recibir las y los estudiantes",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "53",
+            "pregunta": "Garantizar a la niña, niño y adolescente, el ejercicio pleno y efectivo de sus derechos, para su desarrollo integral y exigir el cumplimiento de sus deberes.",
+            "respuestas": [
+                "Es la finalidad de la Ley Nº 548",
+                "Es el objetivo de la Ley Nº 548",
+                "Es la garantía de la Ley Nº 548",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "54",
+            "pregunta": "Los derechos y deberes de las y los miembros de la Comunidad Educativa y/o centro es:",
+            "respuestas": [
+                "Un derecho de niñas, niños y adolescentes, según la Ley Nº 548",
+                "Un deber a ser reconocido en el sistema educativo Ley Nº 548",
+                "Una de las directrices del Plan de Convivencia Pacífica y Armónica. (Ley Nº 548)",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "55",
+            "pregunta": "Todas las personas sean particulares, servidoras y servidores públicos, que tengan conocimiento de hechos de violencia en contra de las niñas, niños y adolescentes están obligados a denunciarlos en un plazo máximo de:",
+            "respuestas": [
+                "24 horas",
+                "48 horas",
+                "72 horas",
+                "56 horas"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "56",
+            "pregunta": "Respetar a su madre, padre, guardadora o guardador, tutora o tutor, maestras o maestros y a toda persona es:",
+            "respuestas": [
+                "Lo que toda persona debe hacer frente a un menor de edad.",
+                "La obligación que deben cumplir maestros y maestras.",
+                "Un deber de las niñas, niños y adolescentes.",
+                "Reglamento Interno de Convivencia Armónica e Intercultural."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "57",
+            "pregunta": "La Ley 548 establece que las Unidades Educativas deben contar con:",
+            "respuestas": [
+                "Reglamento Interno de Convivencia Pacífica y Armónica.",
+                "Reglamento Interno de Convivencia Pacífica y de Evaluación.",
+                "Reglamento Interno de Convivencia Armónica e Intercultural.",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "58",
+            "pregunta": "Según la Ley 548 el SEP garantiza a la niña, niño y adolescente:",
+            "respuestas": [
+                "Acceso a la información del proceso pedagógico y de la gestión educativa para la y el estudiante y autoridades del contexto educativo",
+                "Acceso a la información del proceso pedagógico y de la gestión educativa para la y el estudiante y su madre, padre, guardadora o guardador o tutora.",
+                "Acceso a la información del proceso pedagógico y de la gestión educativa para las autoridades educativas.",
+                "Acceso a la información del proceso pedagógico y de la gestión educativa."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "59",
+            "pregunta": "Ley integral para garantizar a las mujeres una vida libre de violencia:",
+            "respuestas": [
+                "Ley N° 348",
+                "Ley N° 845",
+                "Ley N° 21060",
+                "Ley N° 045 "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "60",
+            "pregunta": "Establecer mecanismos, medidas y políticas integrales de prevención, atención, protección y reparación a las mujeres en situación de violencia, así como la persecución y sanción a los agresores, con el fin de garantizar a las mujeres una vida digna y el ejercicio pleno de sus derechos para Vivir Bien.",
+            "respuestas": [
+                "Objetivo y finalidad. ",
+                "Marco constitucional",
+                "Principios y valores ",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "61",
+            "pregunta": "Según la Ley integral para garantizar a las mujeres una vida libre de violencia, la comunión entre mujeres y hombres de igual, similar o diferente forma de vida e identidad cultural que conviven en concordia amistosa y pacíficamente.",
+            "respuestas": [
+                "Inclusión ",
+                "Trato digno",
+                "Complementariedad",
+                "Armonía "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "62",
+            "pregunta": "Con cuantos artículos cuenta la Ley integral para garantizar a las mujeres una vida libre de violencia:",
+            "respuestas": [
+                "105",
+                "400",
+                "300",
+                "100"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "63",
+            "pregunta": "Fecha y año de la promulgación de la Ley integral para garantizar a las mujeres una vida libre de violencia.",
+            "respuestas": [
+                "Ley del 9 de marzo de 2013",
+                "Ley del 19 de marzo de 2014",
+                "Ley del 30 de marzo de 2015",
+                "Ley del 9 de marzo de 2019"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "64",
+            "pregunta": "Según la Ley N° 348: Vivir bien, igualdad, inclusión, trato digno, complementariedad, armonía, igualdad de oportunidades, equidad social, equidad de género, cultura de paz, informalidad, despatriarcalización, atención diferenciada, especialidad.",
+            "respuestas": [
+                "Derechos universales",
+                "Principios y valores",
+                "Objetivos de una sociedad ",
+                "Prioridad nacional"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "65",
+            "pregunta": "Según la Ley N° 348: Tomar en cuenta la cultura y origen de las mujeres, para adoptar, implementar y aplicar los mecanismos apropiados para resguardar sus derechos, asegurarles el respeto y garantizar la provisión de medios eficaces y oportunos para su protección.",
+            "respuestas": [
+                "Vivir bien",
+                "Trato digno",
+                "Inclusión",
+                "Igualdad "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "66",
+            "pregunta": "Según la Ley N° 348: las mujeres deben recibir la atención que sus necesidades y circunstancias específicas demanden, con criterios diferenciados que aseguren el ejercicio pleno de sus derechos.",
+            "respuestas": [
+                "Atención diferenciada",
+                "Especialidad ",
+                "Despatriarcalización",
+                "Cultura de Paz"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "67",
+            "pregunta": "Ley integral para garantizar a las mujeres una vida libre de violencia: Es el uso de palabras y mensajes escritos, visuales, simbólicos y verbales no discriminatorios por razón de sexo.",
+            "respuestas": [
+                "Lenguaje no sexista",
+                "Situación de violencia",
+                "Violencia ",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "68",
+            "pregunta": "Según la ley N° 348. Es toda acción discriminadora, humillante y deshumanizada y que omite, niega o restringe el acceso a la atención eficaz e inmediata y a la información oportuna por parte del personal de salud, poniendo en riesgo la vida y la salud de las mujeres.",
+            "respuestas": [
+                "Violencia en servicio de salud",
+                "Violencia patrimonial y económica",
+                "Violencia laboral ",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "69",
+            "pregunta": "Ley integral para garantizar a las mujeres una vida libre de violencia. Es la condición y desarrollo de una vida íntegra material, espiritual y física, en armonía consigo misma, el entorno familiar, social y la naturaleza.",
+            "respuestas": [
+                "Iguladad ",
+                "Vivir bien ",
+                "Inclusión ",
+                "Trato digno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "70",
+            "pregunta": "¿Durante que gobierno se promulga Ley integral para garantizar a las mujeres una vida libre de violencia?",
+            "respuestas": [
+                "Hugo Banzer Suarez",
+                "Jaime Paz Zamora ",
+                "Evo Morales Ayma",
+                "Ninguno "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "71",
+            "pregunta": "La presente Ley se funda en el mandato constitucional y en los Instrumentos, Tratados y Convenios Internacionales de Derechos Humanos ratificados por Bolivia, que garantizan a todas las personas, en particular a las mujeres, el derecho a no sufrir violencia física, sexual y/o psicológica tanto en la familia como en la sociedad.",
+            "respuestas": [
+                "Ley integral para garantizar a los varones una vida libre de violencia",
+                "Ley integral para garantizar a las niñas y niños una vida libre de violencia",
+                "Ley integral para garantizar a las mujeres una vida libre de violencia",
+                "Ley integral para garantizar a las personas de la tercera edad una vida libre de violencia"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "72",
+            "pregunta": "Según ley N° 348. El Estado garantiza la igualdad real y efectiva entre mujeres y hombres, el respeto y la tutela de los derechos, en especial de las mujeres, en el marco de la diversidad como valor, eliminando toda forma de distinción o discriminación por diferencias de sexo, culturales, económicas, físicas, sociales o de cualquier otra índole.",
+            "respuestas": [
+                "Igualdad ",
+                "Inclusión ",
+                "Trato digno",
+                "Vivir bien"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "73",
+            "pregunta": "Violencia física, violencia feminicida, violencia psicología, violencia mediática, violencia simbólica y/o encubierta, violencia contra la dignidad, la honra y el nombre, violencia sexual, violencia contra los derechos reproductivos, etc.",
+            "respuestas": [
+                "Tipos de violencia contra la sociedad",
+                "Tipos de violencia contra la mujer",
+                "Tipos de violencia contra los pueblos indígena originarios",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "74",
+            "pregunta": "Decreto Supremo Nº 1302, Tiene por objeto establecer mecanismos que coadyuven a la erradicación de la violencia, maltrato y abuso que atente contra la vida e integridad física, psicológica y/o sexual de niñas, niños y adolescentes estudiantes, en el:",
+            "respuestas": [
+                "Ámbito educativo",
+                "Ámbito social",
+                "Ámbito legislativo",
+                "Ámbito disciplinario"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "75",
+            "pregunta": "Tienen la obligación de denunciar y coadyuvar en la acción penal correspondiente hasta su conclusión, ante el Ministerio Público de su Jurisdicción o autoridad competente, en contra de directores, docentes o administrativos del Sistema Educativo Plurinacional, que hubiesen sido sindicados de la comisión de delitos que atenten contra la vida, la integridad física, psicológica y/o sexual de las niñas, niños y adolescentes estudiantes.",
+            "respuestas": [
+                "Las y los Directores Distritales de Educación y el Ministerio de Educación",
+                "Las y los Directores Departamentales de Educación y el Ministerio de Educación",
+                "Las y los Directores Departamentales de Educación",
+                "Las y los Directores de Unidades Educativas y el Ministerio de Educación"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "76",
+            "pregunta": "La o el director, docente o administrativo que fuera imputado formalmente por la comisión de delitos que atenten contra la vida, la integridad física, psicológica y/o sexual de las niñas, niños y adolescentes estudiantes, será:",
+            "respuestas": [
+                "Suspendido de sus funciones, como medida de seguridad y protección del denunciante.",
+                "Suspendido de sus funciones sin goce de haberes, con proceso penal correspondiente, como medida de seguridad y protección del menor.",
+                "Suspendido de sus funciones sin goce de haberes, mientras dure el proceso penal correspondiente, como medida de seguridad y protección del menor.",
+                "Suspendido de sus funciones con goce de haberes, mientras dure el proceso penal correspondiente, como medida de seguridad y protección del menor."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "77",
+            "pregunta": "Producida la imputación formal por parte del representante del Ministerio Público, la o el Director Departamental de Educación comunicará dicha imputación:",
+            "respuestas": [
+                "Al Ministerio de Educación para que proceda a la suspensión del goce de haberes del imputado.",
+                "A la Dirección Departamental para que proceda a la suspensión del goce de haberes del imputado.",
+                "A la Unidad de Recursos Humanos para que proceda a la suspensión del goce de haberes del imputado.",
+                "A la Dirección Distrital para que proceda a la suspensión del goce de haberes del imputado."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "78",
+            "pregunta": "En caso de sobreseimiento emitido por Autoridad Competente o sentencia absolutoria, la o el director, docente o administrativo, será restituido en sus funciones con la reposición:",
+            "respuestas": [
+                "De la mínima totalidad de sus haberes devengados.",
+                "De la totalidad parcial de sus haberes devengados.",
+                "De la máxima totalidad de sus haberes devengados.",
+                "De la totalidad de sus haberes devengados."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "79",
+            "pregunta": "Para una educación sin violencia, el Ministerio de Educación desarrollará como mecanismo de prevención e intervención:",
+            "respuestas": [
+                "Un plan específico para enfrentar la violencia, maltrato y abuso en el ámbito educativo.",
+                "Un programa específico para enfrentar la violencia, maltrato y abuso en el ámbito educativo.",
+                "Un plan de contingencia específico para enfrentar la violencia, maltrato y abuso en el ámbito educativo.",
+                "Un proyecto específico para enfrentar la violencia, maltrato y abuso en el ámbito educativo."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "80",
+            "pregunta": "El Plan para una educación sin violencia contemplará, entre otras, las siguientes acciones:",
+            "respuestas": [
+                "Capacitación y difusión de estrategias de prevención de toda forma de violencia, maltrato y abuso.",
+                "Desarrollo de lineamientos pedagógicos curriculares con contenido de prevención de violencia, maltrato y abuso",
+                "Establecer lineamientos operativos y administrativos para un sistema de seguimiento y monitoreo del Plan",
+                "Promover la conformación de Brigadas de PPFF para la Convivencia pacífica y armónica."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "81",
+            "pregunta": "La o el director, docente o administrativo que fuera imputado formalmente por la comisión de delitos: ",
+            "respuestas": [
+                "De agresión y violencia sexual en contra de las niñas, niños y adolescentes estudiantes.",
+                "Que atenten contra la vida, la integridad física, psicológica y/o sexual de adolescentes estudiantes",
+                "Que atenten contra la vida, la integridad física, psicológica de las niñas, niños.",
+                "Que atenten contra la vida, la integridad física, psicológica y/o sexual de las niñas, niños y adolescentes estudiantes"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "82",
+            "pregunta": "Derecho a vivir, desarrollarse y educarse en un ambiente de afecto y seguridad.",
+            "respuestas": [
+                "Derecho a la vida",
+                "Derecho a la familia",
+                "Derecho a la salud",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "83",
+            "pregunta": "Son situaciones de discapacidad de niñas, niña y adolecente.",
+            "respuestas": [
+                "Física y cognitiva",
+                "Psíquica o sensorial",
+                "A y B ",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "84",
+            "pregunta": "Son garantes inmediatos del derecho a la salud de sus hijas e hijos.",
+            "respuestas": [
+                "El Estado, el gobierno y las autoridades competentes ",
+                "Madre o padre, guardadora o guardador, tutora o tutor",
+                "Persona del entorno inmediato",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "85",
+            "pregunta": "Medida excepcional y provisional, efectuada en situaciones extremas, urgencia o necesidad en favor ....",
+            "respuestas": [
+                "Familia sustituta",
+                "Acogimiento circunstancial",
+                "Guarda y/o cuidado",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "86",
+            "pregunta": "La guarda es el cuidado, protección, atención y asistencia integral.",
+            "respuestas": [
+                "A la niña, niño o adolecente de manera provisional ",
+                "A la niña, niño o adolecente de manera permanente",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "87",
+            "pregunta": "Dirigida al pleno desarrollo de su personalidad, capacidades físicas y mentales.",
+            "respuestas": [
+                "Derecho a aprender ",
+                "Derecho a la enseñanza",
+                "Derecho a la educación",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "88",
+            "pregunta": "Se prohíbe a las autoridades del sistema educativo, la expulsión a las estudiantes embarazadas. ",
+            "respuestas": [
+                "Verdadero ",
+                "Falso "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "89",
+            "pregunta": "El estado en todos sus niveles, ejecutara el programa de prevención y protección social.",
+            "respuestas": [
+                "Para niñas, niños y adolescentes menores de catorce (14) años en actividad laboral",
+                "Para niñas, niños y adolescentes menores de doce (12) años en actividad laboral ",
+                "Para niñas, niños y adolescentes menores de dieciséis (16) años en actividad laboral ",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "90",
+            "pregunta": "Se considera una forma y/o tipo de violencia entre pares en el sistema educativo.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "91",
+            "pregunta": "Elaborar y desarrollar mediadas de no violencia para resolver las tenciones y conflictos emergentes.",
+            "respuestas": [
+                "Son medidas de protección",
+                "Son medidas preventivas",
+                "Todas las anteriores",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "92",
+            "pregunta": "Derecho a vivir, desarrollarse y educarse en un ambiente de afecto y seguridad.",
+            "respuestas": [
+                "Derecho a la vida",
+                "Derecho a la familia",
+                "Derecho a la salud",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "93",
+            "pregunta": "Son situaciones de discapacidad de niñas, niña y adolecente.",
+            "respuestas": [
+                "Física y cognitiva",
+                "Psíquica o sensorial",
+                "A y B ",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "94",
+            "pregunta": "Son garantes inmediatos del derecho a la salud de sus hijas e hijos.",
+            "respuestas": [
+                "Madre o padre, guardadora o guardador, tutora o tutor",
+                "El Estado, el gobierno y las autoridades competentes ",
+                "Persona del entorno inmediato",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "95",
+            "pregunta": "Medida excepcional y provisional, efectuada en situaciones extremas, urgencia o necesidad en favor ......",
+            "respuestas": [
+                "Familia sustituta",
+                "Acogimiento circunstancial",
+                "Guarda y/o cuidado",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "96",
+            "pregunta": "La guarda es el cuidado, protección, atención y asistencia integral.",
+            "respuestas": [
+                "A la niña, niño o adolecente de manera provisional ",
+                "A la niña, niño o adolecente de manera permanente",
+                "Todas las anteriores",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "97",
+            "pregunta": "Dirigida al pleno desarrollo de su personalidad, capacidades físicas y mentales.",
+            "respuestas": [
+                "Derecho a aprender ",
+                "Derecho a la enseñanza",
+                "Derecho a la educación",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "98",
+            "pregunta": "Se prohíbe a las autoridades del sistema educativo, la expulsión a las estudiantes embarazadas. ",
+            "respuestas": [
+                "Verdadero ",
+                "Falso "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "99",
+            "pregunta": "El estado en todos sus niveles, ejecutara el programa de prevención y protección social.",
+            "respuestas": [
+                "Para niñas, niños y adolescentes menores de doce (12) años en actividad laboral ",
+                "Para niñas, niños y adolescentes menores de dieciséis (16) años en actividad laboral ",
+                "Para niñas, niños y adolescentes menores de catorce (14) años en actividad laboral",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "100",
+            "pregunta": "Elaborar y desarrollar mediadas de no violencia para resolver las tenciones y conflictos emergentes.",
+            "respuestas": [
+                "Son medidas de protección",
+                "Son medidas preventivas",
+                "Todas las anteriores",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "1"
+        }
+    ]
+}

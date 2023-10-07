@@ -1,0 +1,1104 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "Es un instrumento de construcción y fortalecimiento de la identidad cultural, ideológica, política, económica del Estado Plurinacional, incorporando el principio de educación descolonizadora como elemento central de la construcción de una sociedad inclusiva, democrática, de consensos e intra, intercultural y plurilingüe, fundada en la reciprocidad y complementariedad. ",
+            "respuestas": [
+                "Es una característica de espiritualidad ",
+                "Es una característica de lenguaje ",
+                "Es una característica de artes ",
+                "Es una característica de ciencias sociales "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "2",
+            "pregunta": "El enfoque de área de ciencias sociales en el modelo educativo actual es: ",
+            "respuestas": [
+                "Descolonizador, crítico y  propositivo  ",
+                "Descolonizador, revolucionario y democrático y productivo ",
+                "Descolonizador, transformador y comunitario ",
+                "Descolonizador, comunitario y productivo "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "3",
+            "pregunta": "El colonialismo abarca la dimensión de dominación ",
+            "respuestas": [
+                "Política, económica, social y productiva; manifestándose en el ámbito material, la explotación de la fuerza de trabajo y el saqueo de los recursos naturales. ",
+                "Tecnologías ancestrales ",
+                "Aprovechamiento de las ciencias occidentales en bien de la humanidad ",
+                "Que los estudiantes sean capaces de realizar determinada tarea"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "4",
+            "pregunta": "La educación del 52 no pudo borrar las fronteras étnicas, es decir, no pudo eliminar la discriminación y exclusión de la población de diversos pueblos indígenas. Es la afirmación de: ",
+            "respuestas": [
+                "Silvia Rivero",
+                "Anibal Quijano ",
+                "Félix Patzi ",
+                "Rafael Puente "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "5",
+            "pregunta": "La crisis del paradigma dominante es el resultado interactivo de una pluralidad de condiciones. Distingo entre condiciones sociales y condiciones teóricas, esta afirmación corresponde a: ",
+            "respuestas": [
+                "Raimon Pnikar ",
+                "Denise Arnold ",
+                "Hugo Zemelman ",
+                "Boaventura de Sousa Santos "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "6",
+            "pregunta": "Promueven el análisis crítico de la sociedad, fundamentalmente en el fortalecimiento de la identidad cultural y la autodeterminación, contribuyendo a la descolonización y la transformación social y cultural del Estado Plurinacional, es el área de: ",
+            "respuestas": [
+                "Comunicación y lenguajes ",
+                "Ciencias sociales ",
+                "Educación física y deportes ",
+                "Ninguna de ellas "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "7",
+            "pregunta": "Se manifiesta en la dominación y subordinación simbólica y cultural en lo epistemológica, conocimiento, imaginario de los pueblos  y  en sus acciones frente al otro nos referimos:",
+            "respuestas": [
+                "Colonialismo",
+                "Colonización",
+                "Colonialidad",
+                "Descolonización "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "8",
+            "pregunta": "Las principales culturas o civilizaciones que se desarrollaron en Mesoamérica son:",
+            "respuestas": [
+                "La Azteca, la Maya y la Tolteca",
+                "La Azteca, la Maya e la Inca ",
+                "La Azteca, La Maya y la Chibcha",
+                "La Azteca, la Chichimeca y la Inca"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "9",
+            "pregunta": "El primer asentamiento humano, de que se tiene conocimiento, en la historia de nuestro país, es: ",
+            "respuestas": [
+                "Los Viscachani, en la región de Patacamaya ",
+                "Los Urus, en los lagos Titicaca y Poopó",
+                "Los Chipayas, en las riberas del río Lauca ",
+                "Los Aymara en las laderas de la Cordillera de los Andes"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "10",
+            "pregunta": "El proceso colonial español en América inició con la creación de los Virreinatos. Los Principales fueron: ",
+            "respuestas": [
+                "Cuba, México, Argentina",
+                "Nueva España, Nueva Granada, Perú",
+                "Buenos Aires, La Plata, Charcas ",
+                "Cartagena, La Habana, Río de Janeiro"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "11",
+            "pregunta": "Las primeras sublevaciones organizadas contra los abusos del dominio español, en la Audiencia de Charcas, el levantamiento a la cabeza de: ",
+            "respuestas": [
+                "La masacre de Kuruyuki de 1892 ",
+                "Tupac Amaru en 1780 ",
+                "Tupac Katari en 1781 ",
+                "Pedro Ignacio Muiba en 1810"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "12",
+            "pregunta": "La segunda Guerra Mundial terminó con el lanzamiento de dos bombas atómicas por Estados Unidos en:",
+            "respuestas": [
+                "Tokio y Berlín ",
+                "Iroshima y Yokohama",
+                "Iroshima y Nagasaki",
+                "Berlín y Roma"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "13",
+            "pregunta": "Entre las décadas de 1980 y 1990 las economías de los países latinoamericanos adoptaron el modelo neoliberal. Por tal razón, las medidas de sustitución de importaciones y protección a los productos nacionales, fueron cambiadas por las de libre mercado. Dos medidas neoliberales son:",
+            "respuestas": [
+                "la flexibilización del mercado y la política laboral",
+                "la rebaja de impuestos a los bienes importados",
+                "el aumento de préstamos a empresarios con facilidades de pago",
+                "aumento de los impuestos a los bienes importados"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "14",
+            "pregunta": "Antes de la experiencia chilena, sólo era una teoría, a partir de mediados de la década del 70, empezó a imponerse poco a poco supuestamente como la alternativa más viable para desarrollar nuestras magras economías, como una forma más agresiva de crear, producir y ampliar mercados. Hacemos referencia al:",
+            "respuestas": [
+                "Modelo económico neoliberal",
+                "Modelo económico postliberal",
+                "Modelo económico liberal",
+                "Modelo económico feudal"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "15",
+            "pregunta": "En la primera etapa de la descolonización o el proceso de la independencia el derecho de Bolivia al Mar se funda sobre la base de:",
+            "respuestas": [
+                "La posesión de Tiahuanacu",
+                "El Collasuyo",
+                "La Real Audiencia de Charcas",
+                "El Alto Perú"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "16",
+            "pregunta": "Donde se encuentra Chuquicamata la mina de cobre a cielo abierto más grande del mundo:",
+            "respuestas": [
+                "Caracoles ",
+                "Tarapacá",
+                "Cercanías de Calama",
+                "Junto al río Loa"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "17",
+            "pregunta": "La .......... nos permite caracterizar nuestras culturas, sus formas de vida y de pensamientos, sus producciones técnicas y artísticas, desde una perspectiva no eurocéntrica, sino descolonizadora, lo que significa borrar categorías de interiorización como 'razas inferiores', ' primitivos o salvajes', 'sociedades analfabetas', 'sociedades simples', entre otras que son de origen colonial, que nos permita analizar la totalidad de la condición humana, atendiendo a las cuestiones de orígenes, evolución, estructura, significado y funciones de todas las culturas cuidando la distinción de tiempo y lugar. Hacemos referencia a la:",
+            "respuestas": [
+                "Historia",
+                "Sociología",
+                "Ciencia política",
+                "Antropología"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "18",
+            "pregunta": "En la nueva concepción, el Área de Ciencia Sociales se convierte en:",
+            "respuestas": [
+                "Un análisis de la lucha de clases y las estructuras económicas del nuevo Estado Plurinacional.",
+                "Un análisis de la producción, distribución, cambio y consumo de los bienes materiales del Estado Plurinacional.",
+                "Un análisis del desarrollo de valores, procesos cognitivos y socio afectivos  en las y los estudiantes del Estado Plurinacional",
+                "Un instrumento de construcción y fortalecimiento de la identidad cultural, ideológica, política y económica del Estado Plurinacional."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "19",
+            "pregunta": "En el hecho histórico del 14 de febrero de 1879 entre Chile y Bolivia hubo:",
+            "respuestas": [
+                "Guerra",
+                "Usurpación",
+                "Invasión",
+                "Encuentro"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "20",
+            "pregunta": "Qué recurso económico es la fuente principal de explotación en el Litoral Boliviano:",
+            "respuestas": [
+                "La pesca ",
+                "El comercio",
+                "La minería",
+                "La agricultura"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "21",
+            "pregunta": "Ley 269 general de derechos y políticas lingüística.",
+            "respuestas": [
+                "De derechos lingüísticos individuales y colectivos",
+                "Y recupera los idiomas oficiales en riesgo de extinción",
+                "A y B",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "22",
+            "pregunta": "Usar su idioma materno en forma oral y escrita corresponde a: ",
+            "respuestas": [
+                "Derechos lingüísticos individuales",
+                "Derechos lingüísticos colectivos",
+                "Derechos Propios",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "23",
+            "pregunta": "Son idiomas oficiales de Estado boliviano.",
+            "respuestas": [
+                "34 idiomas ",
+                "36 idiomas ",
+                "32 idiomas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "24",
+            "pregunta": "Planeado para que un idioma logre, una situación de igualdad legal, social y uso.",
+            "respuestas": [
+                "Normalización lingüística ",
+                "Estandarización lingüística ",
+                "Normalización de Lenguas",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "25",
+            "pregunta": "Estudiante monolingüe castellano hablante de todos los subsistemas y niveles educativos.",
+            "respuestas": [
+                "Tiene la obligación de aprender otro idioma oficial del estado",
+                "Tiene el deber de aprender otro idioma oficial del Estado",
+                "Obligación de Aprender los idiomas de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "26",
+            "pregunta": "Servidores públicos de la educación (directores, directores distritales o departamentales y otros) deberán conocer.",
+            "respuestas": [
+                "El idioma de la unidad territorial donde trabajan",
+                "El idioma de la unidad territorial de origen ",
+                "Idioma de origen patrimonial de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "27",
+            "pregunta": "En servicio de educación publica y privada, la contratación del personal (maestras/os). ",
+            "respuestas": [
+                "Deberían exigir el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad ",
+                "Deberán ponderar el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad",
+                "Por conocimiento de las idiomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "28",
+            "pregunta": "Objeto de la presente Ley 223 es garantizar a las personas con discapacidad.",
+            "respuestas": [
+                "El ejercicio pleno de sus derechos y deberes en igualdad de condiciones",
+                "Y equiparación de oportunidades, trato preferente",
+                "A y B",
+                "Ninguna "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "29",
+            "pregunta": " Personas con discapacidad participan plena y efectivamente en la sociedad en igualdad de oportunidades.",
+            "respuestas": [
+                "No discriminación",
+                "Inclusión",
+                "Accesibilidad ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "30",
+            "pregunta": "Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad.",
+            "respuestas": [
+                "Trato diferenciado ",
+                "Trato preferente ",
+                "Trato Digno",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "31",
+            "pregunta": "Aquellas personas con deficiencias físicas, mentales, intelectuales y/o sensoriales a largo plazo o permanentes.",
+            "respuestas": [
+                "Personas con discapacidad según la Ley",
+                "Personas con capacidades múltiples y/o diferencias, según la Ley ",
+                "Personas sin discacpacidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "32",
+            "pregunta": "Debe dar respuesta a la diversidad mediante adaptaciones físicas, curriculares y personales de apoyo.",
+            "respuestas": [
+                "Educación exclusiva",
+                "Educación inclusiva",
+                "Educación con discapacidad exclusiva",
+                "ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "33",
+            "pregunta": "Garantiza el derecho a la vida de personas con discapacidad. ",
+            "respuestas": [
+                "El Estado Plurinacional de Bolivia",
+                "Las Autoridades legalmente electas de Bolivia",
+                "Las políticas del Estado",
+                "Ninguno"
+            ],
+            "resCorrecta": ""
+        },
+        {
+            "id": "34",
+            "pregunta": "Estado garantiza al acceso y permanencia de estudiantes con discapacidad en el sistema educativo.",
+            "respuestas": [
+                "Derecho a la formación inclusiva",
+                "Derecho a la educación",
+                "Derecho no a la Educación",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "35",
+            "pregunta": "Estado garantiza la formación de equipos multidisciplinarios.",
+            "respuestas": [
+                "Para la atención e inclusión de personas con discapacidad al sistema educativo plurinacional",
+                "Para la atención e inclusión de personas con discapacidad",
+                "Para la atención de personas discapacitados en el sistema de inclusión",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "36",
+            "pregunta": "Estado garantiza el desarrollo educativo permanente de las potencialidades ",
+            "respuestas": [
+                "Individuales de la persona con discapacidad psicosocial ",
+                "Colectivas de la persona con discapacidad psicosocial",
+                "Personas adultas",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "37",
+            "pregunta": "Ley 450 de protección a naciones y pueblos indígenas originarios.",
+            "respuestas": [
+                "En situación de alta vulnerabilidad",
+                "En situación de vulnerabilidad ",
+                "En situación de invulnerabilidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "38",
+            "pregunta": "Son situaciones de alta vulnerabilidad.",
+            "respuestas": [
+                "Peligro de extinción",
+                "Aislamiento voluntario y forzoso",
+                "A y B",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "39",
+            "pregunta": "Se sustenta en el reconocimiento y respeto de los diferentes sistemas de vida.",
+            "respuestas": [
+                "Diversidad sociocultural ",
+                "Diversidad cultural",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "40",
+            "pregunta": "Se sustenta en el reconocimiento y respeto de los diferentes sistemas de vida.",
+            "respuestas": [
+                "De las naciones y pueblos indígenas originarios",
+                "De los pueblos indígenas originarios ",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "41",
+            "pregunta": "Un principio que rige a la Ley 450",
+            "respuestas": [
+                "Diversidad sociocultural ",
+                "Diversidad cultural ",
+                "Diversidad lingüística",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "42",
+            "pregunta": "DIGEPIO es dirección general de protección a naciones y pueblos indígenas originarios.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "43",
+            "pregunta": "Los mecanismos de prevención de los sistemas de vida.",
+            "respuestas": [
+                "Desarrollo en el nivel central del Estado ",
+                "Desarrollaran en entidades territoriales autónomas",
+                "Desarrollaran en el nivel central del Estado y entidades territoriales autónomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "44",
+            "pregunta": "Mecanismos de prevención de los sistemas de vida se desarrollan en ámbitos.",
+            "respuestas": [
+                "Territorial y salud",
+                "Territorial, salud y difusión",
+                "Territorial, salud, difusión y sensibilización ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "45",
+            "pregunta": "La DIGEPIO formulara los indicadores de monitoreo.",
+            "respuestas": [
+                "Para evaluar las situaciones de alta vulnerabilidad ",
+                "Para evaluar las situaciones de vulnerabilidad",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "46",
+            "pregunta": "Corresponde a la ley contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Ley 035",
+                "Ley 045",
+                "Ley 055",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "47",
+            "pregunta": "Establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Para la prevención y sanción de actos de racismo",
+                "Para la prevención y sanción de toda forma de discriminación ",
+                "Para la prevención y sanción de actos de racismo y toda forma de discriminación",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "48",
+            "pregunta": "El racismo y discriminación no son tipificado y/o calificado en el Código Penal.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "49",
+            "pregunta": "Forma de distinción, exclusión, restricción o preferencia fundad en razón de sexo, color, edad.",
+            "respuestas": [
+                "Discriminación racial ",
+                "Discriminación",
+                "Racismo ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "50",
+            "pregunta": "Teoría tendente a la valoración de diferencia biológica, cultural, real o imaginaria.",
+            "respuestas": [
+                "Discriminación ",
+                "Racismo",
+                "Discriminación racial",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "51",
+            "pregunta": "Se entiende por misoginia ",
+            "respuestas": [
+                "Conducta o comportamiento de odio manifiesto hacia las mujeres o genero femenino ",
+                "Conducta o comportamiento de odio manifiesto hacia los varones o género masculino",
+                "Otra respuesta",
+                "Ninguno. "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "52",
+            "pregunta": "Medidas publicas traducidas en campañas de concientización, educación y difusión de derechos humanos protectivos. ",
+            "respuestas": [
+                "Acción afirmativa ",
+                "Acción preventiva",
+                "Acción correctiva ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "53",
+            "pregunta": "Definir y adoptar políticas publicas de prevención y lucha contra el racismo y discriminación.",
+            "respuestas": [
+                "Es obligación del Estado ",
+                "Es deber del Estado ",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "54",
+            "pregunta": "El comité nacional contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Encargado de promover, diseñar e implementar políticas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar normativas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar políticas y normativas contra el racismo y discriminación ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "55",
+            "pregunta": "Comité nacional contra el racismo y toda forma de discriminación conformada por comisiones.",
+            "respuestas": [
+                "Comité de lucha contra el racismo",
+                "Comité de emergencia contra los delitos ",
+                "Comité de lucha contra toda forma de discriminación ",
+                "A y B "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "56",
+            "pregunta": "Personas que sufren el racismo o discriminación podrán optar.",
+            "respuestas": [
+                "Por la via constitucional y administrativa",
+                "Por la vía constitucional administrativa o disciplinaria",
+                "Por la vía constitucional administrativa o disciplinaria y/o penal",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "57",
+            "pregunta": "Persona que ejerce función publica conociere hechos de racismo y discriminación.",
+            "respuestas": [
+                "Esta en la obligación de denunciar ante las autoridades competentes ",
+                "Esta en el deber de denunciar ante al autoridades competentes",
+                "Esta que denunciar ante al autoridades competentes ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "58",
+            "pregunta": "Discriminación y racismo no son considerados como delitos contra la dignidad del ser humano.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "59",
+            "pregunta": "Corresponde al código niña, niño y adolecente ",
+            "respuestas": [
+                "Ley 448",
+                "Ley 548",
+                "Ley 648",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "60",
+            "pregunta": "El objetivo del Código es reconocer, desarrollar y regular.",
+            "respuestas": [
+                "El ejercicio de los derechos de la niña, niño y adolecente",
+                "El ejercicio de las obligaciones de la niña, niño y adolescente",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "61",
+            "pregunta": "Garantizar a niña, niño y adolecente el ejercicio pleno y efectivo de sus derechos.",
+            "respuestas": [
+                "Para su desarrollo integral ",
+                "Para exigir el cumplimiento de sus obligaciones ",
+                "Para su desarrollo integral y exigir el cumplimiento de sus deberes",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "62",
+            "pregunta": "Según el código, corresponde a la etapa del desarrollo del adolecente. ",
+            "respuestas": [
+                "Desde 12 hasta los 16 años de edad cumplidos",
+                "Desde 12 hasta los 17 años de edad cumplidos",
+                "Desde 12 hasta los 18 años de edad cumplidos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "63",
+            "pregunta": "Comprende la infancia escolar.",
+            "respuestas": [
+                "Niñas y niños entre 6 a 11 años de edad ",
+                "Niñas y niños entre 6 a 12 años de edad",
+                "Niñas y niños entre 6 a 14 años de edad",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "64",
+            "pregunta": "El principio de interés superior favorece el desarrollo integral de niña, niño y adolecente.",
+            "respuestas": [
+                "En el goce de los deberes y garantías",
+                "En el goce de los obligaciones y garantías",
+                "En el goce de los derechos y garantías",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "65",
+            "pregunta": "El sistema plurinacional integral de la niña, niño y adolecente.",
+            "respuestas": [
+                "Tiene como objetivo primordial garantizar el pleno goce de los derechos",
+                "Tiene como objetivo primordial garantizar el pleno goce de las garantías",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "66",
+            "pregunta": "Niñas, niños y adolecentes tienen derecho a bienestar físico, mental, social y servicio salud.",
+            "respuestas": [
+                "Derecho a la vida",
+                "Derecho a la salud ",
+                "Derecho a la familia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "67",
+            "pregunta": "El estado en todos sus niveles, tiene la obligación de implementar.",
+            "respuestas": [
+                "Que se aseguren condiciones dignas para su nacimiento",
+                "Que aseguren condiciones dignas para su nacimiento y desarrollo integral",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "68",
+            "pregunta": "Es el acceso permanente con acciones de promoción, prevención, curación, tratamiento, rehabilitación y recuperación.",
+            "respuestas": [
+                "Acceso permanente a la salud ",
+                "Acceso universal a la salud",
+                "Acceso a la salud",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "69",
+            "pregunta": "Derecho a vivir, desarrollarse y educarse en un ambiente de afecto y seguridad.",
+            "respuestas": [
+                "Derecho a la familia",
+                "Derecho a la vida",
+                "Derecho a la salud",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "70",
+            "pregunta": "Son situaciones de discapacidad de niñas, niña y adolecente.",
+            "respuestas": [
+                "Física y cognitiva",
+                "Psíquica o sensorial",
+                "A y B ",
+                "Ninguna "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "71",
+            "pregunta": "Son garantes inmediatos del derecho a la salud de sus hijas e hijos.",
+            "respuestas": [
+                "El Estado, el gobierno y las autoridades competentes ",
+                "Persona del entorno inmediato",
+                "Madre o padre, guardadora o guardador, tutora o tutor",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "72",
+            "pregunta": "Medida excepcional y provisional, efectuada en situaciones extremas, urgencia o necesidad en favor…",
+            "respuestas": [
+                "Familia sustituta",
+                "Acogimiento circunstancial",
+                "Guarda y/o cuidado",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "73",
+            "pregunta": "La guarda es el cuidado, protección, atención y asistencia integral.",
+            "respuestas": [
+                "A la niña, niño o adolecente de manera provisional ",
+                "A la niña, niño o adolecente de manera permanente",
+                "Todas la anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "74",
+            "pregunta": "Dirigida al pleno desarrollo de su personalidad, capacidades físicas y mentales.",
+            "respuestas": [
+                "Derecho a aprender ",
+                "Derecho a la educación",
+                "Derecho a la enseñanza",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "75",
+            "pregunta": "Se prohíbe a las autoridades del sistema educativo, la expulsión a las estudiantes embarazadas. ",
+            "respuestas": [
+                "Verdadero ",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "76",
+            "pregunta": "El estado en todos sus niveles, ejecutara el programa de prevención y protección social.",
+            "respuestas": [
+                "Para niñas, niños y adolescentes menores de doce (12) años en actividad laboral ",
+                "Para niñas, niños y adolescentes menores de catorce (14) años en actividad laboral",
+                "Para niñas, niños y adolescentes menores de dieciséis (16) años en actividad laboral ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "77",
+            "pregunta": "Se considera una forma y/o tipo de violencia entre pares en el sistema educativo.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "78",
+            "pregunta": "Elaborar y desarrollar mediadas de no violencia para resolver las tenciones y conflictos emergentes.",
+            "respuestas": [
+                "Son medidas preventivas",
+                "Son medidas de protección",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "79",
+            "pregunta": "Denominado Ley 004 Marcelo Quiroga Santa Cruz. ",
+            "respuestas": [
+                "Lucha contra la corrupción y enriquecimiento ilícito ",
+                "Lucha contra la corrupción, enriquecimiento ilícito e investigación de fortunas",
+                "Lucha contra la corrupción e investigación de fortunas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "80",
+            "pregunta": "Establece mecanismos y procedimientos en el marco de la Constitución Política del Estado.",
+            "respuestas": [
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores priv",
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidas por servidores públicos",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "81",
+            "pregunta": "Prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores públicos exservidores públicos.",
+            "respuestas": [
+                "Objeto de la Ley 044",
+                "Objeto de la Ley 014",
+                "Objeto de la Ley 004",
+                "Objeto de la ley 114"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "82",
+            "pregunta": "Consejo nacional de lucha contra la corrupción, enriquecimiento y legitimación de ganancias ilícitas.",
+            "respuestas": [
+                "Ministerio de transparencia institucional y lucha contra la corrupción",
+                "Ministerio de gobierno ministerio publico",
+                "Contraloría general del Estado y procuraduría general del Estado ",
+                "Todos los anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "83",
+            "pregunta": "Es el requerimiento o la aceptación, el ofrecimiento u otorgamiento, de un servidor público.",
+            "respuestas": [
+                "Que afecte a los intereses de la comunidad",
+                "Que afecte a los intereses del Estado",
+                "Que afecte a los intereses de la Nación",
+                "Que afecte a los intereses del pueblo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "84",
+            "pregunta": "Proponer, supervisar y fiscalizar políticas publicas, orientadas a prevenir y sancionar actos de corrupción.",
+            "respuestas": [
+                "Atribución del consejo nacional de lucha contra la corrupción",
+                "Atribución del consejo departamental de lucha contra la corrupción",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "85",
+            "pregunta": "Tendrán competencia para conocer y resolver procesos penales. ",
+            "respuestas": [
+                "Tribunales anticorrupción ",
+                "Control social",
+                "Juzgados anticorrupción",
+                "A y C"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "86",
+            "pregunta": "Los tipos penales en los que incurren los funcionarios públicos.",
+            "respuestas": [
+                "Uso indebido de bienes y servicios públicos ",
+                "Enriquecimiento ilícito ",
+                "A y B ",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "87",
+            "pregunta": "Servidores públicos que en beneficio propio o de terceros otorgue bienes, derechos y acciones.",
+            "respuestas": [
+                "Uso indebido de bienes",
+                "Uso indebido de servicios públicos ",
+                "Uso indebido de bienes y servicios públicos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "88",
+            "pregunta": "El servidor publico que hubiera incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos.",
+            "respuestas": [
+                "Enriquecimiento ilícito ",
+                "Enriquecimiento licito ",
+                "Enriquecimiento legal ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "89",
+            "pregunta": "Insertar datos económicos, financieros y patrimoniales.",
+            "respuestas": [
+                "Declaración jurada de bienes y rentas ",
+                "Declaración jurada de bienes",
+                "Declaración jurada de rentas ",
+                "Declaración jurada del patrimonio neto"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "90",
+            "pregunta": "Servidor publico aprovechando del cargo que desempeña se apropiare de dinero, valores y bienes.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "91",
+            "pregunta": "Servidor publico hace actos relativos a sus funciones recibiera dadivas o cualquier otra ventaja.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "92",
+            "pregunta": "Director departamental, distritales y directores de UEs son considerados servidores o funcionarios públicos.",
+            "respuestas": [
+                "Verdadero",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "93",
+            "pregunta": "Garantiza las mujeres, el derecho a no sufrir violencia física, sexual y/o psicológica.",
+            "respuestas": [
+                "Corresponde a la Ley 834",
+                "Corresponde a la Ley 348",
+                "Corresponde a la Ley 349",
+                "Corresponde a la Ley 448"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "94",
+            "pregunta": "Establece mecanismos, medidas y políticas integrales de prevención, protección y reparación en situación violenta.",
+            "respuestas": [
+                "Así como sanción a los agresores ",
+                "Así como persecución a los agresores",
+                "Así como sanción y persecución a los agresores ",
+                "Así como el perdón de los agresores  "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "95",
+            "pregunta": "Desde el marco constitucional, la Ley de 348 garantiza.",
+            "respuestas": [
+                "En particular, a las mujeres, el derecho a nos sufrir violencia ",
+                "En particular, al genero femenino, el derecho a no sufrir violencia",
+                "Otra respuesta",
+                "Ninguno  "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "96",
+            "pregunta": "Despatriarcalizacion, consiste en la elaboración de políticas publicas desde la identidad. ",
+            "respuestas": [
+                "Para la visibilizacion del patriarcado ",
+                "Para la visibilizacion, denuncia del patriarcado",
+                "Para la visibilizacion, denuncia y erradicación del patriarcado",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "97",
+            "pregunta": "Mensajes, símbolos, iconos, signos, e impresiones culturales que reproducen y consolidan relaciones de denominación. ",
+            "respuestas": [
+                "Violencia mediática",
+                "Violencia simbólica y/o reencubierta ",
+                "Violencia contra la dignidad ",
+                "Violencia institucional"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "98",
+            "pregunta": "Acción u omisión de servidores públicos, implique una acción discriminatoria, prejuiciosa, humillante y deshumanizad. ",
+            "respuestas": [
+                "Violencia mediática ",
+                "Violencia simbólica y/o reencubierta ",
+                "Violencia contra la dignidad",
+                "Violencia institucional "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "99",
+            "pregunta": "Ente rector de las políticas publicas para la prevención de la violencia contra mujeres.",
+            "respuestas": [
+                "La autoridad competente ",
+                "El Estado ",
+                "El Estado benefactor ",
+                "La sociedad  "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "100",
+            "pregunta": "El SIPPASE sistema integral Plurinacional de Prevencion, Atencion Sancion y erradicación de la violencia.",
+            "respuestas": [
+                "Reorganiza todo el sistema de atención integral a las mujeres en situación de violencia ",
+                "Reorganiza todo el sistema de atención integral a las mujeres en situación de amenaza ",
+                "Todas las anterires",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        }
+    ]
+}

@@ -1,0 +1,1069 @@
+{
+  "examenfum": [
+    {
+      "id": "1",
+      "pregunta": "Según Raúl Rojas Soriano en la formación integral de investigadores debe tenerse presente que la:",
+      "respuestas": [
+        "Investigación es un proceso lineal",
+        "Investigación es un proceso dialéctico y lineal",
+        "Investigación es un proceso dialéctico",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "2",
+      "pregunta": "En cualquier tipo de investigación es necesario mantener el contacto con:",
+      "respuestas": [
+        "La realidad a fin de evitar caer en especulaciones",
+        "La realidad a fin de evitar la vinculación entre la teoría y la realidad concreta",
+        "La vinculación entre la teoría y la realidad",
+        "Ninguna"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "3",
+      "pregunta": "La vinculación entre la teoría y la realidad concreta a través de una práctica organizada e instrumentada correctamente, es una exigencia del:",
+      "respuestas": [
+        "Método científico",
+        "Método cualitativo",
+        "Método cuantitativo",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "4",
+      "pregunta": "La práctica es el criterio de verdad para:",
+      "respuestas": [
+        "Mostrar la validez de los planteamientos sobre el proceso de investigación",
+        "Construir nuevos conocimientos científicos o someter a prueba los ya existentes",
+        "Transformar la realidad de manera racional",
+        "Todas las anteriores"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "5",
+      "pregunta": "El proceso de institucionalización de la investigación educativa se inicia con:",
+      "respuestas": [
+        "Chilisa (1946) a mediados del siglo veinte",
+        "Zemelman  (1946) a mediados del siglo veinte",
+        "Kurt Lewin (1946) a mediados del siglo veinte",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "6",
+      "pregunta": "Esta metodología desarrolla un diseño estricto y tiene un objetivo final muy claro: busca fortalecer, así como refundar la teoría o el marco teórico existente que le da en cada caso sustento. Se refiere a las :",
+      "respuestas": [
+        "Caracteres generales de la investigación cualitativa",
+        "Caracteres generales de la investigación cuantitativa",
+        "Caracteres generales de la investigación cuali-cuantitativo",
+        "Ninguna"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "7",
+      "pregunta": "En cuanto a los tipos de muestra, Briones los clasifica como:",
+      "respuestas": [
+        "Muestras al azar o probabilísticas",
+        "Muestras no  probabilísticas",
+        "Muestras probabilísticas y no probabilísticas ",
+        "Ninguna"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "8",
+      "pregunta": "Dentro de las muestra probabilísticas existe subtipos y entre ellas se puede mencionar a :",
+      "respuestas": [
+        "La muestra aleatoria simple",
+        "La muestra estratificada proporciona",
+        "La muestra sistemática",
+        "Todas las anteriores"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "9",
+      "pregunta": "Con relación a las muestras no probabilísticas decimos que se trata de una parte de la población que:",
+      "respuestas": [
+        "No fue elegida al azar",
+        "Fue elegida al azar",
+        "Fue elegida al azar bajo criterios estrictos",
+        "Ninguna"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "10",
+      "pregunta": "Contribuye a la teoría, a la práctica educativa, a la elaboración de planes y a la concienciación social.",
+      "respuestas": [
+        "Investigación cualitativa",
+        "Investigación cuantitativa",
+        "Investigación científica",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "11",
+      "pregunta": "Primera experiencia de evaluación de la calidad de la educación a gran escala: el Primer Estudio Regional Comparativo y Explicativo (PERCE), fue efectuado el año 1997.",
+      "respuestas": [
+        "Durante el periodo de SIMECAL",
+        "Durante el periodo OCE",
+        "Durante el periodo PERCE",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "12",
+      "pregunta": "Con la promulgación de la Ley 070 “Avelino Siñani – Elizardo Pérez” mediante el art. 83 se crea el Observatorio Plurinacional de la Calidad Educativa OPCE como institución pública descentralizada, técnica, especializada, independiente en cuanto al proceso y resultado de sus evaluaciones.",
+      "respuestas": ["1994", "2000", "2005", "2010"],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "13",
+      "pregunta": "Debe  Ser única, diversa y plural, puesto que considera lo común y lo particular de cada contexto en el que se desarrolla la educación; Ser multidimensional, por considerar en su análisis los diferentes elementos de los cuales se nutre el proceso educativo y otros que inciden en su logro; Ser Dinámica y procesual, en el entendido de que la calidad de la educación es un constructo permanente que se alimenta y retroalimenta desde la propia práctica educativa que la genera.",
+      "respuestas": [
+        "Características dela calidad educativa del SEP",
+        "Objetivos de la calidad educativa del SEP",
+        "Dimensiones de la calidad educativa del SEP",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "14",
+      "pregunta": "¿Qué significa la OPCE?",
+      "respuestas": [
+        "Observatorio Plurinacional de la Calidad Educativa.",
+        "Observatorio Pluricultural de la Calidad Educativa.",
+        "Objetivo Plurinacional de la calidad Educativa.",
+        "Observatorio plurinacional de la Calidez Educativa."
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "15",
+      "pregunta": "¿Qué significa la sigla SIMECAL?",
+      "respuestas": [
+        "Sistema de Medición y Evaluación de la Calidad Educativa.",
+        "Sub Sistemas de Medición y Evaluación de la Calidad Educativa.",
+        "Sistema Métrico de Evaluación de la Calidad Educativa.",
+        "Ninguno."
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "16",
+      "pregunta": "Los elementos para una calidad educativa son: proceso y medios, eficacia, pertenencia cultural, relevante socialmente y significativa individualmente, equitativa y competitiva.",
+      "respuestas": ["OPCE", "SIMECAL", "PERCE", "LLECE"],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "17",
+      "pregunta": "Educación de calidad refiere también a variables como: eficiencia, equidad, relevancia y pertinencia.",
+      "respuestas": ["OPCE", "PERCE", "SIMECAL", "UNESCO"],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "18",
+      "pregunta": "Entre las muchas funciones que cumple un/a director/a de Unidad Educativa, algunos de los elementos que inciden significativamente en la calidad educativa sobre los cuales las y los directores pueden actuar son los siguientes:",
+      "respuestas": [
+        "Componente Académico, Social y de Entretenimiento.",
+        "Ninguno",
+        "Componente Pedagógico, convivencia y técnico-administrativo.",
+        "Componente Social, Cultural y Folclórico."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "19",
+      "pregunta": "Evaluación  interna y evaluación externa.",
+      "respuestas": [
+        "Tipos de evaluación.",
+        "Evaluación integral",
+        "Autoevaluación",
+        "Ninguno."
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "20",
+      "pregunta": "Integral y holística de los estudiantes que incide sobre la transformación de la sociedad en el marco del vivir bien. Por tanto, no solo es importante evaluar la formación integral y holística (el proceso y el resultado educativo) sino cómo ésta ha generado un cambio en la propia sociedad (el impacto de la educación en la sociedad) ",
+      "respuestas": [
+        "Co-evaluación en el MESCP",
+        "Autoevaluación en el MESCP",
+        "Evaluación en el MESCP",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "21",
+      "pregunta": "La formación docente: horizontes y rutas de innovación es de:",
+      "respuestas": [
+        "Rafael Lucio Gil",
+        "Herbert Spencer",
+        "Paulo Freire",
+        "DONALD A. Shon"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "22",
+      "pregunta": "El texto de formación docente: horizontes y rutas de innovación tiene:",
+      "respuestas": [
+        "XX Capítulos",
+        "XXI Capítulos",
+        "XXII Capítulos",
+        "XIX Capítulos."
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "23",
+      "pregunta": "El autor analiza el currículum para la formación docente desde una perspectiva de innovación educativa, en el capítulo.",
+      "respuestas": ["XV", "XVI", "XIV", "XXI"],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "24",
+      "pregunta": "El objetivo de la educación es formar seres aptos para gobernarse a sí mismos, y no para ser gobernados por los demás.",
+      "respuestas": [
+        "Paulo Freire",
+        "Rafael Lucio Gil",
+        "Diaz Barriga",
+        "Hebert Spencer"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "25",
+      "pregunta": "UNESCO significa:",
+      "respuestas": [
+        "Organización de las Naciones Unidas para la Educación la Ciencia y la Cultura.",
+        "Universidad Nacional Autónoma de Nicaragua.",
+        "Oficina Regional de Educación de la UNESCO para América Latina y el Caribe. ",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "26",
+      "pregunta": "Se observo una amplia participación social y una perspectiva mas integral de la profesión, pero la formación no logro salir de su postración. ",
+      "respuestas": [
+        "Perspectiva instrumental de la profesión (2010 – 2016)",
+        "Al rescate del derecho a la educación (2007 – 2009)",
+        "Etapa Neoliberal (1990 – 2006)",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "27",
+      "pregunta": "La investigación acción posee cuatro características que le hacen peculiar y pragmática: Cíclica recursiva, participativa, cualitativa y reflexiva.",
+      "respuestas": ["Verdadero", "Falso", "Otra respuesta", "Ninguno"],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "28",
+      "pregunta": "Están constituidos por materiales que producen cambios en los objetos de análisis, tales como diagnosis de ideas alternativas, unidad didáctica, cintas de video, cintas de grabación, pizarra microcomputadora, materiales de laboratorio, etc. ",
+      "respuestas": [
+        "Lingüísticos o signos",
+        "Actividad",
+        "Didácticos",
+        "Acción"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "29",
+      "pregunta": "Una de las características de investigación son los colaboradores e informantes se asocian como participantes en el proceso de investigación. ",
+      "respuestas": [
+        "Cíclica, recursiva",
+        "Participativa",
+        "Cualitativa",
+        "Reflexiva"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "30",
+      "pregunta": "Indica que todo lo que aprendemos esta influido por las emociones que acompañan a quien aprende.",
+      "respuestas": [
+        "El aprendizaje implica atención focalizada, pero también periférica.",
+        "El aprendizaje implica procesos conscientes e inconscientes.",
+        "Las emociones son criticas para la elaboración de pautas.",
+        "Cada cerebro es único "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "31",
+      "pregunta": "La calidad y equidad educativa, se refiere a:",
+      "respuestas": [
+        "Educación para todos y todas",
+        "Educación de buena calidad para todos",
+        "Calidad educativa para todos",
+        "Ninguna de las anteriores."
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "32",
+      "pregunta": "¿Cuál es el problema fundamental en una sociedad con desigualdades?",
+      "respuestas": [
+        "Las diferencias psicológicas de los estudiantes.",
+        "La equidad.",
+        "Las posibilidades, en función del medio del que se procede y al que se pertenece.",
+        "Todas las anteriores."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "33",
+      "pregunta": "Asociar la calidad de la educación con la equidad exige a los Estados responder…",
+      "respuestas": [
+        "Por los programas de lucha contra la pobreza.",
+        "Exige un enfoque integral, puesto que la pobreza es mucho más que la carencia de ingresos.",
+        "a y b",
+        "Ninguna de las anteriores."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "34",
+      "pregunta": "La población pobre sufre la falta de:",
+      "respuestas": [
+        "Cualidades y logros para mejorar su calidad de vida.",
+        "Oportunidades, seguridad y participación en las decisiones que afectan su vida.",
+        "Oportunidades en la lucha contra la pobreza.",
+        "Ninguna de las anteriores."
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "35",
+      "pregunta": "Las Cumbres Mundiales para combatir la pobreza, subrayan la necesidad de invertir en los principales servicios básicos…",
+      "respuestas": [
+        "Salud y servicios básicos",
+        "Salud y educación",
+        "Educación integral",
+        "Todas las anteriores"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "36",
+      "pregunta": "¿Cómo formular política educativa para que los excluidos se formen en los conceptos, valores y actitudes para la paz, la convivencia y la ciudadanía democrática?",
+      "respuestas": [
+        "Implica interpretar cada etapa de nuestra historia de conflictos sociales, culturales…",
+        "Idear las estrategias educativas y pedagógicas que se deben fomentar desde la formulación de la política educativa, hasta la práctica pedagógica en el aula.",
+        "a y b",
+        "Ninguna de las anteriores."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "37",
+      "pregunta": "Los diagnósticos mundiales que constituyen el soporte de las Metas del Milenio muestran la cruda realidad de la pobreza y la desigualdad en el mundo:",
+      "respuestas": [
+        "1.300 millones de personas carecen de lo indispensable y viven en extrema pobreza con menos de un dólar de ingresos al día.",
+        "3.000 millones tienen que subsistir con menos de dos dólares diarios.",
+        "1.300 millones carecen de agua potable, 3.000 millones no tienen instalaciones sanitarias básicas y 2.000 millones esta privadas de servicios eléctricos.",
+        "Todas las anteriores."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "38",
+      "pregunta": "Sobre la calidad de la educación y equidad Robert Putnam, señala:",
+      "respuestas": [
+        "Articular estrechamente la calidad con la equidad implica reconfigurar la escuela como espacio de transformación del proceso formativo.",
+        "Asociar el concepto de calidad al respeto al derecho de las personas, y de manera singular a las comprensiones de relevancia, pertinencia y equidad, puede reducirse a una declaración retórica, sino se garantiza el que los Estados posean la capacidad real de hacerlo.",
+        "La política educativa que se sustenta o toma como motivo la equidad como condición “sine qua non” para elevar la calidad de la educación puede llegar a proponer condiciones de igualdad en el manejo de algunas variables, y ello, ya es un avance; pero no puede soslayar la pobreza como causa de la inequidad.",
+        "Todas las anteriores."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "39",
+      "pregunta": "Quien es el autor de: “Educación de calidad para todos. Un asunto de derechos humanos propuesta para la discusión de políticas educativas”:",
+      "respuestas": [
+        "Martha Vargas de Avella",
+        "Robert Putnam",
+        "Hugo Zemelman",
+        "Ninguno de los anteriores"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "40",
+      "pregunta": "Amartya Sen economista y filosofo indio llamado “La conciencia moral”, ha dedicado su obra a la:",
+      "respuestas": [
+        "Investigación de la calidad educativa.",
+        "Investigación de la economía mundial.",
+        "Investigación cualitativa.",
+        "Investigación del bienestar económico."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "41",
+      "pregunta": "¿CUÁLES SON LOS ELEMENTOS DE LA PRODUCCIÓN, DIFUSIÓN Y APLICACIÓN DEL SABER: ¿ALGUNAS CATEGORÍAS TEÓRICAS?",
+      "respuestas": [
+        "desde el punto de vista de la microeconomía clásica se afirma que el sistema económico se apoya en “elecciones racionales hechas por agentes económicos individuales.",
+        "Desde otra perspectiva se considera que el saber no es sólo información, sino que es un activo y como tal puede aparecer como competencia o como innovación del proceso de producción.",
+        "Ambos incisos anteriores.",
+        "Ninguna de la anteriores"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "42",
+      "pregunta": "¿CÓMO SE PRODUCEN LAS INNOVACIONES EN EL ÁMBITO EDUCATIVO?",
+      "respuestas": [
+        "Por un lado, crea empleos, conquista mercados, por el otro destruye empleo, y desvaloriza saberes y agentes poseedores de determinados saberes.",
+        "Por una parte, permite mejorar procesos y productos, o crear productos nuevos.",
+        "Todas las anteriores.",
+        "Ninguna de la anteriores"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "43",
+      "pregunta": "¿EXISTE UNA LÓGICA EN LA CREACIÓN DE LA INNOVACIÓN?",
+      "respuestas": [
+        "El análisis empírico de cómo suceden las innovaciones indica que no existe una lógica lineal clásica que va del descubrimiento científico al desarrollo de tecnologías hasta terminar en las innovaciones aplicadas.",
+        "Todo parece indicar que existe un proceso interactivo entre investigación / desarrollo del conocimiento/innovaciones. Como tal supone también una interacción entre diferentes agentes (investigadores, proveedores, tecnólogos, clientes) e instituciones (empresas, universidades, asociaciones sectoriales, institutos tecnológicos, etc.).",
+        "Todas las anteriores.",
+        "Ninguna de las anteriores"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "44",
+      "pregunta": "¿EXISTE EL PROBLEMA DE LA TRANSFERENCIA DE SABER?",
+      "respuestas": [
+        "Es probable que se trate de una cuestión de énfasis, ya que el pedagogo, por tradición, se piensa más como un “facilitador” del desarrollo de las facultades intelectuales y morales del aprendiz, más que como un “transmisor” de contenidos culturales que tienen una existencia objetiva y relativamente independiente de las personas.",
+        "No existe ya que es la transferencia de la enseñanza es tranquila, y eso es importante en la que se va jugando en una situación fácil y sencilla en la que se tiene que solo transmitir conocimiento. ",
+        "Todas las anteriores.",
+        "Ninguna de las anteriores"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "45",
+      "pregunta": "¿CUÁLES SON LOS CINCO DESAFÍOS QUE LA NUEVA ECONOMÍA PLANTEA AL SISTEMA EDUCATIVO?",
+      "respuestas": [
+        "El primero tiene que ver con la conveniencia de “preparar a los alumnos para una vida profesional caracterizada por los cambios rápidos y en el seno de la cual el aprendizaje por la acción y el aprendizaje en interacción con otros es indispensable para el éxito económico y la cohesión social”.",
+        "En segundo lugar, “las personas que aprenden lentamente deben beneficiarse con una formación básica que les permita participar en actividades sociales y económicas”.",
+        "En tercer lugar, “la formación de los adultos en el marco de un aprendizaje permanente es un elemento clave de la economía que aprende”.",
+        "todas las anteriores."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "46",
+      "pregunta": "¿QUÉ PUEDE APRENDER EL SISTEMA EDUCATIVO DE OTROS SECTORES PRODUCTIVOS?",
+      "respuestas": [
+        "Los procesos de producción, difusión y utilización del saber transcurren a través de un intercambio entre diversas instancias y agentes, entre los cuales pueden mencionarse los pacientes, los profesionales de la salud, los proveedores, los que financian los servicios y quienes los compran, la industria farmacéutica y los profesores. Sobre todo se destaca el rol activo que tienden a asumir los propios pacientes, quienes están cada vez mejor informados como para participar en la toma de decisiones. En consecuencia, el equilibrio de poder entre médicos y pacientes se estaría modificando a favor de los segundos",
+        "No puede aprender nada, pues es algo que no amerita ese trabajo para que haya un momento de difusión de actividades sociales de trabajo",
+        "Las inversiones públicas en materia de investigación médica son muy importantes, pero su parte relativa disminuye y la intervención de los médicos que ejercen la profesión sigue siendo muy limitada y consiste básicamente en participar en la prueba de nuevos productos y terapias. Pero no es importante ese desarrollo en ese ámbito",
+        "Ninguna de las anteriores"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "47",
+      "pregunta": "¿EN AMÉRICA LATINA EXISTE UN CAMBIO EN CUANTO AL CONOCIMIENTO DEL MOMENTO?",
+      "respuestas": [
+        "Existen evidencias que permiten afirmar que los productos de la investigación académica influencian en forma más directa las decisiones macropolíticas que las prácticas de enseñanza-aprendizaje en las aulas. Si se examina la legislación o los programas de reforma educativa en la América Latina durante la última década aparecen ciertos temas y lenguajes cuyo origen es claramente académico",
+        "No existe un conocimiento parecido a ello. Existen evidencias que permiten afirmar que los productos de la investigación académica influencian en forma más directa las decisiones macropolíticas que las prácticas de enseñanzaaprendizaje en las aulas. Si se examina la legislación o los programas de reforma educativa en la América Latina durante la última década aparecen ciertos temas y lenguajes cuyo origen es claramente académico.",
+        "Todas la anteriores",
+        "Ninguna de las anteriores."
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "48",
+      "pregunta": "¿EXISTE UN CAPITAL DE CONOCIMIENTO?",
+      "respuestas": [
+        "No se da en un ámbito como este. Uno es el capital científico institucional, representada por un poder “temporal (o político), poder institucional e institucionalizado que está ligado a la ocupación de posiciones dominantes en las instituciones científicas, direcciones de laboratorios o departamentos, pertenencia a comisiones, comités de evaluación, etc. y al poder sobre los medios de producción (contratos, créditos, puestos, etc.) y reproducción (facultad de nombrar y promover carreras) que asegura esa posición prominente",
+        "Uno es el capital científico institucional, representada por un poder “temporal (o político), poder institucional e institucionalizado que está ligado a la ocupación de posiciones dominantes en las instituciones científicas, direcciones de laboratorios o departamentos, pertenencia a comisiones, comités de evaluación, etc. y al poder sobre los medios de producción (contratos, créditos, puestos, etc.) y reproducción (facultad de nombrar y promover carreras) que asegura esa posición prominente",
+        "Existe “un poder específico, ‘prestigio’ personal que es más o menos independiente del precedente según los campos y las instituciones, y que se basa casi exclusivamente en el reconocimiento, poco o mal objetivado e institucionalizado, del conjunto de los pares o su fracción más consagrada (en especial, con los ‘colegios invisibles’ de eruditos unidos por relaciones de estima recíproca",
+        "Ninguno. "
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "49",
+      "pregunta": "¿CUÁLES SON LAS CONDICIONES OBJETIVAS Y SUBJETIVAS DEL DIÁLOGO DE SABERES?",
+      "respuestas": [
+        "se debe partir del reconocimiento de que existen dos modos típicos de producir conocimiento en materia de enseñanza aprendizaje. Uno se produce y se aprende allí donde se presta efectivamente el servicio educativo: en los propios establecimientos educativos. El otro es el resultado de una práctica científica que se desarrolla en un campo social específico: el campo académico. El primero es un conocimiento tácito, que tiene un bajo grado de formalización, que existe en forma literalmente incorporada y se aprende haciendo. El segundo se produce conforme a “métodos”, “técnicas” y “procedimientos” objetivados (y sujetos a una renovación permanente) que son propios de determinadas tradiciones disciplinarias.",
+        "No es necesario indicar ni que existe maneras de trabajar en formas de trabajo.",
+        "En primer lugar, hay que contar con determinados recursos objetivos. El conocimiento objetivado debe estar disponible para todos los agentes interesados en su apropiación. Para tal fin hay que disponer de soportes adecuados (tecnologías de la comunicación e información, bases de datos, equipamientos informáticos, etc.). Pero esto no basta. El encuentro y el diálogo mutuamente enriquecedor entre las dos formas del saber requiere de agentes (investigadores científicos, profesionales de la educación, gestores educativos, etc.) predispuestos para el trabajo conjunto y dotados de las competencias básicas como para garantizar una interacción productiva.",
+        "Incisos a y c."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "50",
+      "pregunta": "¿CUÁLES SON LOS ELEMENTOS DE LA PRODUCCIÓN, DIFUSIÓN Y APLICACIÓN DEL SABER: ¿ALGUNAS CATEGORÍAS TEÓRICAS?",
+      "respuestas": [
+        "Desde el punto de vista de la microeconomía clásica se afirma que el sistema económico se apoya en “elecciones racionales hechas por agentes económicos individuales.",
+        "Desde otra perspectiva se considera que el saber no es sólo información, sino que es un activo y como tal puede aparecer como competencia o como innovación del proceso de producción.",
+        "Ambos incisos anteriores.",
+        "Ninguna de las anteriores"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "51",
+      "pregunta": "La investigación por su aproximación al objeto de estudio son:",
+      "respuestas": [
+        "Investigación no experimental y experimental",
+        "Investigación participativa y no participativa",
+        "Investigación cuantitativa y cuantitativa",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "52",
+      "pregunta": "Señala elemento de la importancia de la investigación educativa",
+      "respuestas": [
+        "Proporciona conocimientos empíricos.",
+        "Ayuda a identificar un problema de investigación",
+        "Proporciona información científicamente válida para la toma de decisiones.",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "53",
+      "pregunta": "Existen dos tipos de relaciones importantes para la investigación:",
+      "respuestas": [
+        "Dependientes e independiente",
+        "Específicas y generales",
+        "Teóricas y prácticas.",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "54",
+      "pregunta": "La investigación científica es:",
+      "respuestas": [
+        "Un conjunto de conocimientos probados y demostrados",
+        "Búsqueda de conocimiento mediante procedimientos válidos para la recogida, análisis e interpretación de datos.",
+        "Un proceso metodológico y secuencial",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "55",
+      "pregunta": "Los tipos de investigación son:",
+      "respuestas": [
+        "Abstracta y concreta",
+        "Sistemática y metodológica",
+        "Básica, aplicada y evaluativa",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "56",
+      "pregunta": "La investigación educativa ha tomado prestados conceptos y teorías de la psicología, la sociología, la antropología, las ciencias políticas, la economía y de otras disciplinas, eso la convierte en un campo de:",
+      "respuestas": [
+        "investigación",
+        "Sistemático",
+        "intersubjetivo",
+        "Ninguno"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "57",
+      "pregunta": "Describe el contexto del estudio, ilustra las perspectivas de los fenómenos y revisa continuamente cuestiones desde su experiencia y participación en el campo.",
+      "respuestas": [
+        "Investigación interactiva",
+        "Investigación descriptiva",
+        "Estudio de caso",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "58",
+      "pregunta": "Las técnicas de investigación pueden entenderse como la forma en que se recolectan los datos en la investigación; las técnicas cualitativas a diferencia de la cuantitativas se distinguen por:",
+      "respuestas": [
+        "la función de la investigación.",
+        "el empleo de palabras en lugar de números",
+        "el suministro de resultados más de encuestas",
+        "Ninguna"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "59",
+      "pregunta": "¿En la investigación cualitativa, se puede reformular los temas de investigación?",
+      "respuestas": ["Si", "No", "A veces", "Ninguno"],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "60",
+      "pregunta": "La estadística inferencial  ayuda a realizar deducciones y realizar proyecciones, en tanto que estadística descriptiva se diferencia por:",
+      "respuestas": [
+        "Resume los datos informativos en índices",
+        "Realiza estimaciones  de la población   sujeto de estudio",
+        "Estima el valor de la puntuación de un test.",
+        "Todos"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "61",
+      "pregunta": "El reglamento específico de las modalidades de atención educativa presencial, semipresencial y a distancia del subsistema de educación regular la resolución ministerial 0031/2021 tiene por objeto:",
+      "respuestas": [
+        "La aplicación del presente Reglamento es de carácter obligatorio, para las unidades educativas fiscales, privadas y de convenio dependiente del Subsistema de Educación Regular.",
+        "Normar las modalidades de atención educativa: presencial, semipresencial y a distancia del Subsistema de Educación Regular.",
+        "El desarrollo de las modalidades de atención educativa se sustenta en los principios de acceso universal a la educación, no a la discriminación, igualdad de oportunidades, gratuidad, solidaridad, reciprocidad, calidad educativa, interculturalidad y la transformación de la educación.",
+        "Ninguno de los anteriores."
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "62",
+      "pregunta": "El reglamento específico de las modalidades de atención educativa presencial, semipresencial y a distancia del subsistema de educación regular dentro sus principios y valores establece:",
+      "respuestas": [
+        "El desarrollo de las modalidades de atención educativa se sustenta en los principios de acceso universal a la educación, no a la discriminación, igualdad de oportunidades, gratuidad, solidaridad, reciprocidad, calidad educativa, interculturalidad y la transformación de la educación.",
+        "Que los Directores Departamentales de Educación, Subdirectores de Educación Regular, en el marco de sus competencias jurisdiccionales, velarán por el cumplimiento de las normativas que garanticen el derecho a la educación.",
+        "La aplicación del presente Reglamento es de carácter obligatorio, para las unidades educativas fiscales, privadas y de convenio dependiente del Subsistema de Educación Regular.",
+        "Ninguno de los anteriores."
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "63",
+      "pregunta": "En el capitulo III, articulo 8,parafrafo I de la modalidad de atención educativa presencial establece:",
+      "respuestas": [
+        "La planificación, organización y desarrollo de la Gestión Escolar 2021 deberá llevarse adelante de manera regular, similar a gestiones anteriores, tomando en cuenta las medidas de bioseguridad para enfrentar la COVID-19 preservando la salud de todos los actores de la comunidad educativa.",
+        "Las unidades educativas que cuenten con un número menor o igual a 20 estudiantes por paralelo y año de escolaridad, podrán optar por esta modalidad con todas las medidas de bioseguridad de acuerdo a protocolo establecido y niveles de riesgo definidos por el Ministerio de Salud y Deportes.",
+        "Se deberán usar materiales didácticos pertinentes para el desarrollo curricular y otros medios de apoyo como ser plataforma educativa, textos y educación radial y por televisión que contribuyan al fortalecimiento de aprendizajes.",
+        "Ninguno de los anteriores."
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "64",
+      "pregunta": "En el articulo 12 del área de bioseguridad determina:",
+      "respuestas": [
+        "La unidad educativa deberá disponer de espacios visibles para la difusión de los protocolos y medidas de bioseguridad durante la pandemia de la COVID-19.",
+        "En cada Unidad Educativa se deberá disponer un espacio de desinfección con insumos de bioseguridad como ser alcohol en gel, pediluvios, lavado de manos, distanciamiento social y otros.",
+        "Es el proceso de previsión de acciones que deberán realizar los actores educativos con el propósito de construir e interiorizar experiencias de aprendizaje deseables en los estudiantes.",
+        "Todos los anteriores."
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "65",
+      "pregunta": "En el capítulo IV modalidad de atención educativa semipresencial, artículo 14 en la característica menciona:",
+      "respuestas": [
+        "Es el proceso de previsión de acciones que deberán realizar los actores educativos con el propósito de construir e interiorizar experiencias de aprendizaje deseables en los estudiantes.",
+        "Es el proceso en el cual se determinan los fines, objetivos y metas de una actividad educativa a partir de los cuales se establecerán los recursos y estrategias más apropiadas para alcanzar los logros esperados, tomando en cuenta los dos espacios de aprendizaje (escuela y la familia) para transformar la realidad.",
+        "Consiste en la combinación de la Modalidad Presencial y a Distancia, con alternancia entre ambas modalidades, desarrollando los procesos de aprendizaje en la unidad educativa y domicilio, que implican dos momentos: actividades en aula y en familia.",
+        "Ninguno de los anteriores."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "66",
+      "pregunta": "En el artículo 16.- (momentos de aprendizajes) de la modalidad de atención educativa semipresencial considera que:",
+      "respuestas": [
+        "Comprende las actividades de aprendizaje que se realizan en aula con la presencia física e interacción directa entre maestros y estudiantes cumpliendo los protocolos y las medidas de bioseguridad.",
+        "En días alternos se realizarán actividades de aprendizaje usando medios de apoyo como ser: texto de aprendizaje, plataforma educativa, material audiovisual, programas de radio o televisión. Las madres, padres y otros integrantes de la familia podrán acompañar el uso de estos medios de apoyo.",
+        "La organización de actividades se dividirá en dos momentos: actividades en aula y actividades en familia. En las mismas se desarrollarán los procesos de aprendizajes por lo que se recomienda organizar los horarios adecuadamente.",
+        "Ninguno de los anteriores."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "67",
+      "pregunta": "En el Capítulo V, artículo 20, de la Planificación curricular determina:",
+      "respuestas": [
+        "Responde a las potencialidades, necesidades y problemáticas de la comunidad, con énfasis en el cuidado de la salud, la prevención de propagación de la COVID-19, cuidado del medio ambiente, seguridad ciudadana, violencia familiar o doméstica, consumo y expendio de bebidas alcohólicas, situaciones de riesgo y otros.",
+        "El Proyecto Socioproductivo permite relacionar el currículo con los diferentes ámbitos de la realidad vinculando de este modo la teoría con la práctica, el trabajo intelectual y la producción de conocimientos.",
+        "La gestión curricular considera los niveles de riesgo e informe epidemiológico de la propagación de la COVID-19 en la región, en función a la modalidad de atención educativa: Presencial, Semipresencial y a Distancia",
+        "Solo los incisos a y b."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "68",
+      "pregunta": "En el Capítulo V,  de la Planificación curricular se menciona: “El PDC mantiene toda su estructura técnico pedagógico para el desarrollo curricular y deberá ser adecuado de acuerdo a las características y particularidades de cada contexto, manteniendo los lineamientos del Modelo Educativo Sociocomunitario Productivo (MESCP) considerando los recursos, materiales necesarios para las actividades en aula y en el domicilio”. Esta  definición corresponde a:",
+      "respuestas": [
+        "Artículo 20",
+        "Artículo 21",
+        "Artículo 22",
+        "Ninguno de los anteriores"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "69",
+      "pregunta": "En el capítulo VI modalidad de atención educativa a distancia artículo 23 menciona:",
+      "respuestas": [
+        "Los medios de comunicación como ser la radio y televisión se consideran como medios de apoyo complementario al desarrollo curricular, los cuales difundirán contenidos educativos priorizando áreas científicas y humanísticas en horarios establecidos.",
+        "En el proceso de la concreción curricular el docente tiene la responsabilidad ineludible de realizar el acompañamiento pedagógico a los estudiantes, en los procesos de construcción de aprendizajes permanentemente a través de una organización planificada, mediante tutoría en línea y actividades educativas en familia que posibilite la aplicación de varias alternativas para garantizar la formación continua e ininterrumpida",
+        "El desarrollo curricular en la modalidad a distancia se caracteriza por el desarrollo de procesos educativos centrado en la responsabilidad, interacción, autonomía por parte del estudiante y apoyo asistido de padres y madres de familia en el acompañamiento pedagógico o tutoría de los maestros que comprende dos momentos: tutoría en línea y actividades educativas en familia.",
+        "Solo el inciso a y b."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "70",
+      "pregunta": "“Comprende la realización de programas televisivos para desarrollar y fortalecer procesos de aprendizaje según los momentos metodológicos en el marco del MESCP. El Ministerio de Educación coordinará con las Direcciones Departamentales de Educación la participación de maestras y maestros en las clases de teleeducación”. Esta definición corresponde a:",
+      "respuestas": [
+        "Medidas de bioseguridad.",
+        "Teleeducación.",
+        "Programa de educación radial.",
+        "Ninguno de los anteriores."
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "71",
+      "pregunta": "Según Zemelman en el contexto latinoamericano se dio temas vinculados al conocimiento social, estos temas se dieron en los años:",
+      "respuestas": [
+        "Durante los años 70",
+        "Durante los años 80",
+        "Durante los años 90",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "72",
+      "pregunta": "Según Zemelman “El problema es que podemos construir un conocimiento aplicado sin saber de qué, a qué o para qué. La pregunta acerca de la construcción del conocimiento puede parecer muy abstracta y no siempre se generan las condiciones para que las personas —a veces aisladas en sus instituciones— puedan compartir sus preocupaciones e ideas epistémicas” esta afirmación crea la idea de que:",
+      "respuestas": [
+        "El desarrollo de la humanidad en la historia.",
+        "La lucha de clases.",
+        "La reflexión epistémica nos permitirá entender qué teorías se están construyendo y por lo tanto construir las que estén más ligadas a nuestras necesidades históricas.",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "73",
+      "pregunta": "“Nuestros Círculos de Reflexión cubren una necesidad y son una apuesta intelectual”. Esta afirmación según Zemelman menciona que el hombre es:",
+      "respuestas": [
+        "Pragmático",
+        "Histórico. ",
+        "Creador y no un simple repetidor.",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "74",
+      "pregunta": "“Era algo similar a un Kepler en la historia” Esta afirmación según Zemelman menciona que originó:",
+      "respuestas": [
+        "La historia de la humanidad.",
+        "El estallido del optimismo que nació con la Revolución Francesa.",
+        "La creación del capitalismo.",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "75",
+      "pregunta": "“La filosofía puede prescindir del hombre concreto, porque la filosofía puede inventar hombres, puede inventarse figuras de y para las cuales teorizar” al respecto también aclara Zemelman:",
+      "respuestas": [
+        "La pedagogía no puede prescindir del hombre concreto",
+        "La pedagogía  puede crear una analogía. ",
+        "La pedagogía si puede prescindir del hombre concreto.",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "76",
+      "pregunta": "Para Zemelman la epistemología es:",
+      "respuestas": [
+        "La aventura del conocimiento.",
+        "La aventura por conocer. ",
+        "La aventura de adentrarse en los misterios de la naturaleza y de la sociedad.",
+        "Los incisos: a,b,c."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "77",
+      "pregunta": "La epistemología coloca a la educación en la necesidad de formar:",
+      "respuestas": [
+        "Sujetos  del conocimiento.",
+        "Sujetos que sean capaces de rescatarse como constructores de realidad.",
+        "Sujetos pasivos.",
+        "Los incisos: a,b."
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "78",
+      "pregunta": "El concepto clave que mejor expresa el vínculo entre epistemología y educación es:",
+      "respuestas": [
+        "El concepto de conceptualidad.",
+        "El concepto de realidad.",
+        "El concepto de potencialidad.",
+        "Ninguno."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "79",
+      "pregunta": "Según Zemelman el rol del maestro es:",
+      "respuestas": [
+        "Formar seres pensantes",
+        "Formar seres tradicionales",
+        "Formar estudiantes con competencias.",
+        "Ninguno."
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "80",
+      "pregunta": "Los dos grandes temas para Zemelman son:",
+      "respuestas": [
+        "La conciencia y el pasado.",
+        "La voluntad y presente.",
+        "La conciencia y el presente.",
+        "Ninguno."
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "81",
+      "pregunta": "En la Constitución Política del Estado señala que toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva gratuita, integral e intercultural, sin discriminación.",
+      "respuestas": ["Artículo 17", "Artículo 77", "Artículo 5", "Ninguno"],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "82",
+      "pregunta": "El 4 de enero resuelve aprobar, entre otras Normas Generales para la Gestión Educativa y Escolar 2021 del Subsistema de Educación Regular en la:",
+      "respuestas": [
+        "Resolución Ministerial N° 0001/ 2020",
+        "Resolución Ministerial N° 0001/2021",
+        "Resolución Ministerial N° 001/2021",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "83",
+      "pregunta": "El Ministerio de Educación en uso de las atribuciones conferidas por el Decreto Supremo N° 29894 de 07 de febrero de 2009 modificado por Decreto Supremo N° 4393 de fecha:",
+      "respuestas": [
+        "23 de noviembre de 2020",
+        "13 de noviembre de 2020",
+        "3 de noviembre 2020",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "84",
+      "pregunta": "Las Modalidades de Atención Educativa Presencial, Semipresencial y a distancia, deben ser impartidas de manera gratuita, en el marco de los establecido en la:",
+      "respuestas": [
+        "Resolución Ministerial 001/2021",
+        "Decreto Supremo N° 4449",
+        "Constitución Política del Estado",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "85",
+      "pregunta": "El Protocolo y Medidas de Bioseguridad se elaborará de manera coordinada con las Direcciones de Unidades Educativas, Juntas Escolares y Juntas Distritales y los Gobiernos Autónomos Municipales en Cumplimiento al “Reglamento del Protocolo y medidas de Bioseguridad por la COVID – 2019 para normar la realización de las Actividades Educativas y de Capacitación” aprobado por:",
+      "respuestas": [
+        "Resolución Ministerial 0001",
+        "Resolución Ministerial 001",
+        "Resolución Bi- Ministerial 0001",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "86",
+      "pregunta": "La Resolución Bi- Ministerial N° 001 es suscrito por el Ministerio de Salud y Deportes y el Ministerio de Educación tomando en cuenta las características del contexto educativo y los lineamientos establecidos por ambos Ministerios, esta resolución es aprobada en fecha …",
+      "respuestas": [
+        "18 de diciembre de 2020",
+        "8 de diciembre de 2020",
+        "18 de enero 2021",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "87",
+      "pregunta": "Las y los Directores de la Unidades Educativas, Plantel Docente y Personal Administrativo son responsables sobre la conservación y preservación de la infraestructura, equipamiento y mobiliario de la Unidad Educativa, así como el cumplimiento de los Protocolos y Medidas de Bioseguridad conforme a normativa vigente.",
+      "respuestas": [
+        "Articulo 48 (USO DE LA INFRAESTRUCTURA)",
+        "Artículo 5 (USO DE LA INFRAESTRUCTURA)",
+        "Artículo 84 (USO DE LA INFRAESTRUCTURA)",
+        "Ninguno."
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "88",
+      "pregunta": "La inscripción automática de estudiantes antiguos de Unidades Educativa Privadas, se sujetará al artículo 10 de las Normas Generales para la Gestión Educativa del Subsistema de Educación Regular, aprobadas, entre otras por la Resolución Ministerial N° 0001/2021 del …",
+      "respuestas": [
+        "4 de enero 2020",
+        "4 de enero 2021",
+        "14 de enero 2021",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "89",
+      "pregunta": "Las y los Directores de Unidades Educativas, Juntas Escolares, Juntas Distritales o Consejos Educativos deben coordinar con los Gobiernos Autónomos Municipales y Departamentales para la dotación de Alimentación Complementaria Escolar a favor de estudiantes durante los 200 días hábiles de la Gestión Educativa 2021 está en el …",
+      "respuestas": [
+        "Artículo 117 (ALIMENTACIÓN COMPLEMENTARIA ESCOLAR)",
+        "Artículo 115 (ALIMENTACIÓN COMPLEMENTARIA ESCOLAR)",
+        "Artículo 103 (ALIMENTACIÓN COMPLEMENTARIA ESCOLAR) ",
+        "Ninguno"
+      ],
+      "resCorrecta": "0"
+    },
+    {
+      "id": "90",
+      "pregunta": "En la modalidad de Atención a Distancia las Direcciones de Unidades Educativas deben considerar un plan de contingencia de Protocolos de Medidas de Bioseguridad ante una posible emergencia sanitaria o de conflicto social o desastre natural ya sea a nivel nacional o local, se encuentra en el:",
+      "respuestas": [
+        "Artículo 123 (EMERGENCIA O DESASTRE)",
+        "Articulo 128 (EMERGENCIA O DESASTRE)",
+        "Artículo 125 (EMERGENCIA O DESASTRE)",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "91",
+      "pregunta": "En los casos que la maestra o maestro de la unidad educativa sospechen, identifique o detecte signos de riesgo de discapacidad o de dificultades en el aprendizaje, o que manifieste potencialidades de talento extraordinario en relación a sus pares, el director educativo debe:",
+      "respuestas": [
+        "Remitir al Centro de Educación Especial más cercano, el informe correspondiente a fin de que se realice la evaluación psicopedagógica integral según corresponda",
+        "Solicitar una evaluación médica o psicológica cumpliendo con el protocolo de bioseguridad del Ministerio de Salud y Deportes.",
+        "INCISO A – B ",
+        "NINGUNO"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "92",
+      "pregunta": "Toda apertura de paralelo en unidades educativas fiscales y de convenio, debe contar con el Sistema de Información de Carga Horaria (SICH) actualizado, informe técnico del distrito educativo que demuestre dicha necesidad y …………………………. de la dirección departamental de educación que apruebe la apertura del paralelo.",
+      "respuestas": [
+        "Aprobación de Consejo Educativo y Dirección",
+        "Resolución Emitida por la distrital con la respectiva Autorización",
+        "Resolución Administrativa",
+        "Ninguna "
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "93",
+      "pregunta": "En las unidades educativas de Educación Primaria Comunitaria Vocacional que cuentan con dos años de escolaridad de Educación Secundaria Comunitaria Productiva en Comunidades alejadas de zonas rurales o urbanas, se realizará la creación o ampliación del nivel de forma progresiva y dependiendo de las características propias de los lugares.",
+      "respuestas": [
+        "El propósito es que a corto plazo se realice el crecimiento vegetativo de la Unidad Educativa y se cuenten con niveles necesarios para la continuidad de la misma.",
+        "El propósito a largo plazo es que se conviertan en unidades educativas con los tres niveles de educación hasta el bachillerato.",
+        "El propósito de la misma infiere que se cuenten con distintos niveles educativos en la Institución y con ello se promueva una educación completa en las regiones que así lo soliciten.",
+        "Todas"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "94",
+      "pregunta": "Queda completamente prohibida la organización de horarios pedagógicos con “hora cero” y “hora octava” en unidades educativas que trabajan en un solo turno, así como la reducción de los periodos pedagógicos a 30 o 35 minutos en los turnos de la mañana y de la tarde.",
+      "respuestas": [
+        "La infracción será considerada como falta grave (inciso m del Art. 11 e incisos i, k y l del Art. 11 de la R.S. N° 212414).",
+        "La infracción será considerada como falta grave (inciso m del Art. 15 e incisos i, k y l del Art. 11 de la R.S. N° 212414).",
+        "La infracción será considerada como falta grave (inciso m del Art. 5 e incisos i, k y l del Art. 11 de la R.S. N° 212414).",
+        "La infracción será considerada como falta grave (inciso m del Art. 10 e incisos i, k y l del Art. 11 de la R.S. N° 212414)."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "95",
+      "pregunta": "La duración del trámite de traslado excepcional y registro en el SIE no excederá los 5 días hábiles, debiendo presentarse la siguiente documentación:",
+      "respuestas": [
+        "Libreta escolar electrónica debidamente firmada por la autoridad competente y que cuente con las calificaciones del trimestre en que se realiza, en original y fotocopia.",
+        "Formulario RUDE actualizado.",
+        "TODOS",
+        "NINGUNO"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "96",
+      "pregunta": "Las direcciones departamentales de educación y direcciones distritales educativas, en coordinación con los gobiernos autónomos municipales, deben promover normas del uso comunitario y compartido de la infraestructura entre todas las:",
+      "respuestas": [
+        "Centros de Educación Alternativa,  los Subsistemas de Educación Regular, Alternativa y Especial, además, Superior de Formación Profesional.",
+        "Centros de Educación Alternativa, Especial y de Educación Superior, los Subsistemas de Educación Regular, Alternativa y Especial.",
+        "Centros de Educación Superior, los Subsistemas de Educación Regular, Alternativa y Especial, además, Superior de Formación Profesional.",
+        "Centros de Educación Alternativa, Especial y de Educación Superior, los Subsistemas de Educación Regular, Alternativa y Especial, además, Superior de Formación Profesional."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "97",
+      "pregunta": "Las direcciones departamentales de educación, direcciones distritales de educación, directores de unidades educativas, maestras y maestros son responsables de revisar y autorizar el uso de materiales escolares: textos escolares, cartillas pedagógicas, enlaces a espacios de aprendizaje y otros:",
+      "respuestas": [
+        "Que estén inmersos  con el Modelo Educativo Socio comunitario Productivo para los procesos educativos, de acuerdo a las Modalidades de Atención Educativa – semipresencial, Distancia y Presencial respectivamente",
+        "Se debe adecuar al Modelo Educativo Sociocomunitario Productivo relacionado con todos los contenidos que se determinen para los procesos educativos, de acuerdo a las Modalidades emitidas por el Ministerio.",
+        "Todos con correspondencia al  Modelo Educativo Sociocomunitario Productivo para la producción de nuevos modelos educativos, tomado en cuenta las diversas modalidades que sean determinadas por las distritales ",
+        "Acordes con el Modelo Educativo Sociocomunitario Productivo para los procesos educativos, de acuerdo a las Modalidades de Atención Educativa"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "98",
+      "pregunta": "Las y los estudiantes de unidades educativas fiscales, de convenio y privadas podrán realizar viajes de intercambio y estudio con autorización del padre o madre de familia o tutor y de la dirección departamental de educación en coordinación con las directoras y los directores de unidades educativas,……………………………… …………………………… …………………………………………………………………………………………………………………………………………………………………………………………………………………………………… con el fin de establecer diálogos simétricos que coadyuven a la comprensión de la diversidad, como un elemento de encuentro y enriquecimiento cultural, social, económico y político de niñas, niños y adolescentes bolivianos. Esta actividad no tiene carácter obligatorio.",
+      "respuestas": [
+        "Con la determinación de viajes de servicio social o actividades deportivas programadas por las unidades educativas deben contribuir a la formación y desarrollo de las dimensiones de las y los estudiantes",
+        "Bajo estrictas normas  de bioseguridad y programación de actividades con contenidos curriculares, entre estudiantes de diferentes contextos que favorezcan la interculturalidad",
+        "Las direcciones distritales de educación designarán a un personal encargado el cual se hará cargo de las diferentes dificultades que el estudiante tenga en su traslado de comunidad a comunidad además de realizar todo el papeleo correspondiente con el fin d brindar apoyo a las diversas posiciones interculturales",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "99",
+      "pregunta": "Se prohíbe la contratación de maestras o maestros que no considere el plan de estudios, como música o educación física en educación inicial; inglés y lengua originaria en educación primaria; y computación en los tres niveles del Subsistema de Educación Regular (SER). Se encuentra como parágrafo del ",
+      "respuestas": [
+        "Plan de reordenamiento",
+        "Formación de maestras y maestros",
+        "Restricción de compulsas",
+        "Ninguno"
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "100",
+      "pregunta": "Las Maestras y Maestros que se encuentren en ejercicio y no cuenten con formación inicial en las especialidades de Física, Química, Biología y Geografía, deberán acreditar tiempo de ejercicio en el cargo durante tres gestiones y una carga horaria igual o mayor en las especialidades mencionadas.",
+      "respuestas": [
+        "Medio año de gestión y una carga horaria igual o mayor en las especialidades mencionadas ",
+        "Dos gestiones y una carga horaria igual o mayor en las especialidades mencionadas",
+        "Tres gestiones y una carga horaria igual o mayor en las especialidades mencionadas",
+        "Ninguna"
+      ],
+      "resCorrecta": "2"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+export const materias = [
+  { id: "1", nombre: "Administrativos", materia: "ADMINISTRATIVOS.json" },
+  { id: "2", nombre: "Artes Plasticas", materia: "ARTES_PLATICAS.json" },
+  { id: "3", nombre: "Biologia", materia: "BIOLOGIA_GEOGRAFIA.json" },
+  { id: "4", nombre: "Calidad Educativa", materia: "CALIDAD_EDUCATIVA.json" },
+  { id: "5", nombre: "Ciencias Sociales", materia: "CIENCIAS_SOCIALES.json" },
+  {
+    id: "6",
+    nombre: "Comunicacion - Lenguaje",
+    materia: "COMUNICACION_LEGUAJE.json",
+  },
+  { id: "7", nombre: "Educacion Fisica", materia: "EDUCACION_FISICA.json" },
+  { id: "8", nombre: "Educacion Musical", materia: "EDUCACION_MUSICAL.json" },
+  {
+    id: "9",
+    nombre: "Especialidad Inicial",
+    materia: "ESPECIALIDAD_INICIAL.json",
+  },
+  {
+    id: "10",
+    nombre: "Filosofia - Psicologia",
+    materia: "FILOSOFIA_PSICOLOGIA.json",
+  },
+  { id: "11", nombre: "Fisica - Quimica", materia: "FISICA_QUIMICA.json" },
+  { id: "12", nombre: "Ingles", materia: "INGLES.json" },
+  { id: "13", nombre: "Matematicas", materia: "MATEMATICAS.json" },
+  { id: "14", nombre: "Religion", materia: "RELIGION.json" },
+  {
+    id: "15",
+    nombre: "Tecnica - Tecnologia",
+    materia: "TECNICA_TECNOLOGIA_GRAL.json",
+  },
+  { id: "16", nombre: "Nivel Primaria", materia: "NIVEL_PRIMARIA_COM.json" },
+  {
+    id: "17",
+    nombre: "Educacion Alternativa",
+    materia: "EDUCACION_ALTERNATIVA.json",
+  },
+  { id: "18", nombre: "Prueba Final 1", materia: "PRIMEREXAPRUEB.json" },
+  { id: "19", nombre: "Prueba Final 2", materia: "TERCER_EXA.json" },
+  { id: "20", nombre: "Prueba Final 3", materia: "CUARTO_EXA_2021.json" },
+];

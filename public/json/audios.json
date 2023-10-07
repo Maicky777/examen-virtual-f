@@ -1,0 +1,392 @@
+{
+	"canciones": [
+		{
+			"id": 1,
+			"titulo": "Constitución Política del Estado - Preámbulo"
+		},
+
+		{
+			"id": 2,
+			"titulo": "Constitución politica del estado- bases fundamentales"
+		},
+
+		{
+			"id": 3,
+			"titulo": "Constitución politica del estado - Deberes"
+		},
+		{
+			"id": 4,
+			"titulo": "Constitución politica del estado - Derechos fundamentales y Garantías"
+		},
+		{
+			"id": 5,
+			"titulo": "Ley 045 Contra el racismo y toda forma de discriminacion"
+		},
+		{
+			"id": 6,
+			"titulo": "Ley 004 Anticorrupción Marcelo Quiroga Santa Cruz"
+		},
+		{
+			"id": 7,
+			"titulo": "Ley 1178 S.A.F.C.O."
+		},
+		{
+			"id": 8,
+			"titulo": "Ley 031 Marco de Autonomía Bases"
+		},
+		{
+			"id": 9,
+			"titulo": "Ley 031 Marco de Autonomía - Tipos de autonomías"
+		},
+		{
+			"id": 10,
+			"titulo": "Ley 031 Marco de Autonomía Procedimiento"
+		},
+		{
+			"id": 11,
+			"titulo": "D.S. 813 Reglamento de las DDEs"
+		},
+		{
+			"id": 12,
+			"titulo": "Ley 031 Marco de Autonimía- Régimen económico financiero"
+		},
+		{
+			"id": 13,
+			"titulo": "Ley 031 Marco de Autonomía - Coordinación"
+		},
+		{
+			"id": 14,
+			"titulo": "Ley 031 Marco de Autonomía - Marco"
+		},
+		{
+			"id": 15,
+			"titulo": "Ley 031 Marco de Autonomía - Supensión"
+		},
+		{
+			"id": 17,
+			"titulo": "Ley 2026 Código Niñ@ Adolescente"
+		},
+		{
+			"id": 18,
+			"titulo": "Ley 070 Avelino Siñañi - Elizardo Perez"
+		},
+		{
+			"id": 19,
+			"titulo": "Reglamento del Escalafon Nacional"
+		},
+		{
+			"id": 20,
+			"titulo": "Currículo Base del SEP 1"
+		},
+		{
+			"id": 21,
+			"titulo": "Currículo Base del SEP 2"
+		},
+		{
+			"id": 22,
+			"titulo": "Reglamento de Faltas y Sanciones"
+		},
+		{
+			"id": 23,
+			"titulo": "Reglamento de Gestión Curricular"
+		},
+		{
+			"id": 24,
+			"titulo": "Lineamientos de evaluación"
+		},
+		{
+			"id": 25,
+			"titulo": "Ejes articuladores"
+		},
+		{
+			"id": 26,
+			"titulo": "Estructura de los Campos y Áreas"
+		},
+		{
+			"id": 27,
+			"titulo": 
+            "Curriculum base del Sistema Educativo Plurinacional"
+		},
+		{
+			"id": 28,
+			"titulo": 
+            "Las dimensiones Ser, Saber, Hacer, Decidir"
+		},
+		{
+			"id": 29,
+			"titulo": 
+            "Planes y programas del Nivel Secundario"
+		},
+		{
+			"id": 30,
+			"titulo": 
+            "R.M. 162 R.A.F.U.E."
+		},
+		{
+			"id": 31,
+			"titulo": 
+            "Planes y programas del Nivel Inicial y Primaria"
+		},
+		{
+			"id": 32,
+			"titulo": 
+            "Estructura Curricular del MESCP"
+		},
+		{
+			"id": 33,
+			"titulo": 
+            "Reglamento de evaluación"
+		},
+		{
+			"id": 34,
+			"titulo": 
+            "Los elementos curriculares para la planificación"
+		},
+		{
+			"id": 35,
+			"titulo": 
+            "Preguntas_y_respuestas_Documentos"
+		},
+		{
+			"id": 36,
+			"titulo": 
+            "Preguntas_y_respuestas_Documentos2"
+		},
+		{
+			"id": 37,
+			"titulo": 
+            "Preguntas_y_respuestas_del_Currículo"
+		},
+		{
+			"id": 38,
+			"titulo": 
+            "Preguntas_y_respuestas_Documentos3"
+		},
+		{
+			"id": 39,
+			"titulo": 
+            "Preguntas y respuestas Educación Alternativa"
+		},
+		{
+			"id": 40,
+			"titulo": 
+            "Preguntas y respuestas 2016"
+		},
+		{
+			"id": 41,
+			"titulo": 
+            "Preguntas 1 ascenso"
+		},
+		{
+			"id": 42,
+			"titulo": 
+            "Respuestas 1 ascenso"
+		},
+		{
+			"id": 43,
+			"titulo": 
+            "Preguntas 2 ascenso"
+		},
+		{
+			"id": 44,
+			"titulo": 
+            "Respuestas 2 ascenso"
+		},
+		{
+			"id": 45,
+			"titulo": 
+            "Preguntas 3 ascenso"
+		},
+		{
+			"id": 46,
+			"titulo": 
+            "Respuestas 3 ascenso"
+		},
+		{
+			"id": 47,
+			"titulo": 
+            "preguntas y respuestas"
+		},
+		{
+			"id": 48,
+			"titulo": 
+            "La Taika"
+		},
+		{
+			"id": 49,
+			"titulo": 
+            "La Taika 1"
+		},
+		{
+			"id": 50,
+			"titulo": 
+            "La Taika 2"
+		},
+		{
+			"id": 51,
+			"titulo": 
+            "La Taika 3"
+		},
+		{
+			"id": 52,
+			"titulo": 
+            "La Taika 4"
+		},
+		{
+			"id": 53,
+			"titulo": 
+            "La Taika 5"
+		},
+		{
+			"id": 54,
+			"titulo": 
+            "La Taika 6"
+		},
+		{
+			"id": 55,
+			"titulo": 
+            "CPE - Tercera Parte"
+		},
+		{
+			"id": 56,
+			"titulo": 
+            "CPE - Cuarta Parte"
+		},
+		{
+			"id": 57,
+			"titulo": 
+            "CPE - EDUCACION - Segunda Parte"
+		},
+		{
+			"id": 58,
+			"titulo": 
+            "CPE - Novena Parte"
+		},
+		{
+			"id": 59,
+			"titulo": 
+            "CPE - Octaba Parte"
+		},
+		{
+			"id": 60,
+			"titulo": 
+            "CPE - Primera Parte"
+		},
+		{
+			"id": 61,
+			"titulo": 
+            "CPE - Quinta Parte"
+		},
+		{
+			"id": 62,
+			"titulo": 
+            "CPE - Septima Parte"
+		},
+		{
+			"id": 63,
+			"titulo": 
+            "CPE - Sexta Parte"
+		},
+		{
+			"id": 64,
+			"titulo": 
+            "Decreto Supremo N° 1302"
+		},
+		{
+			"id": 65,
+			"titulo": 
+            "Decreto Supremo N°1320"
+		},
+		{
+			"id": 66,
+			"titulo": 
+            "Decreto Supremo 4260"
+		},
+		{
+			"id": 67,
+			"titulo": 
+            "Ley Nº 004 de lucha contra la corrupcion enriquecimiento ili­cito e investigacion de fortunas"
+		},
+		{
+			"id": 68,
+			"titulo": 
+            "Ley Nº 045 contra el racismo y toda forma de discriminacion"
+		},
+		{
+			"id": 69,
+			"titulo": 
+            "6. Ley 070 Avelino Siñañi - Elizardo Perez"
+		},
+		{
+			"id": 70,
+			"titulo": 
+            "Ley 348 - Tercera Parte"
+		},
+		{
+			"id": 71,
+			"titulo": 
+            "Ley 348 - Primera Parte"
+		},
+		{
+			"id": 72,
+			"titulo": 
+            "Ley 348 - Segunda Parte"
+		},
+		{
+			"id": 73,
+			"titulo": 
+            "Ley Nº 450 de Proteccion a Naciones y Pueblos Indigena Originarios en situacion de Alta Vulnerabilidad"
+		},
+		{
+			"id": 74,
+			"titulo": 
+            "Ley 548 - Cuarta Parte"
+		},
+		{
+			"id": 75,
+			"titulo": 
+            "Ley 548 - Octava Parte"
+		},
+		{
+			"id": 76,
+			"titulo": 
+            "Ley 548 - Primera Parte"
+		},
+		{
+			"id": 77,
+			"titulo": 
+            "Ley 548 - Quinta Parte"
+		},
+		{
+			"id": 78,
+			"titulo": 
+            "Ley 548 - Septima Parte"
+		},
+		{
+			"id": 79,
+			"titulo": 
+            "Ley 548 - Segunda Parte"
+		},
+		{
+			"id": 80,
+			"titulo": 
+            "Ley 548 - Sexta Parte"
+		},
+		{
+			"id": 81,
+			"titulo": 
+            "Ley 548 - Tercera Parte"
+		},
+		{
+			"id": 82,
+			"titulo": 
+            "Reglamento de faltas y sanciones del Magisterio personal docente y administrativo RS. 212414 de 21 de abril de 1993."
+		},
+		{
+			"id": 83,
+			"titulo": 
+            "Reglamento del Escalafon Nacional D.S. Nro 04688"
+		}
+        
+	]
+}

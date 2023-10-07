@@ -1,0 +1,1104 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "‘What would you like to do this vacation?’ ‘I _________ to go on a cruise round the Mediterranean.’",
+            "respuestas": [
+                "would like",
+                "would rather",
+                "prefer",
+                "rather prefer"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "2",
+            "pregunta": "‘I think I am very late!’ ‘You will be ______ you leave home right now’",
+            "respuestas": [
+                "if",
+                "in case",
+                "unless",
+                "provided that"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "3",
+            "pregunta": "‘ That girl has some friends ’ ‘She does. She had ____ friends at first’",
+            "respuestas": [
+                "few",
+                "a few",
+                "little",
+                "a little"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "4",
+            "pregunta": "‘Could you tell me what ____________’",
+            "respuestas": [
+                "is your name?",
+                "your name is?",
+                "is your name.",
+                "name is yours."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "5",
+            "pregunta": "Why the appointment?’ ‘I want to get the dentist _______my teeth’",
+            "respuestas": [
+                "clean",
+                "to clean",
+                "cleaning",
+                "cleaned"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "6",
+            "pregunta": "‘Lou has been sick since she ___that rotten fish’",
+            "respuestas": [
+                "ate",
+                "eaten",
+                "eats",
+                "will eat"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "7",
+            "pregunta": "‘______ Pete ever read this book?’ No, he hasn’t.",
+            "respuestas": [
+                "May",
+                "Has",
+                "would",
+                "Does"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "8",
+            "pregunta": "‘Where is Paul?’ ‘He ______here five minutes ago’",
+            "respuestas": [
+                "has been",
+                "is",
+                "was",
+                "will be"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "9",
+            "pregunta": "‘Who _______ in that old house?’ ‘Jim does’",
+            "respuestas": [
+                "does live",
+                "lives",
+                "does he live",
+                "did he live"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "10",
+            "pregunta": "‘Tell me what happened!’ ‘_________, everybody got scared’",
+            "respuestas": [
+                "When he cri",
+                "He cried",
+                "When he cries",
+                "If he cried"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "11",
+            "pregunta": "‘Are you sure Lola is coming back in two days?’ ‘Sure. She ____________ be here on Thursday’",
+            "respuestas": [
+                "is going to",
+                "might not",
+                "is not going to",
+                "has"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "12",
+            "pregunta": "‘Where is Tom?’ ‘Before he ______ to school tomorrow, he will call you up’",
+            "respuestas": [
+                "will go",
+                "is going to go",
+                "goes",
+                "may go"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "13",
+            "pregunta": "‘Tim wants to be the president’ ‘If he _____harder, he will win the election’",
+            "respuestas": [
+                "would campaign",
+                "campaigns",
+                "will campaign",
+                "campaigned"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "14",
+            "pregunta": "‘Sarah doesn’t feel well’ ‘I know. She drank ________ wine last night’",
+            "respuestas": [
+                "many",
+                "too much",
+                "too many",
+                "a few"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "15",
+            "pregunta": "‘I don’t want my 30 year-old son to work!’ ‘I think he is __________ to look for a job’",
+            "respuestas": [
+                "enough old",
+                "old",
+                "old enough",
+                "older"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "16",
+            "pregunta": "‘Where is your brother?’ ‘He is ___ work in this moment’",
+            "respuestas": [
+                "in the",
+                "in",
+                "at the",
+                "at"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "17",
+            "pregunta": "Where is the hospital?’ ‘Sorry, but I don’t know how_______ there’",
+            "respuestas": [
+                "do I get",
+                "in getting",
+                "to get",
+                "to getting"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "18",
+            "pregunta": "‘This is an antique!’ ‘Yes. It is a _______________ vase’",
+            "respuestas": [
+                "beautiful old Japanese",
+                "Japanese beautiful old",
+                "large nice old",
+                "blue large Greek"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "19",
+            "pregunta": "‘Who is Joe?’ ‘He is _______________’",
+            "respuestas": [
+                "one of my friend",
+                "half of a friend",
+                "one of my friends",
+                "my friend’s"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "20",
+            "pregunta": "‘Where are my classmates?’ ‘Everybody __________ a test right now’",
+            "respuestas": [
+                "is taking",
+                "are taking",
+                "takes",
+                "take"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "21",
+            "pregunta": "Los Decretos Supremo 1302 y Secreto Supremo 1302 refieren.",
+            "respuestas": [
+                "A la erradicación de la violencia",
+                "A la erradicación del maltrato",
+                "A la erradicación de la violencia, maltrato y abuso ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "22",
+            "pregunta": "Establece mecanismos que coadyuven a la erradicación de la violencia, maltrato y abuso que atente.",
+            "respuestas": [
+                "Contra la vida e integridad física, psicológica y/o sexual de los adultos mayores ",
+                "Contra la vida e integridad física, psicológica y sexual de niñas, niños y adolescentes",
+                "Contra la vida Psicológica.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "23",
+            "pregunta": "Tiene la obligación de denunciar, hacer seguimiento y coadyuvar en la acción penal.",
+            "respuestas": [
+                "Los Directores Departamentales de Educación",
+                "Los Directores de Unidades educativas fiscales",
+                "Los Directores Departamentales de Educación y el Ministerio de educación ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "24",
+            "pregunta": "El director, docente, o administrativo que fuera imputado formalmente. ",
+            "respuestas": [
+                "Por la comisión de delitos de agresión",
+                "Por la comisión de delitos de agresión y violencia sexual ",
+                "Por la comisión de delitos extremadamente muy graves",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "25",
+            "pregunta": "Como medida de seguridad y protección, el Director, docente o administrativo que fuere imputado.",
+            "respuestas": [
+                "Será suspendido de sus funciones sin goce de haberes, mientras dure el proceso ",
+                "No será suspendido de sus funciones ni goce de haberes, mientras dure el proceso",
+                "Sera suspendido por treinta días",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "26",
+            "pregunta": "El Ministerio de Educación desarrollara como mecanismo de prevención e intervención. ",
+            "respuestas": [
+                "Un plan especifico para enfrentar la violencia, maltrato y abuso en ámbito educativo",
+                "Un programa especifico para enfrentar la violencia, maltrato y abuso en ámbito educativo ",
+                "Un plan para enfrentar la violencia en Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "27",
+            "pregunta": "El plan contemplara acciones:",
+            "respuestas": [
+                "Capacitaciones y difusión de estrategias de prevención de toda forma de violencia ",
+                "Desarrollo de lineamientos curriculares con contenido de prevenir la violencia ",
+                "Corresponde a los incisos anteriores ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "28",
+            "pregunta": "Decreto Supremo 4260 tiene por objeto normar la complementariedad de las modalidades educativas.",
+            "respuestas": [
+                "De atención presencial, a distancia y virtual en los Subsistemas de Educación ",
+                "De atención presencial, a distancia, virtual y semipresencial en los Subsistemas de Educación",
+                "Por atención de semi presencial, en lo sistemas de educación",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "29",
+            "pregunta": "Proceso educativo caracterizado por mediación de los recursos físicos (libros, documentos, DVD), televisores, radiales. ",
+            "respuestas": [
+                "Modalidad de atención educativa a distancia",
+                "Modalidad de atención educativa semipresencial ",
+                "Modalidad presencial",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "30",
+            "pregunta": "Es el proceso educativo que no utiliza plataformas conectadas a internet.",
+            "respuestas": [
+                "Modalidad de atención educativa a distancia ",
+                "Modalidad de atención educativa virtual ",
+                "Modalidad de atención educativa semipresencial",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "31",
+            "pregunta": "Sitio Web que permite a un docente contar con un espacio virtual en internet. ",
+            "respuestas": [
+                "Tecnología de información y comunicación",
+                "Plataforma educativa",
+                "Tecnología aplicada",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "32",
+            "pregunta": "Comprende al conjunto de recursos, herramientas, equipos, programas informáticos, aplicaciones, redes y medios. ",
+            "respuestas": [
+                "Tecnología de información y comunicación",
+                "Plataforma educativa",
+                "Aula virtual",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "33",
+            "pregunta": "Para el desarrollo de la modalidad virtual",
+            "respuestas": [
+                "Las instituciones educativas deben contar con una plataforma educativa",
+                "Las instituciones educativas no necesariamente deben contar con una plataforma      educativa",
+                "Las Instituciones contratadas por el ministerio",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "34",
+            "pregunta": "La arquitectura y el entorno virtual este compuesto por: ",
+            "respuestas": [
+                "Un servidor p un hosting y recursos preferidos necesarios",
+                "Software de gestión académica que permita el desarrollo del aula virtual",
+                "Tecnologías de información y Comunicación – TIC",
+                "Corresponde a todos los incisos "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "35",
+            "pregunta": "Plataforma educativa para la modalidad virtual posee áreas. ",
+            "respuestas": [
+                "Área de información planificación y comunicación ",
+                "Área de información, planificación, comunicación y ejecución",
+                "Arrea de Planificación y ejecución",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "36",
+            "pregunta": "La complementariedad de las modalidades de atención.",
+            "respuestas": [
+                "Debe promover el acceso a la educación de calidad",
+                "Debe promover el acceso a la educación eficaz y eficiente",
+                "Por promover una educación con acceso a la calidad ",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "37",
+            "pregunta": "El funcionamiento de la complementariedad de modalidades.",
+            "respuestas": [
+                "Será evaluado por los Directores de UE ",
+                "Sera evaluado por los padres de familia",
+                "Será evaluado por los actores educativos ",
+                "Será evaluado por el MINEDU"
+            ],
+            "resCorrecta": ""
+        },
+        {
+            "id": "38",
+            "pregunta": "Registro sistemático, permanente y centralizado de los datos personales y profesionales de los maestros.",
+            "respuestas": [
+                "Escalafón nacional",
+                "Escalafón de servicio de educación",
+                "Escalafón nacional del servicio de educación",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "39",
+            "pregunta": "Finalidad del escalafón nacional de servicio de educación.",
+            "respuestas": [
+                "Regula el ingreso de los maestros",
+                "Garantiza la continuidad del funcionario del ramo",
+                "Regula el ingreso y garantiza la continuidad de los maestros y funcionarios del ramo ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "40",
+            "pregunta": "Establece la escala de categorías y la escala jerárquica. ",
+            "respuestas": [
+                "Para el desarrollo de la carrera docente ",
+                "Para el desarrollo de la carrera administrativa",
+                "Corresponde a los incisos anteriores ",
+                "No corresponde a ninguno de los incisos"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "41",
+            "pregunta": "Las numerosas experiencias que reivindican el derecho de los pueblos y comunidades originarios a ejercer su derecho colectivo a la comunicación colocan como un tema de interés analítico a la comunicación indígena. El aporte de Luis Ramiro Beltrán es importante cuando ubica la comunicación “como el campo antropocéntrico de los procesos de interacción humana que producen, circulan y usan las representaciones simbólicas, los sentidos, social e históricamente determinados”. Beltrán destaca:",
+            "respuestas": [
+                "La estrecha relación entre comunicación y cultura.",
+                "La estrecha relación entre comunicación y comunidad.",
+                "La estrecha relación entre comunicación y sociedad.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "42",
+            "pregunta": "La comunicación es una práctica social cotidiana y milenaria de los pueblos indígenas que es fundamental para la convivencia armónica entre los seres humanos y la naturaleza. Para los pueblos indígenas la comunicación es:",
+            "respuestas": [
+                "Parcelada por los distintos elementos que la integran.",
+                "Integral pues parte de una cosmovisión en la cual todos los elementos de la vida y la naturaleza se hallan permanente relacionados e influidos entre sí. ",
+                "Aislada por los contenidos, los sentimientos y los valores.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "43",
+            "pregunta": "Entre los pueblos indígenas, la aparición de las nuevas Tecnologías de Información y Comunicación (TIC) generó inicialmente:",
+            "respuestas": [
+                "Mejoras en la comunicación.",
+                "Confianza ",
+                "Desconfianza",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "44",
+            "pregunta": "El reparo frente a las nuevas TIC es resultado de una identidad cultural que protege y apela a un sentido de la comunicación asociado a sus intereses integrales como pueblo indígena, portador de una cosmovisión, creencias, valores y costumbres particulares. Sin embargo, “La percepción y el uso de las TIC pasó de ser una amenaza de penetración e infiltración al proceso, para convertirse en:",
+            "respuestas": [
+                "Una herramienta a su servicio, para su consolidación y resistencia.",
+                "Una facilidad en la comunicación.",
+                "Un servicio eficaz de comunicación.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "45",
+            "pregunta": "En la medida que nos corresponde a los docentes, somos conscientes de que la escuela debe colaborar en la creación de una sociedad intercultural y en la formación de actitudes positivas hacia la diversidad cultural. El reconocimiento del Otro debe ser uno de:",
+            "respuestas": [
+                "Los valores de la sociedad actual.",
+                "Las prácticas educativas.",
+                "Los fines de la práctica educativa.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "46",
+            "pregunta": "¿Qué se entiende por interculturalidad? ",
+            "respuestas": [
+                "Es el reconocimiento de las distintas culturas.",
+                "Son las diferencias de una cultura con relación a otras.",
+                "Es la reciprocidad y reconocimiento de las diferencias culturales.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "47",
+            "pregunta": "¿Cuál el concepto de multiculturalidad? ",
+            "respuestas": [
+                "La mera presencia de varias culturas en una misma sociedad.",
+                "La unión de varias culturas en un país.",
+                "La variedad de culturas existentes en una sociedad.",
+                "La riqueza cultural que tienen los pueblos originarios."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "48",
+            "pregunta": "¿Cuáles son los componentes de la competencia afectiva?",
+            "respuestas": [
+                "Motivación para la comunicación intercultural ",
+                "Empatía",
+                "Actitud de no juzgar",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "49",
+            "pregunta": "En el texto Los “comics” y su ideología vistos al revés de Silva Ludovico, dice: En el subdesarrollo latinoamericano, si hacemos excepción de dibujantes como Quino, el argentino creador de Mafalda, o como Rius, el México creado de los Supermacho, todo el inmenso resto de los comics de que disfruta no son otra cosa que:",
+            "respuestas": [
+                "Un sutil modo de gravitación ideológica de los Estados Unidos sobre nuestros países.",
+                "Un sutil modo de deleitar a la población.",
+                "Un sutil modo de alienar pensamientos con creatividad.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "50",
+            "pregunta": "Antonio Cornejo Polar en “El comienzo de la heterogeneidad en las literaturas andinas: Voz y letra en el “diálogo” de Cajamarca”, propone ver el choque entre la oralidad y la escritura como uno de los conflictos básicos para entender el sistema complejo de la “literatura latinoamericana”. Su punto de partida, una multiplicidad de textos (principalmente crónicas españolas y criollas y wankas indígenas) generados por el encuentro entre el Inca Atahualpa y el clérigo Vicente Valverde en los primeros momentos de la conquista del Perú. Esta serie de discursos escenifican la imposibilidad de diálogo entre dos formas de estar en el mundo que para ese momento reconocen su mutua extrañeza:",
+            "respuestas": [
+                "La oralidad y escritura.",
+                "La cultura oral y la cultura escrita.",
+                "La cultura de los pueblos ancestrales.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "51",
+            "pregunta": "La siguiente definición se refiere a: “…es una unidad lingüística comunicativa que concreta una actividad verbal con carácter social en que la intención del hablante produce un cierre semántico-comunicativo, de modo que el texto es autónomo”.",
+            "respuestas": [
+                "Texto",
+                "Comunicación",
+                "Lengua escrita",
+                "Lengua oral "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "52",
+            "pregunta": "Según van Dijk, texto es:",
+            "respuestas": [
+                "Un constructo teórico.",
+                "Un discurso escrito.",
+                "Un enunciado escrito",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "53",
+            "pregunta": "Llamamos propiedades del texto a todas las reglas que ha de cumplir cualquier manifestación verbal para poder considerarse un texto. Las propiedades textuales son:",
+            "respuestas": [
+                "Adecuación y coherencia.",
+                "Adecuación, referencia, coherencia y cohesión. ",
+                "Adecuación, coherencia y cohesión.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "54",
+            "pregunta": "Son palabras o frases que vinculan unas proposiciones con otras a nivel de oraciones o párrafos. Expresan relaciones lógico-semánticas que se involucran dentro de la coherencia local y global del texto. La anterior definición se refiere a:",
+            "respuestas": [
+                "Conectores",
+                "Entonación",
+                "Coherencia",
+                "Conexiones "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "55",
+            "pregunta": "Es una secuencia de oraciones cohesivas y coherentes que desarrollan, en la mayoría de los casos, una idea principal o parte de ella, relacionándola con la macroestructura del texto. La anterior afirmación se refiere a:",
+            "respuestas": [
+                "El argumento",
+                "El discurso",
+                "El párrafo ",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "56",
+            "pregunta": ".........consiste en intervenciones con las que se hacen corresponder las oraciones y éstas se combinan en forma compleja para relacionarse con la realidad extralingüística y lograr así el efecto comunicativo. La anterior afirmación se refiere a:",
+            "respuestas": [
+                "El párrafo. ",
+                "La entonación.",
+                "El discurso.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "57",
+            "pregunta": "La adecuación según Cassany es el:",
+            "respuestas": [
+                "Conocimiento y el dominio de la segunda lengua.",
+                "Conocimiento y el dominio de la lengua materna.",
+                "Conocimiento y el dominio de la diversidad lingüística. ",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "58",
+            "pregunta": "La cohesión según Cassany hace referencia a:",
+            "respuestas": [
+                "Formas de relación entre proposiciones y secuencia de proposiciones del texto. ",
+                "Formas de relación entre proposiciones y oraciones",
+                "Formas de relación entre proposiciones y oraciones complejas.",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "59",
+            "pregunta": "La coherencia según Cassany hace referencia a:",
+            "respuestas": [
+                "A intervenciones con las que se hacen corresponder las oraciones",
+                "Palabras o frases que vinculan unas proposiciones con otras a nivel de oraciones o párrafos.",
+                "Consistencia conceptual en la secuencia de oraciones.",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "60",
+            "pregunta": "Para redactar párrafos se recurre a los procesos mentales universales mediante los cuales se organiza el pensamiento y se desenvuelven las ideas de manera coherente en el discurso. Estos procesos son:",
+            "respuestas": [
+                "Definición, seriación, deducción, inducción, cuantificación, planificación y estudio de caso",
+                "Definición, seriación, deducción, inducción, cuantificación, clasificación y analogías.",
+                "Definición, seriación, deducción, inducción, cuantificación, desarrollo y conclusión.",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "61",
+            "pregunta": "Los maestros normalistas que no siendo oriundos del lugar presten 2 años de servicio.",
+            "respuestas": [
+                "En las zonas declaradas fronterizas, tendrán derecho al computo de 2 años",
+                "En las zonas declaradas fronterizas, tendrán derecho al computo de 4 años",
+                "En las zonas declaradas fronterizas, tendrán derechos al cómputo de 6 años",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "62",
+            "pregunta": "Para recompensar la antigüedad en el servicio, se establece.",
+            "respuestas": [
+                "Las promociones a las categorías descendentes",
+                "Las promociones a las categorías sucesivas",
+                "Las promociones a las categorías ascendentes ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "63",
+            "pregunta": "Promociones de categorías contempladas en el Reglamento del Escalafón.",
+            "respuestas": [
+                "4ta categoría; 3ra categoría; 2da categoría; y 1ra categoría. ",
+                "5ta categoría; 4ta categoría; 3ra categoría; 2da categoría; y 1ra categoría",
+                "3ra categoría; 2da categoría; y 1ra categoría",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "64",
+            "pregunta": "La categoría 2da percibe una bonificación.",
+            "respuestas": [
+                "Del 30 %",
+                "Del 45 %",
+                "Del 60 %",
+                "Del 75 %"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "65",
+            "pregunta": "La categoría 1ra percibe una bonificación.",
+            "respuestas": [
+                "Del 100 %",
+                "Del 75 %",
+                "Del 60 % ",
+                "Del 45 %"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "66",
+            "pregunta": "Para la promoción de los maestros normalistas.",
+            "respuestas": [
+                "Es con examen aprobado",
+                "Es automático",
+                "Sin examen",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "67",
+            "pregunta": "Promociones a categorías superiores de cero y merito es.",
+            "respuestas": [
+                "De inmediato ",
+                "Automático",
+                "Con examen de gracia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "68",
+            "pregunta": "Ley 269 general de derechos y políticas lingüística.",
+            "respuestas": [
+                "De derechos lingüísticos individuales y colectivos",
+                "Y recupera los idiomas oficiales en riesgo de extinción",
+                "A y B",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "69",
+            "pregunta": "Usar su idioma materno en forma oral y escrita corresponde a: ",
+            "respuestas": [
+                "Derechos lingüísticos individuales",
+                "Derechos lingüísticos colectivos",
+                "Derechos Propios",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "70",
+            "pregunta": "Son idiomas oficiales de Estado boliviano.",
+            "respuestas": [
+                "34 idiomas ",
+                "36 idiomas ",
+                "32 idiomas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "71",
+            "pregunta": "Planeado para que un idioma logre, una situación de igualdad legal, social y uso.",
+            "respuestas": [
+                "Normalización lingüística ",
+                "Estandarización lingüística ",
+                "Normalización de Lenguas",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "72",
+            "pregunta": "Estudiante monolingüe castellano hablante de todos los subsistemas y niveles educativos.",
+            "respuestas": [
+                "Tiene la obligación de aprender otro idioma oficial del estado",
+                "Tiene el deber de aprender otro idioma oficial del Estado",
+                "Obligación de Aprender los idiomas de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "73",
+            "pregunta": "Servidores públicos de la educación (directores, directores distritales o departamentales y otros) deberán conocer.",
+            "respuestas": [
+                "El idioma de la unidad territorial donde trabajan",
+                "El idioma de la unidad territorial de origen ",
+                "Idioma de origen patrimonial de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "74",
+            "pregunta": "En servicio de educación publica y privada, la contratación del personal (maestras/os). ",
+            "respuestas": [
+                "Deberían exigir el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad ",
+                "Deberán ponderar el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad",
+                "Por conocimiento de las idiomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "75",
+            "pregunta": "Objeto de la presente Ley 223 es garantizar a las personas con discapacidad.",
+            "respuestas": [
+                "El ejercicio pleno de sus derechos y deberes en igualdad de condiciones",
+                "Y equiparación de oportunidades, trato preferente",
+                "A y B",
+                "Ninguna "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "76",
+            "pregunta": " Personas con discapacidad participan plena y efectivamente en la sociedad en igualdad de oportunidades.",
+            "respuestas": [
+                "No discriminación",
+                "Inclusión",
+                "Accesibilidad ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "77",
+            "pregunta": "Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad.",
+            "respuestas": [
+                "Trato diferenciado ",
+                "Trato preferente ",
+                "Trato Digno",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "78",
+            "pregunta": "Aquellas personas con deficiencias físicas, mentales, intelectuales y/o sensoriales a largo plazo o permanentes.",
+            "respuestas": [
+                "Personas con discapacidad según la Ley",
+                "Personas con capacidades múltiples y/o diferencias, según la Ley ",
+                "Personas sin discacpacidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "79",
+            "pregunta": "Debe dar respuesta a la diversidad mediante adaptaciones físicas, curriculares y personales de apoyo.",
+            "respuestas": [
+                "Educación exclusiva",
+                "Educación inclusiva",
+                "Educación con discapacidad exclusiva",
+                "ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "80",
+            "pregunta": "Garantiza el derecho a la vida de personas con discapacidad. ",
+            "respuestas": [
+                "El Estado Plurinacional de Bolivia",
+                "Las Autoridades legalmente electas de Bolivia",
+                "Las políticas del Estado",
+                "Ninguno"
+            ],
+            "resCorrecta": ""
+        },
+        {
+            "id": "81",
+            "pregunta": "Estado garantiza al acceso y permanencia de estudiantes con discapacidad en el sistema educativo.",
+            "respuestas": [
+                "Derecho a la formación inclusiva",
+                "Derecho a la educación",
+                "Derecho no a la Educación",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "82",
+            "pregunta": "Estado garantiza la formación de equipos multidisciplinarios.",
+            "respuestas": [
+                "Para la atención e inclusión de personas con discapacidad al sistema educativo plurinacional",
+                "Para la atención e inclusión de personas con discapacidad",
+                "Para la atención de personas discapacitados en el sistema de inclusión",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "83",
+            "pregunta": "Estado garantiza el desarrollo educativo permanente de las potencialidades ",
+            "respuestas": [
+                "Individuales de la persona con discapacidad psicosocial ",
+                "Colectivas de la persona con discapacidad psicosocial",
+                "Personas adultas",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "84",
+            "pregunta": "Ley 450 de protección a naciones y pueblos indígenas originarios.",
+            "respuestas": [
+                "En situación de alta vulnerabilidad",
+                "En situación de vulnerabilidad ",
+                "En situación de invulnerabilidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "85",
+            "pregunta": "Son situaciones de alta vulnerabilidad.",
+            "respuestas": [
+                "Peligro de extinción",
+                "Aislamiento voluntario y forzoso",
+                "A y B",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "86",
+            "pregunta": "Se sustenta en el reconocimiento y respeto de los diferentes sistemas de vida.",
+            "respuestas": [
+                "Diversidad sociocultural ",
+                "Diversidad cultural",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "87",
+            "pregunta": "Se sustenta en el reconocimiento y respeto de los diferentes sistemas de vida.",
+            "respuestas": [
+                "De las naciones y pueblos indígenas originarios",
+                "De los pueblos indígenas originarios ",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "88",
+            "pregunta": "Un principio que rige a la Ley 450",
+            "respuestas": [
+                "Diversidad sociocultural ",
+                "Diversidad cultural ",
+                "Diversidad lingüística",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "89",
+            "pregunta": "DIGEPIO es dirección general de protección a naciones y pueblos indígenas originarios.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "90",
+            "pregunta": "Los mecanismos de prevención de los sistemas de vida.",
+            "respuestas": [
+                "Desarrollo en el nivel central del Estado ",
+                "Desarrollaran en entidades territoriales autónomas",
+                "Desarrollaran en el nivel central del Estado y entidades territoriales autónomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "91",
+            "pregunta": "Mecanismos de prevención de los sistemas de vida se desarrollan en ámbitos.",
+            "respuestas": [
+                "Territorial y salud",
+                "Territorial, salud y difusión",
+                "Territorial, salud, difusión y sensibilización ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "92",
+            "pregunta": "La DIGEPIO formulara los indicadores de monitoreo.",
+            "respuestas": [
+                "Para evaluar las situaciones de alta vulnerabilidad ",
+                "Para evaluar las situaciones de vulnerabilidad",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "93",
+            "pregunta": "Corresponde a la ley contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Ley 035",
+                "Ley 045",
+                "Ley 055",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "94",
+            "pregunta": "Insertar datos económicos, financieros y patrimoniales.",
+            "respuestas": [
+                "Declaración jurada de bienes y rentas ",
+                "Declaración jurada de bienes",
+                "Declaración jurada de rentas ",
+                "Declaración jurada del patrimonio neto"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "95",
+            "pregunta": "Servidor publico aprovechando del cargo que desempeña se apropiare de dinero, valores y bienes.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "96",
+            "pregunta": "Servidor publico hace actos relativos a sus funciones recibiera dadivas o cualquier otra ventaja.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "97",
+            "pregunta": "Director departamental, distritales y directores de UEs son considerados servidores o funcionarios públicos.",
+            "respuestas": [
+                "Verdadero",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "98",
+            "pregunta": "Garantiza las mujeres, el derecho a no sufrir violencia física, sexual y/o psicológica.",
+            "respuestas": [
+                "Corresponde a la Ley 834",
+                "Corresponde a la Ley 348",
+                "Corresponde a la Ley 349",
+                "Corresponde a la Ley 448"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "99",
+            "pregunta": "Establece mecanismos, medidas y políticas integrales de prevención, protección y reparación en situación violenta.",
+            "respuestas": [
+                "Así como sanción a los agresores ",
+                "Así como persecución a los agresores",
+                "Así como sanción y persecución a los agresores ",
+                "Así como el perdón de los agresores  "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "100",
+            "pregunta": "Desde el marco constitucional, la Ley de 348 garantiza.",
+            "respuestas": [
+                "En particular, a las mujeres, el derecho a nos sufrir violencia ",
+                "En particular, al genero femenino, el derecho a no sufrir violencia",
+                "Otra respuesta",
+                "Ninguno  "
+            ],
+            "resCorrecta": "0"
+        }
+    ]
+}

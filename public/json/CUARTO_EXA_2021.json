@@ -1,0 +1,1126 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "En la Constitución Política del Estado señala que toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva gratuita, integral e intercultural, sin discriminación.",
+            "respuestas": [
+                "Artículo 17",
+                "Artículo 77",
+                "Artículo 5",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "2",
+            "pregunta": "El 4 de enero resuelve aprobar, entre otras Normas Generales para la Gestión Educativa y Escolar 2021 del Subsistema de Educación Regular en la:",
+            "respuestas": [
+                "Resolución Ministerial N° 0001/ 2020",
+                "Resolución Ministerial N° 0001/2021",
+                "Resolución Ministerial N° 001/2021",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "3",
+            "pregunta": "El Ministerio de Educación en uso de las atribuciones conferidas por el Decreto Supremo N° 29894 de 07 de febrero de 2009 modificado por Decreto Supremo N° 4393 de fecha:",
+            "respuestas": [
+                "23 de noviembre de 2020",
+                "13 de noviembre de 2020",
+                "3 de noviembre 2020",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "4",
+            "pregunta": "Las Modalidades de Atención Educativa Presencial, Semipresencial y a distancia, deben ser impartidas de manera gratuita, en el marco de los establecido en la:",
+            "respuestas": [
+                "Resolución Ministerial 001/2021",
+                "Decreto Supremo N° 4449",
+                "Constitución Política del Estado",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "5",
+            "pregunta": "El Protocolo y Medidas de Bioseguridad se elaborará de manera coordinada con las Direcciones de Unidades Educativas, Juntas Escolares y Juntas Distritales y los Gobiernos Autónomos Municipales en Cumplimiento al “Reglamento del Protocolo y medidas de Bioseguridad por la COVID – 2019 para normar la realización de las Actividades Educativas y de Capacitación” aprobado por:",
+            "respuestas": [
+                "Resolución Ministerial 0001",
+                "Resolución Ministerial 001",
+                "Resolución Bi- Ministerial 0001",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "6",
+            "pregunta": "La Resolución Bi- Ministerial N° 001 es suscrito por el Ministerio de Salud y Deportes y el Ministerio de Educación tomando en cuenta las características del contexto educativo y los lineamientos establecidos por ambos Ministerios, esta resolución es aprobada en fecha ......",
+            "respuestas": [
+                "18 de diciembre de 2020",
+                "8 de diciembre de 2020",
+                "18 de enero 2021",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "7",
+            "pregunta": "Las y los Directores de la Unidades Educativas, Plantel Docente y Personal Administrativo son responsables sobre la conservación y preservación de la infraestructura, equipamiento y mobiliario de la Unidad Educativa, así como el cumplimiento de los Protocolos y Medidas de Bioseguridad conforme a normativa vigente.",
+            "respuestas": [
+                "Articulo 48 (USO DE LA INFRAESTRUCTURA)",
+                "Artículo 5 (USO DE LA INFRAESTRUCTURA)",
+                "Artículo 84 (USO DE LA INFRAESTRUCTURA)",
+                "Ninguno."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "8",
+            "pregunta": "La inscripción automática de estudiantes antiguos de Unidades Educativa Privadas, se sujetará al artículo 10 de las Normas Generales para la Gestión Educativa del Subsistema de Educación Regular, aprobadas, entre otras por la Resolución Ministerial N° 0001/2021 del ......",
+            "respuestas": [
+                "4 de enero 2020",
+                "4 de enero 2021",
+                "14 de enero 2021",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "9",
+            "pregunta": "Las y los Directores de Unidades Educativas, Juntas Escolares, Juntas Distritales o Consejos Educativos deben coordinar con los Gobiernos Autónomos Municipales y Departamentales para la dotación de Alimentación Complementaria Escolar a favor de estudiantes durante los 200 días hábiles de la Gestión Educativa 2021 está en el .....",
+            "respuestas": [
+                "Artículo 117 (ALIMENTACIÓN COMPLEMENTARIA ESCOLAR)",
+                "Artículo 115 (ALIMENTACIÓN COMPLEMENTARIA ESCOLAR)",
+                "Artículo 103 (ALIMENTACIÓN COMPLEMENTARIA ESCOLAR)",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "10",
+            "pregunta": "En la modalidad de Atención a Distancia las Direcciones de Unidades Educativas deben considerar un plan de contingencia de Protocolos de Medidas de Bioseguridad ante una posible emergencia sanitaria o de conflicto social o desastre natural ya sea a nivel nacional o local, se encuentra en el:",
+            "respuestas": [
+                "Artículo 123 (EMERGENCIA O DESASTRE)",
+                "Articulo 128 (EMERGENCIA O DESASTRE)",
+                "Artículo 125 (EMERGENCIA O DESASTRE)",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "11",
+            "pregunta": "la modificación y ampliación de las Normas Generales para la Gestión Educativa 2021 del Subsistema de Educación Regular” se realiza entre otros a petición de:",
+            "respuestas": [
+                "Los movimientos sociales del Estado plurinacional de Bolivia.",
+                "La Junta Nacional de Padres y Madres de Familia, Confederación de Estudiantes de Secundaria de Bolivia,",
+                "Asociación de Padres de Familia de Colegios Privados y/o Particulares de Bolivia y Programa de Formación Complementaria",
+                "Respuestas 2 Y 3"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "12",
+            "pregunta": "La aprobación y modificaciones, supresiones y ampliaciones en los Artículos pertinentes de las Normas Generales para la Gestión Educativa 2021 del Subsistema de Educación Regular, aprobadas entre otras por Resolución Ministerial N° 0001/2021 de 4 de enero de 2021. Se la realiza en el marco de las atribuciones conferidas por ley a:",
+            "respuestas": [
+                "El Viceministerio De Educación Regulara",
+                "El Ministro De Educación.",
+                "El Viceministerio De Educación Alternativa",
+                "Los incisosA y C."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "13",
+            "pregunta": "Las Modalidades de Atención Educativa Presencial, Semipresencial y a Distancia, deben ser impartidas de manera gratuita, en el marco de lo establecido en la Constitución Política del Estado”. Se incluyen en el Artículo 4 de las Normas Generales para la Gestión Educativa 2021 como:",
+            "respuestas": [
+                "Párrafo Nº III",
+                "Anexo Nº III",
+                "Enmienda Nº III",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "14",
+            "pregunta": "Protocolo y Medidas de Bioseguridad se elaborarán de manera coordinada con las Direcciones de Unidades Educativas, juntas Escolares y Juntas Distritales, y los Gobiernos Autónomos Municipales, en cumplimiento a:",
+            "respuestas": [
+                "La resolución ministerial Nº 0001 2020",
+                "La resolución ministerial Nº 0001 2021",
+                "Resolución Bi-Ministerial N° 0001 2020",
+                "Resolución Bi-Ministerial N° 0001 2021"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "15",
+            "pregunta": "Según el párrafo VI en el Artículo 48 de las Normas Generales para la Gestión Educativa 2021, son responsables sobre la conservación y preservación de la infraestructura, equipamiento y mobiliario de la Unidad Educativa",
+            "respuestas": [
+                "Los Directores y el conserge",
+                "Las y los directores  de las unidades educativas",
+                "Plantel docente y personal administrativo",
+                "Los incisos B y C"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "16",
+            "pregunta": "La firma de contrato de servicio educativo sobre  las  pensiones  o  mensualidades  par la  Gestión  Educativa  2021,  se debe establecer:",
+            "respuestas": [
+                "Entre los padres  y  madres  de familia  de Unidades Educativas Privadas y los directores Administrativos",
+                "Entre los padres  y  madres  de familia  de Unidades Educativas Privadas y Directores Distritales de Educación ",
+                "Entre la  Asociación de unidades educativas privadas y los padres y madres de familia",
+                "Entre la asociación de padres de familia y la asociación de unidades educativas privadas y Directores Distritales"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "17",
+            "pregunta": "La inclusión de los párrafos III y IV del artículo 98 se refiere a:",
+            "respuestas": [
+                "El calendario Escolar para Unidades Educativas Particulares con relación a la fiscales",
+                "La inscripción automática de estudiante antiguos  de Unidades Educativas Particulares",
+                "Los incisos B y D",
+                "El diferimiento de la regularización de obligaciones contractuales"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "18",
+            "pregunta": "El articulo 119 en cuanto a la formación de organizaciones estudiantiles se refiere a la:",
+            "respuestas": [
+                "La conformación de los Concejos Estudiantiles de curso",
+                "Los Gobiernos Estudiantiles ",
+                "Elaboración de la Reglamentación de los Gobiernos Estudiantiles.",
+                "Todos los anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "19",
+            "pregunta": "En la modalidad de atención a distancia las Direcciones de Unidades Educativas  deben considerar :",
+            "respuestas": [
+                "Un plan de contingencia de protocolos",
+                "Medidas de Bioseguridad",
+                "La elaboración de cartillas",
+                "Respuestas A y B"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "20",
+            "pregunta": "La Modificación del Artículo 120 de las Normas Generales para la Gestión Educativa 2021,se refier a:",
+            "respuestas": [
+                "La participación social y comunitaria de las madres y padres de familia",
+                "La participación de las organizaciones estudiantiles",
+                "La participación social y comunitaria de todos los  actores de la comunidad educativa",
+                "Ninguno de los anriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "21",
+            "pregunta": "Establece que la educación constituye una función suprema y primera responsabilidad financiera del estado, que tiene la obligación indeclinable de sostenerla, garantizarla y gestionarla; y el estado y la sociedad tienen tuición plena sobre el sistema educativo  que comprende la educación regular, la alternativa y especial y la educación superior de formación profesional",
+            "respuestas": [
+                "Párrafo I del artículo 77 del texto constitucional",
+                "Párrafo II del artículo 77 del texto constitucional",
+                "Párrafos I y II artículo 77 del texto constitucional",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "22",
+            "pregunta": "Establece que el estado plurinacional, a través del Ministerio de Educación, ejerce tuición sobre la administración y gestión del Sistema Educativo Plurinacional.",
+            "respuestas": [
+                "Parágrafo I del artículo 72 de la Ley N°070 ",
+                "Parágrafo II del artículo 72 de la Ley N° 070 ",
+                "Parágrafo I del artículo 78 de la Constitución Política del Estado",
+                "Parágrafo II del artículo 78 de la Constitución Política del Estado"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "23",
+            "pregunta": "Dispone que la educación es unitaria, publica, universal, democrática, participativa, comunitaria, descolonizadora y de calidad",
+            "respuestas": [
+                "Parágrafo I del artículo 72 de la Ley N°070",
+                "Parágrafo II del artículo 72 de la Ley N° 070 ",
+                "Parágrafo I del artículo 78 de la Constitución Política del Estado",
+                "Parágrafo II del artículo 78 de la Constitución Política del Estado"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "24",
+            "pregunta": "Exhortó al Estado Boliviano a extremar los esfuerzos  para garantizar, respetar y proteger el derecho a la educación, trabajando por la continuidad de los procesos Educativos en condiciones de igualdad",
+            "respuestas": [
+                "Sistema de Unión Europea",
+                "Sistema de Naciones Unidas ",
+                "Sistemas del Estado Plurinacional de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "25",
+            "pregunta": "(Objeto) El presente Decreto Supremo tiene por objeto declarar el “2021 AÑO POR LA RECUPERACION DEL DERECHO A LA EDUCACION”",
+            "respuestas": [
+                "Artículo 1° del Decreto en Consejo de Ministros",
+                "Artículo 2° del Decreto en Consejo de Ministros",
+                "Artículo 3° del Decreto en Consejo de Ministros",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "26",
+            "pregunta": "(Declaratoria) Se declara el “2021 AÑO POR LA RECUPERACION DEL DERECHO A LA EDUCACION”",
+            "respuestas": [
+                "Artículo 1° del Decreto en Consejo de Ministros",
+                "Artículo 2° del Decreto en Consejo de Ministros",
+                "Artículo 3° del Decreto en Consejo de Ministros",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "27",
+            "pregunta": "(Uso de la frase “2021 AÑO POR LA RECUPERACION DEL DERECHO A LA EDUCACION”)",
+            "respuestas": [
+                "Artículo 1° del Decreto en Consejo de Ministros",
+                "Artículo 2° del Decreto en Consejo de Ministros",
+                "Artículo 3° del Decreto en Consejo de Ministros",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "28",
+            "pregunta": "La frase “2021 AÑO POR LA RECUPERACION DEL DERECHO A LA EDUCACION”, será incorporada en el papel membretado en el espacio definido y las características establecidas en el numeral 6.2 del Manual Identidad Imagen Gobierno, aprobado por Decreto Supremo N° 4445 de 13 de enero de 2021.",
+            "respuestas": [
+                "Disposiciones Adicionales",
+                "Disposiciones transitorias",
+                "Disposiciones abrogatorias y derogatorias",
+                "Disposiciones finales"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "29",
+            "pregunta": "A partir de la publicación del presente Decreto Supremo, el Ministerio de Educación en el marco de sus atribuciones, mediante Resolución Ministerial en un plazo no mayor a diez (10) días calendario, establecerá la implementación de las modalidades de atención: Presencial, Semipresencial y a Distancia en el sistema educativo Plurinacional, considerando las normas y medidas de bioseguridad a fin de evitar la propagación de la COVID-19 en el territorio del Estado Plurinacional de Bolivia.",
+            "respuestas": [
+                "Disposiciones Adicionales",
+                "Disposiciones transitorias",
+                "Disposiciones abrogatorias y derogatorias",
+                "Disposiciones finales"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "30",
+            "pregunta": "¿En qué fecha y año se promulgó e D.S. 4449?",
+            "respuestas": [
+                "14 de enero de 2020",
+                "13 de enero de 2021",
+                "18 de enero de 2020",
+                "14 de enero de 2021"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "31",
+            "pregunta": "Determina que toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.  La siguiente afirmación corresponde al artículo:",
+            "respuestas": [
+                "Artículo 17 de la Constitución Política del Estado",
+                "Artículo 15 de la Constitución Política del Estado",
+                "Artículo 10 de la Constitución Política del Estado",
+                "Artículo 7 de la Constitución Política del Estado"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "32",
+            "pregunta": "La educación constituye una función suprema y primera responsabilidad financiera del Estado, que tiene la obligación indeclinable de sostenerla, garantizarla y gestionarla; y el Estado y la sociedad tienen tuición plena sobre el sistema educativo, que comprende la educación:",
+            "respuestas": [
+                "Medio regular, especial y superior de formación profesional",
+                "Regular, la alternativa y especial, y la educación superior de formación profesional.",
+                "Alternativa y especial, y la educación superior de formación profesional.",
+                "Regular y la educación superior de formación profesional"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "33",
+            "pregunta": "Declarar el “2021 AÑO POR LA RECUPERACIÓN DEL DERECHO A LA EDUCACIÓN”, reafirmando la importancia que tiene la educación para garantizar la protección de los demás derechos, y asegurar que las y los bolivianos tengan acceso de manera inclusiva y sin ninguna forma de discriminación. Es el:",
+            "respuestas": [
+                "Objetivo del  D.S. 4449",
+                "Fin del D.S. 4449",
+                "Objeto del D.S. del 4449",
+                "Consideración del D.S. 4449"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "34",
+            "pregunta": "El uso obligatorio de la frase “2021 AÑO POR LA RECUPERACIÓN DEL DERECHO A LA EDUCACIÓN”, durante la presente gestión, será en el papel membretado de las siguientes instituciones:",
+            "respuestas": [
+                "Ministerios y Viceministerios de Estado.",
+                "Instituciones públicas desconcentradas, descentralizadas y autárquicas del Órgano Ejecutivo del nivel central del Estado.",
+                "Empresas Públicas del nivel central del Estado.",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "35",
+            "pregunta": "El D.S. 4449 abroga el Decreto Supremo",
+            "respuestas": [
+                "Nro. 4261",
+                "Nro. 4260",
+                "Nro. 4262",
+                "Nro. 4263"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "36",
+            "pregunta": "En el “6to. Encuentro Pedagógico del Sistema Educativo Plurinacional”, realizado en diciembre de 2020, se acordó:",
+            "respuestas": [
+                "Realizar movimientos orientados a recuperar el derecho a la educación para todas y todos los bolivianos.",
+                "Realizar acciones orientadas a recuperar el derecho a la educación para todas y todos los bolivianos.",
+                "Realizar anuncios orientados a recuperar el derecho a la educación para todas y todos los bolivianos.",
+                "Realizar protestas orientadas a recuperar el derecho a la educación para todas y todos los bolivianos."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "37",
+            "pregunta": "La Constitución Política del Estado dispone que la educación es unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad. Corresponde a:",
+            "respuestas": [
+                "El Parágrafo I del Artículo 78.",
+                "El Parágrafo II del Artículo 78.",
+                "El Parágrafo I del Artículo 87.",
+                "El Parágrafo IV del Artículo 8 "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "38",
+            "pregunta": "El Sistema de Naciones Unidas exhortó al Estado boliviano a extremar los esfuerzos para garantizar, respetar y proteger el derecho a la educación trabajando por:",
+            "respuestas": [
+                "la realidad de los procesos educativos en condiciones de igualdad.",
+                "la pasividad de los procesos educativos en condiciones de igualdad.",
+                "la continuidad de los procesos educativos en condiciones de igualdad.",
+                "la integración de los procesos educativos en condiciones de igualdad."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "39",
+            "pregunta": "La implementación del presente D.S.  mediante Resolución Ministerial será dentro de:",
+            "respuestas": [
+                "un plazo no mayor a veinte (20) días calendario",
+                "un plazo no mayor a diez (10) días calendario",
+                "un plazo no mayor a siete (7) días calendario",
+                "un plazo no mayor a treinta (30) días calendario"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "40",
+            "pregunta": "El objeto del Decreto Supremo No. 4483 es el de:",
+            "respuestas": [
+                "Autorizar al Ministerio de Desarrollo Productivo y Economía Plural la transferencia a título gratuito de equipos de computación al Ministerio de Educación.",
+                "Autorizar al Ministerio de Educación la transferencia a título gratuito de los equipos de computación a los gobiernos autónomos municipales según disponibilidad y situación o índice de pobreza.",
+                "Establecer el comodato para la otorgación de los equipos de computación para el uso de los estudiantes inscritos durante la gestión 2021.",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "41",
+            "pregunta": "De acuerdo al Decreto Supremo 4483, ¿Cual es la institución o entidad autorizada, para disponer en calidad de comodato los equipos de computación asignados a las unidades educativas fiscales y de convenio del Subsistema de Educación Regular, a favor de familias identificadas en situación de pobreza?",
+            "respuestas": [
+                "El Ministerio de Desarrollo Productivo y Economía Plural",
+                "El Ministerio de Educación ",
+                "Los Gobiernos Autónomos Municipales",
+                "Las Gobernaciones Departamentales"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "42",
+            "pregunta": "La disposición en calidad de comodato de los equipos de computación, se aplica a favor de madres, padres o tutores, para beneficiar a cada hija o hijo estudiante:",
+            "respuestas": [
+                "Inscrito durante la gestión 2020, que por su situación de pobreza sean identificados.",
+                "Inscrito durante la gestión 2021, que por su situación de pobreza sean identificados.",
+                "Inscrito durante la gestión 2020, identificados como familias que sufrieron el Covid19",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "43",
+            "pregunta": "La autorización de disponer en calidad de comodato los equipos de computación, significa que:",
+            "respuestas": [
+                "El comodato es una venta definitiva de los equipos de computación a favor de las familias identificadas en situación de pobreza",
+                "El comodato es el alquiler de los equipos de computación a favor de las familias identificadas en situación de pobreza.",
+                "El comodato es un préstamo de uso de los equipos de computación a favor de las familias identificadas en situación de pobreza.",
+                "El comodato es una garantía de los equipos de computación a favor de las familias identificadas en situación de pobreza"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "44",
+            "pregunta": "La implementación o aplicación de este Decreto Supremo se realizara:",
+            "respuestas": [
+                "De manera excepcional y por única vez.",
+                "De manera excepcional para familias y estudiantes afectados por la pandemia desde la gestión 2020.",
+                "De manera continua cada gestión.",
+                "La aplicación de este decreto supremo está en tratamiento."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "45",
+            "pregunta": "¿A quiénes se  autoriza de manera excepcional y por única vez, disponer en calidad de comodato, los equipos de computación asignados a las unidades educativas fiscales y de convenio del Subsistema de Educación Regular, en el marco del presente Decreto Supremo, así como aquellos que se encuentren disponibles y que hayan sido dotados con anterioridad, conforme a normativa vigente, a favor de madres, padres o tutores para beneficiar a cada hija o hijo estudiante inscrito durante la gestión 2021, que por su situación de pobreza sean identificados?",
+            "respuestas": [
+                "A los gobiernos autónomos municipales.",
+                "A los Directores.",
+                "A los Asistentes Administrativos y se servicio.",
+                "A las y los maestros."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "46",
+            "pregunta": "En la reglamentación de la dotación de equipos de computación y pisos tecnológicos a las Unidades Educativas Fiscales y de Convenio del Subsistema de Educación Regular ¿En qué calidad se otorga los equipos de computación mientras duren las modalidades de atención educativa semipresencial y a distancia?",
+            "respuestas": [
+                "Comodato.",
+                "Préstamo.",
+                "Garantía.",
+                "Regalo"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "47",
+            "pregunta": "¿Las unidades educativas identificarán a los estudiantes, que por su situación de pobreza requieran contar con un equipo de computación y remitirán las listas de beneficiarios a?",
+            "respuestas": [
+                "Al Gobierno.",
+                "Al gobierno autónomo municipal.",
+                "A la Dirección ",
+                "A la dirección Distrital de Educación."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "48",
+            "pregunta": "¿Quiénes realizan el seguimiento de la entrega de los equipos de computación en calidad de comodato a favor de madres, padres o tutores, para beneficiar a los estudiantes inscritos durante la gestión 2021, por parte de las unidades educativas fiscales y de convenio del Subsistema de Educación Regular, en su jurisdicción hasta su consiguiente devolución a la finalización del contrato de comodato?",
+            "respuestas": [
+                "Los gobiernos autónomos municipales.",
+                "Los maestros y maestras.",
+                "Distritales ",
+                "Los padres y madres de familia."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "49",
+            "pregunta": "A través de las Direcciones Departamentales de Educación, realizará el monitoreo a la asignación de los equipos de computación por parte de los gobiernos autónomos municipales, a las unidades educativas fiscales y de convenio del Subsistema de Educación Regular.",
+            "respuestas": [
+                "El Ministerio de Educación.",
+                "Consejo Educativo.",
+                "Junta Escolar.",
+                "Gobierno Estudiantil."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "50",
+            "pregunta": "Establecer mecanismos que coadyuven a la erradicación de la violencia, maltrato y abuso que atente contra la vida e integridad física, psicológica y/o sexual de niñas, niños y adolescentes estudiantes, en el ámbito educativo, es el .......",
+            "respuestas": [
+                "Objetivo del DS.1302",
+                "Objeto del DS. 1320",
+                "Objeto del DS. 1302",
+                "Objetivo del DS 1320"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "51",
+            "pregunta": "Tienen la obligación de denunciar y coadyuvar en la acción penal correspondiente hasta su conclusión, ante el Ministerio Público de su Jurisdicción o autoridad competente, en contra de directores, docentes o administrativos del Sistema Educativo Plurinacional, que hubiesen sido sindicados de la comisión de delitos que atenten contra la vida, la integridad física, psicológica y/o sexual de las niñas, niños y adolescentes estudiantes.",
+            "respuestas": [
+                "Los docentes",
+                "Las y los Directores Departamentales de Educación",
+                "Ministerio de Educación",
+                "incisos b y c"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "52",
+            "pregunta": "La o el director, docente o administrativo que fuera imputado formalmente por la comisión de delitos que atenten contra la vida, la integridad física, psicológica y/o sexual de las niñas, niños y adolescentes estudiantes",
+            "respuestas": [
+                "Será suspendido de sus funciones sin goce de haberes, mientras dure el proceso penal correspondiente, como medida de seguridad y protección del menor",
+                "Será suspendido de sus funciones con goce de haberes, mientras dure el proceso penal correspondiente, como medida de seguridad y protección del menor",
+                "Será suspendido de sus funciones con goce de haberes, mientras se demuestre su culpabilidad  ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "53",
+            "pregunta": "En caso de sobreseimiento emitido por Autoridad Competente o sentencia absolutoria",
+            "respuestas": [
+                "La o el director, docente o administrativo, será restituido en sus funciones con la reposición de la totalidad de sus haberes devengados.",
+                "La o el director, docente o administrativo cambiara de su Unidad Educativa con goce de haber.",
+                "La o el director, docente o administrativo, será restituido en sus funciones sin la reposición de la totalidad de sus haberes devengados.",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "54",
+            "pregunta": "El Ministerio de Educación desarrollará como mecanismo de prevención e intervención, un plan específico para enfrentar la violencia, maltrato y abuso en el ámbito educativo, contemplará, entre otras, las siguientes acciones:",
+            "respuestas": [
+                "Capacitación y difusión de estrategias de prevención de toda forma de violencia, maltrato y abuso.",
+                "Desarrollo de lineamientos curriculares con contenido de prevención de violencia, maltrato y abuso, para el Sistema Educativo Plurinacional.",
+                "Establecer lineamientos para un sistema de seguimiento y monitoreo del Plan",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "55",
+            "pregunta": "Los Decretos Supremo 1302 y Secreto Supremo 1302 refieren.",
+            "respuestas": [
+                "A la erradicación de la violencia",
+                "A la erradicación del maltrato",
+                "A la erradicación de la violencia, maltrato y abuso ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "56",
+            "pregunta": "Establece mecanismos que coadyuven a la erradicación de la violencia, maltrato y abuso que atente.",
+            "respuestas": [
+                "Contra la vida e integridad física, psicológica y/o sexual de los adultos mayores ",
+                "Contra la vida e integridad física, psicológica y sexual de niñas, niños y adolescentes",
+                "Contra la vida Psicológica.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "57",
+            "pregunta": "Tiene la obligación de denunciar, hacer seguimiento y coadyuvar en la acción penal.",
+            "respuestas": [
+                "Los Directores Departamentales de Educación",
+                "Los Directores de Unidades educativas fiscales",
+                "Los Directores Departamentales de Educación y el Ministerio de educación",
+                "No corresponde a ninguno de los incisos"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "58",
+            "pregunta": "El director, docente, o administrativo que fuera imputado formalmente. ",
+            "respuestas": [
+                "Por la comisión de delitos de agresión",
+                "Por la comisión de delitos de agresión y violencia sexual ",
+                "Por la comisión de delitos extremadamente muy graves",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "59",
+            "pregunta": "Como medida de seguridad y protección, el director, docente o administrativo que fuere imputado.",
+            "respuestas": [
+                "Será suspendido de sus funciones sin goce de haberes, mientras dure el proceso ",
+                "No será suspendido de sus funciones ni goce de haberes, mientras dure el proceso",
+                "Sera suspendido por treinta días",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "60",
+            "pregunta": "El Ministerio de Educación desarrollara como mecanismo de prevención e intervención. ",
+            "respuestas": [
+                "Un plan especifico para enfrentar la violencia, maltrato y abuso en ámbito educativo",
+                "Un programa específico para enfrentar la violencia, maltrato y abuso en ámbito educativo ",
+                "Un plan para enfrentar la violencia en Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "61",
+            "pregunta": "El plan contemplara acciones:",
+            "respuestas": [
+                "Capacitaciones y difusión de estrategias de prevención de toda forma de violencia ",
+                "Desarrollo de lineamientos curriculares con contenido de prevenir la violencia ",
+                "Corresponde a los incisos anteriores ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "62",
+            "pregunta": "¿Cuál es la finalidad del Escalafón Nacional del Servicio de Educación?",
+            "respuestas": [
+                "Regula el ingreso y garantiza la continuidad de los maestros y funcionarios del ramo.",
+                "Establece la Escala de Categoría y la Escala Jerárquica para el desarrollo de la carrera docente y de la administrativa.",
+                "Determina las normas que rigen las promociones de categoría y los ascensos jerárquicos.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "63",
+            "pregunta": "Valora y recompensa la antigüedad y los méritos de los maestros y funcionarios, y estimula su mejor preparación para el eficiente servicio del sistema educativo, es .....",
+            "respuestas": [
+                "Una finalidad",
+                "Un objetivo",
+                "Un fin",
+                "Todas la anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "64",
+            "pregunta": "¿cuál de los siguientes enunciados es una competencia de registro y kardex?",
+            "respuestas": [
+                "Recopilar durante el primer mes de cada año escolar, la lista nacional y las listas distritales del personal del Servicio de Educación, con el registro de inscripciones en la carrera, cambios de destino, promociones de categoría y ascensos jerárquicos.",
+                "Informar a las autoridades superiores acerca de los servicios y calificaciones de los postulantes a ascensos en cargos jerárquicos.",
+                "Incisos a y b",
+                "Ninguno."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "65",
+            "pregunta": "El Departamento de Estadística y Personal, dependiente del Ministerio de Educación, es la Agencia Central encargada de atender el Escalafón Nacional del Servicio de Educación mediante las siguientes funciones específicas.",
+            "respuestas": [
+                "Organizar, el kardex del Escalafón Nacional del Servicio de Educación, centralizando los datos referentes al personal docente y administrativo de todo el país. ",
+                "Inscribir en el libro del Escalafón al Personal Docente y Administrativo, de acuerdo con los requisitos correspondientes. ",
+                "Disponer anualmente las promociones de categoría, para el personal Docente y Administrativo, en vista de las calificaciones definidas por las comisiones distritales del Escalafón.",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "66",
+            "pregunta": "La Continuar la Comisión Nacional del Escalafón, integrada por: ",
+            "respuestas": [
+                "El jefe del Departamento de estadística y Personal. ",
+                "El Jefe del Escalafón, del Ministerio de Educación. ",
+                "Un Delegado de la Federación Nacional de Maestros Urbanos.",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "67",
+            "pregunta": "Para ingresar en el sector docente y ejercer el magisterio fiscal, se requiere:",
+            "respuestas": [
+                "Ser boliviano o, en caso de ser extranjero con capacidad profesional comprobada, estar sujeto a contratado",
+                "Acreditar capacidad para el desempeño del cargo",
+                "Tener no menos de 18 ni más de 50 años de edad",
+                "Todas"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "68",
+            "pregunta": "En mérito al grado de preparación y de experiencia profesional, se reconoce tres clases de maestros: ",
+            "respuestas": [
+                "normalistas",
+                "titulares",
+                "interinos",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "69",
+            "pregunta": "Para la admisión de los interinos en la docencia se requiere imprescindiblemente, un examen de capacidad, y el requisito de los siguientes grados mínimos de instrucción",
+            "respuestas": [
+                "Diploma de Bachiller para enseñar en el ciclo primario",
+                "Título universitario, para el ciclo secundario o superior",
+                "Técnicos titulares o prácticos eficientes, para la educación vocacional y profesional",
+                "todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "70",
+            "pregunta": "No podrán ser admitidos en el ejercicio de la docencia:",
+            "respuestas": [
+                "Los que padezcan de enfermedades graves o defectos que les impidan trabajar normalmente",
+                "Los mayores de 60 años de edad",
+                "Los que llevan vida notoriamente inmoral",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "71",
+            "pregunta": "Los maestros y los funcionarios administrativos del Servicio de Educación, están obligados a inscribirse en el Escalafón como requisito para el goce de:",
+            "respuestas": [
+                "Las garantías",
+                "Los derechos",
+                "Las recompensas con que este Reglamento beneficia al personal de carrera.",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "72",
+            "pregunta": "Los maestros normalistas deben solicitar su inscripción en el Escalafón, desde que se inician en el ejercicio docente, mediante la presentación de estos documentos:",
+            "respuestas": [
+                "Certificado de nacimiento, fe de bautismo o prueba supletoria expedida por el Juez Instructor o la Curia Eclesiástica",
+                "Documentos que acrediten el estado civil",
+                "Documentos que acrediten la situación militar",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "73",
+            "pregunta": "El reglamento específico de las modalidades de atención educativa presencial, semipresencial y a distancia del subsistema de educación regular la resolución ministerial 0031/2021 tiene por objeto:",
+            "respuestas": [
+                "La aplicación del presente Reglamento es de carácter obligatorio, para las unidades educativas fiscales, privadas y de convenio dependiente del Subsistema de Educación Regular.",
+                "Normar las modalidades de atención educativa: presencial, semipresencial y a distancia del Subsistema de Educación Regular.",
+                "El desarrollo de las modalidades de atención educativa se sustenta en los principios de acceso universal a la educación, no a la discriminación, igualdad de oportunidades, gratuidad, solidaridad, reciprocidad, calidad educativa, interculturalidad y la transformación de la educación.",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "74",
+            "pregunta": "El reglamento específico de las modalidades de atención educativa presencial, semipresencial y a distancia del subsistema de educación regular dentro sus principios y valores establece:",
+            "respuestas": [
+                "El desarrollo de las modalidades de atención educativa se sustenta en los principios de acceso universal a la educación, no a la discriminación, igualdad de oportunidades, gratuidad, solidaridad, reciprocidad, calidad educativa, interculturalidad y la transformación de la educación.",
+                "Que los Directores Departamentales de Educación, Subdirectores de Educación Regular, en el marco de sus competencias jurisdiccionales, velarán por el cumplimiento de las normativas que garanticen el derecho a la educación.",
+                "La aplicación del presente Reglamento es de carácter obligatorio, para las unidades educativas fiscales, privadas y de convenio dependiente del Subsistema de Educación Regular.",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "75",
+            "pregunta": "En el capitulo III, articulo 8,parafrafo I de la modalidad de atención educativa presencial establece:",
+            "respuestas": [
+                "La planificación, organización y desarrollo de la Gestión Escolar 2021 deberá llevarse adelante de manera regular, similar a gestiones anteriores, tomando en cuenta las medidas de bioseguridad para enfrentar la COVID-19 preservando la salud de todos los actores de la comunidad educativa.",
+                "Las unidades educativas que cuenten con un número menor o igual a 20 estudiantes por paralelo y año de escolaridad, podrán optar por esta modalidad con todas las medidas de bioseguridad de acuerdo a protocolo establecido y niveles de riesgo definidos por el Ministerio de Salud y Deportes.",
+                "Se deberán usar materiales didácticos pertinentes para el desarrollo curricular y otros medios de apoyo como ser plataforma educativa, textos y educación radial y por televisión que contribuyan al fortalecimiento de aprendizajes.",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "76",
+            "pregunta": "En el articulo 12 del área de bioseguridad determina:",
+            "respuestas": [
+                "La unidad educativa deberá disponer de espacios visibles para la difusión de los protocolos y medidas de bioseguridad durante la pandemia de la COVID-19.",
+                "En cada Unidad Educativa se deberá disponer un espacio de desinfección con insumos de bioseguridad como ser alcohol en gel, pediluvios, lavado de manos, distanciamiento social y otros.",
+                "Es el proceso de previsión de acciones que deberán realizar los actores educativos con el propósito de construir e interiorizar experiencias de aprendizaje deseables en los estudiantes.",
+                "Todos los anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "77",
+            "pregunta": "En el capítulo IV modalidad de atención educativa semipresencial, artículo 14 en la característica menciona:",
+            "respuestas": [
+                "Es el proceso de previsión de acciones que deberán realizar los actores educativos con el propósito de construir e interiorizar experiencias de aprendizaje deseables en los estudiantes.",
+                "Es el proceso en el cual se determinan los fines, objetivos y metas de una actividad educativa a partir de los cuales se establecerán los recursos y estrategias más apropiadas para alcanzar los logros esperados, tomando en cuenta los dos espacios de aprendizaje (escuela y la familia) para transformar la realidad.",
+                "Consiste en la combinación de la Modalidad Presencial y a Distancia, con alternancia entre ambas modalidades, desarrollando los procesos de aprendizaje en la unidad educativa y domicilio, que implican dos momentos: actividades en aula y en familia.",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "78",
+            "pregunta": "En el artículo 16.- (momentos de aprendizajes) de la modalidad de atención educativa semipresencial considera que:",
+            "respuestas": [
+                "Comprende las actividades de aprendizaje que se realizan en aula con la presencia física e interacción directa entre maestros y estudiantes cumpliendo los protocolos y las medidas de bioseguridad.",
+                "En días alternos se realizarán actividades de aprendizaje usando medios de apoyo como ser: texto de aprendizaje, plataforma educativa, material audiovisual, programas de radio o televisión. Las madres, padres y otros integrantes de la familia podrán acompañar el uso de estos medios de apoyo.",
+                "La organización de actividades se dividirá en dos momentos: actividades en aula y actividades en familia. En las mismas se desarrollarán los procesos de aprendizajes por lo que se recomienda organizar los horarios adecuadamente.",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "79",
+            "pregunta": "En el Capítulo V, artículo 20, de la Planificación curricular determina:",
+            "respuestas": [
+                "Responde a las potencialidades, necesidades y problemáticas de la comunidad, con énfasis en el cuidado de la salud, la prevención de propagación de la COVID-19, cuidado del medio ambiente, seguridad ciudadana, violencia familiar o doméstica, consumo y expendio de bebidas alcohólicas, situaciones de riesgo y otros.",
+                "El Proyecto Socioproductivo permite relacionar el currículo con los diferentes ámbitos de la realidad vinculando de este modo la teoría con la práctica, el trabajo intelectual y la producción de conocimientos.",
+                "La gestión curricular considera los niveles de riesgo e informe epidemiológico de la propagación de la COVID-19 en la región, en función a la modalidad de atención educativa: Presencial, Semipresencial y a Distancia",
+                "Solo los incisos a y b"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "80",
+            "pregunta": "En el Capítulo V,  de la Planificación curricular se menciona: “El PDC mantiene toda su estructura técnico pedagógico para el desarrollo curricular y deberá ser adecuado de acuerdo a las características y particularidades de cada contexto, manteniendo los lineamientos del Modelo Educativo Sociocomunitario Productivo (MESCP) considerando los recursos, materiales necesarios para las actividades en aula y en el domicilio”. Esta  definición corresponde a:",
+            "respuestas": [
+                "Artículo 20",
+                "Artículo 21",
+                "Artículo 22",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "81",
+            "pregunta": "En el capítulo VI modalidad de atención educativa a distancia artículo 23 menciona:",
+            "respuestas": [
+                "Los medios de comunicación como ser la radio y televisión se consideran como medios de apoyo complementario al desarrollo curricular, los cuales difundirán contenidos educativos priorizando áreas científicas y humanísticas en horarios establecidos.",
+                "En el proceso de la concreción curricular el docente tiene la responsabilidad ineludible de realizar el acompañamiento pedagógico a los estudiantes, en los procesos de construcción de aprendizajes permanentemente a través de una organización planificada, mediante tutoría en línea y actividades educativas en familia que posibilite la aplicación de varias alternativas para garantizar la formación continua e ininterrumpida",
+                "Solo el inciso a y b",
+                "El desarrollo curricular en la modalidad a distancia se caracteriza por el desarrollo de procesos educativos centrado en la responsabilidad, interacción, autonomía por parte del estudiante y apoyo asistido de padres y madres de familia en el acompañamiento pedagógico o tutoría de los maestros que comprende dos momentos: tutoría en línea y actividades educativas en familia."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "82",
+            "pregunta": "“Comprende la realización de programas televisivos para desarrollar y fortalecer procesos de aprendizaje según los momentos metodológicos en el marco del MESCP. El Ministerio de Educación coordinará con las Direcciones Departamentales de Educación la participación de maestras y maestros en las clases de teleeducación”. Esta definición corresponde a:",
+            "respuestas": [
+                "Medidas de bioseguridad.",
+                "Teleeducación",
+                "Programa de educación radial",
+                "Ninguno de los anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "83",
+            "pregunta": "¿Cuáles son las características de la modalidad de atención a distancia?",
+            "respuestas": [
+                "El desarrollo de procesos educativos centrado en la responsabilidad, interacción, autonomía por parte del estudiante.",
+                "Apoyo asistido de padres y madres de familia en el acompañamiento pedagógico o tutoría de los maestros.",
+                "a y b",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "84",
+            "pregunta": "¿En qué consiste el momento de la tutoría en línea?",
+            "respuestas": [
+                "Planificación del desarrollo de procesos educativos y tareas complementarias de los estudiantes a ser cumplidas en casa.",
+                "Asistencia con soporte didáctico, producido en medios físicos y digitales: Textos de Aprendizaje, Guías metodológicas, afiches, cuadernos de apuntes; videos y audios.",
+                "Interacción en la plataforma educativa en línea para desarrollar clases: sincrónicas y asincrónicas.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "85",
+            "pregunta": "¿En que consiste los medios de aprendizaje?",
+            "respuestas": [
+                "Los videos, audios y textos.",
+                "Texto de aprendizaje y plataforma educativa en línea.",
+                "Texto de aprendizaje, videos y audios.",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "86",
+            "pregunta": "Los medios de apoyo educativo son:",
+            "respuestas": [
+                "Texto de aprendizaje y plataforma educativa",
+                "Teleeducación y programa de educación radial",
+                "Videos y audios educativos",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "87",
+            "pregunta": "Los recursos educativos consisten en:",
+            "respuestas": [
+                "Recursos y actividades como: foro, chat, cuestionarios, tareas, asistencias, encuestas, retroalimentación, recursos multimedia, video conferencias y otros.",
+                "Los materiales virtuales interactivos de: presentaciones, simulaciones, modelaciones, exploraciones, hipervínculos y gamificaciones.",
+                "Todas las anteriores",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "88",
+            "pregunta": "De acuerdo a la carga horario, en la modalidad de atención educativa presencial las actividades en aula estarán organizadas en:",
+            "respuestas": [
+                "Campos y áreas de saberes y conocimientos con la carga horaria establecida en los tres niveles del Subsistema de Educación Regular.",
+                "Áreas de saberes y conocimientos con la carga horaria en los tres niveles del Subsistema de Educación Regular.",
+                "Campos del conocimiento con la carga horaria establecida en los tres niveles del Subsistema de Educación Regular.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "89",
+            "pregunta": "En la modalidad de atención educativa semipresencial la carga horaria se distribuirá en un 50% de asistencia de la o el estudiante en el aula y el resto del tiempo en actividades formativas especificas en la familia, donde el estudiante proseguirá sus aprendizajes con el apoyo de:",
+            "respuestas": [
+                "Plataforma educativa en línea",
+                "Textos de aprendizaje y plataforma educativa en línea",
+                "Textos de aprendizaje, capsulas televisivas y el uso de la plataforma educativa en línea. ",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "90",
+            "pregunta": "En la modalidad de atención educativa a Distancia, se aplicará la misma carga horaria distribuidos en dos momentos:",
+            "respuestas": [
+                "Educación en familia",
+                "Tutoría y actividades en la plataforma educativa en línea",
+                "Tutoría de actividades en la familia.",
+                "Tutoría y actividades en familia"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "91",
+            "pregunta": "La evaluación en la modalidad semipresencial será de:",
+            "respuestas": [
+                "Valoración de actividades en el aula y medios alternativos.",
+                "La responsabilidad es compartida y equilibrada entre la Unidad Educativa y la familia.",
+                "Esta orientado al uso de tecnologías que ameriten para valorar el desempeño de las y los estudiantes",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "92",
+            "pregunta": "La evaluación en la modalidad a distancia consiste en que:",
+            "respuestas": [
+                "Las maestras y maestros realizarán el envío y recepción de actividades evaluativas tomando en cuenta los contextos educativos.",
+                "La familia será la que realice la evaluación al estudiante.",
+                "Los maestros organizados realizaran la evaluación de conocimientos en la Unidad Educativa.",
+                "Las maestras y maestros realizarán el envío y recepción de actividades evaluativas tomando en cuenta el estado de emergencia por la COVID 19."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "93",
+            "pregunta": "En los casos que la maestra o maestro de la unidad educativa sospechen, identifique o detecte signos de riesgo de discapacidad o de dificultades en el aprendizaje, o que manifieste potencialidades de talento extraordinario en relación a sus pares, el director educativo debe:",
+            "respuestas": [
+                "remitir al Centro de Educación Especial más cercano, el informe correspondiente a fin de que se realice la evaluación psicopedagógica integral según corresponda",
+                "solicitar una evaluación médica o psicológica cumpliendo con el protocolo de bioseguridad del Ministerio de Salud y Deportes.",
+                "Realizar adaptaciones curriculares según determinaciones emitidas en la Ley 070, según el caso de cada estudiante a fin de tribuir apoyo condicionado que permita el mejor desenvolviendo del estudiante dentro del aula.",
+                "INCISO A – B "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "94",
+            "pregunta": "Toda apertura de paralelo en unidades educativas fiscales y de convenio, debe contar con el Sistema de Información de Carga Horaria (SICH) actualizado, informe técnico del distrito educativo que demuestre dicha necesidad y …………………………. de la dirección departamental de educación que apruebe la apertura del paralelo.",
+            "respuestas": [
+                "Aprobación de Consejo Educativo y Dirección",
+                "Resolución Emitida por la distrital con la respectiva Autorización",
+                "Resolución Administrativa",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "95",
+            "pregunta": "En las unidades educativas de Educación Primaria Comunitaria Vocacional que cuentan con dos años de escolaridad de Educación Secundaria Comunitaria Productiva en Comunidades alejadas de zonas rurales o urbanas, se realizará la creación o ampliación del nivel de forma progresiva y dependiendo de las características propias de los lugares.",
+            "respuestas": [
+                "El propósito es que a corto plazo se realice el crecimiento vegetativo de la Unidad Educativa y se cuenten con niveles necesarios para la continuidad de la misma.",
+                "El propósito a largo plazo es que se conviertan en unidades educativas con los tres niveles de educación hasta el bachillerato.",
+                "El propósito de la misma infiere que se cuenten con distintos niveles educativos en la Institución y con ello se promueva una educación completa en las regiones que así lo soliciten.",
+                "TODAS"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "96",
+            "pregunta": "Queda completamente prohibida la organización de horarios pedagógicos con “hora cero” y “hora octava” en unidades educativas que trabajan en un solo turno, así como la reducción de los periodos pedagógicos a 30 o 35 minutos en los turnos de la mañana y de la tarde.",
+            "respuestas": [
+                "La infracción será considerada como falta grave (inciso m del Art. 11 e incisos i, k y l del Art. 11 de la R.S. N° 212414).",
+                "La infracción será considerada como falta grave (inciso m del Art. 15 e incisos i, k y l del Art. 11 de la R.S. N° 212414).",
+                "La infracción será considerada como falta grave (inciso m del Art. 5 e incisos i, k y l del Art. 11 de la R.S. N° 212414).",
+                "La infracción será considerada como falta grave (inciso m del Art. 10 e incisos i, k y l del Art. 11 de la R.S. N° 212414)."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "97",
+            "pregunta": "La duración del trámite de traslado excepcional y registro en el SIE no excederá los 5 días hábiles, debiendo presentarse la siguiente documentación:",
+            "respuestas": [
+                "Libreta escolar electrónica debidamente firmada por la autoridad competente y que cuente con las calificaciones del trimestre en que se realiza, en original y fotocopia",
+                "Formulario RUDE actualizado. ",
+                "Ningún otro documento es válido para realizar el traslado",
+                "TODOS "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "98",
+            "pregunta": "Las direcciones departamentales de educación y direcciones distritales educativas, en coordinación con los gobiernos autónomos municipales, deben promover normas del uso comunitario y compartido de la infraestructura entre todas las:",
+            "respuestas": [
+                "Centros de Educación Alternativa,  los Subsistemas de Educación Regular, Alternativa y Especial, además, Superior de Formación Profesional.",
+                "Centros de Educación Alternativa, Especial y de Educación Superior, los Subsistemas de Educación Regular, Alternativa y Especial.",
+                "Centros de Educación Superior, los Subsistemas de Educación Regular, Alternativa y Especial, además, Superior de Formación Profesional.",
+                "Centros de Educación Alternativa, Especial y de Educación Superior, los Subsistemas de Educación Regular, Alternativa y Especial, además, Superior de Formación Profesional."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "99",
+            "pregunta": "Las direcciones departamentales de educación, direcciones distritales de educación, directores de unidades educativas, maestras y maestros son responsables de revisar y autorizar el uso de materiales escolares: textos escolares, cartillas pedagógicas, enlaces a espacios de aprendizaje y otros:",
+            "respuestas": [
+                "Que estén inmersos  con el Modelo Educativo Socio comunitario Productivo para los procesos educativos, de acuerdo a las Modalidades de Atención Educativa – semipresencial, Distancia y Presencial respectivamente",
+                "Se debe adecuar al Modelo Educativo Sociocomunitario Productivo relacionado con todos los contenidos que se determinen para los procesos educativos, de acuerdo a las Modalidades emitidas por el Ministerio.",
+                "Todos con correspondencia al  Modelo Educativo Sociocomunitario Productivo para la producción de nuevos modelos educativos, tomado en cuenta las diversas modalidades que sean determinadas por las distritales ",
+                "Acordes con el Modelo Educativo Sociocomunitario Productivo para los procesos educativos, de acuerdo a las Modalidades de Atención Educativa"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "100",
+            "pregunta": "Las y los estudiantes de unidades educativas fiscales, de convenio y privadas podrán realizar viajes de intercambio y estudio con autorización del padre o madre de familia o tutor y de la dirección departamental de educación en coordinación con las directoras y los directores de unidades educativas,……………………………… …………………………… …………………………………………………………………………………………………………………………………………………………………………………………………………………………………… con el fin de establecer diálogos simétricos que coadyuven a la comprensión de la diversidad, como un elemento de encuentro y enriquecimiento cultural, social, económico y político de niñas, niños y adolescentes bolivianos. Esta actividad no tiene carácter obligatorio.",
+            "respuestas": [
+                "Con la determinación de viajes de servicio social o actividades deportivas programadas por las unidades educativas deben contribuir a la formación y desarrollo de las dimensiones de las y los estudiantes",
+                "Bajo estrictas normas  de bioseguridad y programación de actividades con contenidos curriculares, entre estudiantes de diferentes contextos que favorezcan la interculturalidad",
+                "Las direcciones distritales de educación designarán a un personal encargado el cual se hará cargo de las diferentes dificultades que el estudiante tenga en su traslado de comunidad a comunidad además de realizar todo el papeleo correspondiente con el fin d brindar apoyo a las diversas posiciones interculturales",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "101",
+            "pregunta": "Se prohíbe la contratación de maestras o maestros que no considere el plan de estudios, como música o educación física en educación inicial; inglés y lengua originaria en educación primaria; y computación en los tres niveles del Subsistema de Educación Regular (SER). Se encuentra como parágrafo del ",
+            "respuestas": [
+                "Plan de reordenamiento",
+                "Formación de maestras y maestros ",
+                "Restricción de compulsas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "102",
+            "pregunta": "Las Maestras y Maestros que se encuentren en ejercicio y no cuenten con formación inicial en las especialidades de Física, Química, Biología y Geografía, deberán acreditar tiempo de ejercicio en el cargo durante tres gestiones y una carga horaria igual o mayor en las especialidades mencionadas.",
+            "respuestas": [
+                "Medio año de gestión y una carga horaria igual o mayor en las especialidades mencionadas ",
+                "Dos gestiones y una carga horaria igual o mayor en las especialidades mencionadas",
+                "Tres gestiones y una carga horaria igual o mayor en las especialidades mencionadas",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        }
+    ]
+}

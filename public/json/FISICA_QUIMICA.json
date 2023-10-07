@@ -1,0 +1,1104 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "Dada las propiedades de la materia, cuál es extensiva. ",
+            "respuestas": [
+                "Color",
+                "Area",
+                "Densidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "2",
+            "pregunta": "Marque la proposición incorrecta",
+            "respuestas": [
+                "La densidad es una propiedad intensiva",
+                "La evaporación es una propiedad física",
+                "El agua y el aceite forman una mezcla homogénea",
+                "La combustión es un fenómeno químico"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "3",
+            "pregunta": "LA SENSACION QUE SE OBTIENE POR LA MEZCLA POR EL AIRE Y EL FUEGO ES.",
+            "respuestas": [
+                "Calor",
+                "Humedad",
+                "Sequedad",
+                "Frio"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "4",
+            "pregunta": "DE LAS SIGUIENTES PROPIEDADES DE LA MATERIA CUAL ES INTENSIVA.",
+            "respuestas": [
+                "VISCOSIDAD",
+                "VOLUMEN",
+                "PESO",
+                "CALOR ALMACENADO"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "5",
+            "pregunta": "INDIQUE CUAL DE LAS SIGUIENTES NO ES UN FENÓMENO QUÍMICO",
+            "respuestas": [
+                "COMBUSTIÓN",
+                "DIGESTIÓN",
+                "PUTREFACCIÓN",
+                "SUBLIMACIÓN"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "6",
+            "pregunta": "LA MEZCLA DE AGUA MAS AZÚCAR, FORMA UNA MEZCLA",
+            "respuestas": [
+                "HETEROGENEO",
+                "SIMPLE",
+                "COMPUESTO",
+                "HOMEGENEA"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "7",
+            "pregunta": "UNA DE LAS SIGUIENTES NO ES PILAR FUNDAMENTAL DE LA QUÍMICA",
+            "respuestas": [
+                "MEDICINA Y FARMACIA",
+                "METALURGIA",
+                "ALQUIMIA",
+                "TODOS"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "8",
+            "pregunta": "UNA SUSTANCIA PURA ES",
+            "respuestas": [
+                "UNA ALINEACIÓN",
+                "EL AIRE",
+                "AGUA POTABLE",
+                "BICARBONATO DE SODIO"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "9",
+            "pregunta": "PUEDE EXISTIR INTERCAMBIO DE MATERIAS SIN EXISTIR INTERCAMBIO DE ENERGÍA",
+            "respuestas": [
+                "SI",
+                "NO",
+                "A VECES",
+                "NINGUNO"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "10",
+            "pregunta": "ES UN SISTEMA AISLADO EXISTE UN INTERCAMBIO CON EL MEDIO EXTERIOR DE:",
+            "respuestas": [
+                "MATERIA",
+                "ENERGÍA",
+                "MATERIA Y ENERGÍA",
+                "NINGUNO"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "11",
+            "pregunta": "UNA MEZCLA HOMOGÉNEA ES AQUEL QUE CONSTA DE:",
+            "respuestas": [
+                "VARIAS FASES",
+                "DOS FASES",
+                "UNA FASE",
+                "TRES FASES"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "12",
+            "pregunta": "LA UNIDAD DE VOLUMEN EN EL SISTEMA INTERNACIONAL ES DE:",
+            "respuestas": [
+                "LITRO",
+                "METROS CUBICOS",
+                "MILIMETROS",
+                "CENTIMETROS CUBICOS"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "13",
+            "pregunta": "LAS UNIDADES DE LA DENSIDAD RELATIVA ES:",
+            "respuestas": [
+                "G/ ml",
+                "Ml/ G",
+                "G/ MOL",
+                "SIN UNIDADES"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "14",
+            "pregunta": "LA SUBLIMACIÓN SE REFIERE AL PASO DEL ESTADO",
+            "respuestas": [
+                "SOLIDO A LIQUIDO",
+                "LIQUIDO A VAPOR",
+                "SOLIDO A GAS",
+                "PLASMA O GAS"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "15",
+            "pregunta": "EL CAMBIO DE ESTADO FÍSICO DE GAS A LIQUIDO ES",
+            "respuestas": [
+                "EVAPORACIÓN",
+                "FUSIÓN",
+                "SOLIDIFICACIÓN",
+                "CONDENSACIÓN"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "16",
+            "pregunta": "SE LE CONOCE COMO AL PADRE DE LA QUÍMICA MODERNA",
+            "respuestas": [
+                "HARRY POTTER",
+                "DALTON",
+                "OSCAR MENDOZA",
+                "LAVOISIER"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "17",
+            "pregunta": "CUAL DE LOS ESTADOS ES FÁCILMENTE COMPRENSIBLE",
+            "respuestas": [
+                "SOLIDOS",
+                "LÍQUIDOS",
+                "GASES ",
+                "PLASMA"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "18",
+            "pregunta": "POSEE VOLUMEN PROPIO Y NO PRESENTA FORMA DEFINIDA",
+            "respuestas": [
+                "GASES",
+                "LIQUIDO",
+                "SOLIDOS",
+                "PLASMA"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "19",
+            "pregunta": "LA DIGESTIÓN ES UN FENÓMENO",
+            "respuestas": [
+                "FÍSICO",
+                "QUÍMICO",
+                "AMBOS",
+                "ALOTRÓPICO"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "20",
+            "pregunta": "EL AGUA Y ACEITE REPRESENTAN UNA MEZCLA",
+            "respuestas": [
+                "HETEROGÉNEA",
+                "HOMOGÉNEAS",
+                "ISOTÓNICA",
+                "NINGUNO"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "21",
+            "pregunta": "DEPOSICIÓN ES EL PASO DEL ESTADO",
+            "respuestas": [
+                "LIQUIDO, GAS",
+                "SOLIDO, LIQUIDO",
+                "SOLIDO, GAS",
+                "NINGUNO"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "22",
+            "pregunta": "Redimensiona la visión de la vida y de la naturaleza desde el criterio fundamental de la reproducción  y desarrollo de la vida, no solo del ser humano sino de toda las formas de vida a partir del respeto, cuidado, prevención y protección  de la vida, que interactúa en equilibrio y armonía con la Madre Tierra y el Cosmos.",
+            "respuestas": [
+                "Caracterización del campo Vida Tierra y Territorio.",
+                "Fundamentación del campo Vida Tierra y Territorio.",
+                "Visión del campo Vida Tierra y Territorio.",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "23",
+            "pregunta": "Cuidado socio ambiental y preservación de la vida en equilibrio y armonía con la Madre Tierra y el Cosmos, bajo los principios de una educación descolonizadora, comunitaria, productiva, intercultural y plurilingüe, como una propuesta de transformación  sociocomunitaria productiva.",
+            "respuestas": [
+                "Objetivo de campo ",
+                "Fines del campo Ciencias Tecnología y Producción.",
+                "Enfoque del campo Vida Tierra y Territorio.",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "24",
+            "pregunta": "La presente ley tiene por objetivo establecer lineamientos y mecanismos para promover hábitos saludables en la población boliviana, a fin de prevenir las enfermedades las enfermedades crónicas relacionadas con la dieta.",
+            "respuestas": [
+                "Ley N° 775, de promoción de la alimentación saludable.",
+                "Ley 577, de la Madre Tierra.",
+                "Ley 207,  de la promoción de la salud",
+                "Ninguno."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "25",
+            "pregunta": "Armonía, bien colectivo y garantías de regeneración de la Madre Tierra.",
+            "respuestas": [
+                "Principios de la ley de derechos de la Madre Tierra.",
+                "Fundamentos de la ley de la Madre Tierra",
+                "Valores de la Madre Tierra",
+                "Ninguno."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "26",
+            "pregunta": "Vida, diversidad de la vida, al agua, al aire limpio, equilibrio, a la restauración y a vivir libre de contaminación.",
+            "respuestas": [
+                "Principios de la Madre Tierra",
+                "Derechos de la Madre Tierra",
+                "Bases de la Madre Tierra",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "27",
+            "pregunta": "Las constelaciones son agrupación de estrellas que....",
+            "respuestas": [
+                "Nacen juntas",
+                "Representan animales mitológicos",
+                "Están en la misma distancia",
+                "Ocupan una zona del cielo"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "28",
+            "pregunta": "El año trópico dura.",
+            "respuestas": [
+                "365 días",
+                "365 ¼ días",
+                "366 días",
+                "366.2422 días"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "29",
+            "pregunta": "El campo gravitacional de la tierra es mayor en:",
+            "respuestas": [
+                "Los polos",
+                "El ecuador",
+                "A nivel del mar",
+                "Debajo el nivel del mar"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "30",
+            "pregunta": "Si observamos directamente hacia un espejo cóncavo distante, la imagen estará.",
+            "respuestas": [
+                "Derecha",
+                "Invertida",
+                "Agrandada",
+                "Reducida"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "31",
+            "pregunta": "¿En cual constelación se encuentra el Sol en el solsticio de Junio?",
+            "respuestas": [
+                "Cáncer",
+                "Géminis",
+                "Virgo ",
+                "Sagitario"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "32",
+            "pregunta": "La CETONA de mayor aplicación industrial es la ACETONA que se utiliza como disolvente de resinas y lacas, pero su mayor consumo es en la elaboración de resinas y poliuretanos indique cual es el nombre químico según la IUPAC de la ACETONA.",
+            "respuestas": [
+                "Metanona",
+                "Etanona",
+                "Propanona",
+                "Butanona"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "33",
+            "pregunta": "YPFB (Yacimientos Petrolíferos Fiscales Bolivianos) produce el gas licuado de petróleo (GLP), que se vende en el mercado nacional en garrafas para consumo diario. De qué tipo de moléculas químicas se está hablando.",
+            "respuestas": [
+                "Éteres",
+                "Hidruros",
+                "Dióxido de carbono",
+                "Alcanos"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "34",
+            "pregunta": "Uno de los siguientes hidruros adquiere propiedades acidas en disolución acuosa:",
+            "respuestas": [
+                "NH3",
+                "H2S",
+                "CaH2",
+                "NaH"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "35",
+            "pregunta": "En el Mutún se tiene reservas de Hierro de los siguientes cambios físicos ¿cuál sucede a mayor temperatura?",
+            "respuestas": [
+                "Fusión",
+                "Solidificación",
+                "Ebullición",
+                "Congelación"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "36",
+            "pregunta": "Los ácidos carboxílicos son ampliamente usados en la industria alimenticia, farmacéutica y otros, el principal ingrediente del vinagre es el ácido carboxílico denominado  ACIDO ACÉTICO, indique cual es el nombre químico según la IUPAC del ACIDO ACÉTICO.",
+            "respuestas": [
+                "Acido Metanoico",
+                "Acido Etanoico",
+                "Acido Acetico",
+                "Acido Butanoico"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "37",
+            "pregunta": "La sublimación es una propiedad química.",
+            "respuestas": [
+                "Extensiva",
+                "Oxidativa",
+                "Intensiva",
+                "Reductiva"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "38",
+            "pregunta": "En la tabla periódica moderna los elementos han sido ordenados por:",
+            "respuestas": [
+                "Numero de Neutrones",
+                "Numero de Avogadro",
+                "Numero Atomico",
+                "Peso Molecular"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "39",
+            "pregunta": "Una moneda metálica adquiere carga eléctrica positiva. ¿Cómo varia su masa?",
+            "respuestas": [
+                "Aumenta significativamente",
+                "Aumenta en una cantidad muy pequeña",
+                "Permanece invariable",
+                "Disminuye en una cantidad muy pequeña"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "40",
+            "pregunta": "¿Con que instrumento se mide la resistencia eléctrica?",
+            "respuestas": [
+                "Amperímetro",
+                "Ohmmetro",
+                "Voltímetro",
+                "Multímetro"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "41",
+            "pregunta": "La densidad del agua es de 1 gr/cm3. Las unidades que se utilizaron para expresar esta cantidad pertenecen al sistema.",
+            "respuestas": [
+                "Ingles",
+                "Técnico",
+                "MKS",
+                "Cgs"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "42",
+            "pregunta": "Si un cuerpo viaja a velocidad constante y se incrementa el tiempo de recorrido, ¿Cuál de las siguientes conclusiones es válida?",
+            "respuestas": [
+                "La velocidad disminuye",
+                "La distancia es mayor",
+                "La distancia es menor",
+                "La distancia es la misma"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "43",
+            "pregunta": "El aumento de volumen que experimenta un cuerpo al recibir energía en forma de calor se denomina.",
+            "respuestas": [
+                "Contracción",
+                "Progresión",
+                "Dilatación",
+                "Inflación"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "44",
+            "pregunta": "Las medidas de protección tienen por objeto interrumpir e impedir un hecho de violencia. ",
+            "respuestas": [
+                "Contra las mujeres, o garantizar, en casos consumados se realice investigación, procesamiento y sanción",
+                "Contra las mujeres, o garantizar, en casos no consumados c realiza investigación, procesamiento y sanción",
+                "Todas la anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "45",
+            "pregunta": "Es un mandato constitucional de la educación.",
+            "respuestas": [
+                "Toda persona no tiene derecho a recibir educación en todos los niveles ",
+                "Toda persona tiene el deber a recibir educación en todos los niveles ",
+                "Toda persona tiene derecho a recibir educación en todos los niveles ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "46",
+            "pregunta": "La educación constituye una función suprema y primera responsabilidad financiera del Estado. ",
+            "respuestas": [
+                "Que tiene la obligación indeclinable de sostenerla, garantizar y gestionar",
+                "Que tiene la obligación indeclinable de sostenerla y garantizarla",
+                "Que tiene la obligación indeclinable de sostenerla ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "47",
+            "pregunta": "Se consolida y fortalece el funcionamiento de la Unidades Educativas sostenidas por el Estado",
+            "respuestas": [
+                "Unidades educativas fiscales",
+                "Unidades educativas privadas",
+                "Unidades educativas de convenio",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "48",
+            "pregunta": "Por medio de la inamovilidad funcionaria.",
+            "respuestas": [
+                "Se garantiza la carrera docente y la inamovilidad del personal docente y administrativo",
+                "Se garantiza la carrera docente y administrativo",
+                "Se garantiza la inamovilidad del personal docente y administrativo",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "49",
+            "pregunta": "Es un objetivo de la educación.",
+            "respuestas": [
+                "Desarrollar la formación holística de las personal",
+                "Desarrollar la formación de las personas",
+                "Desarrollar la formación integral de las personas",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "50",
+            "pregunta": "Es una finalidad de educación.",
+            "respuestas": [
+                "Contribuir a la consolidación de la educación descolonizada",
+                "Forma integral y equitativamente en función de la necesidades, particularidades y expectativas",
+                "Inciso A y B",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "51",
+            "pregunta": "La intraculturalidad promueve la recuperación, fortalecimiento, desarrollo y cohesión.",
+            "respuestas": [
+                "Al interior de las culturas",
+                "Al interior de las culturas, de las naciones y pueblos indígena originario campesinos",
+                "Estructura del sistema educativo comprende",
+                "Subsistemas de educación regular "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "52",
+            "pregunta": "Es la educación sistemática, normada, obligatoria, y procesual.",
+            "respuestas": [
+                "Educación regular ",
+                "Educación alternativa",
+                "Educación especial",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "53",
+            "pregunta": "Estructura del subsistema de educación regular.",
+            "respuestas": [
+                "Educación inicial en familia comunitaria y primaria comunitaria vocacional",
+                "Educación primaria comunitaria vocacional y secundaria comunitaria vocacional",
+                "Educación inicial en familia comunitaria y secundaria comunitaria vocacional",
+                "Educación inicial en familia comunitaria, primaria comunitaria vocacional y secundaria comunitaria Productiva."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "54",
+            "pregunta": "Es formación básica, cimiento de todo el proceso de formación posterior.",
+            "respuestas": [
+                "Educación inicial en familia comunitaria",
+                "Educación primaria comunitaria vocacional",
+                "Educación secundaria comunitaria vocacional",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "55",
+            "pregunta": "Atiende necesidades y expectativas educativas que requieren dar continuidad a sus estudios o que precisan formación permanente.",
+            "respuestas": [
+                "Educación alternativa",
+                "Educación alternativa y especial",
+                "Educación formal alternativa",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "56",
+            "pregunta": "Estructura de la educación alternativa.",
+            "respuestas": [
+                "Educación de personas jóvenes y adultas",
+                "Educación de personas jóvenes",
+                "Educación de personas jóvenes y adultas y educación permanente",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "57",
+            "pregunta": "Acciones destinadas a promover y consolidar la educación inclusiva para.",
+            "respuestas": [
+                "Personas con capacidades, dificultades en el aprendizaje y talento extraordinario",
+                "Personas con discapacidad, dificultades en el aprendizaje y talento extraordinario",
+                "Personas con discapacidad, dificultades en el aprendizaje",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "58",
+            "pregunta": "Estructura de la educación superior de formación profesional.",
+            "respuestas": [
+                "Formación de maestras y maestros y formación técnica tecnológica",
+                "Formación de maestras y maestros y formación artística",
+                "Formación de maestras y maestros, técnica tecnológica, artística y universitaria",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "59",
+            "pregunta": "Corresponde a la educación superior.",
+            "respuestas": [
+                "Es el espacio educativo de formación profesional ",
+                "Es el espacio educativo de formación de maestras y maestras",
+                "Todas las anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "60",
+            "pregunta": "MINEDU instancia que planifica, organiza, dirige y controla los recursos del sistema educativo.",
+            "respuestas": [
+                "Administración educativa del sistema educativo",
+                "Administración y gestión educativa del sistema educativo",
+                "Administración y gestión pedagógica del sistema educativo",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "61",
+            "pregunta": "Elaborar y desarrollar mediadas de no violencia para resolver las tenciones y conflictos emergentes.",
+            "respuestas": [
+                "Son medidas preventivas",
+                "Son medidas de protección",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "62",
+            "pregunta": "Denominado Ley 004 Marcelo Quiroga Santa Cruz. ",
+            "respuestas": [
+                "Lucha contra la corrupción y enriquecimiento ilícito ",
+                "Lucha contra la corrupción, enriquecimiento ilícito e investigación de fortunas",
+                "Lucha contra la corrupción e investigación de fortunas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "63",
+            "pregunta": "Establece mecanismos y procedimientos en el marco de la Constitución Política del Estado.",
+            "respuestas": [
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores priv",
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidas por servidores públicos",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "64",
+            "pregunta": "Prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores públicos exservidores públicos.",
+            "respuestas": [
+                "Objeto de la Ley 044",
+                "Objeto de la Ley 014",
+                "Objeto de la Ley 004",
+                "Objeto de la ley 114"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "65",
+            "pregunta": "Consejo nacional de lucha contra la corrupción, enriquecimiento y legitimación de ganancias ilícitas.",
+            "respuestas": [
+                "Ministerio de transparencia institucional y lucha contra la corrupción",
+                "Ministerio de gobierno ministerio publico",
+                "Contraloría general del Estado y procuraduría general del Estado ",
+                "Todos los anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "66",
+            "pregunta": "Es el requerimiento o la aceptación, el ofrecimiento u otorgamiento, de un servidor público.",
+            "respuestas": [
+                "Que afecte a los intereses de la comunidad",
+                "Que afecte a los intereses del Estado",
+                "Que afecte a los intereses de la Nación",
+                "Que afecte a los intereses del pueblo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "67",
+            "pregunta": "Proponer, supervisar y fiscalizar políticas publicas, orientadas a prevenir y sancionar actos de corrupción.",
+            "respuestas": [
+                "Atribución del consejo nacional de lucha contra la corrupción",
+                "Atribución del consejo departamental de lucha contra la corrupción",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "68",
+            "pregunta": "Tendrán competencia para conocer y resolver procesos penales. ",
+            "respuestas": [
+                "Tribunales anticorrupción ",
+                "Control social",
+                "Juzgados anticorrupción",
+                "A y C"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "69",
+            "pregunta": "Los tipos penales en los que incurren los funcionarios públicos.",
+            "respuestas": [
+                "Uso indebido de bienes y servicios públicos ",
+                "Enriquecimiento ilícito ",
+                "A y B ",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "70",
+            "pregunta": "Servidores públicos que en beneficio propio o de terceros otorgue bienes, derechos y acciones.",
+            "respuestas": [
+                "Uso indebido de bienes",
+                "Uso indebido de servicios públicos ",
+                "Uso indebido de bienes y servicios públicos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "71",
+            "pregunta": "El servidor publico que hubiera incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos.",
+            "respuestas": [
+                "Enriquecimiento ilícito ",
+                "Enriquecimiento licito ",
+                "Enriquecimiento legal ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "72",
+            "pregunta": "Insertar datos económicos, financieros y patrimoniales.",
+            "respuestas": [
+                "Declaración jurada de bienes y rentas ",
+                "Declaración jurada de bienes",
+                "Declaración jurada de rentas ",
+                "Declaración jurada del patrimonio neto"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "73",
+            "pregunta": "Servidor publico aprovechando del cargo que desempeña se apropiare de dinero, valores y bienes.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "74",
+            "pregunta": "Servidor publico hace actos relativos a sus funciones recibiera dadivas o cualquier otra ventaja.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "75",
+            "pregunta": "Director departamental, distritales y directores de UEs son considerados servidores o funcionarios públicos.",
+            "respuestas": [
+                "Verdadero",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "76",
+            "pregunta": "Garantiza las mujeres, el derecho a no sufrir violencia física, sexual y/o psicológica.",
+            "respuestas": [
+                "Corresponde a la Ley 834",
+                "Corresponde a la Ley 348",
+                "Corresponde a la Ley 349",
+                "Corresponde a la Ley 448"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "77",
+            "pregunta": "Establece mecanismos, medidas y políticas integrales de prevención, protección y reparación en situación violenta.",
+            "respuestas": [
+                "Así como sanción a los agresores ",
+                "Así como persecución a los agresores",
+                "Así como sanción y persecución a los agresores ",
+                "Así como el perdón de los agresores  "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "78",
+            "pregunta": "Desde el marco constitucional, la Ley de 348 garantiza.",
+            "respuestas": [
+                "En particular, a las mujeres, el derecho a nos sufrir violencia ",
+                "En particular, al genero femenino, el derecho a no sufrir violencia",
+                "Otra respuesta",
+                "Ninguno  "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "79",
+            "pregunta": "Despatriarcalizacion, consiste en la elaboración de políticas publicas desde la identidad. ",
+            "respuestas": [
+                "Para la visibilizacion del patriarcado ",
+                "Para la visibilizacion, denuncia del patriarcado",
+                "Para la visibilizacion, denuncia y erradicación del patriarcado",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "80",
+            "pregunta": "DIGEPIO es dirección general de protección a naciones y pueblos indígenas originarios.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "81",
+            "pregunta": "Los mecanismos de prevención de los sistemas de vida.",
+            "respuestas": [
+                "Desarrollo en el nivel central del Estado ",
+                "Desarrollaran en entidades territoriales autónomas",
+                "Desarrollaran en el nivel central del Estado y entidades territoriales autónomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "82",
+            "pregunta": "Mecanismos de prevención de los sistemas de vida se desarrollan en ámbitos.",
+            "respuestas": [
+                "Territorial y salud",
+                "Territorial, salud y difusión",
+                "Territorial, salud, difusión y sensibilización ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "83",
+            "pregunta": "La DIGEPIO formulara los indicadores de monitoreo.",
+            "respuestas": [
+                "Para evaluar las situaciones de alta vulnerabilidad ",
+                "Para evaluar las situaciones de vulnerabilidad",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "84",
+            "pregunta": "Corresponde a la ley contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Ley 035",
+                "Ley 045",
+                "Ley 055",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "85",
+            "pregunta": "Establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Para la prevención y sanción de actos de racismo",
+                "Para la prevención y sanción de toda forma de discriminación ",
+                "Para la prevención y sanción de actos de racismo y toda forma de discriminación",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "86",
+            "pregunta": "El racismo y discriminación no son tipificado y/o calificado en el Código Penal.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "87",
+            "pregunta": "Forma de distinción, exclusión, restricción o preferencia fundad en razón de sexo, color, edad.",
+            "respuestas": [
+                "Discriminación racial ",
+                "Discriminación",
+                "Racismo ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "88",
+            "pregunta": "Teoría tendente a la valoración de diferencia biológica, cultural, real o imaginaria.",
+            "respuestas": [
+                "Discriminación ",
+                "Racismo",
+                "Discriminación racial",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "89",
+            "pregunta": "Se entiende por misoginia ",
+            "respuestas": [
+                "Conducta o comportamiento de odio manifiesto hacia las mujeres o genero femenino ",
+                "Conducta o comportamiento de odio manifiesto hacia los varones o género masculino",
+                "Otra respuesta",
+                "Ninguno. "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "90",
+            "pregunta": "Medidas publicas traducidas en campañas de concientización, educación y difusión de derechos humanos protectivos. ",
+            "respuestas": [
+                "Acción afirmativa ",
+                "Acción preventiva",
+                "Acción correctiva ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "91",
+            "pregunta": "Definir y adoptar políticas publicas de prevención y lucha contra el racismo y discriminación.",
+            "respuestas": [
+                "Es obligación del Estado ",
+                "Es deber del Estado ",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "92",
+            "pregunta": "El comité nacional contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Encargado de promover, diseñar e implementar políticas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar normativas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar políticas y normativas contra el racismo y discriminación ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "93",
+            "pregunta": "Comité nacional contra el racismo y toda forma de discriminación conformada por comisiones.",
+            "respuestas": [
+                "Comité de lucha contra el racismo",
+                "Comité de emergencia contra los delitos ",
+                "Comité de lucha contra toda forma de discriminación ",
+                "A y B "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "94",
+            "pregunta": "Personas que sufren el racismo o discriminación podrán optar.",
+            "respuestas": [
+                "Por la via constitucional y administrativa",
+                "Por la vía constitucional administrativa o disciplinaria",
+                "Por la vía constitucional administrativa o disciplinaria y/o penal",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "95",
+            "pregunta": "Persona que ejerce función publica conociere hechos de racismo y discriminación.",
+            "respuestas": [
+                "Esta en la obligación de denunciar ante las autoridades competentes ",
+                "Esta en el deber de denunciar ante al autoridades competentes",
+                "Esta que denunciar ante al autoridades competentes ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "96",
+            "pregunta": "Discriminación y racismo no son considerados como delitos contra la dignidad del ser humano.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "97",
+            "pregunta": "Corresponde al código niña, niño y adolecente ",
+            "respuestas": [
+                "Ley 448",
+                "Ley 548",
+                "Ley 648",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "98",
+            "pregunta": "El objetivo del Código es reconocer, desarrollar y regular.",
+            "respuestas": [
+                "El ejercicio de los derechos de la niña, niño y adolecente",
+                "El ejercicio de las obligaciones de la niña, niño y adolescente",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "99",
+            "pregunta": "Garantizar a niña, niño y adolecente el ejercicio pleno y efectivo de sus derechos.",
+            "respuestas": [
+                "Para su desarrollo integral ",
+                "Para exigir el cumplimiento de sus obligaciones ",
+                "Para su desarrollo integral y exigir el cumplimiento de sus deberes",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "100",
+            "pregunta": "Según el código, corresponde a la etapa del desarrollo del adolecente. ",
+            "respuestas": [
+                "Desde 12 hasta los 16 años de edad cumplidos",
+                "Desde 12 hasta los 17 años de edad cumplidos",
+                "Desde 12 hasta los 18 años de edad cumplidos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        }
+    ]
+}

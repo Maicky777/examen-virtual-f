@@ -1,0 +1,1104 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "¿En qué lugar de la mitocondria tiene lugar el CICLO DE KREBS?",
+            "respuestas": [
+                "Membrana externa.",
+                "Espacio intermembranoso.",
+                "Matriz mitocondrial.",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "2",
+            "pregunta": "¿Qué es un SARCOPLASMA?",
+            "respuestas": [
+                "Mitocondrias",
+                "Membrana celular",
+                "Citoplasma",
+                "Núcleo"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "3",
+            "pregunta": "¿Cuál o cuáles de las siguientes células forman parte del SISTEMA MONONUCLEAR FAGOCÍTICO?",
+            "respuestas": [
+                "Macrófagos",
+                "Fibroblastos y fibrocitos",
+                "Adipocitos",
+                "Lipoblastos."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "4",
+            "pregunta": "El tejido nervioso.",
+            "respuestas": [
+                "Las neuronas están formadas por: axón, soma y dendritas.",
+                "Las neuronas se encuentran de la recepción y transmisión del impulso nervioso.",
+                "Las neuronas solo reciben los impulsos nerviosos.",
+                "Las respuestas a y b son correctas"
+            ],
+            "resCorrecta": ""
+        },
+        {
+            "id": "5",
+            "pregunta": "De las siguientes FUNCIONES ¿Cuáles las realiza el RER?",
+            "respuestas": [
+                "Ensamblaje de proteínas formadas por varios polipéptidos.",
+                "Modificación de los hidratos de carbono unidos por proteínas",
+                "Síntesis de los fosfolípidos",
+                "Las respuestas a y c son correctas"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "6",
+            "pregunta": "Las capas del tejido nervioso periférico son:",
+            "respuestas": [
+                "Epineuro, perineuro, endoneuro",
+                "Epimisio, perimisio, endomisio.",
+                "Duramadre, aracnoides y piamadre.",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "7",
+            "pregunta": "Las células de la glía, se conoce también como:",
+            "respuestas": [
+                "Astrocitos.",
+                "Neurogliales.",
+                "Microgliales",
+                "Células de Schwann"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "8",
+            "pregunta": "¿Cuál es la principal función del Ribosoma?",
+            "respuestas": [
+                "Realizar la síntesis de las proteínas.",
+                "Generar corrientes citoplasmáticas que permitan el desplazamiento de orgánulos.",
+                "Estabilizar los potenciales eléctricos a ambos lados de la membrana.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "9",
+            "pregunta": "En qué orgánulo finaliza la glicosilación de las proteínas?",
+            "respuestas": [
+                "Retículo endoplasmático rugoso.",
+                "Retículo endoplasmático liso",
+                "Mitocondrias",
+                "Complejo de Golgi"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "10",
+            "pregunta": "¿Cuál es la función principal del Lisosoma?",
+            "respuestas": [
+                "Generar energía en ATP",
+                "Realiza la digestión celular",
+                "Traduce información genética.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "11",
+            "pregunta": "Cualquier actividad que exija movimientos musculares sostenidos y se realice igual o más del 70% de frecuencia cardiaca máxima para la edad, por ejemplo, caminar rápido, patinar, remar, saltar, etc. Pertenece a una actividad física:",
+            "respuestas": [
+                "Leve ",
+                "Moderada",
+                "Intensa.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "12",
+            "pregunta": "Tiene un importante contenido en nutrientes, mucho hierro y poca grasa es la:",
+            "respuestas": [
+                "Carne de Alpaca",
+                "Carne de llama",
+                "Carne de conejo cuis",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "13",
+            "pregunta": "Es la suma total de procesos implicados en la ingesta y utilización de las sustancias de los alimentos por parte de los seres vivos, vale decir: ingestión, absorción y metabolismo en alimentos.",
+            "respuestas": [
+                "Nutrición ",
+                "Nutrientes",
+                "Nutrientes biodisponibles",
+                "Metas nutricionales."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "14",
+            "pregunta": "La presente Ley tiene por objeto establecer lineamientos y mecanismos para promover hábitos alimentarios saludables en la población boliviana, a fin de prevenir las enfermedades crónicas relacionadas con la dieta.",
+            "respuestas": [
+                "Objetivo art.1",
+                "Finalidad art. 2",
+                "Alcance art. 3",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "15",
+            "pregunta": "La Trama de la Vida, es una perspectiva de los sistemas vivos de:",
+            "respuestas": [
+                "Curtis",
+                "Villee",
+                "Fritjof Capra.",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "16",
+            "pregunta": "Son la suma primaria de energía química para los sistemas vivos. Los más simples son los monosacáridos (“azucares simples”)",
+            "respuestas": [
+                "Nucleótidos",
+                "Carbohidratos",
+                "Lípidos.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "17",
+            "pregunta": "El principal portador de energía, en casi todo el proceso biológico es una molécula llamada:",
+            "respuestas": [
+                "ATP (adenosín trifosfato)",
+                "RNA",
+                "ADN",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "18",
+            "pregunta": "La geografía es la reina de las ciencias, madre de la Química, Geología, Física y la Biología madre también de la:",
+            "respuestas": [
+                "Historia, Cívica y Sociales",
+                "Economía, Química y Psicología",
+                "Historia y la Economía",
+                "Biología e Historia"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "19",
+            "pregunta": "Fruta altamente nutritiva puede clasificarse entre las oleaginosas por su alto porcentaje de grasa le da el apodo de manteca vegetal.",
+            "respuestas": [
+                "Chancaca",
+                "Achachairú",
+                "Palta",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "20",
+            "pregunta": "El objeto de la Ley de promoción de alimentación saludable, es:",
+            "respuestas": [
+                "Establecer los lineamientos de alimentación para la aplicación de todas las personas naturales y jurídicas en todo el territorio boliviano.",
+                "Establecer lineamientos y mecanismos para promover hábitos alimentarios saludables en la población boliviana, a fin de prevenir las enfermedades crónicas relacionadas con la dieta.",
+                "Establecer directrices y fortalecimiento del sistema alimentario tradicional ancestral de las naciones y pueblos indígenas.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "21",
+            "pregunta": "Los minerales que tienen especial importancia en la adolescencia son:",
+            "respuestas": [
+                "El calcio el hierro el zinc.",
+                "El magnesio el hierro y el zinc",
+                "El hierro, Vitamina A y el calcio",
+                "El yodo, magnesio, zinc"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "22",
+            "pregunta": "Además de la ecología profunda hay dos escuelas filosóficas de ecología que son:",
+            "respuestas": [
+                "La ecología social y la ecología feminista",
+                "La ecología activista y ecología espiritual",
+                "La ecología social y la ecología idónea.",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "23",
+            "pregunta": "Al aplicar estrategias para obtener el conocimiento en un proceso de permanente conflicto y contradicciones es imprescindible comenzar por proponer que la geografía tome en cuenta:",
+            "respuestas": [
+                "La aplicación de renovadas estrategias para la vida cotidiana.",
+                "La espontaneidad para que la vida sea mas amena y sin drama.",
+                "Lo real para fundamentar el vivir constante y habitual.",
+                "Lo cotidiano para dar fundamento a la vida en su drama espontaneo y habitual."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "24",
+            "pregunta": "Para motivar el pensamiento creativo y critico desde la enseñanza de la geografía se hace imprescindible lo siguiente:",
+            "respuestas": [
+                "Considerar una concepción alterna a la concepción descriptiva que apunte hacia el estudio y comprensión de la situación social de problemas tan apremiantes.",
+                "La enseñanza de la geografía debe adaptar rápidamente a los alumnos al cambio e innovación desde una participación activa en la transformación del entorno, con una mentalidad amplia, flexible comprensiva, cuestionadora, constructiva y evaluadora.",
+                "Es necesaria renovar la enseñanza de la geografía",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "25",
+            "pregunta": "El potencial integrador de la Geografía la convierte paulatinamente en una ciencia de núcleo que permite aglutinar prácticamente todas las:",
+            "respuestas": [
+                "Las ciencias para una integración, para justificarse mutuamente en sus planteamientos históricos que ocurren en determinados sistemas.",
+                "Las disciplinas científicas en el estudio de las interrelaciones de los fenómenos naturales y sociales en la superficie terrestre.",
+                "Las ciencias que han vivido unas décadas de profundas transformaciones teóricas y metodológicas.",
+                "La disciplina de la Geografía económica, para la formación de una conciencia ciudadana y patriótica."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "26",
+            "pregunta": "La quinua es uno de los alimentos más balanceados y completos del mundo, superior a la leche, la carne y el pescado, por lo que es nutritivo en:",
+            "respuestas": [
+                "Hierro, fosforo, magnesio, calcio y cobre.",
+                "Carbohidratos, lípidos, proteínas y fibra.",
+                "Vitaminas, calcio, hierro y fosforo",
+                "Calcio, hierro y sacarosa."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "27",
+            "pregunta": "La idea de la tierra como un ser vivo y espiritual continúo floreciendo a través de:",
+            "respuestas": [
+                "La edad cuaternaria y contemporánea",
+                "La edad moderna y la prehistoria",
+                "La edad antigua y la renacentista",
+                "La edad media y del renacimiento"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "28",
+            "pregunta": "Segregan antitoxinas los:",
+            "respuestas": [
+                "Glóbulos rojos",
+                "Glóbulos blancos",
+                "Hematoblastos",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "29",
+            "pregunta": "Los principales factores abióticos que condicionan el medio terrestre son:",
+            "respuestas": [
+                "Salinidad, luz, cantidad de oxígeno disuelto",
+                "Temperatura, humedad, luz",
+                "Todas las anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "30",
+            "pregunta": "La Biología se encarga del estudio de:",
+            "respuestas": [
+                "Los ecosistemas",
+                "La biocenosis",
+                "La vida",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "31",
+            "pregunta": "A los seres vivos se los clasifica en reinos de la siguiente manera:",
+            "respuestas": [
+                "Monera, Protista, Fungí, Plantas animales ",
+                "Monera, Protistas, Eucariotas Plantas animales",
+                "Monera, Protista, Procariotas, Plantas animales",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "32",
+            "pregunta": "Las biomoléculas que están presentes en los seres vivos en más del 90% están compuestas de:",
+            "respuestas": [
+                "C. P. O. N.",
+                "C. H. O. N.",
+                "C. H. O. P.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "33",
+            "pregunta": "Las bases nitrogenadas que se encuentran en la cadena del ADN presentan:",
+            "respuestas": [
+                "Guanina, Timina, Citosina, Valina",
+                "Adenina, Citosina, Timina, Uracilo",
+                "Adenina, Timina, Citosina, Guanina.",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "34",
+            "pregunta": "¿Qué es la Gametogénesis?",
+            "respuestas": [
+                "Es la formación de gametos por medio de la meiosis",
+                "Son células haploides móviles que se dan en la mitosis",
+                "Es el material genético por gemación",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "35",
+            "pregunta": "Las Bases Nitrogenadas que pertenecen a el ARN son:",
+            "respuestas": [
+                "Adenina, Timina, Guanina, Uracilo",
+                "Adenina Citosina, Uracilo, Guanina",
+                "Guanina, Timina, Uracilo",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "36",
+            "pregunta": "La característica del ser vivo que le permite conservar la especie en el tiempo y espacio es:",
+            "respuestas": [
+                "Reproducción",
+                "Coordinación",
+                "Nutrición",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "37",
+            "pregunta": "Son sustancias que constituyen la base estructural de los seres vivos:",
+            "respuestas": [
+                "Carbohidratos",
+                "Lípidos",
+                "Proteínas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "38",
+            "pregunta": "Es función de la fibrona:",
+            "respuestas": [
+                "Forma los músculos",
+                "Forma pelos y uñas",
+                "Coagula la sangre",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "39",
+            "pregunta": "Los cromosomas ubicados en cada extremo de la célula se descondensan, y se reorganiza la membrana nuclear. Termina la citocinesis y se originan dos células idénticas a la progenitora, pero más pequeñas:",
+            "respuestas": [
+                "Profase",
+                "Metafase",
+                "Anafase",
+                "Telofase "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "40",
+            "pregunta": "Se produce los tejidos de revestimiento de los sistemas digestivo y respiratorio, además de la vejiga, forma el parénquima del hígado, páncreas, amígdalas, tiroides, paratiroides y timo. También reviste las cavidades timpánicas y la trompa de Eustaquio.",
+            "respuestas": [
+                "Ectodermo",
+                "Mesodermo",
+                "Endodermo",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "41",
+            "pregunta": "Es una finalidad de educación.",
+            "respuestas": [
+                "Contribuir a la consolidación de la educación descolonizada",
+                "Forma integral y equitativamente en función de la necesidades, particularidades y expectativas",
+                "Inciso A y B",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "42",
+            "pregunta": "La intraculturalidad promueve la recuperación, fortalecimiento, desarrollo y cohesión.",
+            "respuestas": [
+                "Al interior de las culturas",
+                "Al interior de las culturas, de las naciones y pueblos indígena originario campesinos",
+                "Estructura del sistema educativo comprende",
+                "Subsistemas de educación regular "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "43",
+            "pregunta": "Es la educación sistemática, normada, obligatoria, y procesual.",
+            "respuestas": [
+                "Educación regular ",
+                "Educación alternativa",
+                "Educación especial",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "44",
+            "pregunta": "Estructura del subsistema de educación regular.",
+            "respuestas": [
+                "Educación inicial en familia comunitaria y primaria comunitaria vocacional",
+                "Educación primaria comunitaria vocacional y secundaria comunitaria vocacional",
+                "Educación inicial en familia comunitaria y secundaria comunitaria vocacional",
+                "Educación inicial en familia comunitaria, primaria comunitaria vocacional y secundaria comunitaria Productiva."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "45",
+            "pregunta": "Es formación básica, cimiento de todo el proceso de formación posterior.",
+            "respuestas": [
+                "Educación inicial en familia comunitaria",
+                "Educación primaria comunitaria vocacional",
+                "Educación secundaria comunitaria vocacional",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "46",
+            "pregunta": "Atiende necesidades y expectativas educativas que requieren dar continuidad a sus estudios o que precisan formación permanente.",
+            "respuestas": [
+                "Educación alternativa",
+                "Educación alternativa y especial",
+                "Educación formal alternativa",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "47",
+            "pregunta": "Estructura de la educación alternativa.",
+            "respuestas": [
+                "Educación de personas jóvenes y adultas",
+                "Educación de personas jóvenes",
+                "Educación de personas jóvenes y adultas y educación permanente",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "48",
+            "pregunta": "Acciones destinadas a promover y consolidar la educación inclusiva para.",
+            "respuestas": [
+                "Personas con capacidades, dificultades en el aprendizaje y talento extraordinario",
+                "Personas con discapacidad, dificultades en el aprendizaje y talento extraordinario",
+                "Personas con discapacidad, dificultades en el aprendizaje",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "49",
+            "pregunta": "Estructura de la educación superior de formación profesional.",
+            "respuestas": [
+                "Formación de maestras y maestros y formación técnica tecnológica",
+                "Formación de maestras y maestros y formación artística",
+                "Formación de maestras y maestros, técnica tecnológica, artística y universitaria",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "50",
+            "pregunta": "Corresponde a la educación superior.",
+            "respuestas": [
+                "Es el espacio educativo de formación profesional ",
+                "Es el espacio educativo de formación de maestras y maestras",
+                "Todas las anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "51",
+            "pregunta": "MINEDU instancia que planifica, organiza, dirige y controla los recursos del sistema educativo.",
+            "respuestas": [
+                "Administración educativa del sistema educativo",
+                "Administración y gestión educativa del sistema educativo",
+                "Administración y gestión pedagógica del sistema educativo",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "52",
+            "pregunta": "Acción u omisión de servidores públicos, implique una acción discriminatoria, prejuiciosa, humillante y deshumanizad. ",
+            "respuestas": [
+                "Violencia mediática ",
+                "Violencia simbólica y/o reencubierta ",
+                "Violencia contra la dignidad",
+                "Violencia institucional "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "53",
+            "pregunta": "Ente rector de las políticas publicas para la prevención de la violencia contra mujeres.",
+            "respuestas": [
+                "La autoridad competente ",
+                "El Estado ",
+                "El Estado benefactor ",
+                "La sociedad  "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "54",
+            "pregunta": "El SIPPASE sistema integral Plurinacional de Prevencion, Atencion Sancion y erradicación de la violencia.",
+            "respuestas": [
+                "Reorganiza todo el sistema de atención integral a las mujeres en situación de violencia ",
+                "Reorganiza todo el sistema de atención integral a las mujeres en situación de amenaza ",
+                "Todas las anterires",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "55",
+            "pregunta": "Crearan y adoptaran las medidas de prevención que sean necesarias para modificar los comportamientos.",
+            "respuestas": [
+                "El nivel central de las entidades territoriales autónomas",
+                "El nivel central del Estado",
+                "El nivel central del Estado y las entidades territoriales autónomas ",
+                "En nivel central del gobierno "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "56",
+            "pregunta": "La Universidades y de formación superior públicos crearan. ",
+            "respuestas": [
+                "Programas gratuitos destinados a la prevención de la violencia ",
+                "Programas y servicios gratuitos destinados a la prevención de la violencia.",
+                "Todas la anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "57",
+            "pregunta": "Incorporar estrategias y programas de prevención e intervención integral contra la violencia hacia mujeres.",
+            "respuestas": [
+                "Medidas del ministerio de educación",
+                "Medidas de las direcciones departamentales ",
+                "Mediadas de directores distritales ",
+                "Medidas de los directores de unidades educativas"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "58",
+            "pregunta": "Una medida en el ámbito educativo, es crear en las unidades educativas.",
+            "respuestas": [
+                "Un centro de atención con especialidad obligatoria en violencia",
+                "Un centro de atención psicológica, con especialidad obligatoria en violencia",
+                "Todas las anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "59",
+            "pregunta": "Todo hecho de violencia contra las mujeres será denunciado ante instancias ",
+            "respuestas": [
+                "En el ministerio publico ",
+                "La policía ",
+                "La policía y el ministerio publico ",
+                "La opción publica "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "60",
+            "pregunta": "Asegura el ejercicio de todos sus derechos y su efectiva protección. ",
+            "respuestas": [
+                "Estado garantiza",
+                "Estado protector ",
+                "Estado de derecho",
+                "Estado integral"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "61",
+            "pregunta": "Gobiernos autónomos municipales tiene la obligación de organizar.",
+            "respuestas": [
+                "Servicio legales integrales para la mujer (SLIM) ",
+                "Servicio legales integrales municipales (SLIM)",
+                "Servicio legales integrales por mandato (SLIM)",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "62",
+            "pregunta": "Prevención, auxilio, investigación, identificación y aprehensión de presuntos responsables de violencia hacia mujeres.",
+            "respuestas": [
+                "La Fuerza Especial de lucha Contra el Crimen (FELCC) ",
+                "La Fuerza Especial de Lucha Contra la Violencia (FELCC) ",
+                "Todas las anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "63",
+            "pregunta": "Las medidas de protección tienen por objeto interrumpir e impedir un hecho de violencia. ",
+            "respuestas": [
+                "Contra las mujeres, o garantizar, en casos consumados se realice investigación, procesamiento y sanción",
+                "Contra las mujeres, o garantizar, en casos no consumados c realiza investigación, procesamiento y sanción",
+                "Todas la anteriores",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "64",
+            "pregunta": "El estado en todos sus niveles, ejecutara el programa de prevención y protección social.",
+            "respuestas": [
+                "Para niñas, niños y adolescentes menores de doce (12) años en actividad laboral ",
+                "Para niñas, niños y adolescentes menores de catorce (14) años en actividad laboral",
+                "Para niñas, niños y adolescentes menores de dieciséis (16) años en actividad laboral ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "65",
+            "pregunta": "Se considera una forma y/o tipo de violencia entre pares en el sistema educativo.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "66",
+            "pregunta": "Elaborar y desarrollar mediadas de no violencia para resolver las tenciones y conflictos emergentes.",
+            "respuestas": [
+                "Son medidas preventivas",
+                "Son medidas de protección",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "67",
+            "pregunta": "Denominado Ley 004 Marcelo Quiroga Santa Cruz. ",
+            "respuestas": [
+                "Lucha contra la corrupción y enriquecimiento ilícito ",
+                "Lucha contra la corrupción, enriquecimiento ilícito e investigación de fortunas",
+                "Lucha contra la corrupción e investigación de fortunas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "68",
+            "pregunta": "Establece mecanismos y procedimientos en el marco de la Constitución Política del Estado.",
+            "respuestas": [
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores priv",
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidas por servidores públicos",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "69",
+            "pregunta": "Prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores públicos exservidores públicos.",
+            "respuestas": [
+                "Objeto de la Ley 044",
+                "Objeto de la Ley 014",
+                "Objeto de la Ley 004",
+                "Objeto de la ley 114"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "70",
+            "pregunta": "Consejo nacional de lucha contra la corrupción, enriquecimiento y legitimación de ganancias ilícitas.",
+            "respuestas": [
+                "Ministerio de transparencia institucional y lucha contra la corrupción",
+                "Ministerio de gobierno ministerio publico",
+                "Contraloría general del Estado y procuraduría general del Estado ",
+                "Todos los anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "71",
+            "pregunta": "Es el requerimiento o la aceptación, el ofrecimiento u otorgamiento, de un servidor público.",
+            "respuestas": [
+                "Que afecte a los intereses de la comunidad",
+                "Que afecte a los intereses del Estado",
+                "Que afecte a los intereses de la Nación",
+                "Que afecte a los intereses del pueblo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "72",
+            "pregunta": "Proponer, supervisar y fiscalizar políticas publicas, orientadas a prevenir y sancionar actos de corrupción.",
+            "respuestas": [
+                "Atribución del consejo nacional de lucha contra la corrupción",
+                "Atribución del consejo departamental de lucha contra la corrupción",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "73",
+            "pregunta": "Tendrán competencia para conocer y resolver procesos penales. ",
+            "respuestas": [
+                "Tribunales anticorrupción ",
+                "Control social",
+                "Juzgados anticorrupción",
+                "A y C"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "74",
+            "pregunta": "Los tipos penales en los que incurren los funcionarios públicos.",
+            "respuestas": [
+                "Uso indebido de bienes y servicios públicos ",
+                "Enriquecimiento ilícito ",
+                "A y B ",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "75",
+            "pregunta": "Servidores públicos que en beneficio propio o de terceros otorgue bienes, derechos y acciones.",
+            "respuestas": [
+                "Uso indebido de bienes",
+                "Uso indebido de servicios públicos ",
+                "Uso indebido de bienes y servicios públicos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "76",
+            "pregunta": "El servidor publico que hubiera incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos.",
+            "respuestas": [
+                "Enriquecimiento ilícito ",
+                "Enriquecimiento licito ",
+                "Enriquecimiento legal ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "77",
+            "pregunta": "Insertar datos económicos, financieros y patrimoniales.",
+            "respuestas": [
+                "Declaración jurada de bienes y rentas ",
+                "Declaración jurada de bienes",
+                "Declaración jurada de rentas ",
+                "Declaración jurada del patrimonio neto"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "78",
+            "pregunta": "Servidor publico aprovechando del cargo que desempeña se apropiare de dinero, valores y bienes.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "79",
+            "pregunta": "Servidor publico hace actos relativos a sus funciones recibiera dadivas o cualquier otra ventaja.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "80",
+            "pregunta": "Director departamental, distritales y directores de UEs son considerados servidores o funcionarios públicos.",
+            "respuestas": [
+                "Verdadero",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "81",
+            "pregunta": "Los mecanismos de prevención de los sistemas de vida.",
+            "respuestas": [
+                "Desarrollo en el nivel central del Estado ",
+                "Desarrollaran en entidades territoriales autónomas",
+                "Desarrollaran en el nivel central del Estado y entidades territoriales autónomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "82",
+            "pregunta": "Mecanismos de prevención de los sistemas de vida se desarrollan en ámbitos.",
+            "respuestas": [
+                "Territorial y salud",
+                "Territorial, salud y difusión",
+                "Territorial, salud, difusión y sensibilización ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "83",
+            "pregunta": "La DIGEPIO formulara los indicadores de monitoreo.",
+            "respuestas": [
+                "Para evaluar las situaciones de alta vulnerabilidad ",
+                "Para evaluar las situaciones de vulnerabilidad",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "84",
+            "pregunta": "Corresponde a la ley contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Ley 035",
+                "Ley 045",
+                "Ley 055",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "85",
+            "pregunta": "Establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Para la prevención y sanción de actos de racismo",
+                "Para la prevención y sanción de toda forma de discriminación ",
+                "Para la prevención y sanción de actos de racismo y toda forma de discriminación",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "86",
+            "pregunta": "El racismo y discriminación no son tipificado y/o calificado en el Código Penal.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "87",
+            "pregunta": "Forma de distinción, exclusión, restricción o preferencia fundad en razón de sexo, color, edad.",
+            "respuestas": [
+                "Discriminación racial ",
+                "Discriminación",
+                "Racismo ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "88",
+            "pregunta": "Teoría tendente a la valoración de diferencia biológica, cultural, real o imaginaria.",
+            "respuestas": [
+                "Discriminación ",
+                "Racismo",
+                "Discriminación racial",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "89",
+            "pregunta": "Se entiende por misoginia ",
+            "respuestas": [
+                "Conducta o comportamiento de odio manifiesto hacia las mujeres o genero femenino ",
+                "Conducta o comportamiento de odio manifiesto hacia los varones o género masculino",
+                "Otra respuesta",
+                "Ninguno. "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "90",
+            "pregunta": "Medidas publicas traducidas en campañas de concientización, educación y difusión de derechos humanos protectivos. ",
+            "respuestas": [
+                "Acción afirmativa ",
+                "Acción preventiva",
+                "Acción correctiva ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "91",
+            "pregunta": "Definir y adoptar políticas publicas de prevención y lucha contra el racismo y discriminación.",
+            "respuestas": [
+                "Es obligación del Estado ",
+                "Es deber del Estado ",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "92",
+            "pregunta": "El comité nacional contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Encargado de promover, diseñar e implementar políticas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar normativas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar políticas y normativas contra el racismo y discriminación ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "93",
+            "pregunta": "Comité nacional contra el racismo y toda forma de discriminación conformada por comisiones.",
+            "respuestas": [
+                "Comité de lucha contra el racismo",
+                "Comité de emergencia contra los delitos ",
+                "Comité de lucha contra toda forma de discriminación ",
+                "A y B "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "94",
+            "pregunta": "Personas que sufren el racismo o discriminación podrán optar.",
+            "respuestas": [
+                "Por la via constitucional y administrativa",
+                "Por la vía constitucional administrativa o disciplinaria",
+                "Por la vía constitucional administrativa o disciplinaria y/o penal",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "95",
+            "pregunta": "Persona que ejerce función publica conociere hechos de racismo y discriminación.",
+            "respuestas": [
+                "Esta en la obligación de denunciar ante las autoridades competentes ",
+                "Esta en el deber de denunciar ante al autoridades competentes",
+                "Esta que denunciar ante al autoridades competentes ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "96",
+            "pregunta": "Discriminación y racismo no son considerados como delitos contra la dignidad del ser humano.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "97",
+            "pregunta": "Corresponde al código niña, niño y adolecente ",
+            "respuestas": [
+                "Ley 448",
+                "Ley 548",
+                "Ley 648",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "98",
+            "pregunta": "El objetivo del Código es reconocer, desarrollar y regular.",
+            "respuestas": [
+                "El ejercicio de los derechos de la niña, niño y adolecente",
+                "El ejercicio de las obligaciones de la niña, niño y adolescente",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "99",
+            "pregunta": "Garantizar a niña, niño y adolecente el ejercicio pleno y efectivo de sus derechos.",
+            "respuestas": [
+                "Para su desarrollo integral ",
+                "Para exigir el cumplimiento de sus obligaciones ",
+                "Para su desarrollo integral y exigir el cumplimiento de sus deberes",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "100",
+            "pregunta": "Según el código, corresponde a la etapa del desarrollo del adolecente. ",
+            "respuestas": [
+                "Desde 12 hasta los 16 años de edad cumplidos",
+                "Desde 12 hasta los 17 años de edad cumplidos",
+                "Desde 12 hasta los 18 años de edad cumplidos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        }
+    ]
+}

@@ -1,0 +1,1104 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "Factores que inciden en la construcción del estilo comunicativo de la persona: ",
+            "respuestas": [
+                "Bloqueos respiratorios y acción de gravedad",
+                "Acción de gravedad y mundo emocional",
+                "Bloqueos respiratorios, acción de gravedad y mundo emocional",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "2",
+            "pregunta": "¿Que se puede leer en el cuerpo de una persona?",
+            "respuestas": [
+                "Zonas de tensión",
+                "Compensaciones musculo-esqueléticas",
+                "Actitudes psicológicas",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "3",
+            "pregunta": "Son señales de tensión en la postura:",
+            "respuestas": [
+                "Acortamiento de la cadena posterior del cuerpo y desplazamiento de la cabeza respecto al eje vertical.",
+                "Inhibición o hiperfunción de la cintura escapular que incide en la forma individual de respirar y bloqueo de la actividad elástica y expansiva de la columna vertebral en la respiración.",
+                "Inciso a y b",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "4",
+            "pregunta": "Son señales de tensión en la voz: ",
+            "respuestas": [
+                "Inhibición o hiperfunción de la cintura escapular que incide en la forma individual de respirar y bloqueo de la actividad elástica y expansiva de la columna vertebral en la respiración.",
+                "Bloqueo de la musculatura de cuello y nuca durante la emisión y bloqueo muscular que afecta a zonas y órganos interconectados con la laringe lengua, mandíbula, faringe.",
+                "Acortamiento de la cadena posterior del cuerpo y desplazamiento de la cabeza respecto al eje vertical.",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "5",
+            "pregunta": "En el medio rural de los Andes de Bolivia, los comunarios llaman «tropa» a un conjunto de: ",
+            "respuestas": [
+                "Flautas",
+                "Pinkillos andinos",
+                "Tubos",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "6",
+            "pregunta": "La revisión de la organología tiwanakota permite establecer que existen 6 tipos de instrumentos: *",
+            "respuestas": [
+                "Flautas de pan, quenas, ocarinas, trompetas, flautas de pico y flautas traversas.",
+                "Flautas de pan, quenas, percusiones, pinkillos, flautas traversas y cascabeles",
+                "Quenas, ocarinas, trompetas, flautas de pico, pinkillos y cascabeles",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "7",
+            "pregunta": "Según el compositor Claude Debussy la música: ",
+            "respuestas": [
+                "Es un total de fuerzas dispersas expresadas en un proceso sonoro que incluye: el instrumento, el instrumentista, el creador y su obra, un medio propagador y un sistema receptor",
+                "Constituye en un componente espiritual del hombre, sujeto o acorde a su desarrollo",
+                "Es hablar a partir del seno de la cultura misma, y así, el sentido de las expresiones musicales se ve afectado por cuestiones psicológicas, sociales, culturales e históricas.",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "8",
+            "pregunta": "Es la amplificación y el enriquecimiento del sonido fundamental o tono fundamental producido en la laringe. Es la .definición de:",
+            "respuestas": [
+                "Proyección",
+                "La coordinación fonorrespiratoria",
+                "Resonancia",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "9",
+            "pregunta": "Es la habilidad que consiste en poner en práctica, de forma conjunta, todas las funciones que intervienen en la producción de la voz y que ya han sido ejercitadas individualmente, siguiendo las pautas de la técnica. Cultural y evolutivo. Es la definición de: *",
+            "respuestas": [
+                "La resonancia",
+                "La coordinación fonorrespiratoria",
+                "La proyección",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "10",
+            "pregunta": "El hipotiroidismo: ",
+            "respuestas": [
+                "Afecta al tono muscular de las cuerdas vocales, disminuyendo altura tonal e intensidad. El habla pierde su melodía, la voz se agrava y aparece oscura.",
+                "Generará una voz inestable, con variaciones de un día a otro, y que se fatiga con facilidad.",
+                "Inciso a y b",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "11",
+            "pregunta": "El hipertiroidismo",
+            "respuestas": [
+                "Afecta al tono muscular de las cuerdas vocales, disminuyendo altura tonal e intensidad. El habla pierde su melodía, la voz se agrava y aparece oscura.",
+                "Generará una voz inestable, con variaciones de un día a otro, y que se fatiga con facilidad.",
+                "Inciso a y b",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "12",
+            "pregunta": "La voz no será fuente de problemas si:",
+            "respuestas": [
+                "La comprendemos como nuestra aliada y fuente de felicidad en los procesos de aprendizaje, en definitiva, a lo largo de toda la vida.",
+                "Le permitimos reposo, calma.",
+                "La amamos como es. sin disfrazarla. sin imitar a nadie.",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "13",
+            "pregunta": "Conjunto de técnicas que tienen como finalidad optimizar el uso de los recursos corporales de que dispone el ser humano para emitir la voz de forma conveniente. es una definición de: *",
+            "respuestas": [
+                "Fonación",
+                "Ergofonación",
+                "Entonación",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "14",
+            "pregunta": "Es la característica sonora personal de cada voz, tanto en el canto como en el habla ",
+            "respuestas": [
+                "Timbre o color",
+                "Extensión",
+                "Tesitura",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "15",
+            "pregunta": "Soprano ligera es: ",
+            "respuestas": [
+                "Una voz de poco peso, normalmente de color claro, de extensión amplia, con agilidad y facilidad en el agudo y el sobreagudo.",
+                "Timbrada, tiene un volumen medio y se mueve con facilidad en el centro y en la primera parte de la zona aguda.",
+                "Una voz difícil de encontrar; es grande, potente, con un centro robusto y buenos agudos.",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "16",
+            "pregunta": "Soprano dramática es:",
+            "respuestas": [
+                "Una voz de poco peso, normalmente de color claro, de extensión amplia, con agilidad y facilidad en el agudo y el sobreagudo.",
+                "Timbrada, tiene un volumen medio y se mueve con facilidad en el centro y en la primera parte de la zona aguda.",
+                "Una voz difícil de encontrar; es grande, potente, con un centro robusto y buenos agudos.",
+                "Ninguno"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "17",
+            "pregunta": "Tenor ligero es:",
+            "respuestas": [
+                "Una voz con agilidad, y con facilidad en el agudo y normalmente de color claro.",
+                "Timbrada, tiene un volumen medio y se mueve con facilidad en el centro y en la primera parte de la zona aguda",
+                "Una voz difícil de encontrar; es grande, potente, con un centro robusto y buenos agudos.",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "18",
+            "pregunta": "La falta de conciencia de ser un profesional de la voz nos lleva a:",
+            "respuestas": [
+                "No educar la voz",
+                "No cuidar la voz",
+                "No respetar la voz",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "19",
+            "pregunta": "Se ha mantenido con preferencia en el medio rural y a su estudio se han dedicado, desde mediados del siglo pasado. Característica de la: *",
+            "respuestas": [
+                "Música autóctona",
+                "Música tradicional",
+                "Inciso a y b",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "20",
+            "pregunta": "Es el soporte acústico de la palabra. Ella vehiculiza nuestros pensamientos, ideas, emociones... Emerge, se proyecta, se modifica en nosotros mismos y a través de todo nuestro ser. Características de: *",
+            "respuestas": [
+                "El habla",
+                "La voz",
+                "El lenguaje",
+                "ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "21",
+            "pregunta": "El autor del libro: “LA VOZ, La técnica y la expresión” es:",
+            "respuestas": [
+                "José Illesca",
+                "Inés Bustos Sánchez",
+                "Arnaud Gérard A.",
+                "Paulo Freire"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "22",
+            "pregunta": "La comunicación con el entorno es para: ",
+            "respuestas": [
+                "Expresar sentimientos, emociones, etc.",
+                "Informar, explicar, argumentar, narrar, etc.",
+                "Expresarse artísticamente: teatro, voz cantada, etc.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "23",
+            "pregunta": "“Nos encontramos con un conjunto de factores y variables que han incidido en un aumento de la demanda para educar o reeducar la voz profesional”, ya que existen:",
+            "respuestas": [
+                "Incremento del número de colectivos que utilizan la voz como herramienta de trabajo.",
+                "Incremento del número de personas que forman estos colectivos profesionales.",
+                "Mayor importancia de la adquisición de habilidades comunicativas en el mundo empresarial.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "24",
+            "pregunta": "La educación de la voz con fines profesionales requiere al menos un:",
+            "respuestas": [
+                "Conocimiento elemental del órgano vocal y sus posibles alteraciones para poder regular mediante la práctica la intensidad, la proyección, la resonancia que ella necesita y conseguir precisión y flexibilidad en los movimientos respiratorios, articulatorios y de expresión que se quieran efectuar.",
+                "Conocimiento del aparato fonador de las personas.",
+                "Conocimiento de los órganos de aparato fonador, para poder regular la intensidad de la voz.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "25",
+            "pregunta": "En el medio rural de los Andes de Bolivia, los comunarios, llaman «tropa» a:",
+            "respuestas": [
+                "Conjunto de cantantes que guardan la rítmica y la melodía. ",
+                "Conjunto de flautas que tocan la melodía en una armonía de unísonos, octavas y, a veces, de quintas y cuartas paralelas o de terceras y sextas.",
+                "Elencos de artísticas que demuestran sus cualidades musicales.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "26",
+            "pregunta": "La gama de pinkillos actuales de las zonas andinas rurales de Bolivia, emiten sonidos multifónicos con «redoble», principalmente en tiempo de:",
+            "respuestas": [
+                "Principalmente en época de invierno.",
+                "Principalmente en tiempo de Carnaval.",
+                "Principalmente en tiempo de siembra.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "27",
+            "pregunta": "La tecnología desarrollada en Nazca respecto a la construcción de sikus ha permitido la producción de:",
+            "respuestas": [
+                "Cientos de ejemplares de cerámica que hoy son parte de los museos, la utilización de la matemática en la fabricación de antaras es una muestra de la alta tecnología musical alcanzado por los Nazca.",
+                "Cientos de instrumentos musicales de viento con características únicas, fabricados por los Nazca.",
+                "Cientos de instrumentos musicales que producen melodías distintas que deleitan al público.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "28",
+            "pregunta": "La música en el formativo.  Se pueden encontrar principalmente flautas: ",
+            "respuestas": [
+                "Flautas rústicas de fabricación artesanal.",
+                "Flautas antiguas con hermosos diseños.",
+                "Flautas globulares, trompetas, flautas quenas y los primeros sikus andinos. ",
+                "Flautas modernas que emiten sonidos envolventes."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "29",
+            "pregunta": "Tiwanaku una de las más grandes civilizaciones andinas se ha desarrollado en el altiplano boliviano entre los años 1580 a.C. al 1100 d.C. en Tiwanaku solo nos quedan los vestigios materiales y las evidencias musicales orales que perviven hoy en las comunidades aymaras. Los restos arqueomusicológicos de Tiwanaku muestran un desarrollo alto en la música, su diversidad…",
+            "respuestas": [
+                "Instrumental de fabricación artesanal que nos muestra una gama de flautas.",
+                "Organológica está compuesta por aerófonos, idiófonos y membranófonos, de los cuales las trompetas, las flautas quenas y los sikus son los más abundantes.",
+                "De instrumentos fabricados en cerámica.",
+                "Todas las anteriores. "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "30",
+            "pregunta": "La mayoría de las opiniones que se emiten en nuestra sociedad sobre lo que debe ser la educación musical, están basadas en deseos personales no satisfechos al respecto, inclinándose en las preferencias hacia una formación como intérprete especialista. Hay que diferenciar tres ámbitos de educación musical: el profesional, el de aficionados y el de la educación básica para todos los ciudadanos. En esta última se desarrollan:",
+            "respuestas": [
+                "Capacidades básicas además de las específicamente musicales entre las que no podemos olvidar la creatividad. ",
+                "Habilidades con la formación armónica en todos los ámbitos del currículo.",
+                "Destrezas musicales y el manejo de instrumentos musicales.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "31",
+            "pregunta": "Las evidencias arqueológicas muestran la evolución en el arte, siguiendo la periodización elaborada por arqueólogos andinistas, el hombre en los Andes habría dejado huellas musicales en diferentes momentos de la historia. Los estadios culturales definido por los arqueólogos son:",
+            "respuestas": [
+                "Formativo, Altas culturas Tiwanaku, Señoríos aymaras, Inca y Colonia.",
+                "Precerámico, Formativo, Inca y Colonia.",
+                "Precerámico, Altas culturas Tiwanaku, Señoríos aymaras, Inca y Colonia.",
+                "Precerámico, Formativo, Altas culturas Tiwanaku, Señoríos aymaras, Inca y Colonia."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "32",
+            "pregunta": "Los estudios de Fortún señalan la presencia de escalas tritónicas, heptatónicas y pentatónicas principalmente. Se encuentra además una gran cantidad de pitos, instrumentos idiófonos que parecen tener otro fin no musical (guerra), asimismo se identifican trompetas que parecen tener usos religiosos y de guerra. Las piezas analizadas provienen de: ",
+            "respuestas": [
+                "Mollo, Potosí y Chuquisaca. ",
+                "Tiwanaku, Mollo, Potosí y Chuquisaca. ",
+                "Potosí y Chuquisaca. ",
+                "Tiwanaku, Mollo. "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "33",
+            "pregunta": "El desarrollo artístico en Tiwanaku evoluciono junto con la religión, la institucionalización de la religión y la construcción de templos dedicados exclusivamente a la adoración de las wakas principales, hizo que los tiwanakotas hayan permitido el surgimiento de una:",
+            "respuestas": [
+                "Elite de músicos y religiosos.",
+                "Elite de religiosos que practicaban la música.",
+                "Elite gobernante y músicos y religiosos especialistas.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "34",
+            "pregunta": "El uso de reglas geométricas en la construcción de instrumentos se mantiene, en la actualidad los artesanos denominan a este proceso:",
+            "respuestas": [
+                "Octavear que consiste en partir a la mitad los tubos de los sikus para sacar la octava alta y doblar de tamaño para sacar la octava grave, repitiendo el ejercicio los artesanos pueden obtener hasta 4 octavas paralelas, en un mismo instrumento. ",
+                "Construir la octava alta o baja a partir del instrumento que tiene la tónica.",
+                "Construir instrumentos partiendo a la mitad los tubos de los sikus.",
+                "a y b"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "35",
+            "pregunta": "Las evidencias de algunos de estos instrumentos, como las percusiones se encuentran solo en: ",
+            "respuestas": [
+                "Cuadros de dibujos y pintura rupestre.",
+                "Dibujos de cerámicas o piezas arqueológicas de piedra que comprueban la existencia y uso de estos instrumentos.",
+                "Dibujos en piedra que dan autenticidad de la existencia y uso de estos instrumentos en la antigüedad.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "36",
+            "pregunta": "Sobre a la existencia de pinkillus y flautas traversas en la organología prehispánica, Sánchez y Sanzetena (2002) presentan las únicas evidencias que comprueban que estos instrumentos no son influencia de la organología española. Respecto a las flautas de pan de Tiwanaku se han encontrado diversos ejemplares que hoy forman parte de museos nacionales y extranjeros, todas se caracterizan por estar construidas de:",
+            "respuestas": [
+                "Piedra o arcilla y de una sola pieza. ",
+                "Totora, el siku tradicional en forma de balsa.",
+                "Piedra y hueso solamente.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "37",
+            "pregunta": "Los señoríos aymaras tenían control de diferentes pisos ecológicos lo que facilito el acceso a diversos recursos incluyendo el bambú y las maderas. El uso de la piedra y la cerámica fue definitivamente sustituido entrando en uso las flautas fabricadas de caña de bambú en uso comunitario. Es muy probable que en este tiempo hayan surgido en las comunidades artesanos que se especializaron en la fabricación de instrumentos musicales, generándose la autosuficiencia en la construcción de instrumentos musicales. El acceso a la selva les permitía el acceso a:",
+            "respuestas": [
+                "Piedras, arcilla, huesos y madera para la fabricación de instrumentos musicales.",
+                "Maderas, bambúes, plumas y semillas para los trajes e instrumentos musicales.",
+                "Bambú, material indispensable en la fabricación de instrumentos musicales.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "38",
+            "pregunta": "La producción cultural del sonido es tan antigua como el habla, y el habla en tanto sonido, no puede ser separada del canto. Ambas se prefiguran. Se dice que hay pueblos que hablan cantando, como ocurre: ",
+            "respuestas": [
+                "En la región oriental de Bolivia.",
+                "Con la región sur de Bolivia.",
+                "Con la región altiplánica de Bolivia.",
+                "En la región de los valles."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "39",
+            "pregunta": "Los patrones de asentamientos humanos en los valles mesotérmicos, se dieron generalmente en las orillas de los ríos. En los valles del sur este destacan tres sitios donde fueron hallados artefactos sonoros: ",
+            "respuestas": [
+                "Aiquile, Mizque y Yuraj Molino.",
+                "Mizque, Tarata y Punata.",
+                "Cliza y Aiquile.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "40",
+            "pregunta": "En Yuraj Molino, aldea del formativo temprano, en otro contexto de entierro, fue hallada una pequeña flauta de hueso de llama junto a un área de tierra quemada, huesos de aves y semillas carbonizadas de tarwi (lupinus mutabilies) en la esquina sud oeste del pozo. La asociación entre la flauta, los huesos y la leña aromática (para incinerar) cerca de los entierros, sugiere una actividad: ",
+            "respuestas": [
+                "Bélica.",
+                "Ritual.",
+                "Ceremonial.",
+                "Cultural"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "41",
+            "pregunta": "Los Decretos Supremo 1302 y Secreto Supremo 1302 refieren.",
+            "respuestas": [
+                "A la erradicación de la violencia",
+                "A la erradicación del maltrato",
+                "A la erradicación de la violencia, maltrato y abuso ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "42",
+            "pregunta": "Establece mecanismos que coadyuven a la erradicación de la violencia, maltrato y abuso que atente.",
+            "respuestas": [
+                "Contra la vida e integridad física, psicológica y/o sexual de los adultos mayores ",
+                "Contra la vida e integridad física, psicológica y sexual de niñas, niños y adolescentes",
+                "Contra la vida Psicológica.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "43",
+            "pregunta": "Tiene la obligación de denunciar, hacer seguimiento y coadyuvar en la acción penal.",
+            "respuestas": [
+                "Los Directores Departamentales de Educación",
+                "Los Directores de Unidades educativas fiscales",
+                "Los Directores Departamentales de Educación y el Ministerio de educación ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "44",
+            "pregunta": "El director, docente, o administrativo que fuera imputado formalmente. ",
+            "respuestas": [
+                "Por la comisión de delitos de agresión",
+                "Por la comisión de delitos de agresión y violencia sexual ",
+                "Por la comisión de delitos extremadamente muy graves",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "45",
+            "pregunta": "Como medida de seguridad y protección, el Director, docente o administrativo que fuere imputado.",
+            "respuestas": [
+                "Será suspendido de sus funciones sin goce de haberes, mientras dure el proceso ",
+                "No será suspendido de sus funciones ni goce de haberes, mientras dure el proceso",
+                "Sera suspendido por treinta días",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "46",
+            "pregunta": "El Ministerio de Educación desarrollara como mecanismo de prevención e intervención. ",
+            "respuestas": [
+                "Un plan especifico para enfrentar la violencia, maltrato y abuso en ámbito educativo",
+                "Un programa especifico para enfrentar la violencia, maltrato y abuso en ámbito educativo ",
+                "Un plan para enfrentar la violencia en Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "47",
+            "pregunta": "El plan contemplara acciones:",
+            "respuestas": [
+                "Capacitaciones y difusión de estrategias de prevención de toda forma de violencia ",
+                "Desarrollo de lineamientos curriculares con contenido de prevenir la violencia ",
+                "Corresponde a los incisos anteriores ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "48",
+            "pregunta": "Decreto Supremo 4260 tiene por objeto normar la complementariedad de las modalidades educativas.",
+            "respuestas": [
+                "De atención presencial, a distancia y virtual en los Subsistemas de Educación ",
+                "De atención presencial, a distancia, virtual y semipresencial en los Subsistemas de Educación",
+                "Por atención de semi presencial, en lo sistemas de educación",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "49",
+            "pregunta": "Proceso educativo caracterizado por mediación de los recursos físicos (libros, documentos, DVD), televisores, radiales. ",
+            "respuestas": [
+                "Modalidad de atención educativa a distancia",
+                "Modalidad de atención educativa semipresencial ",
+                "Modalidad presencial",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "50",
+            "pregunta": "Es el proceso educativo que no utiliza plataformas conectadas a internet.",
+            "respuestas": [
+                "Modalidad de atención educativa a distancia ",
+                "Modalidad de atención educativa virtual ",
+                "Modalidad de atención educativa semipresencial",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "51",
+            "pregunta": "Objeto de la presente Ley 223 es garantizar a las personas con discapacidad.",
+            "respuestas": [
+                "El ejercicio pleno de sus derechos y deberes en igualdad de condiciones",
+                "Y equiparación de oportunidades, trato preferente",
+                "A y B",
+                "Ninguna "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "52",
+            "pregunta": " Personas con discapacidad participan plena y efectivamente en la sociedad en igualdad de oportunidades.",
+            "respuestas": [
+                "No discriminación",
+                "Inclusión",
+                "Accesibilidad ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "53",
+            "pregunta": "Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad.",
+            "respuestas": [
+                "Trato diferenciado ",
+                "Trato preferente ",
+                "Trato Digno",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "54",
+            "pregunta": "Aquellas personas con deficiencias físicas, mentales, intelectuales y/o sensoriales a largo plazo o permanentes.",
+            "respuestas": [
+                "Personas con discapacidad según la Ley",
+                "Personas con capacidades múltiples y/o diferencias, según la Ley ",
+                "Personas sin discacpacidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "55",
+            "pregunta": "Debe dar respuesta a la diversidad mediante adaptaciones físicas, curriculares y personales de apoyo.",
+            "respuestas": [
+                "Educación exclusiva",
+                "Educación inclusiva",
+                "Educación con discapacidad exclusiva",
+                "ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "56",
+            "pregunta": "Garantiza el derecho a la vida de personas con discapacidad. ",
+            "respuestas": [
+                "El Estado Plurinacional de Bolivia",
+                "Las Autoridades legalmente electas de Bolivia",
+                "Las políticas del Estado",
+                "Ninguno"
+            ],
+            "resCorrecta": ""
+        },
+        {
+            "id": "57",
+            "pregunta": "Estado garantiza al acceso y permanencia de estudiantes con discapacidad en el sistema educativo.",
+            "respuestas": [
+                "Derecho a la formación inclusiva",
+                "Derecho a la educación",
+                "Derecho no a la Educación",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "58",
+            "pregunta": "Estado garantiza la formación de equipos multidisciplinarios.",
+            "respuestas": [
+                "Para la atención e inclusión de personas con discapacidad al sistema educativo plurinacional",
+                "Para la atención e inclusión de personas con discapacidad",
+                "Para la atención de personas discapacitados en el sistema de inclusión",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "59",
+            "pregunta": "Estado garantiza el desarrollo educativo permanente de las potencialidades ",
+            "respuestas": [
+                "Individuales de la persona con discapacidad psicosocial ",
+                "Colectivas de la persona con discapacidad psicosocial",
+                "Personas adultas",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "60",
+            "pregunta": "Ley 450 de protección a naciones y pueblos indígenas originarios.",
+            "respuestas": [
+                "En situación de alta vulnerabilidad",
+                "En situación de vulnerabilidad ",
+                "En situación de invulnerabilidad",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "61",
+            "pregunta": "La DIGEPIO formulara los indicadores de monitoreo.",
+            "respuestas": [
+                "Para evaluar las situaciones de alta vulnerabilidad ",
+                "Para evaluar las situaciones de vulnerabilidad",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "62",
+            "pregunta": "Corresponde a la ley contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Ley 035",
+                "Ley 045",
+                "Ley 055",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "63",
+            "pregunta": "Establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Para la prevención y sanción de actos de racismo",
+                "Para la prevención y sanción de toda forma de discriminación ",
+                "Para la prevención y sanción de actos de racismo y toda forma de discriminación",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "64",
+            "pregunta": "El racismo y discriminación no son tipificado y/o calificado en el Código Penal.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "65",
+            "pregunta": "Forma de distinción, exclusión, restricción o preferencia fundad en razón de sexo, color, edad.",
+            "respuestas": [
+                "Discriminación racial ",
+                "Discriminación",
+                "Racismo ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "66",
+            "pregunta": "Teoría tendente a la valoración de diferencia biológica, cultural, real o imaginaria.",
+            "respuestas": [
+                "Discriminación ",
+                "Racismo",
+                "Discriminación racial",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "67",
+            "pregunta": "Se entiende por misoginia ",
+            "respuestas": [
+                "Conducta o comportamiento de odio manifiesto hacia las mujeres o genero femenino ",
+                "Conducta o comportamiento de odio manifiesto hacia los varones o género masculino",
+                "Otra respuesta",
+                "Ninguno. "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "68",
+            "pregunta": "Medidas publicas traducidas en campañas de concientización, educación y difusión de derechos humanos protectivos. ",
+            "respuestas": [
+                "Acción afirmativa ",
+                "Acción preventiva",
+                "Acción correctiva ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "69",
+            "pregunta": "Definir y adoptar políticas publicas de prevención y lucha contra el racismo y discriminación.",
+            "respuestas": [
+                "Es obligación del Estado ",
+                "Es deber del Estado ",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "70",
+            "pregunta": "El comité nacional contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Encargado de promover, diseñar e implementar políticas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar normativas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar políticas y normativas contra el racismo y discriminación ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "71",
+            "pregunta": "Comité nacional contra el racismo y toda forma de discriminación conformada por comisiones.",
+            "respuestas": [
+                "Comité de lucha contra el racismo",
+                "Comité de emergencia contra los delitos ",
+                "Comité de lucha contra toda forma de discriminación ",
+                "A y B "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "72",
+            "pregunta": "Personas que sufren el racismo o discriminación podrán optar.",
+            "respuestas": [
+                "Por la via constitucional y administrativa",
+                "Por la vía constitucional administrativa o disciplinaria",
+                "Por la vía constitucional administrativa o disciplinaria y/o penal",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "73",
+            "pregunta": "Persona que ejerce función publica conociere hechos de racismo y discriminación.",
+            "respuestas": [
+                "Esta en la obligación de denunciar ante las autoridades competentes ",
+                "Esta en el deber de denunciar ante al autoridades competentes",
+                "Esta que denunciar ante al autoridades competentes ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "74",
+            "pregunta": "Discriminación y racismo no son considerados como delitos contra la dignidad del ser humano.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "75",
+            "pregunta": "Corresponde al código niña, niño y adolecente ",
+            "respuestas": [
+                "Ley 448",
+                "Ley 548",
+                "Ley 648",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "76",
+            "pregunta": "El objetivo del Código es reconocer, desarrollar y regular.",
+            "respuestas": [
+                "El ejercicio de los derechos de la niña, niño y adolecente",
+                "El ejercicio de las obligaciones de la niña, niño y adolescente",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "77",
+            "pregunta": "Garantizar a niña, niño y adolecente el ejercicio pleno y efectivo de sus derechos.",
+            "respuestas": [
+                "Para su desarrollo integral ",
+                "Para exigir el cumplimiento de sus obligaciones ",
+                "Para su desarrollo integral y exigir el cumplimiento de sus deberes",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "78",
+            "pregunta": "Según el código, corresponde a la etapa del desarrollo del adolecente. ",
+            "respuestas": [
+                "Desde 12 hasta los 16 años de edad cumplidos",
+                "Desde 12 hasta los 17 años de edad cumplidos",
+                "Desde 12 hasta los 18 años de edad cumplidos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "79",
+            "pregunta": "Comprende la infancia escolar.",
+            "respuestas": [
+                "Niñas y niños entre 6 a 11 años de edad ",
+                "Niñas y niños entre 6 a 12 años de edad",
+                "Niñas y niños entre 6 a 14 años de edad",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "80",
+            "pregunta": "El principio de interés superior favorece el desarrollo integral de niña, niño y adolecente.",
+            "respuestas": [
+                "En el goce de los deberes y garantías",
+                "En el goce de los obligaciones y garantías",
+                "En el goce de los derechos y garantías",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "81",
+            "pregunta": "La guarda es el cuidado, protección, atención y asistencia integral.",
+            "respuestas": [
+                "A la niña, niño o adolecente de manera provisional ",
+                "A la niña, niño o adolecente de manera permanente",
+                "Todas la anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "82",
+            "pregunta": "Dirigida al pleno desarrollo de su personalidad, capacidades físicas y mentales.",
+            "respuestas": [
+                "Derecho a aprender ",
+                "Derecho a la educación",
+                "Derecho a la enseñanza",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "83",
+            "pregunta": "Se prohíbe a las autoridades del sistema educativo, la expulsión a las estudiantes embarazadas. ",
+            "respuestas": [
+                "Verdadero ",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "84",
+            "pregunta": "El estado en todos sus niveles, ejecutara el programa de prevención y protección social.",
+            "respuestas": [
+                "Para niñas, niños y adolescentes menores de doce (12) años en actividad laboral ",
+                "Para niñas, niños y adolescentes menores de catorce (14) años en actividad laboral",
+                "Para niñas, niños y adolescentes menores de dieciséis (16) años en actividad laboral ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "85",
+            "pregunta": "Se considera una forma y/o tipo de violencia entre pares en el sistema educativo.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "86",
+            "pregunta": "Elaborar y desarrollar mediadas de no violencia para resolver las tenciones y conflictos emergentes.",
+            "respuestas": [
+                "Son medidas preventivas",
+                "Son medidas de protección",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "87",
+            "pregunta": "Denominado Ley 004 Marcelo Quiroga Santa Cruz. ",
+            "respuestas": [
+                "Lucha contra la corrupción y enriquecimiento ilícito ",
+                "Lucha contra la corrupción, enriquecimiento ilícito e investigación de fortunas",
+                "Lucha contra la corrupción e investigación de fortunas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "88",
+            "pregunta": "Establece mecanismos y procedimientos en el marco de la Constitución Política del Estado.",
+            "respuestas": [
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores priv",
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidas por servidores públicos",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "89",
+            "pregunta": "Prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores públicos exservidores públicos.",
+            "respuestas": [
+                "Objeto de la Ley 044",
+                "Objeto de la Ley 014",
+                "Objeto de la Ley 004",
+                "Objeto de la ley 114"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "90",
+            "pregunta": "Consejo nacional de lucha contra la corrupción, enriquecimiento y legitimación de ganancias ilícitas.",
+            "respuestas": [
+                "Ministerio de transparencia institucional y lucha contra la corrupción",
+                "Ministerio de gobierno ministerio publico",
+                "Contraloría general del Estado y procuraduría general del Estado ",
+                "Todos los anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "91",
+            "pregunta": "Es el requerimiento o la aceptación, el ofrecimiento u otorgamiento, de un servidor público.",
+            "respuestas": [
+                "Que afecte a los intereses de la comunidad",
+                "Que afecte a los intereses del Estado",
+                "Que afecte a los intereses de la Nación",
+                "Que afecte a los intereses del pueblo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "92",
+            "pregunta": "Proponer, supervisar y fiscalizar políticas publicas, orientadas a prevenir y sancionar actos de corrupción.",
+            "respuestas": [
+                "Atribución del consejo nacional de lucha contra la corrupción",
+                "Atribución del consejo departamental de lucha contra la corrupción",
+                "Todas las anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "93",
+            "pregunta": "Tendrán competencia para conocer y resolver procesos penales. ",
+            "respuestas": [
+                "Tribunales anticorrupción ",
+                "Control social",
+                "Juzgados anticorrupción",
+                "A y C"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "94",
+            "pregunta": "Los tipos penales en los que incurren los funcionarios públicos.",
+            "respuestas": [
+                "Uso indebido de bienes y servicios públicos ",
+                "Enriquecimiento ilícito ",
+                "A y B ",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "95",
+            "pregunta": "Servidores públicos que en beneficio propio o de terceros otorgue bienes, derechos y acciones.",
+            "respuestas": [
+                "Uso indebido de bienes",
+                "Uso indebido de servicios públicos ",
+                "Uso indebido de bienes y servicios públicos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "96",
+            "pregunta": "El servidor publico que hubiera incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos.",
+            "respuestas": [
+                "Enriquecimiento ilícito ",
+                "Enriquecimiento licito ",
+                "Enriquecimiento legal ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "97",
+            "pregunta": "Insertar datos económicos, financieros y patrimoniales.",
+            "respuestas": [
+                "Declaración jurada de bienes y rentas ",
+                "Declaración jurada de bienes",
+                "Declaración jurada de rentas ",
+                "Declaración jurada del patrimonio neto"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "98",
+            "pregunta": "Servidor publico aprovechando del cargo que desempeña se apropiare de dinero, valores y bienes.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "99",
+            "pregunta": "Servidor publico hace actos relativos a sus funciones recibiera dadivas o cualquier otra ventaja.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "100",
+            "pregunta": "Director departamental, distritales y directores de UEs son considerados servidores o funcionarios públicos.",
+            "respuestas": [
+                "Verdadero",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        }
+    ]
+}

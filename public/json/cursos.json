@@ -1,0 +1,33 @@
+{
+    "cursosFum": [
+        {
+            "id": "02",
+            "nombreimagen": "ascenco.jpg",
+            "titulo": "Curso Examen de Ascenso de Categoria",
+            "descripcion": "Simulacro de Examenes para el Ascenso @2021.",
+            "fechainicio": "PROXIMAMENTE",
+            "fechafinal": "",
+            "hora": "",
+            "ruta": "./ascenso/login.html",
+            "pagruta": "./pages/curso-detalle.html",
+            "estado": true,
+            "calificacion":"5",
+            "precioriginal": "Bs.",
+            "precioactual": "Bs. 10"
+        },{
+            "id": "01",
+            "nombreimagen": "moddle.jpg",
+            "titulo": "Moodle",
+            "descripcion": "Uso de las actividades H5P de la plataforma Educativa.",
+            "fechainicio": "Del 24 de Julio",
+            "fechafinal": "Al 25 de Julio",
+            "hora": "19:00 hrs.",
+            "ruta": "./H5P/ingreso.html",
+            "pagruta": "./pages/h5p-curso-detalle.html",
+            "estado": true,
+            "calificacion":"4",
+            "precioriginal": "Bs. 30",
+            "precioactual": "Bs. 10"
+        }
+    ]
+}

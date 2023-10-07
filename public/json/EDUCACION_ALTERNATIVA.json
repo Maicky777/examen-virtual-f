@@ -1,0 +1,1104 @@
+{
+    "examenfum": [
+        {
+            "id": "1",
+            "pregunta": "El objetivo de la evaluación en la EPJA a Distancia es establecer un proceso de acompañamiento al aprendizaje y logro de las capacidades y habilidades de los/as participantes. Dicho proceso de acompañamiento se caracterizará por:",
+            "respuestas": [
+                "Tomar en cuenta siempre el Ser, Saber, Hacer y Decidir como proceso evaluativo",
+                "Su naturaleza continua y permanente, acumulativa, diversa e integral y participativa",
+                "El seguimiento personalizado, cualitativo, plural e incluyente",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "2",
+            "pregunta": "Los instrumentos operativos de implementación del Reglamento de Reconocimiento de Saberes, Conocimientos y Experiencias consisten en:",
+            "respuestas": [
+                "1. Carta de solicitud por parte del interesado; 2. Recepción; 3. Calificación en el sistema y 4. Titulo de Homologación.",
+                "1. Formulario de Solicitud; 2. Procedimiento; 3. Reporte de Registro en el Sistema de Información Educativa y 4. Certificado de Homologación.",
+                "1. Invitación personal; 2. Presentación; 3. Demostración de destrezas o conocimientos y 4. Calificación con título homologado.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "3",
+            "pregunta": "¿Cuántas veces se puede ser beneficiado mediante el procedimiento de Reconocimiento de Saberes, Conocimientos y Experiencias? ",
+            "respuestas": [
+                "Será aplicado a las personas por dos veces únicamente.",
+                "Será aplicado a las personas de dos hasta tres veces.",
+                "Será aplicado a las personas por una sola vez.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "4",
+            "pregunta": "El Reconocimiento de Saberes, Conocimientos y Experiencias responde a los siguientes criterios y lineamientos:",
+            "respuestas": [
+                "Desarrollo de las cuatro dimensiones del ser humano (Ser, Saber, Hacer y Decidir).Estar enmarcado en los contenidos mínimos del conjunto de áreas de saberes y conocimientos de cada etapa o grado.",
+                "Valorar los saberes y conocimientos adquiridos en el transcurso de su vida por acumulación de experiencias o por interacción comunitaria.",
+                "El reconocimiento de saberes, conocimientos y experiencias será ponderado de forma integral, tomando en cuenta todas las áreas de saberes y conocimientos que permitan establecer un punto intermedio que determine la etapa o grado a homologar.",
+                "Todas las anteriores"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "5",
+            "pregunta": "Aprobados los instrumentos de evaluación, la Comisión Evaluadora notificará al solicitante la fecha de evaluación, en el plazo máximo de:",
+            "respuestas": [
+                "48 horas, a través de cualquier medio de comunicación.",
+                "24 horas, a través de cualquier medio de comunicación.",
+                "72 horas, a través de cualquier medio de comunicación.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "6",
+            "pregunta": "(OBLIGATORIEDAD). Para el Reconocimiento de Saberes, Conocimientos y Experiencias, el cumplimiento de lo establecido en la presente reglamentación es de carácter obligatorio por las instancias involucradas, su inobservancia se constituye en infracción que será sancionada con:",
+            "respuestas": [
+                "El inicio de proceso administrativo por incumplimiento de deberes",
+                "El inicio de proceso penal por incumplimiento de deberes.",
+                "El inicio de proceso civil por daños y perjuicios.",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "7",
+            "pregunta": "La RESOLUCION MINISTERIAL N° 873/2014 de fecha, 7 de noviembre de 2014. Sobre REGLAMENTO PARA CERTIFICACIÓN DE LA FORMACIÓN TÉCNICA TECNOLÓGICA PRODUCTIVA Y HUMANÍSTICA EN EL ÁMBITO DE EDUCACIÓN ALTERNATIVA tiene como principales fundamentos jurídicos de la Constitución Política del Estado a los siguientes artículos: (marca las alternativas correctas)",
+            "respuestas": [
+                "Artículo 17, que establece que toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación alguna.",
+                "El Artículo 77 que establece que la Educación constituye una función suprema y primera responsabilidad financiera del Estado, que tiene la obligación indeclinable de sostenerla, garantizarla y gestionarla.",
+                "Artículo 82, determina que el Estado garantizará el acceso a la educación y la permanencia de todas las ciudadanas y los ciudadanos en condiciones de plena igualdad",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "8",
+            "pregunta": "En la distribución de carga horaria para el Bachillerato Técnico Humanístico que responde al Currículo Base de la Educación de Personas Jóvenes y adultas, ¿Cuantas horas están asignadas para el Nivel Técnico Auxiliar tomando en cuenta todos los módulos?",
+            "respuestas": [
+                "600 horas",
+                "1200 horas",
+                "2000 horas",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "9",
+            "pregunta": "¿A que responden las especialidades de la Educación Técnica Tecnológica Productiva?",
+            "respuestas": [
+                "Responden a las capacidades y habilidades de los estudiantes y a los lineamientos políticos de desarrollo del contexto comunitario.",
+                "Responden a las políticas de desarrollo implementadas desde el gobierno central con miras a la auto sustentación, sostenibilidad en el tiempo y seguridad alimentaria.",
+                "Responden a las potencialidades productivas del contexto y a las políticas de desarrollo del Estado Plurinacional, debidamente acreditadas de acuerdo a normativa vigente.",
+                "Todas las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "10",
+            "pregunta": "En el procedimiento para la Certificación de Niveles Técnico Tecnológico Productivo y Humanístico, la o el Director o Encargado del Centro remitirá toda la documentación a la Subdirección de Educación Alternativa y Especial correspondiente, en el plazo máximo de:",
+            "respuestas": [
+                "48 horas, solicitando el inicio del proceso de certificación de nivel",
+                "72 horas, solicitando el inicio del proceso de Certificación de Nivel.",
+                "24 horas, solicitando el inicio del proceso de certificación de nivel.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "11",
+            "pregunta": "¿En el procedimiento para la certificación y titulación en el Subsistema de Educación Alternativa y Especial, en el área de Educación Alternativa, cuantos pasos se deben seguir para la Certificación de Niveles Técnico Tecnológico Productivo y Humanístico?",
+            "respuestas": [
+                "El procedimiento indica Cinco pasos a seguir cada uno con detalles establecidos en la norma",
+                "El procedimiento indica Seis pasos a seguir cada uno con detalles establecidos en la norma",
+                "El procedimiento indica que solamente es de responsabilidad de la institución ",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "12",
+            "pregunta": "¿Cuál es el objeto del Reglamento de Evaluación y Certificación en Programas del Área de Educación Permanente?",
+            "respuestas": [
+                "Tiene por objeto estructurar el proceso de evaluación y certificación de las y los estudiantes en los procesos formativos y de cualificación en las Sub-áreas, Programas, Niveles de Formación y Modalidades del Área de Educación Permanente del Subsistema de Educación Regular, estableciendo definiciones, características, requisitos y procedimientos correspondientes.",
+                "Tiene por objeto normar el proceso de evaluación y certificación de las y los participantes en los procesos formativos y de cualificación en las Sub-áreas, Programas, Niveles de Formación y Modalidades del Área de Educación Permanente del Subsistema de Educación Alternativa y Especial, estableciendo definiciones, características, requisitos y procedimientos correspondientes.",
+                "Tiene por objeto alternar el proceso de evaluación y certificación de las y los estudiantes en los procesos formativos y de cualificación en las Sub-áreas, Programas, Niveles de Formación y Modalidades del Área de Educación Permanente del Subsistema de Educación Regular y especial, estableciendo definiciones, características, requisitos y procedimientos correspondientes.",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "13",
+            "pregunta": "En el Reglamento de Evaluación y Certificación en Programas del Área de Educación Permanente como característica es que la Evaluación es:",
+            "respuestas": [
+                "Un proceso continuo, integral holístico, practico.",
+                "Valoración Cuantitativa, tomando en cuenta las cuatro dimensiones.",
+                "Es teórico y práctico, integrando las cuatro dimensiones",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "14",
+            "pregunta": "En la educación permanente, la escala de valoración cualitativa “BIEN” en las cuatro dimensiones, tiene una ponderación de puntaje que se encuentra en el rango de: ",
+            "respuestas": [
+                "51 - 70",
+                "52 - 75",
+                "50 - 80",
+                "51 - 75"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "15",
+            "pregunta": "El cumplimiento de lo establecido en el Reglamento de educación permanente es de carácter obligatorio por las instancias involucradas, su inobservancia se constituye en infracción que será sancionada con:",
+            "respuestas": [
+                "Inicio del proceso administrativo conforme al reglamento de faltas y sanciones",
+                "Inicio del proceso civil exigiendo pago de daños y perjuicios",
+                "Inicio de proceso penal por incumplimiento de deberes",
+                "Inicio de proceso judicial seguida por la fiscalía del distrito"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "16",
+            "pregunta": "En la Guía Metodológica del programa de educación permanente productiva comunitaria se tiene fijado el propósito de:",
+            "respuestas": [
+                "Mejorar la infraestructura de los/las productores otorgándoles una educación que responda al contexto, intereses comunitarios y propósitos nacionales.",
+                "Mejorar las capacidades de los/as productores otorgándoles una educación que responda a sus potencialidades, necesidades y expectativas.",
+                "Generar mayores niveles de desarrollo en las comunidades a través de la inversión pública.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "17",
+            "pregunta": "En la Guía Metodológica del programa de educación permanente productiva comunitaria se establece que el Sentido del Programa es:",
+            "respuestas": [
+                "Ampliar la educación con temáticas estratégicas para la producción.",
+                "Vincular la EDUCACIÓN con la PRODUCCIÓN.",
+                "Regular las temáticas educativas para no quitar tiempo a la producción. ",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "18",
+            "pregunta": "El Ciclo de Formación del Programa de Educación Productiva COMUNITARIA está organizado por etapas. ¿De cuantas etapas está conformado dicho ciclo?",
+            "respuestas": [
+                "De cuatro etapas",
+                "De seis etapas",
+                "De cinco etapas",
+                "Tres etapas"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "19",
+            "pregunta": "En el programa de educación permanente productiva comunitaria, se plantea el proceso formativo de los y las participantes en cuatro momentos metodológicos. En tal sentido ¿El momento de la practica consiste en? ",
+            "respuestas": [
+                "Partir de las vivencias, conocimientos y/o experiencias particulares del sujeto y/o comunidad",
+                "Partir de las cosas más sencillas que no impliquen demasiado análisis para su comprensión.",
+                "Partir de video documentales o revistas mediante los cuales el participante pueda generar conocimientos para ser aplicados en su contexto.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "20",
+            "pregunta": "La Resolución Ministerial No. 0277/2016 de fecha 13 de junio de 2016, que trata sobre el Reglamento de Evaluación en la Educación de Personas Jóvenes y Adultas, tiene como uno de los fundamentos jurídicos al parágrafo I del Articulo 80 de la Constitución Política del Estado, el mismo que indica: La educación tendrá como objetivo la formación integral de las personas y el fortalecimiento de la conciencia social crítica en la vida y para a vida",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "21",
+            "pregunta": "El Reglamento de Evaluación en la Educación de Personas Jóvenes y Adultas, está integrada de 6 capítulos, 38 artículos que en anexo, constituye parte integrante de la Resolución Ministerial.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "22",
+            "pregunta": "Los instrumentos operativos de implementación del Reglamento de Evaluación en la Educación de Personas Jóvenes y Adultas, están compuestas por cuatro formularios que son: Formulario 1: Evaluación Diagnóstica; Formulario 2: Registro de actividades - Técnica Tecnológica Productiva; Formulario 3: Registro de actividades - Humanistica; Formulario 4:  La Autoevaluación.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "23",
+            "pregunta": "La inobservancia a las normas establecidas en la Resolución Ministerial No. 0277/2016 de fecha 13 de junio de 2016, que trata sobre el Reglamento de Evaluación en la Educación de Personas Jóvenes y Adultas y su Reglamento, originara responsabilidad por omisión e incumplimiento de deberes, previstos en la Ley No. 004 de 31 de marzo de 2010, Ley de lucha contra la Corrupción, Enriquecimiento Ilícito e investigación de Fortunas “Marcelo Quiroga Santa Cruz” y demás normativa aplicable.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "24",
+            "pregunta": "En cuanto a la “Transitabilidad”; Las y los estudiantes participantes aceptados en el Subsistema de Educación Alternativa y Especial pueden retomar estudios en el Subsistema de Educación Regular, previa valoración y homologación de la malla curricular. ",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "25",
+            "pregunta": " Dentro del Compendio de Normativa de Continuidad de Estudios para los Soldados y Marineros de las FF.AA., se encuentran el Decreto Supremo No. 1875; La Resolución Biministerial No. 0002; El Reglamento al Decreto Supremo No. 1875; y el Reglamento de Certificación R.M. 873/2014.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "26",
+            "pregunta": "¿Cuáles son las modalidades de atención que se tienen previstas en el Programa Educativo de Continuidad de Estudios para los soldados y marineros que se encuentran prestando su servicio militar obligatorio, para el desarrollo de los procesos educativos?",
+            "respuestas": [
+                "Abierta y cerrada",
+                "En línea, semi presencial y presencial",
+                "Interna y Externa",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "27",
+            "pregunta": "En el Programa Educativo de Continuidad de Estudios para los soldados y marineros, se ha establecido que para la Educación Primaria de Personas  Jóvenes y Adultas en lo referente a la formación Socio Humanistica se cumplan los siguientes módulos:",
+            "respuestas": [
+                "1er. Año 12 módulos - 2do. Año 12 módulos; Total módulos 24",
+                "1er. Año 15 módulos - 2do. Año 15 módulos; Total módulos 30",
+                "1er. Año 10 módulos - 2do. Año 10 módulos; Total módulos 20",
+                "1er. Año 5 módulos - 2do. Año 5 módulos; Total módulos 10"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "28",
+            "pregunta": "En el Programa Educativo de Continuidad de Estudios para los soldados y marineros, en el capítulo sobre la Comisión Calificadora de Becas se ha establecido que: El titular del Viceministerio de Educación Superior de Formación Profesional o el delegado oficialmente desinado en representación del Ministerio de Educación Integrará la comisión en calidad de Presidente.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "29",
+            "pregunta": "Los lineamientos curriculares y metodológicos para la educación alternativa en contexto de encierro, tiene como fundamento jurídico legal a las disposiciones contenidas en las siguientes normativas:",
+            "respuestas": [
+                "Código Penal, Constitución Política del Estado y Derechos Humanos",
+                "Código de Procedimiento Penal, Ley 2298, Derechos del Hombre y del Ciudadano y la Ley 070 “Avelino Siñani - Elizardo Pérez”",
+                "Código de Procedimiento Penal, Ley 2298 de Ejecución Penal, C.P.E., Ley No. 070 “Avelino Siñani - Elizardo Pérez”",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "30",
+            "pregunta": "En el marco de los lineamientos de la educación alternativa en contexto de encierro, Los profesionales que se encuentran en privación de libertad, particularmente maestras o maestros, pueden apoyar y fortalecer los procesos educativos restaurativos como facilitadores comunitarios convalidando la redención de sus penas.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "31",
+            "pregunta": "En cuanto a las estrategias metodológicas, para planificar la práctica docente de la educación en contextos de encierro se deben considerar tres aspectos fundamentales, estos son:",
+            "respuestas": [
+                "Características de dimensión social, características del ambiente privativo, características personales del condenado.",
+                "Características psicológicas, características de dimensión social y situación jurídica de la privación de libertad.",
+                "Características de los privados de libertad, características culturales y consideración del tipo de delito que cometió el privado de libertad.",
+                "Ninguna de las anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "32",
+            "pregunta": "En el texto del Currículo de la Educación Primaria de Personas Jóvenes y Adultas, inca que la metodología que utilizan las maestras y maestros, en su mayoría continua siendo tradicional pese a haber recibido formación en el Modelo Educativo Sociocomunitario Productivo, esto es debido a que:",
+            "respuestas": [
+                "Las maestras y maestros encuentran muy complicado y riguroso la metodología que plantea el currículo para la Educación Primaria de Personas Jóvenes y Adultas.",
+                "Los maestros - facilitadoras/es tienen formación inicial en educación regular, lo que repercute en el uso de metodologías para el aprendizaje no pertinentes a personas jóvenes y adultas",
+                "A las maestras y maestros les es más fácil y conveniente seguir la metodología tradicional por ser mayormente aplicado y comprendido por los participantes.",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "33",
+            "pregunta": "Del siguiente listado identifica cual de los enunciados no coincide con los enfoques del Currículo de  la educación primaria de personas jóvenes y adultas.",
+            "respuestas": [
+                "Educación Popular comunitaria",
+                "Educación inclusiva",
+                "Educación técnica, tecnológica y productiva - humanística",
+                "Educación integral"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "34",
+            "pregunta": "En el marco de los enfoques del Currículo de  la educación primaria de personas jóvenes y adultas; ¿Qué significa DESARROLLAR LA CAPACIDAD DE LEER LA REALIDAD?",
+            "respuestas": [
+                "Significa tener la capacidad de realizar un análisis integral del contexto para luego asumir una posición crítica.",
+                "Significa llevar adelante un proceso formativo basado en la “toma de conciencia”, cuya acción “liberadora” se concreta en lograr la transformación de la sociedad. ",
+                "Significa que debemos aprender a desarrollar una lectura veloz de la realidad para decisiones rápidas",
+                "Ninguna de las anteriores "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "35",
+            "pregunta": "En el Currículo de  la educación primaria de personas jóvenes y adultas, se establece que la Evaluación tiene los siguientes momentos:",
+            "respuestas": [
+                "Cualitativa, Procesual y cuantitativa.",
+                "Al empezar la clase, formativa (practica) y acumulativa (sumativa) ",
+                "Inicial (Diagnóstica), de Procesos (Formativa) y de Resultado (Sumativa)",
+                "Ninguno de los anteriores."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "36",
+            "pregunta": "En el Currículo de  la educación primaria de personas jóvenes y adultas, ¿Qué se entiende por heteroevaluación? ",
+            "respuestas": [
+                "Es la valoración sumativa del desarrollo educativo y que lo realiza la maestra/o facilitador a sus estudiantes.",
+                "Es la valoración sin discriminación, y sin distinción del género de las o los participantes.",
+                "Es la valoración cualitativa y cuantitativa de las cuatro dimensiones, que realiza la maestra/o - facilitador/a al participante ",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "37",
+            "pregunta": "De acuerdo al Reglamento de organización y funcionamiento del sistema plurinacional de certificación de competencias, los coordinadores regionales tienen sus funciones de acuerdo al ámbito de su:",
+            "respuestas": [
+                "Distrito",
+                "Jurisdicción",
+                "Municipio",
+                "Competencia"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "38",
+            "pregunta": "De acuerdo al Reglamento de organización y funcionamiento del sistema plurinacional de certificación de competencias, ¿Qué se entiende por certificación?",
+            "respuestas": [
+                "Es el proceso que da por cumplidas las etapas, procedimientos y requisitos del proceso de certificación.",
+                "El certificado cuenta con numeración serial, sello seco y características de seguridad que permiten evidenciar su legalidad y evitar su falsificación",
+                "Es el mecanismo mediante el cual se puede determinar que una cosa es y no otra.",
+                "Ninguna de las anteriores"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "39",
+            "pregunta": "De acuerdo al Reglamento de organización y funcionamiento del sistema plurinacional de certificación de competencias, en la parte de la evaluación indica que; Concluido el proceso de evaluación, la o el supervisor conjuntamente con las/los evaluadores y/o entidad solicitante del proceso, suscribirán nota en el libro de cierre de evaluaciones detallando el número total de postulantes evaluados por ocupación, lugar y fecha.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "40",
+            "pregunta": "En los casos en que la o el beneficiario de un Certificado de Competencias debidamente emitido haya fallecido, la entrega o su tramitación se suspende y se procede al archivo de la carpeta.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "41",
+            "pregunta": "El Decreto Supremo 1302, en la parte considerativa menciona como fundamento jurídico al Código del Niño, Niña y Adolescente",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "42",
+            "pregunta": "El Decreto Supremo 1302, tiene por objeto establecer mecanismos que coadyuven a la erradicación de la violencia, maltrato y abuso que atente contra la vida e integridad física, psicológica y/o sexual de niñas, niños y adolescentes estudiantes, en el ámbito familiar.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "43",
+            "pregunta": "De acuerdo al Decreto Supremo 1302, quienes pueden ser los posibles sujetos de la comisión de los delitos que menciona en la normativa mencionada.",
+            "respuestas": [
+                "Padres de familia, tutores, hermanos, tíos, cuñados, etc.",
+                "Vecinos, el inquilino, la señora o señor de la tienda, el casero ",
+                "Los amigos, conocidos, la red de internet.",
+                "Directores, docentes, administrativos"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "44",
+            "pregunta": "De acuerdo al Decreto Supremo 1302, quienes son los tienen la obligación de denunciar y coadyuvar en la acción penal correspondiente hasta su conclusión, por la comisión de los delitos que refiere la mencionada normativa:",
+            "respuestas": [
+                "Padres de familia, tutores, hermanos, tíos, cuñados, etc.",
+                "Las y los Directores Distritales y técnicos encargados.",
+                "Directores, docentes, administrativos",
+                "Las y los Directores Departamentales de Educación y el Ministerio de Educación"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "45",
+            "pregunta": "De acuerdo al Decreto anteriormente mencionado; Producida la imputación formal por parte del representante del Ministerio Público, la o el Director Departamental de Educación comunicará dicha imputación al Ministerio de Educación para que proceda a la suspensión del goce de haberes del imputado.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "46",
+            "pregunta": "De acuerdo al Decreto Supremo 1302, que acción se constituye como medida de seguridad y protección del menor:",
+            "respuestas": [
+                "Notificar con la imputación formal al denunciado",
+                "Suspensión de las funciones del denunciado",
+                "La suspensión sin goce de haberes del denunciado",
+                "Iniciarle el proceso penal al denunciado."
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "47",
+            "pregunta": "De acuerdo al mismo Decreto, se menciona que si en proceso se demuestra la inocencia del imputado y que a consecuencia de ello la autoridad competente emite una sentencia absolutoria, entonces a partir de la notificación con la sentencia al Ministerio de Educación el denunciado puede retomar cargo en otro establecimiento.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "48",
+            "pregunta": "El Decreto Supremo 1302, es la normativa pionera, por ser la primera y única normativa en el ámbito educativo que procura regular la comisión de delitos y la erradicación de la violencia, maltrato y abuso que atente contra la vida e integridad física, psicológica y/o sexual de niñas, niños y adolescentes estudiantes.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "49",
+            "pregunta": "El Decreto Supremo 1302, en la parte de las disposiciones transitorias menciona que: El Ministerio de Educación aprobará el Plan para enfrentar la violencia, maltrato y abuso en el ámbito educativo, en un plazo no mayor a ciento veinte (120) días calendario a partir de la publicación del Decreto Supremo.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "50",
+            "pregunta": "El decreto Supremo 1320, es una normativa que regula los tipos penales en los que se podría incurrir durante el ejercicio de la docencia.",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "51",
+            "pregunta": "El Decreto Supremo 1320, además modifica dos artículos del Decreto Supremo 1302",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "52",
+            "pregunta": "Según el Decreto Supremo 1320, solo los varones pueden ser sujetos de la comisión de los delitos que se detallan en el Decreto Supremo 1302",
+            "respuestas": [
+                "Verdadero",
+                "Falso",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "53",
+            "pregunta": "Los Decretos Supremo 1302 y Secreto Supremo 1302 refieren.",
+            "respuestas": [
+                "A la erradicación de la violencia",
+                "A la erradicación del maltrato",
+                "A la erradicación de la violencia, maltrato y abuso ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "54",
+            "pregunta": "Establece mecanismos que coadyuven a la erradicación de la violencia, maltrato y abuso que atente.",
+            "respuestas": [
+                "Contra la vida e integridad física, psicológica y/o sexual de los adultos mayores ",
+                "Contra la vida e integridad física, psicológica y sexual de niñas, niños y adolescentes",
+                "Contra la vida Psicológica.",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "55",
+            "pregunta": "Tiene la obligación de denunciar, hacer seguimiento y coadyuvar en la acción penal.",
+            "respuestas": [
+                "Los Directores Departamentales de Educación",
+                "Los Directores de Unidades educativas fiscales",
+                "Los Directores Departamentales de Educación y el Ministerio de educación ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "56",
+            "pregunta": "El director, docente, o administrativo que fuera imputado formalmente. ",
+            "respuestas": [
+                "Por la comisión de delitos de agresión",
+                "Por la comisión de delitos de agresión y violencia sexual ",
+                "Por la comisión de delitos extremadamente muy graves",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "57",
+            "pregunta": "Como medida de seguridad y protección, el Director, docente o administrativo que fuere imputado.",
+            "respuestas": [
+                "Será suspendido de sus funciones sin goce de haberes, mientras dure el proceso ",
+                "No será suspendido de sus funciones ni goce de haberes, mientras dure el proceso",
+                "Sera suspendido por treinta días",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "58",
+            "pregunta": "El Ministerio de Educación desarrollara como mecanismo de prevención e intervención. ",
+            "respuestas": [
+                "Un plan especifico para enfrentar la violencia, maltrato y abuso en ámbito educativo",
+                "Un programa especifico para enfrentar la violencia, maltrato y abuso en ámbito educativo ",
+                "Un plan para enfrentar la violencia en Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "59",
+            "pregunta": "El plan contemplara acciones:",
+            "respuestas": [
+                "Capacitaciones y difusión de estrategias de prevención de toda forma de violencia ",
+                "Desarrollo de lineamientos curriculares con contenido de prevenir la violencia ",
+                "Corresponde a los incisos anteriores ",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "60",
+            "pregunta": "Decreto Supremo 4260 tiene por objeto normar la complementariedad de las modalidades educativas.",
+            "respuestas": [
+                "De atención presencial, a distancia y virtual en los Subsistemas de Educación ",
+                "De atención presencial, a distancia, virtual y semipresencial en los Subsistemas de Educación",
+                "Por atención de semi presencial, en lo sistemas de educación",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "61",
+            "pregunta": "Los maestros normalistas que no siendo oriundos del lugar presten 2 años de servicio.",
+            "respuestas": [
+                "En las zonas declaradas fronterizas, tendrán derecho al computo de 2 años",
+                "En las zonas declaradas fronterizas, tendrán derecho al computo de 4 años",
+                "En las zonas declaradas fronterizas, tendrán derechos al cómputo de 6 años",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "62",
+            "pregunta": "Para recompensar la antigüedad en el servicio, se establece.",
+            "respuestas": [
+                "Las promociones a las categorías descendentes",
+                "Las promociones a las categorías sucesivas",
+                "Las promociones a las categorías ascendentes ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "63",
+            "pregunta": "Promociones de categorías contempladas en el Reglamento del Escalafón.",
+            "respuestas": [
+                "4ta categoría; 3ra categoría; 2da categoría; y 1ra categoría. ",
+                "5ta categoría; 4ta categoría; 3ra categoría; 2da categoría; y 1ra categoría",
+                "3ra categoría; 2da categoría; y 1ra categoría",
+                "No corresponde a ninguno de los incisos "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "64",
+            "pregunta": "La categoría 2da percibe una bonificación.",
+            "respuestas": [
+                "Del 30 %",
+                "Del 45 %",
+                "Del 60 %",
+                "Del 75 %"
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "65",
+            "pregunta": "La categoría 1ra percibe una bonificación.",
+            "respuestas": [
+                "Del 100 %",
+                "Del 75 %",
+                "Del 60 % ",
+                "Del 45 %"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "66",
+            "pregunta": "Para la promoción de los maestros normalistas.",
+            "respuestas": [
+                "Es con examen aprobado",
+                "Es automático",
+                "Sin examen",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "67",
+            "pregunta": "Promociones a categorías superiores de cero y merito es.",
+            "respuestas": [
+                "De inmediato ",
+                "Automático",
+                "Con examen de gracia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "68",
+            "pregunta": "Ley 269 general de derechos y políticas lingüística.",
+            "respuestas": [
+                "De derechos lingüísticos individuales y colectivos",
+                "Y recupera los idiomas oficiales en riesgo de extinción",
+                "A y B",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "69",
+            "pregunta": "Usar su idioma materno en forma oral y escrita corresponde a: ",
+            "respuestas": [
+                "Derechos lingüísticos individuales",
+                "Derechos lingüísticos colectivos",
+                "Derechos Propios",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "70",
+            "pregunta": "Son idiomas oficiales de Estado boliviano.",
+            "respuestas": [
+                "34 idiomas ",
+                "36 idiomas ",
+                "32 idiomas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "71",
+            "pregunta": "Planeado para que un idioma logre, una situación de igualdad legal, social y uso.",
+            "respuestas": [
+                "Normalización lingüística ",
+                "Estandarización lingüística ",
+                "Normalización de Lenguas",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "72",
+            "pregunta": "Estudiante monolingüe castellano hablante de todos los subsistemas y niveles educativos.",
+            "respuestas": [
+                "Tiene la obligación de aprender otro idioma oficial del estado",
+                "Tiene el deber de aprender otro idioma oficial del Estado",
+                "Obligación de Aprender los idiomas de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "73",
+            "pregunta": "Servidores públicos de la educación (directores, directores distritales o departamentales y otros) deberán conocer.",
+            "respuestas": [
+                "El idioma de la unidad territorial donde trabajan",
+                "El idioma de la unidad territorial de origen ",
+                "Idioma de origen patrimonial de Bolivia",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "74",
+            "pregunta": "En servicio de educación publica y privada, la contratación del personal (maestras/os). ",
+            "respuestas": [
+                "Deberían exigir el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad ",
+                "Deberán ponderar el conocimiento de idiomas oficiales de acuerdo al principio de territorialidad",
+                "Por conocimiento de las idiomas ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "75",
+            "pregunta": "Objeto de la presente Ley 223 es garantizar a las personas con discapacidad.",
+            "respuestas": [
+                "El ejercicio pleno de sus derechos y deberes en igualdad de condiciones",
+                "Y equiparación de oportunidades, trato preferente",
+                "A y B",
+                "Ninguna "
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "76",
+            "pregunta": "Se entiende por misoginia ",
+            "respuestas": [
+                "Conducta o comportamiento de odio manifiesto hacia las mujeres o genero femenino ",
+                "Conducta o comportamiento de odio manifiesto hacia los varones o género masculino",
+                "Otra respuesta",
+                "Ninguno. "
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "77",
+            "pregunta": "Medidas publicas traducidas en campañas de concientización, educación y difusión de derechos humanos protectivos. ",
+            "respuestas": [
+                "Acción afirmativa ",
+                "Acción preventiva",
+                "Acción correctiva ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "78",
+            "pregunta": "Definir y adoptar políticas publicas de prevención y lucha contra el racismo y discriminación.",
+            "respuestas": [
+                "Es obligación del Estado ",
+                "Es deber del Estado ",
+                "Otra respuesta",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "79",
+            "pregunta": "El comité nacional contra el racismo y toda forma de discriminación.",
+            "respuestas": [
+                "Encargado de promover, diseñar e implementar políticas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar normativas contra el racismo y discriminación ",
+                "Encargado de promover, diseñar e implementar políticas y normativas contra el racismo y discriminación ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "80",
+            "pregunta": "Comité nacional contra el racismo y toda forma de discriminación conformada por comisiones.",
+            "respuestas": [
+                "Comité de lucha contra el racismo",
+                "Comité de emergencia contra los delitos ",
+                "Comité de lucha contra toda forma de discriminación ",
+                "A y B "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "81",
+            "pregunta": "Medida excepcional y provisional, efectuada en situaciones extremas, urgencia o necesidad en favor…",
+            "respuestas": [
+                "Familia sustituta",
+                "Acogimiento circunstancial",
+                "Guarda y/o cuidado",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "82",
+            "pregunta": "La guarda es el cuidado, protección, atención y asistencia integral.",
+            "respuestas": [
+                "A la niña, niño o adolecente de manera provisional ",
+                "A la niña, niño o adolecente de manera permanente",
+                "Todas la anteriores",
+                "Ninguno "
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "83",
+            "pregunta": "Dirigida al pleno desarrollo de su personalidad, capacidades físicas y mentales.",
+            "respuestas": [
+                "Derecho a aprender ",
+                "Derecho a la educación",
+                "Derecho a la enseñanza",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "84",
+            "pregunta": "Se prohíbe a las autoridades del sistema educativo, la expulsión a las estudiantes embarazadas. ",
+            "respuestas": [
+                "Verdadero ",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "85",
+            "pregunta": "El estado en todos sus niveles, ejecutara el programa de prevención y protección social.",
+            "respuestas": [
+                "Para niñas, niños y adolescentes menores de doce (12) años en actividad laboral ",
+                "Para niñas, niños y adolescentes menores de catorce (14) años en actividad laboral",
+                "Para niñas, niños y adolescentes menores de dieciséis (16) años en actividad laboral ",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "86",
+            "pregunta": "Se considera una forma y/o tipo de violencia entre pares en el sistema educativo.",
+            "respuestas": [
+                "Verdadero ",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "87",
+            "pregunta": "Elaborar y desarrollar mediadas de no violencia para resolver las tenciones y conflictos emergentes.",
+            "respuestas": [
+                "Son medidas preventivas",
+                "Son medidas de protección",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "88",
+            "pregunta": "Denominado Ley 004 Marcelo Quiroga Santa Cruz. ",
+            "respuestas": [
+                "Lucha contra la corrupción y enriquecimiento ilícito ",
+                "Lucha contra la corrupción, enriquecimiento ilícito e investigación de fortunas",
+                "Lucha contra la corrupción e investigación de fortunas",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "89",
+            "pregunta": "Establece mecanismos y procedimientos en el marco de la Constitución Política del Estado.",
+            "respuestas": [
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores priv",
+                "Destinados a prevenir, investigar, procesar y sancionar actos de corrupción cometidas por servidores públicos",
+                "Otra respuesta",
+                "Ninguno"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "90",
+            "pregunta": "Prevenir, investigar, procesar y sancionar actos de corrupción cometidos por servidores públicos exservidores públicos.",
+            "respuestas": [
+                "Objeto de la Ley 044",
+                "Objeto de la Ley 014",
+                "Objeto de la Ley 004",
+                "Objeto de la ley 114"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "91",
+            "pregunta": "Consejo nacional de lucha contra la corrupción, enriquecimiento y legitimación de ganancias ilícitas.",
+            "respuestas": [
+                "Ministerio de transparencia institucional y lucha contra la corrupción",
+                "Ministerio de gobierno ministerio publico",
+                "Contraloría general del Estado y procuraduría general del Estado ",
+                "Todos los anteriores "
+            ],
+            "resCorrecta": "3"
+        },
+        {
+            "id": "92",
+            "pregunta": "Tendrán competencia para conocer y resolver procesos penales. ",
+            "respuestas": [
+                "Tribunales anticorrupción ",
+                "Control social",
+                "Juzgados anticorrupción",
+                "A y C"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "93",
+            "pregunta": "Los tipos penales en los que incurren los funcionarios públicos.",
+            "respuestas": [
+                "Uso indebido de bienes y servicios públicos ",
+                "Enriquecimiento ilícito ",
+                "A y B ",
+                "Ninguna"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "94",
+            "pregunta": "Servidores públicos que en beneficio propio o de terceros otorgue bienes, derechos y acciones.",
+            "respuestas": [
+                "Uso indebido de bienes",
+                "Uso indebido de servicios públicos ",
+                "Uso indebido de bienes y servicios públicos ",
+                "Ninguno"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "95",
+            "pregunta": "El servidor publico que hubiera incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos.",
+            "respuestas": [
+                "Enriquecimiento ilícito ",
+                "Enriquecimiento licito ",
+                "Enriquecimiento legal ",
+                "Ninguno"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "96",
+            "pregunta": "Insertar datos económicos, financieros y patrimoniales.",
+            "respuestas": [
+                "Declaración jurada de bienes y rentas ",
+                "Declaración jurada de bienes",
+                "Declaración jurada de rentas ",
+                "Declaración jurada del patrimonio neto"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "97",
+            "pregunta": "Servidor publico aprovechando del cargo que desempeña se apropiare de dinero, valores y bienes.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "1"
+        },
+        {
+            "id": "98",
+            "pregunta": "Servidor publico hace actos relativos a sus funciones recibiera dadivas o cualquier otra ventaja.",
+            "respuestas": [
+                "Cohecho activo",
+                "Peculado",
+                "Cohecho pasivo propio",
+                "Beneficios en razón de cargo"
+            ],
+            "resCorrecta": "2"
+        },
+        {
+            "id": "99",
+            "pregunta": "Director departamental, distritales y directores de UEs son considerados servidores o funcionarios públicos.",
+            "respuestas": [
+                "Verdadero",
+                "Falso ",
+                "Otra respuesta",
+                "Ninguna"
+            ],
+            "resCorrecta": "0"
+        },
+        {
+            "id": "100",
+            "pregunta": "Garantiza las mujeres, el derecho a no sufrir violencia física, sexual y/o psicológica.",
+            "respuestas": [
+                "Corresponde a la Ley 834",
+                "Corresponde a la Ley 348",
+                "Corresponde a la Ley 349",
+                "Corresponde a la Ley 448"
+            ],
+            "resCorrecta": "1"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+  "examenfum": [
+    {
+      "id": "1",
+      "pregunta": "La institución encargada en la formación inicial de maestras y maestros y la formación complementaria PROFOCOM, de acuerdo a la ley Educativa 070 de manera exclusiva está a cargo de la: ",
+      "respuestas": [
+        "Unidad especializada de Formación continua.",
+        "Escuelas Superiores de Formación de Maestros/as.",
+        "Universidades públicas y privadas",
+        "Universidad pedagógica"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "2",
+      "pregunta": "El Sistema Educativo Plurinacional según la Ley AS-EP, está conformado por tres subsistemas las mismas son:",
+      "respuestas": [
+        "Sub Sistema de Educación Permanente, Sub Sistema de Educación Continua, Sub Sistema de Educación Superior. Sub Sistema de Educación Intracultural, Intercultural y Plurilingue.",
+        "Sub Sistema de Educación Inicial, Primaria y Secundar",
+        "Sub sistema de Educación Superior, Universitaria y Técnica Tecnológica.",
+        "Sub sistema de Educación Regular, Sub Sistema de Educación Alternativa y Especial, Sub Sistema de Educación Superior de Formación Profesional."
+      ],
+      "resCorrecta": "3"
+    },
+    {
+      "id": "3",
+      "pregunta": "“El término aymara suma qamaña se traduce como:",
+      "respuestas": [
+        "Vivir Bien. ",
+        "Vivir en plenitud.",
+        "Incisos a y b ",
+        "Ninguno"
+      ],
+      "resCorrecta": "2"
+    },
+    {
+      "id": "4",
+      "pregunta": "“El Estado asume y promueve como principios ético-morales de la sociedad plural: ama qhilla,ama llulla, ama suwa (no seas flojo, no seas mentiroso ni seas ladrón), suma qamaña (vivir bien),ñandereko (vida armoniosa), tekokavi (vida buena), ivimaraei (tierra sin mal) y qhapajñan (caminoo vida noble).” Este principio se encuentra en:",
+      "respuestas": [
+        "La Ley Aveliño Siñani Elizardo Perez como fin de la educación ",
+        "La Constitución Política del Estado Plurinacional de Bolivia, art. 8 I.",
+        "La Constitución Política del Estado Plurinacional de Bolivia, art. 8 II",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    },
+    {
+      "id": "5",
+      "pregunta": "El autor del libro “El Credo falsificado “es:",
+      "respuestas": [
+        "Geor Christoph Lichtenberg.",
+        "Karlheinz Deschner.",
+        "Inciso a y b",
+        "Ninguno"
+      ],
+      "resCorrecta": "1"
+    }
+  ]
+}
